@@ -109,9 +109,9 @@ CO., 1136 BOPD, 2270 BWPD -BAKKEN</li>
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43deda5d4222fbbca248/1467326622318/" data-record-type="1" data-full-url="/bsp-news/news/bakken-wells-completed-in-june-statoil-reporting-the-best-wells" data-title="Bakken Wells Completed In June - Statoil With The Best Wells"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43deda5d4222fbbca248" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

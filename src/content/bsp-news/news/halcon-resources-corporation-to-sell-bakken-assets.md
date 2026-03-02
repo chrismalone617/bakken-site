@@ -84,7 +84,7 @@ heroImage: "/images/03f23f762a42.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -93,7 +93,7 @@ heroImage: "/images/03f23f762a42.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/03f23f762a42.jpg" data-image="/images/03f23f762a42.jpg" data-image-dimensions="300x225" data-image-focal-point="0.5,0.5" alt="Bakken Deal" data-load="false" elementtiming="system-image-block" src="/images/03f23f762a42.jpg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/03f23f762a42.jpg 100w, /images/03f23f762a42.jpg 300w, /images/03f23f762a42.jpg 500w, /images/03f23f762a42.jpg 750w, /images/03f23f762a42.jpg 1000w, /images/03f23f762a42.jpg 1500w, /images/03f23f762a42.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Deal" src="/images/03f23f762a42.jpg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/03f23f762a42.jpg 100w, /images/03f23f762a42.jpg 300w, /images/03f23f762a42.jpg 500w, /images/03f23f762a42.jpg 750w, /images/03f23f762a42.jpg 1000w, /images/03f23f762a42.jpg 1500w, /images/03f23f762a42.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -163,7 +163,7 @@ heroImage: "/images/03f23f762a42.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The sale of our Williston Basin operated assets transforms Halcón into a single-basin company focused on the Delaware Basin where we have more than 41,000 net acres in Ward and Pecos Counties representing decades of highly economic drilling inventory. The cash proceeds from this transaction and related debt reduction provide us with a strong balance sheet and liquidity to execute our growth plans.<span>”</span>
   </blockquote>
   <figcaption>— Floyd Wilson, Halcón's Chairman, CEO, and President</figcaption>
@@ -217,9 +217,9 @@ heroImage: "/images/03f23f762a42.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/5967a351b11be1732d4c0727/1500079611508/" data-record-type="1" data-full-url="/bsp-news/news/halcon-resources-corporation-to-sell-bakken-assets" data-title="Halcón Resources Corporation to sell Bakken Assets"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="5967a351b11be1732d4c0727" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

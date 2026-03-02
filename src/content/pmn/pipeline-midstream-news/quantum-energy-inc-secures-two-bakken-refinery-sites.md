@@ -72,7 +72,7 @@ description: "At the end of August, 2014, Tempe, AZ-based Quantum Energy, Inc. s
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Each of our proposed Energy Centers will produce 7,000 b/d of diesel fuel to be sold into a local market that has a demand for 75,000 b/d in the western North Dakota and eastern Montana markets. The 14,000 b/d that these two Energy Centers will produce are easily absorbed in the ever expanding Bakken region.<span>”</span>
   </blockquote>
   <figcaption>— Quantum President Stan Wilson</figcaption>
@@ -121,9 +121,9 @@ description: "At the end of August, 2014, Tempe, AZ-based Quantum Energy, Inc. s
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22ccdfa21e80eeb55134/1467905168135/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/quantum-energy-inc-secures-two-bakken-refinery-sites" data-title="Quantum Energy, Inc. Secures Two Bakken Refinery Sites"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22ccdfa21e80eeb55134" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

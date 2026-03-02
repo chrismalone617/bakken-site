@@ -83,7 +83,7 @@ heroImage: "/images/5df1c15166b0.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/5df1c15166b0.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/5df1c15166b0.jpeg" data-image="/images/5df1c15166b0.jpeg" data-image-dimensions="218x300" data-image-focal-point="0.5,0.5" alt="Keystone XL Map" data-load="false" elementtiming="system-image-block" src="/images/5df1c15166b0.jpeg" width="218" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/5df1c15166b0.jpeg 100w, /images/5df1c15166b0.jpeg 300w, /images/5df1c15166b0.jpeg 500w, /images/5df1c15166b0.jpeg 750w, /images/5df1c15166b0.jpeg 1000w, /images/5df1c15166b0.jpeg 1500w, /images/5df1c15166b0.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Keystone XL Map" src="/images/5df1c15166b0.jpeg" width="218" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/5df1c15166b0.jpeg 100w, /images/5df1c15166b0.jpeg 300w, /images/5df1c15166b0.jpeg 500w, /images/5df1c15166b0.jpeg 750w, /images/5df1c15166b0.jpeg 1000w, /images/5df1c15166b0.jpeg 1500w, /images/5df1c15166b0.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/5df1c15166b0.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Keystone XL might not be needed now that other alternatives are being used to move Bakken oil. That's the story from Amy Harder at the National Journal. She interviewed Continental Resources' CEO Harold Hamm and he says "It's not critical any longer."</p><p>Keystone XL has been delayed due to "environmental" concerns since 2008 when TransCanada first applied for the proper permits. It's really anyone's guess as to what will happen now.</p><p>Continental has committed to move 35,000 b/d on Keystone XL if the pipe is built, but Hamm isn't confident the pipeline will ever move Bakken oil. For one, the environmental lobby is against it and other companies are expanding in the region. Hamm's Hiland Partners is one of the companies with a proposed pipeline.</p><p>A few of the major projects of note include:</p><ul dir="ltr"><li><a href="http://bakkenshale.com/pmn/pipeline-midstream-news/koch-open-season-for-bakken-crude-pipeline-starts">Koch Plans Open Season For Bakken Oil Pipeline To Illinois</a></li><li><a href="http://bakkenshale.com/pmn/pipeline-midstream-news/bakken-natural-gas-pipeline-to-minnesota-wbi-energy">WBI Energy Proposes Natural Gas Pipeline To Minnesota</a></li><li><a href="http://bakkenshale.com/bsp-news/news/bakken-ethane-pipeline-gets-state-department-approval">Vantage Pipeline (Ethane) Gets State Department Approval</a></li><li><a href="http://bakkenshale.com/pmn/pipeline-midstream-news/enbridge-completes-bakken-pipeline-expansion-berthold-rail-facility">Enbridge Completes Bakken Expansions</a></li></ul><p>Read the full article at <a target="_blank" href="http://www.nationaljournal.com/daily/is-keystone-still-needed-to-transport-u-s-oil-20130826">nationaljournal.com</a></p>
+  <p>Keystone XL might not be needed now that other alternatives are being used to move Bakken oil. That's the story from Amy Harder at the National Journal. She interviewed Continental Resources' CEO Harold Hamm and he says "It's not critical any longer."</p><p>Keystone XL has been delayed due to "environmental" concerns since 2008 when TransCanada first applied for the proper permits. It's really anyone's guess as to what will happen now.</p><p>Continental has committed to move 35,000 b/d on Keystone XL if the pipe is built, but Hamm isn't confident the pipeline will ever move Bakken oil. For one, the environmental lobby is against it and other companies are expanding in the region. Hamm's Hiland Partners is one of the companies with a proposed pipeline.</p><p>A few of the major projects of note include:</p><ul dir="ltr"><li><a href="/pmn/pipeline-midstream-news/koch-open-season-for-bakken-crude-pipeline-starts">Koch Plans Open Season For Bakken Oil Pipeline To Illinois</a></li><li><a href="/pmn/pipeline-midstream-news/bakken-natural-gas-pipeline-to-minnesota-wbi-energy">WBI Energy Proposes Natural Gas Pipeline To Minnesota</a></li><li><a href="/bsp-news/news/bakken-ethane-pipeline-gets-state-department-approval">Vantage Pipeline (Ethane) Gets State Department Approval</a></li><li><a href="/pmn/pipeline-midstream-news/enbridge-completes-bakken-pipeline-expansion-berthold-rail-facility">Enbridge Completes Bakken Expansions</a></li></ul><p>Read the full article at <a target="_blank" href="http://www.nationaljournal.com/daily/is-keystone-still-needed-to-transport-u-s-oil-20130826">nationaljournal.com</a></p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/5df1c15166b0.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e8da5d4222fbbca2ea/1467384233161/" data-record-type="1" data-full-url="/bsp-news/news/no-need-for-keystone-xl-continentals-ceo-harold-hamm" data-title="No Need For Keystone XL - Continental's CEO Harold Hamm"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e8da5d4222fbbca2ea" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/92dcc1def552.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/92dcc1def552.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/92dcc1def552.jpeg" data-image="/images/92dcc1def552.jpeg" data-image-dimensions="300x287" data-image-focal-point="0.5,0.5" alt="WPX Energy Rockies Asset Map" data-load="false" elementtiming="system-image-block" src="/images/92dcc1def552.jpeg" width="300" height="287" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/92dcc1def552.jpeg 100w, /images/92dcc1def552.jpeg 300w, /images/92dcc1def552.jpeg 500w, /images/92dcc1def552.jpeg 750w, /images/92dcc1def552.jpeg 1000w, /images/92dcc1def552.jpeg 1500w, /images/92dcc1def552.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="WPX Energy Rockies Asset Map" src="/images/92dcc1def552.jpeg" width="300" height="287" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/92dcc1def552.jpeg 100w, /images/92dcc1def552.jpeg 300w, /images/92dcc1def552.jpeg 500w, /images/92dcc1def552.jpeg 750w, /images/92dcc1def552.jpeg 1000w, /images/92dcc1def552.jpeg 1500w, /images/92dcc1def552.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/92dcc1def552.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>WPX Energy announced this week they plan to increase activity in their Williston operations during the second half of the year.</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/shale-oil-the-skys-the-limit">Shale Oil: Sky's the Limit</a></p><p>WPX currently has an inventory of 14 Williston wells awaiting completion and the company will resume completions in August, starting with a four-well pad.</p><p>Since the fourth quarter of 2014, many companies pulled back oil rigs as crude prices declined. WPX will be the first to approve more rigs in the play since prices have stabilized. The company credits significant process improvements, structural changes to lower costs and successful discussions with key vendors as key to this decision to move forward.</p>
+  <p>WPX Energy announced this week they plan to increase activity in their Williston operations during the second half of the year.</p><p>Related: <a href="/bsp-news/news/shale-oil-the-skys-the-limit">Shale Oil: Sky's the Limit</a></p><p>WPX currently has an inventory of 14 Williston wells awaiting completion and the company will resume completions in August, starting with a four-well pad.</p><p>Since the fourth quarter of 2014, many companies pulled back oil rigs as crude prices declined. WPX will be the first to approve more rigs in the play since prices have stabilized. The company credits significant process improvements, structural changes to lower costs and successful discussions with key vendors as key to this decision to move forward.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/92dcc1def552.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The combination of cost reductions and higher EURs gives us the opportunity to generate returns in excess of 30 percent in today’s commodity price environment,” says Rick Muncrief, president and chief executive officer.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/92dcc1def552.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e2da5d4222fbbca283/1467381107954/" data-record-type="1" data-full-url="/bsp-news/news/wpx-plans-to-increase-bakken-activity" data-title="WPX Plans to Increase Bakken Activity"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e2da5d4222fbbca283" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

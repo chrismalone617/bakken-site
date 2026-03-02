@@ -83,7 +83,7 @@ heroImage: "/images/ec82d009c0fd.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/ec82d009c0fd.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ec82d009c0fd.jpg" data-image="/images/ec82d009c0fd.jpg" data-image-dimensions="300x200" data-image-focal-point="0.5,0.5" alt="Abraxas Buys Bakken Acreage" data-load="false" elementtiming="system-image-block" src="/images/ec82d009c0fd.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ec82d009c0fd.jpg 100w, /images/ec82d009c0fd.jpg 300w, /images/ec82d009c0fd.jpg 500w, /images/ec82d009c0fd.jpg 750w, /images/ec82d009c0fd.jpg 1000w, /images/ec82d009c0fd.jpg 1500w, /images/ec82d009c0fd.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Abraxas Buys Bakken Acreage" src="/images/ec82d009c0fd.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ec82d009c0fd.jpg 100w, /images/ec82d009c0fd.jpg 300w, /images/ec82d009c0fd.jpg 500w, /images/ec82d009c0fd.jpg 750w, /images/ec82d009c0fd.jpg 1000w, /images/ec82d009c0fd.jpg 1500w, /images/ec82d009c0fd.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/ec82d009c0fd.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The <a href="http://bakkenshale.com/drilling/">Bakken-Three Forks rig count</a> dropped to <strong>64</strong>&nbsp;rigs running across our coverage area by end of the week on Friday.</p><p>In recent Bakken news, North Dakota officials are hopeful that they have some flexibility for complying with the EPA’s new emissions-reducing Clean Power Plan.</p><p>Read more:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/north-dakota-hopes-for-flexibility-over-emissions?rq=North%20Dakota%3A%20Flexibility%20for%20Emissions%20Cuts%3F">North Dakota: Flexibility for Emissions Cuts?</a></p><p><em>The U.S. rig count fell by 14 this week, ending with <strong>795</strong></em><em>&nbsp;rigs running by midday Friday. A total of 189 rigs were targeting natural gas (six less than the previous week) and 605 were targeting oil in the U.S. (9 less than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><strong><em> 64</em></strong>are in ND alone.</p><h2><strong>Bakken Oil &amp; Gas Rigs</strong></h2><p>The Bakken oil rigs were at 64 this week with Bloomberg reporting WTI oil prices trading at $50.18/bbl on Friday afternoon.&nbsp;WTI-Brent increased $5.26landing to $53.51. The Bakken has zero natural active gas rig in the area this week with futures decreasing slightly to $2.49/mmbtu by midday.</p><p>McKenzie County continues to lead development with 25 rigs running this week, far outpacing other counties. View the full list below under the <em>Bakken Drilling by County</em> section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>62 rigs are drilling horizontal wells</li><li>2 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><p><a href="http://jobs.bakkenshale.com">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</a></p><h2><strong>Bakken Drilling by County</strong></h2>
+  <p>The <a href="/drilling/">Bakken-Three Forks rig count</a> dropped to <strong>64</strong>&nbsp;rigs running across our coverage area by end of the week on Friday.</p><p>In recent Bakken news, North Dakota officials are hopeful that they have some flexibility for complying with the EPA’s new emissions-reducing Clean Power Plan.</p><p>Read more:&nbsp;<a href="/bsp-news/news/north-dakota-hopes-for-flexibility-over-emissions?rq=North%20Dakota%3A%20Flexibility%20for%20Emissions%20Cuts%3F">North Dakota: Flexibility for Emissions Cuts?</a></p><p><em>The U.S. rig count fell by 14 this week, ending with <strong>795</strong></em><em>&nbsp;rigs running by midday Friday. A total of 189 rigs were targeting natural gas (six less than the previous week) and 605 were targeting oil in the U.S. (9 less than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><strong><em> 64</em></strong>are in ND alone.</p><h2><strong>Bakken Oil &amp; Gas Rigs</strong></h2><p>The Bakken oil rigs were at 64 this week with Bloomberg reporting WTI oil prices trading at $50.18/bbl on Friday afternoon.&nbsp;WTI-Brent increased $5.26landing to $53.51. The Bakken has zero natural active gas rig in the area this week with futures decreasing slightly to $2.49/mmbtu by midday.</p><p>McKenzie County continues to lead development with 25 rigs running this week, far outpacing other counties. View the full list below under the <em>Bakken Drilling by County</em> section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>62 rigs are drilling horizontal wells</li><li>2 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><p><a href="http://jobs.bakkenshale.com">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</a></p><h2><strong>Bakken Drilling by County</strong></h2>
 </div>
 
 
@@ -201,7 +201,7 @@ heroImage: "/images/ec82d009c0fd.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -210,7 +210,7 @@ heroImage: "/images/ec82d009c0fd.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d94d256115dd.png" data-image="/images/d94d256115dd.png" data-image-dimensions="1181x840" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/d94d256115dd.png" width="1181" height="840" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d94d256115dd.png 100w, /images/d94d256115dd.png 300w, /images/d94d256115dd.png 500w, /images/d94d256115dd.png 750w, /images/d94d256115dd.png 1000w, /images/d94d256115dd.png 1500w, /images/d94d256115dd.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/d94d256115dd.png" width="1181" height="840" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d94d256115dd.png 100w, /images/d94d256115dd.png 300w, /images/d94d256115dd.png 500w, /images/d94d256115dd.png 750w, /images/d94d256115dd.png 1000w, /images/d94d256115dd.png 1500w, /images/d94d256115dd.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -272,9 +272,9 @@ heroImage: "/images/ec82d009c0fd.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4423da5d4222fbbca670/1467210876273/" data-record-type="1" data-full-url="/bsp-news/news/bakken-rig-count-is-at-64" data-title="Bakken Rig Count is at 64"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4423da5d4222fbbca670" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

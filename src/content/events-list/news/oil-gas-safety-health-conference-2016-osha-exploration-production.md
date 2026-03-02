@@ -89,11 +89,11 @@ description: "Oil &amp;amp; Gas Safety &amp;amp; Health Conference 2016 OSHA Exp
         
 
         <div>
-  <span data-item-id="57609230e707eb18229f3cc1" data-like-count="0">
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>
-<span data-system-data-id="1465946722109-N7PRLATO3Z3C95HNY6RA" data-asset-url="/images/3f4d96cf4cb6.png" data-record-type="12" data-full-url="/events-list/news/oil-gas-safety-health-conference-2016-osha-exploration-production" data-title="Oil &amp; Gas Safety &amp; Health Conference 2016 OSHA Exploration &amp; Production"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span></div>
+</div>
       </div>
       
 

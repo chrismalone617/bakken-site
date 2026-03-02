@@ -83,7 +83,7 @@ heroImage: "/images/52dac3e9fbd8.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/52dac3e9fbd8.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/52dac3e9fbd8.jpg" data-image="/images/52dac3e9fbd8.jpg" data-image-dimensions="300x200" data-image-focal-point="0.5,0.5" alt="Crude Plunges to Six Year Low" data-load="false" elementtiming="system-image-block" src="/images/52dac3e9fbd8.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/52dac3e9fbd8.jpg 100w, /images/52dac3e9fbd8.jpg 300w, /images/52dac3e9fbd8.jpg 500w, /images/52dac3e9fbd8.jpg 750w, /images/52dac3e9fbd8.jpg 1000w, /images/52dac3e9fbd8.jpg 1500w, /images/52dac3e9fbd8.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Crude Plunges to Six Year Low" src="/images/52dac3e9fbd8.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/52dac3e9fbd8.jpg 100w, /images/52dac3e9fbd8.jpg 300w, /images/52dac3e9fbd8.jpg 500w, /images/52dac3e9fbd8.jpg 750w, /images/52dac3e9fbd8.jpg 1000w, /images/52dac3e9fbd8.jpg 1500w, /images/52dac3e9fbd8.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/52dac3e9fbd8.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>North Dakota saw increased production in July after slipping for two months.</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/bakken-production-expected-to-decline?rq=Bakken%20Production%20Expected%20to%20Decline">Bakken <strong>Production</strong> Expected to Decline</a></p><p>In April, the EIA predicted that production had peaked across the U.S. at 9.7 million barrels per day, the highest level since 1971. This proved to be true as production fell in May by 50,000 barrels per day and in June, Bakken shale month-over-month crude oil production dipped 1.3%.</p><p>This week,&nbsp;<a target="_blank" href="http://www.prnewswire.com/news-releases/shale-oil-production-in-bakken-eagle-ford-grew-marginally-in-july-platts-bentek-energy-300131971.html">Bentek Energy</a>&nbsp;reported a slight increase in oil production for North Dakota in July, saying that the Bakken formation follows closely behind the Eagle Ford Basin in terms of efficiency gains and internal rates of return. Drill times in the Bakken dropped from about 15 days per well in late 2014 to about 13 days per well during the second quarter of this year.</p>
+  <p>North Dakota saw increased production in July after slipping for two months.</p><p>Related: <a href="/bsp-news/news/bakken-production-expected-to-decline?rq=Bakken%20Production%20Expected%20to%20Decline">Bakken <strong>Production</strong> Expected to Decline</a></p><p>In April, the EIA predicted that production had peaked across the U.S. at 9.7 million barrels per day, the highest level since 1971. This proved to be true as production fell in May by 50,000 barrels per day and in June, Bakken shale month-over-month crude oil production dipped 1.3%.</p><p>This week,&nbsp;<a target="_blank" href="http://www.prnewswire.com/news-releases/shale-oil-production-in-bakken-eagle-ford-grew-marginally-in-july-platts-bentek-energy-300131971.html">Bentek Energy</a>&nbsp;reported a slight increase in oil production for North Dakota in July, saying that the Bakken formation follows closely behind the Eagle Ford Basin in terms of efficiency gains and internal rates of return. Drill times in the Bakken dropped from about 15 days per well in late 2014 to about 13 days per well during the second quarter of this year.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/52dac3e9fbd8.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Bentek analyst, Sami Yahya, explained “Substantial cost savings protocols alongside reduced drill times have kept internal rates of return in the Bakken shale formation among the best in the country. Current rates of return in the Bakken shale formation are around 15%, which is comparable to the 18% found in the Eagle Ford Basin.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/52dac3e9fbd8.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f6da5d4222fbbca3b2/1467380995093/" data-record-type="1" data-full-url="/bsp-news/news/bakken-oil-production-up-slightly" data-title="Bakken Oil Production Up Slightly"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f6da5d4222fbbca3b2" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

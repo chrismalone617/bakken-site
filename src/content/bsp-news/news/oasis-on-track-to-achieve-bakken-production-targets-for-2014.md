@@ -83,7 +83,7 @@ heroImage: "/images/87e0b57eae35.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/87e0b57eae35.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/87e0b57eae35.jpeg" data-image="/images/87e0b57eae35.jpeg" data-image-dimensions="287x300" data-image-focal-point="0.5,0.5" alt="Oasis Production Chart" data-load="false" elementtiming="system-image-block" src="/images/87e0b57eae35.jpeg" width="287" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/87e0b57eae35.jpeg 100w, /images/87e0b57eae35.jpeg 300w, /images/87e0b57eae35.jpeg 500w, /images/87e0b57eae35.jpeg 750w, /images/87e0b57eae35.jpeg 1000w, /images/87e0b57eae35.jpeg 1500w, /images/87e0b57eae35.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Oasis Production Chart" src="/images/87e0b57eae35.jpeg" width="287" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/87e0b57eae35.jpeg 100w, /images/87e0b57eae35.jpeg 300w, /images/87e0b57eae35.jpeg 500w, /images/87e0b57eae35.jpeg 750w, /images/87e0b57eae35.jpeg 1000w, /images/87e0b57eae35.jpeg 1500w, /images/87e0b57eae35.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/87e0b57eae35.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Oasis CEO Thomas B. Nusz, said, “based on encouraging results to date from slickwater tests and other completion technology, we intend to complete over 60% of our wells in the second half of 2014 with alternative completion techniques. We are focused on designs that may increase production or reduce costs, ultimately driving higher per well and per drilling spacing unit returns.<span>”</span>
   </blockquote>
   
@@ -173,7 +173,7 @@ heroImage: "/images/87e0b57eae35.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>During the first quarter, Oasis completed the sale of certain non-operated properties in its Sanish project area and other adjacent non-operated properties on March 5, 2014 for cash proceeds of $321.9 million.&nbsp;Properties ear-marked in the sale were 8,354 net acres and 28.2 net producing Bakken and Three Forks wells.&nbsp; Production from the properties was 2,691 boe/d during Q4 2013.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/oasis-sells-bakken-acreage-strong-production-growth-in-2014?rq=Oasis%20Sells%20Bakken%20Acreage%20-%20Strong%20Production%20Growth%20in%202014">Oasis Sells Bakken Acreage - Strong Production Growth in 2014</a></p><p>Also during the first quarter, the company picked up an additional rig, and anticipates a sixteenth rig after the spring. The company says a majority of its rigs will be operating on pads through the spring.</p>
+  <p>During the first quarter, Oasis completed the sale of certain non-operated properties in its Sanish project area and other adjacent non-operated properties on March 5, 2014 for cash proceeds of $321.9 million.&nbsp;Properties ear-marked in the sale were 8,354 net acres and 28.2 net producing Bakken and Three Forks wells.&nbsp; Production from the properties was 2,691 boe/d during Q4 2013.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/oasis-sells-bakken-acreage-strong-production-growth-in-2014?rq=Oasis%20Sells%20Bakken%20Acreage%20-%20Strong%20Production%20Growth%20in%202014">Oasis Sells Bakken Acreage - Strong Production Growth in 2014</a></p><p>Also during the first quarter, the company picked up an additional rig, and anticipates a sixteenth rig after the spring. The company says a majority of its rigs will be operating on pads through the spring.</p>
 </div>
 
 
@@ -214,9 +214,9 @@ heroImage: "/images/87e0b57eae35.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4404da5d4222fbbca465/1467383064147/" data-record-type="1" data-full-url="/bsp-news/news/oasis-on-track-to-achieve-bakken-production-targets-for-2014" data-title="Oasis on Track to Achieve Bakken Production Targets for 2014"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4404da5d4222fbbca465" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

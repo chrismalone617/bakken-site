@@ -83,7 +83,7 @@ heroImage: "/images/6ba4094ceab6.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/6ba4094ceab6.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/6ba4094ceab6.jpeg" data-image="/images/6ba4094ceab6.jpeg" data-image-dimensions="236x300" data-image-focal-point="0.5,0.5" alt="Continental Resources Three Forks Thickness Map" data-load="false" elementtiming="system-image-block" src="/images/6ba4094ceab6.jpeg" width="236" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/6ba4094ceab6.jpeg 100w, /images/6ba4094ceab6.jpeg 300w, /images/6ba4094ceab6.jpeg 500w, /images/6ba4094ceab6.jpeg 750w, /images/6ba4094ceab6.jpeg 1000w, /images/6ba4094ceab6.jpeg 1500w, /images/6ba4094ceab6.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Continental Resources Three Forks Thickness Map" src="/images/6ba4094ceab6.jpeg" width="236" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/6ba4094ceab6.jpeg 100w, /images/6ba4094ceab6.jpeg 300w, /images/6ba4094ceab6.jpeg 500w, /images/6ba4094ceab6.jpeg 750w, /images/6ba4094ceab6.jpeg 1000w, /images/6ba4094ceab6.jpeg 1500w, /images/6ba4094ceab6.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/6ba4094ceab6.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We are extremely pleased with our progress to date on productivity and interference testing in the lower Three Forks benches across a large area. Our industry-leading approach to scientifically understanding the field will allow us to optimize the development of America’s greatest oil play - the Bakken.<span>”</span>
   </blockquote>
   <figcaption>— Harold G. Hamm, CEO,</figcaption>
@@ -220,7 +220,7 @@ heroImage: "/images/6ba4094ceab6.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Our initial target was to lower our operated well cost by $1 million per well by year-end 2013 to $8.2 million and now we think we can get to $8.0 million or lower per operated well.<span>”</span>
   </blockquote>
   <figcaption>— Richard E. Muncrief, VP</figcaption>
@@ -269,9 +269,9 @@ heroImage: "/images/6ba4094ceab6.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e5da5d4222fbbca2b0/1467384336804/" data-record-type="1" data-full-url="/bsp-news/news/continental-resources-three-forks-bench-well-results-bakken-production-up" data-title="Continental Resources' Three Forks Bench Well Results - Bakken Production Up"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e5da5d4222fbbca2b0" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

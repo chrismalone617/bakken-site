@@ -83,7 +83,7 @@ heroImage: "/images/d359cc917043.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d359cc917043.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d359cc917043.jpeg" data-image="/images/d359cc917043.jpeg" data-image-dimensions="300x233" data-image-focal-point="0.5,0.5" alt="Marathon Oil Bakken Map" data-load="false" elementtiming="system-image-block" src="/images/d359cc917043.jpeg" width="300" height="233" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d359cc917043.jpeg 100w, /images/d359cc917043.jpeg 300w, /images/d359cc917043.jpeg 500w, /images/d359cc917043.jpeg 750w, /images/d359cc917043.jpeg 1000w, /images/d359cc917043.jpeg 1500w, /images/d359cc917043.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Marathon Oil Bakken Map" src="/images/d359cc917043.jpeg" width="300" height="233" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d359cc917043.jpeg 100w, /images/d359cc917043.jpeg 300w, /images/d359cc917043.jpeg 500w, /images/d359cc917043.jpeg 750w, /images/d359cc917043.jpeg 1000w, /images/d359cc917043.jpeg 1500w, /images/d359cc917043.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/d359cc917043.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Marathon Oil achieved strong financial results in the third quarter, delivering $1.44 billion in operating cash flows before working capital changes, and adjusted net income of $617 million, 29 percent higher than the second quarter,” said Lee M. Tillman, CEO. “All three business segments performed well, capturing the higher liquid hydrocarbon realizations both domestically and internationally, compared to the second quarter.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/d359cc917043.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43efda5d4222fbbca349/1467383893365/" data-record-type="1" data-full-url="/bsp-news/news/marathon-oils-bakken-production-holds-flat-in-q3-drilling-faster" data-title="Marathon Oil's Bakken Production Holds Flat in Q3 - Drilling Faster"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43efda5d4222fbbca349" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

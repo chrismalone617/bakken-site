@@ -83,7 +83,7 @@ heroImage: "/images/8a9951b94f11.jpg"
         
           
             
-          <div data-animation-role="image">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/8a9951b94f11.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/8a9951b94f11.jpg" data-image="/images/8a9951b94f11.jpg" data-image-dimensions="300x200" data-image-focal-point="0.5,0.5" alt="Bakken Job Fair - Minot" data-load="false" elementtiming="system-image-block" src="/images/8a9951b94f11.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8a9951b94f11.jpg 100w, /images/8a9951b94f11.jpg 300w, /images/8a9951b94f11.jpg 500w, /images/8a9951b94f11.jpg 750w, /images/8a9951b94f11.jpg 1000w, /images/8a9951b94f11.jpg 1500w, /images/8a9951b94f11.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Job Fair - Minot" src="/images/8a9951b94f11.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8a9951b94f11.jpg 100w, /images/8a9951b94f11.jpg 300w, /images/8a9951b94f11.jpg 500w, /images/8a9951b94f11.jpg 750w, /images/8a9951b94f11.jpg 1000w, /images/8a9951b94f11.jpg 1500w, /images/8a9951b94f11.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -162,9 +162,9 @@ heroImage: "/images/8a9951b94f11.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f2a8a1e8488ddde011e67/573f2a8c1e8488ddde011e85/1712179303538/" data-record-type="1" data-full-url="/bsp-jobs/jobs-news/bakken-job-fair-planned-in-minot-on-june-26-2013" data-title="Bakken Job Fair Planned In Minot on June 26, 2013"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f2a8c1e8488ddde011e85" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

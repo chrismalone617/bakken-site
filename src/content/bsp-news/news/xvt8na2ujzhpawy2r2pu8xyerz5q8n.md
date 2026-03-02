@@ -83,7 +83,7 @@ heroImage: "/images/6648a134e7ee.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/6648a134e7ee.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/6648a134e7ee.jpeg" data-image="/images/6648a134e7ee.jpeg" data-image-dimensions="300x237" data-image-focal-point="0.5,0.5" alt="33% Drop in Taxable Sales for ND" data-load="false" elementtiming="system-image-block" src="/images/6648a134e7ee.jpeg" width="300" height="237" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/6648a134e7ee.jpeg 100w, /images/6648a134e7ee.jpeg 300w, /images/6648a134e7ee.jpeg 500w, /images/6648a134e7ee.jpeg 750w, /images/6648a134e7ee.jpeg 1000w, /images/6648a134e7ee.jpeg 1500w, /images/6648a134e7ee.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="33% Drop in Taxable Sales for ND" src="/images/6648a134e7ee.jpeg" width="300" height="237" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/6648a134e7ee.jpeg 100w, /images/6648a134e7ee.jpeg 300w, /images/6648a134e7ee.jpeg 500w, /images/6648a134e7ee.jpeg 750w, /images/6648a134e7ee.jpeg 1000w, /images/6648a134e7ee.jpeg 1500w, /images/6648a134e7ee.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/6648a134e7ee.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>North Dakota's Tax Commissioner announces a 33 percent drop in taxable sales for the first quarter of 2016.</p><p><a href="http://bakkenshale.com/bsp-news/news/north-dakota-revenues-drop-41-7-million?rq=revenues">Related: North Dakota Revenue Drops</a></p><p>Ryan Rauschenberger, ND Tax Commissioner released the 2016 Q1 report that included <span>data for the largest 50 cities in North Dakota. The report revealed that there was a 33% drop in taxable d blamed the prolonged downturn on drop in sales and purchases state-wide.&nbsp;</span></p>
+  <p>North Dakota's Tax Commissioner announces a 33 percent drop in taxable sales for the first quarter of 2016.</p><p><a href="/bsp-news/news/north-dakota-revenues-drop-41-7-million?rq=revenues">Related: North Dakota Revenue Drops</a></p><p>Ryan Rauschenberger, ND Tax Commissioner released the 2016 Q1 report that included <span>data for the largest 50 cities in North Dakota. The report revealed that there was a 33% drop in taxable d blamed the prolonged downturn on drop in sales and purchases state-wide.&nbsp;</span></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/6648a134e7ee.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The first quarter decrease is a direct result of the continued downturn in the oil industry and low ag commodity prices,” stated Rauschenberger.  “Fundamentally North Dakota is just returning to a pre-oil boom economy. First quarter 2016 is nearly 50 percent greater than the same timeframe in 2010.<span>”</span>
   </blockquote>
   <figcaption>— https://www.nd.gov/tax/news/314/</figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/6648a134e7ee.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/577c2365d482e935c6b2050f/1467902104137/" data-record-type="1" data-full-url="/bsp-news/news/xvt8na2ujzhpawy2r2pu8xyerz5q8n" data-title="North Dakota's Taxable Sales Down 33%-Is it Time to Worry?"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="577c2365d482e935c6b2050f" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

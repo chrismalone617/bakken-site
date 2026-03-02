@@ -89,11 +89,11 @@ description: "Registration is first-come, first-served with a maximum of 144 par
         
 
         <div>
-  <span data-item-id="573a5d5f4d088e2c9c22bb0e" data-like-count="0">
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>
-<span data-system-data-id="1465946875736-GE2Q2IOS2N0TU422C2WQ" data-asset-url="/images/79fead8cc6ad.png" data-record-type="12" data-full-url="/events-list/news/ndpc-nd-oil-pac-minot-golf-tournament" data-title="NDPC ND Oil PAC Minot Golf Tournament"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span></div>
+</div>
       </div>
       
 

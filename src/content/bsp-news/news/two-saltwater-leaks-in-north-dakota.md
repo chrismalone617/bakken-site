@@ -83,7 +83,7 @@ heroImage: "/images/cd7ba5e9c84e.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/cd7ba5e9c84e.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/cd7ba5e9c84e.jpg" data-image="/images/cd7ba5e9c84e.jpg" data-image-dimensions="300x184" data-image-focal-point="0.5,0.5" alt="Spill Threatens Wetland" data-load="false" elementtiming="system-image-block" src="/images/cd7ba5e9c84e.jpg" width="300" height="184" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/cd7ba5e9c84e.jpg 100w, /images/cd7ba5e9c84e.jpg 300w, /images/cd7ba5e9c84e.jpg 500w, /images/cd7ba5e9c84e.jpg 750w, /images/cd7ba5e9c84e.jpg 1000w, /images/cd7ba5e9c84e.jpg 1500w, /images/cd7ba5e9c84e.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Spill Threatens Wetland" src="/images/cd7ba5e9c84e.jpg" width="300" height="184" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/cd7ba5e9c84e.jpg 100w, /images/cd7ba5e9c84e.jpg 300w, /images/cd7ba5e9c84e.jpg 500w, /images/cd7ba5e9c84e.jpg 750w, /images/cd7ba5e9c84e.jpg 1000w, /images/cd7ba5e9c84e.jpg 1500w, /images/cd7ba5e9c84e.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/cd7ba5e9c84e.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Karl Rockeman, head of the NDDoH division of water quality said “The company believes someone damaged the pump jack at the well head. They’re alleging that it was intentional.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/cd7ba5e9c84e.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4402da5d4222fbbca446/1467381133620/" data-record-type="1" data-full-url="/bsp-news/news/two-saltwater-leaks-in-north-dakota" data-title="Two Saltwater Leaks in North Dakota"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4402da5d4222fbbca446" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

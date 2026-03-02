@@ -83,7 +83,7 @@ heroImage: "/images/894f8b561d2d.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/894f8b561d2d.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/894f8b561d2d.jpeg" data-image="/images/894f8b561d2d.jpeg" data-image-dimensions="300x238" data-image-focal-point="0.5,0.5" alt="Bakken Pipeline Map" data-load="false" elementtiming="system-image-block" src="/images/894f8b561d2d.jpeg" width="300" height="238" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/894f8b561d2d.jpeg 100w, /images/894f8b561d2d.jpeg 300w, /images/894f8b561d2d.jpeg 500w, /images/894f8b561d2d.jpeg 750w, /images/894f8b561d2d.jpeg 1000w, /images/894f8b561d2d.jpeg 1500w, /images/894f8b561d2d.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Pipeline Map" src="/images/894f8b561d2d.jpeg" width="300" height="238" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/894f8b561d2d.jpeg 100w, /images/894f8b561d2d.jpeg 300w, /images/894f8b561d2d.jpeg 500w, /images/894f8b561d2d.jpeg 750w, /images/894f8b561d2d.jpeg 1000w, /images/894f8b561d2d.jpeg 1500w, /images/894f8b561d2d.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Our friends at RBN Energy published an article this morning that notes pipeline 
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c1dfa21e80eeb55095/1467907151355/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/bakken-oil-moving-back-to-pipelines-as-differentials-narrow" data-title="Bakken Oil Moving Back To Pipelines As Differentials Narrow"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c1dfa21e80eeb55095" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

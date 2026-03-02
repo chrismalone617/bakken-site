@@ -83,7 +83,7 @@ heroImage: "/images/1eb50bcc629b.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/1eb50bcc629b.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/1eb50bcc629b.jpg" data-image="/images/1eb50bcc629b.jpg" data-image-dimensions="300x259" data-image-focal-point="0.5,0.5" alt="Hamm Claims Russia Financed Anti-Frack Movement" data-load="false" elementtiming="system-image-block" src="/images/1eb50bcc629b.jpg" width="300" height="259" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/1eb50bcc629b.jpg 100w, /images/1eb50bcc629b.jpg 300w, /images/1eb50bcc629b.jpg 500w, /images/1eb50bcc629b.jpg 750w, /images/1eb50bcc629b.jpg 1000w, /images/1eb50bcc629b.jpg 1500w, /images/1eb50bcc629b.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Hamm Claims Russia Financed Anti-Frack Movement" src="/images/1eb50bcc629b.jpg" width="300" height="259" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/1eb50bcc629b.jpg 100w, /images/1eb50bcc629b.jpg 300w, /images/1eb50bcc629b.jpg 500w, /images/1eb50bcc629b.jpg 750w, /images/1eb50bcc629b.jpg 1000w, /images/1eb50bcc629b.jpg 1500w, /images/1eb50bcc629b.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/1eb50bcc629b.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Continental Resources’ Harold Hamm accused Russia of trying to destroy the U.S. shale oil industry.</p><p>During an interview at a recent Forbes event, Hamm claims that Russians have worked with environmental groups and financed the anti-fracking movement in hopes of producing panic in the United States.</p><p>Hamm of course has a vested interest in the anti-fracking movement. He was a pioneer in the use of horizontal drilling and hydraulic fracturing to extract soil from shale. and has been instrumental in the development of the Bakken shale formation which has sparked a hge oil boom. It is expected that the Bakken will produce more than 1.3 million barrels of oil this year, according to the U.S. Energy Information Agency.</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/u-s-leads-world-wide-oil-production?rq=U.S.%20Leads%20World-Wide%20Oil%20Production">U.S. Leads World-Wide Oil Production</a></p><p>This isn’t the first time such accusations against Russia have been made. In June of 2014, NATO chief, Anders Fogh Rasmussen, said Russia was mounting a sophisticated campaign to undermine the development of alternative energy sources such as shale oil. According to Rasmussen, Russia wants to secure Europe's dependence on energy imports from Moscow.</p>
+  <p>Continental Resources’ Harold Hamm accused Russia of trying to destroy the U.S. shale oil industry.</p><p>During an interview at a recent Forbes event, Hamm claims that Russians have worked with environmental groups and financed the anti-fracking movement in hopes of producing panic in the United States.</p><p>Hamm of course has a vested interest in the anti-fracking movement. He was a pioneer in the use of horizontal drilling and hydraulic fracturing to extract soil from shale. and has been instrumental in the development of the Bakken shale formation which has sparked a hge oil boom. It is expected that the Bakken will produce more than 1.3 million barrels of oil this year, according to the U.S. Energy Information Agency.</p><p>Related: <a href="/bsp-news/news/u-s-leads-world-wide-oil-production?rq=U.S.%20Leads%20World-Wide%20Oil%20Production">U.S. Leads World-Wide Oil Production</a></p><p>This isn’t the first time such accusations against Russia have been made. In June of 2014, NATO chief, Anders Fogh Rasmussen, said Russia was mounting a sophisticated campaign to undermine the development of alternative energy sources such as shale oil. According to Rasmussen, Russia wants to secure Europe's dependence on energy imports from Moscow.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/1eb50bcc629b.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Rasmussen stated, “I have met allies who can report that Russia, as part of their sophisticated information and disinformation operations, engaged actively with so-called non-governmental organisations - environmental organisations working against shale gas - to maintain European dependence on imported Russian gas. That is my interpretation.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/1eb50bcc629b.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4419da5d4222fbbca588/1467381993765/" data-record-type="1" data-full-url="/bsp-news/news/anti-fracking-movement-blamed-on-russia" data-title="Anti-Fracking Movement Blamed on Russia"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4419da5d4222fbbca588" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

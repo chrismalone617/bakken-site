@@ -83,7 +83,7 @@ heroImage: "/images/be8f5f78234b.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/be8f5f78234b.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/be8f5f78234b.png" data-image="/images/be8f5f78234b.png" data-image-dimensions="300x230" data-image-focal-point="0.5,0.5" alt="EOG Releases 2015 Q1 Report" data-load="false" elementtiming="system-image-block" src="/images/be8f5f78234b.png" width="300" height="230" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/be8f5f78234b.png 100w, /images/be8f5f78234b.png 300w, /images/be8f5f78234b.png 500w, /images/be8f5f78234b.png 750w, /images/be8f5f78234b.png 1000w, /images/be8f5f78234b.png 1500w, /images/be8f5f78234b.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="EOG Releases 2015 Q1 Report" src="/images/be8f5f78234b.png" width="300" height="230" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/be8f5f78234b.png 100w, /images/be8f5f78234b.png 300w, /images/be8f5f78234b.png 500w, /images/be8f5f78234b.png 750w, /images/be8f5f78234b.png 1000w, /images/be8f5f78234b.png 1500w, /images/be8f5f78234b.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/be8f5f78234b.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Whiting petroleum announced second quarter earnings this week that highlighted record production and plans to complete 40 to 50 wells in the Bakken.</p><p>Related:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/whiting-announces-strong-first-quarter?rq=Whiting%20Announces%20Strong%20First%20Quarter"><strong>Whiting</strong> Announces Strong First Quarter</a></p><p>Whiting posted a record quarter with total production at 170,000 BOEs per day. Company operations in the Bakken/Three Forks region represented 80% of total production at 136,000 BOEs a day.</p>
+  <p>Whiting petroleum announced second quarter earnings this week that highlighted record production and plans to complete 40 to 50 wells in the Bakken.</p><p>Related:&nbsp;<a href="/bsp-news/news/whiting-announces-strong-first-quarter?rq=Whiting%20Announces%20Strong%20First%20Quarter"><strong>Whiting</strong> Announces Strong First Quarter</a></p><p>Whiting posted a record quarter with total production at 170,000 BOEs per day. Company operations in the Bakken/Three Forks region represented 80% of total production at 136,000 BOEs a day.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/be8f5f78234b.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>CEO James J. Volker said, “With the recent decline in commodity prices, we have elected to drop an additional three rigs in the second half of the year and run an eight-rig program. In 2016, at a $50 NYMEX oil price, our capital budget and cash flow should be equal, with a relatively flat production profile when compared to Q4 2015. Our budget is flexible. If oil prices are higher than anticipated later this year, we can ramp up and deliver even greater growth.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/be8f5f78234b.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4410da5d4222fbbca50f/1467381030933/" data-record-type="1" data-full-url="/bsp-news/news/whiting-whiting-drops-bakken-rigs" data-title="Whiting Plans to Drop Bakken Rigs"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4410da5d4222fbbca50f" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/3ea85c4d3829.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/3ea85c4d3829.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/3ea85c4d3829.jpg" data-image="/images/3ea85c4d3829.jpg" data-image-dimensions="300x229" data-image-focal-point="0.5,0.5" alt="ND Oil Production Chart" data-load="false" elementtiming="system-image-block" src="/images/3ea85c4d3829.jpg" width="300" height="229" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3ea85c4d3829.jpg 100w, /images/3ea85c4d3829.jpg 300w, /images/3ea85c4d3829.jpg 500w, /images/3ea85c4d3829.jpg 750w, /images/3ea85c4d3829.jpg 1000w, /images/3ea85c4d3829.jpg 1500w, /images/3ea85c4d3829.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="ND Oil Production Chart" src="/images/3ea85c4d3829.jpg" width="300" height="229" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3ea85c4d3829.jpg 100w, /images/3ea85c4d3829.jpg 300w, /images/3ea85c4d3829.jpg 500w, /images/3ea85c4d3829.jpg 750w, /images/3ea85c4d3829.jpg 1000w, /images/3ea85c4d3829.jpg 1500w, /images/3ea85c4d3829.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/3ea85c4d3829.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>It's no secret North Dakota oil production has been on an amazing growth trajectory. Recent figures show the state set a new production record in September of 2012 with more than 728,000 b/d of oil production. The state is only second to Texas and the two look to be separating themselves from the pack. Alaska and California rank third and fourth in oil production, but neither has a growth engine like the Bakken.</p><p>Production in ND has more than doubled in the past two years. Operators have hit their stride in terms of the development, the play has proven to be larger than most expected (multiple horizons and larger area), and pipeline projects and rail agreements are relieving the midstream problems that have plagued the area.</p><p>In the most recent infrastructure development, read more about <a href="http://bakkenshale.com/bsp-news/news/enbridges-sandpiper-project-will-expand-its-north-dakota-system">Enbridge's New Sandpiper Project</a></p><h2>U.S. Production Reflects ND's Growth</h2><p>North Dakota is not alone. Production declines have reversed across the country. The U.S. produced almost 6.5 million b/d in September, the highest level in almost 15 years. You have to go back to September 1997 to find comparable figures. The low was September 2008 when the U.S. produced just under 4 million b/d. Production is up 62% since. Where it goes from here is largely dependent on commodity prices. The resource is there (e.g. Permian, Eagle Ford, Bakken, Offshore), but lingering risk and subsequent questions will shift to economics if oil prices were to fall considerably.</p>
+  <p>It's no secret North Dakota oil production has been on an amazing growth trajectory. Recent figures show the state set a new production record in September of 2012 with more than 728,000 b/d of oil production. The state is only second to Texas and the two look to be separating themselves from the pack. Alaska and California rank third and fourth in oil production, but neither has a growth engine like the Bakken.</p><p>Production in ND has more than doubled in the past two years. Operators have hit their stride in terms of the development, the play has proven to be larger than most expected (multiple horizons and larger area), and pipeline projects and rail agreements are relieving the midstream problems that have plagued the area.</p><p>In the most recent infrastructure development, read more about <a href="/bsp-news/news/enbridges-sandpiper-project-will-expand-its-north-dakota-system">Enbridge's New Sandpiper Project</a></p><h2>U.S. Production Reflects ND's Growth</h2><p>North Dakota is not alone. Production declines have reversed across the country. The U.S. produced almost 6.5 million b/d in September, the highest level in almost 15 years. You have to go back to September 1997 to find comparable figures. The low was September 2008 when the U.S. produced just under 4 million b/d. Production is up 62% since. Where it goes from here is largely dependent on commodity prices. The resource is there (e.g. Permian, Eagle Ford, Bakken, Offshore), but lingering risk and subsequent questions will shift to economics if oil prices were to fall considerably.</p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/3ea85c4d3829.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43ccda5d4222fbbca130/1467385518273/" data-record-type="1" data-full-url="/bsp-news/news/north-dakota-oil-production-up-400-since-2008" data-title="North Dakota Oil Production Up 400% Since 2008"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43ccda5d4222fbbca130" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

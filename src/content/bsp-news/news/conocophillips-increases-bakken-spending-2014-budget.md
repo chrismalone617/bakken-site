@@ -83,7 +83,7 @@ heroImage: "/images/c000a5922642.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/c000a5922642.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/c000a5922642.jpeg" data-image="/images/c000a5922642.jpeg" data-image-dimensions="300x208" data-image-focal-point="0.5,0.5" alt="ConocoPhillips Bakken Leashold and Mineral Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/c000a5922642.jpeg" width="300" height="208" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c000a5922642.jpeg 100w, /images/c000a5922642.jpeg 300w, /images/c000a5922642.jpeg 500w, /images/c000a5922642.jpeg 750w, /images/c000a5922642.jpeg 1000w, /images/c000a5922642.jpeg 1500w, /images/c000a5922642.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="ConocoPhillips Bakken Leashold and Mineral Acreage Map" src="/images/c000a5922642.jpeg" width="300" height="208" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c000a5922642.jpeg 100w, /images/c000a5922642.jpeg 300w, /images/c000a5922642.jpeg 500w, /images/c000a5922642.jpeg 750w, /images/c000a5922642.jpeg 1000w, /images/c000a5922642.jpeg 1500w, /images/c000a5922642.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/c000a5922642.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>2014 is an important year for ConocoPhillips,” said Ryan Lance, chairman and chief executive officer. “Since becoming an independent E&amp;P company, we have set out to deliver a unique value proposition of 3 to 5 percent volume and margin growth with a compelling dividend.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/c000a5922642.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f4da5d4222fbbca38d/1467383791543/" data-record-type="1" data-full-url="/bsp-news/news/conocophillips-increases-bakken-spending-2014-budget" data-title="ConocoPhillips Increases Bakken Spending in Its 2014 Budget"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f4da5d4222fbbca38d" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

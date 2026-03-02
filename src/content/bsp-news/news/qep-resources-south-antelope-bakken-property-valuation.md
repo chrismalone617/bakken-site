@@ -83,7 +83,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ff9ff140787e.jpeg" data-image="/images/ff9ff140787e.jpeg" data-image-dimensions="300x207" data-image-focal-point="0.5,0.5" alt="QEP Resources Bakken Three Forks Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/ff9ff140787e.jpeg" width="300" height="207" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ff9ff140787e.jpeg 100w, /images/ff9ff140787e.jpeg 300w, /images/ff9ff140787e.jpeg 500w, /images/ff9ff140787e.jpeg 750w, /images/ff9ff140787e.jpeg 1000w, /images/ff9ff140787e.jpeg 1500w, /images/ff9ff140787e.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="QEP Resources Bakken Three Forks Acreage Map" src="/images/ff9ff140787e.jpeg" width="300" height="207" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ff9ff140787e.jpeg 100w, /images/ff9ff140787e.jpeg 300w, /images/ff9ff140787e.jpeg 500w, /images/ff9ff140787e.jpeg 750w, /images/ff9ff140787e.jpeg 1000w, /images/ff9ff140787e.jpeg 1500w, /images/ff9ff140787e.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>QEP Resources acquired its South Antelope Properties in the fall of 2012 for ~$1.4 billion.</p><p>Since the acquisition, QEP's value estimate for those properties has increased to $2.8 billion based on probable reserve estimates.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/qep-helis-bakken-deal">QEP - Helis Bakken Deal Agreed for 27,600 Acres for $1.4 Billion</a></p><h2>QEP Bakken South Antelope Properties</h2><p>Since the acquisition of its South Antelope properties, QEP has lowered its development costs and increased production.</p><p>Current gross completed well costs have decreased by more than $1 million from estimated costs at the time of acquisition.</p><p>In spite of delays due to downstream and weather-related issues, current South Antelope oil production grew in 2013.</p>
+  <p>QEP Resources acquired its South Antelope Properties in the fall of 2012 for ~$1.4 billion.</p><p>Since the acquisition, QEP's value estimate for those properties has increased to $2.8 billion based on probable reserve estimates.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/qep-helis-bakken-deal">QEP - Helis Bakken Deal Agreed for 27,600 Acres for $1.4 Billion</a></p><h2>QEP Bakken South Antelope Properties</h2><p>Since the acquisition of its South Antelope properties, QEP has lowered its development costs and increased production.</p><p>Current gross completed well costs have decreased by more than $1 million from estimated costs at the time of acquisition.</p><p>In spite of delays due to downstream and weather-related issues, current South Antelope oil production grew in 2013.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Our South Antelope acquisition is a great example of our sound and stringent capital allocation process,” commented Stanley. “We are pleased to see that the assumptions made in our South Antelope acquisition have proven to be accurate and conservative.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/ff9ff140787e.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43fbda5d4222fbbca3ed/1467383437841/" data-record-type="1" data-full-url="/bsp-news/news/qep-resources-south-antelope-bakken-property-valuation" data-title="QEP Resources South Antelope Bakken Properties Valued at $2.8 Billion at Year-end 2013"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43fbda5d4222fbbca3ed" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

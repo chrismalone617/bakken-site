@@ -83,7 +83,7 @@ heroImage: "/images/783b41676f2f.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/783b41676f2f.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/783b41676f2f.jpeg" data-image="/images/783b41676f2f.jpeg" data-image-dimensions="300x297" data-image-focal-point="0.5,0.5" alt="Western ND Tribal Lands Map" data-load="false" elementtiming="system-image-block" src="/images/783b41676f2f.jpeg" width="300" height="297" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/783b41676f2f.jpeg 100w, /images/783b41676f2f.jpeg 300w, /images/783b41676f2f.jpeg 500w, /images/783b41676f2f.jpeg 750w, /images/783b41676f2f.jpeg 1000w, /images/783b41676f2f.jpeg 1500w, /images/783b41676f2f.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Western ND Tribal Lands Map" src="/images/783b41676f2f.jpeg" width="300" height="297" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/783b41676f2f.jpeg 100w, /images/783b41676f2f.jpeg 300w, /images/783b41676f2f.jpeg 500w, /images/783b41676f2f.jpeg 750w, /images/783b41676f2f.jpeg 1000w, /images/783b41676f2f.jpeg 1500w, /images/783b41676f2f.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/783b41676f2f.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The legislation is about helping to cut red tape and making the federal permitting process more timely and efficient.<span>”</span>
   </blockquote>
   <figcaption>— Senator Hoeven</figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/783b41676f2f.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f7da5d4222fbbca3bd/1467383582004/" data-record-type="1" data-full-url="/bsp-news/news/bakken-permitting-blm-lands-pick-2014" data-title="Bakken Permitting on BLM Lands Should Pick Up in 2014"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f7da5d4222fbbca3bd" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/1d319c8b98e4.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/1d319c8b98e4.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/1d319c8b98e4.png" data-image="/images/1d319c8b98e4.png" data-image-dimensions="300x250" data-image-focal-point="0.5,0.5" alt="Budget Cuts Affect Man Camps" data-load="false" elementtiming="system-image-block" src="/images/1d319c8b98e4.png" width="300" height="250" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/1d319c8b98e4.png 100w, /images/1d319c8b98e4.png 300w, /images/1d319c8b98e4.png 500w, /images/1d319c8b98e4.png 750w, /images/1d319c8b98e4.png 1000w, /images/1d319c8b98e4.png 1500w, /images/1d319c8b98e4.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Budget Cuts Affect Man Camps" src="/images/1d319c8b98e4.png" width="300" height="250" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/1d319c8b98e4.png 100w, /images/1d319c8b98e4.png 300w, /images/1d319c8b98e4.png 500w, /images/1d319c8b98e4.png 750w, /images/1d319c8b98e4.png 1000w, /images/1d319c8b98e4.png 1500w, /images/1d319c8b98e4.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/1d319c8b98e4.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>As low crude prices continue to ravage the industry, the latest victims may be the man camps throughout the Bakken. These camps that have housed thousands are slowly emptying, and some are folding for good.</p><p>Read about <a href="http://bakkenshale.com/housing/">Bakken Housing, Lodging, Hotels, &amp; <strong>Man Camps</strong></a></p><p>Man camps provide temporary employee housing to oilfield workers and have been a prominent feature dotting the landscape since the oil boom brought an influx of people to the region. These camps often provide dining, laundry, and recreational facilities and were given as a perk when things were hopping. But with energy companies tightening their belts, providing housing for workers is quickly on the chopping block for some companies. Instead of offering these perks, some employers are asking workers to cover their own rent, clothing, and transportation.</p>
+  <p>As low crude prices continue to ravage the industry, the latest victims may be the man camps throughout the Bakken. These camps that have housed thousands are slowly emptying, and some are folding for good.</p><p>Read about <a href="/housing/">Bakken Housing, Lodging, Hotels, &amp; <strong>Man Camps</strong></a></p><p>Man camps provide temporary employee housing to oilfield workers and have been a prominent feature dotting the landscape since the oil boom brought an influx of people to the region. These camps often provide dining, laundry, and recreational facilities and were given as a perk when things were hopping. But with energy companies tightening their belts, providing housing for workers is quickly on the chopping block for some companies. Instead of offering these perks, some employers are asking workers to cover their own rent, clothing, and transportation.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/1d319c8b98e4.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Jeff Zarling, president of Williston (N.D.)-based Dawa Solutions Group told Bloomberg, “It was a necessity of recruiting. But today, what we’re seeing is companies want to get out of the housing business.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/1d319c8b98e4.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f441cda5d4222fbbca5c0/1467381797354/" data-record-type="1" data-full-url="/bsp-news/news/bakken-man-camps-disappear" data-title="Will Bakken Man Camps Disappear?"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f441cda5d4222fbbca5c0" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

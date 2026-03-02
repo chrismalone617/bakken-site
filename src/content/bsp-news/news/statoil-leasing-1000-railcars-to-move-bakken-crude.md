@@ -69,9 +69,9 @@ Pipeline capacity constraints plague North Dakota and Montana because local dema
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c5da5d4222fbbca0d8/1467332497888/" data-record-type="1" data-full-url="/bsp-news/news/statoil-leasing-1000-railcars-to-move-bakken-crude" data-title="Statoil Bakken Crude Moving by Rail - Leasing 1,000+ Railroad Cars"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c5da5d4222fbbca0d8" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -105,11 +105,11 @@ description: "If you are doing business in the Rockies, DUG Rockies is the confe
         
 
         <div>
-  <span data-item-id="56cce1cbf8baf36bf95e8643" data-like-count="0">
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>
-<span data-system-data-id="1456267949832-6TGAWRB8KLTHHJVT2TFF" data-asset-url="/images/431c36bb1997.jpeg" data-record-type="12" data-full-url="/events-list/news/2016-dug-bakken-and-niobrara-conference-exhibition" data-title="2016 DUG Bakken and Niobrara Conference &amp; Exhibition"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span></div>
+</div>
       </div>
       
 

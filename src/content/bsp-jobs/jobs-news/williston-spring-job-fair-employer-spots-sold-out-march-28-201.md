@@ -83,7 +83,7 @@ heroImage: "/images/f092b692be67.jpeg"
         
           <a href="http://jobs.bakkenshale.com/">
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/f092b692be67.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f092b692be67.jpeg" data-image="/images/f092b692be67.jpeg" data-image-dimensions="300x282" data-image-focal-point="0.5,0.5" alt="Williston Spring Job Fair" data-load="false" elementtiming="system-image-block" src="/images/f092b692be67.jpeg" width="300" height="282" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f092b692be67.jpeg 100w, /images/f092b692be67.jpeg 300w, /images/f092b692be67.jpeg 500w, /images/f092b692be67.jpeg 750w, /images/f092b692be67.jpeg 1000w, /images/f092b692be67.jpeg 1500w, /images/f092b692be67.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Williston Spring Job Fair" src="/images/f092b692be67.jpeg" width="300" height="282" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f092b692be67.jpeg 100w, /images/f092b692be67.jpeg 300w, /images/f092b692be67.jpeg 500w, /images/f092b692be67.jpeg 750w, /images/f092b692be67.jpeg 1000w, /images/f092b692be67.jpeg 1500w, /images/f092b692be67.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -159,9 +159,9 @@ heroImage: "/images/f092b692be67.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f2a8a1e8488ddde011e67/573f2a8b1e8488ddde011e73/1467904462422/" data-record-type="1" data-full-url="/bsp-jobs/jobs-news/williston-spring-job-fair-employer-spots-sold-out-march-28-201" data-title="Williston Spring Job Fair Employer Spots Sold Out - March 28, 2013"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f2a8b1e8488ddde011e73" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

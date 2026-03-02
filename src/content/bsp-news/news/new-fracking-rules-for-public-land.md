@@ -83,7 +83,7 @@ heroImage: "/images/1eb50bcc629b.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/1eb50bcc629b.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/1eb50bcc629b.jpg" data-image="/images/1eb50bcc629b.jpg" data-image-dimensions="300x259" data-image-focal-point="0.5,0.5" alt="Hamm Claims Russia Financed Anti-Frack Movement" data-load="false" elementtiming="system-image-block" src="/images/1eb50bcc629b.jpg" width="300" height="259" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/1eb50bcc629b.jpg 100w, /images/1eb50bcc629b.jpg 300w, /images/1eb50bcc629b.jpg 500w, /images/1eb50bcc629b.jpg 750w, /images/1eb50bcc629b.jpg 1000w, /images/1eb50bcc629b.jpg 1500w, /images/1eb50bcc629b.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Hamm Claims Russia Financed Anti-Frack Movement" src="/images/1eb50bcc629b.jpg" width="300" height="259" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/1eb50bcc629b.jpg 100w, /images/1eb50bcc629b.jpg 300w, /images/1eb50bcc629b.jpg 500w, /images/1eb50bcc629b.jpg 750w, /images/1eb50bcc629b.jpg 1000w, /images/1eb50bcc629b.jpg 1500w, /images/1eb50bcc629b.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/1eb50bcc629b.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Secretary of the Interior Sally Jewell said that “Current federal well-drilling regulations are more than 30 years old and they simply have not kept pace with the technical complexities of today’s hydraulic fracturing operations. This updated and strengthened rule provides a framework of safeguards and disclosure protocols that will allow for the continued responsible development of our federal oil and gas resources. As we continue to offer millions of acres of public lands for conventional and renewable energy production, it is absolutely critical the public have confidence that transparent and effective safety and environmental protections are in place.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/1eb50bcc629b.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4419da5d4222fbbca58e/1467381968834/" data-record-type="1" data-full-url="/bsp-news/news/new-fracking-rules-for-public-land" data-title="New Fracking Rules for Public Lands"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4419da5d4222fbbca58e" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

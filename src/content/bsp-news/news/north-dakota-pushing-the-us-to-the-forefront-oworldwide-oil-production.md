@@ -94,9 +94,9 @@ description: "The Bakken is producing almost 1 million barrels per day and it al
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e0da5d4222fbbca263/1467325991786/" data-record-type="1" data-full-url="/bsp-news/news/north-dakota-pushing-the-us-to-the-forefront-oworldwide-oil-production" data-title="North Dakota Pushing The US To The Forefront Of Worldwide Oil Production - Video"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e0da5d4222fbbca263" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

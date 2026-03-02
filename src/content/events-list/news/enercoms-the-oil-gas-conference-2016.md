@@ -95,11 +95,11 @@ description: "EnerCom"
         
 
         <div>
-  <span data-item-id="57608a7927d4bd87de92403b" data-like-count="0">
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>
-<span data-system-data-id="1465946812823-19ZF9593TM1HTJIM9O8O" data-asset-url="/images/cf3edb22e6df.png" data-record-type="12" data-full-url="/events-list/news/enercoms-the-oil-gas-conference-2016" data-title="EnerCom's The Oil &amp; Gas Conference-2016"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span></div>
+</div>
       </div>
       
 

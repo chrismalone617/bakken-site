@@ -83,7 +83,7 @@ heroImage: "/images/c10d831c080b.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/c10d831c080b.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/c10d831c080b.jpeg" data-image="/images/c10d831c080b.jpeg" data-image-dimensions="300x263" data-image-focal-point="0.5,0.5" alt="EOG Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/c10d831c080b.jpeg" width="300" height="263" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c10d831c080b.jpeg 100w, /images/c10d831c080b.jpeg 300w, /images/c10d831c080b.jpeg 500w, /images/c10d831c080b.jpeg 750w, /images/c10d831c080b.jpeg 1000w, /images/c10d831c080b.jpeg 1500w, /images/c10d831c080b.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="EOG Bakken Acreage Map" src="/images/c10d831c080b.jpeg" width="300" height="263" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c10d831c080b.jpeg 100w, /images/c10d831c080b.jpeg 300w, /images/c10d831c080b.jpeg 500w, /images/c10d831c080b.jpeg 750w, /images/c10d831c080b.jpeg 1000w, /images/c10d831c080b.jpeg 1500w, /images/c10d831c080b.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/c10d831c080b.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>EOG Resources sees the Bakken as a high rate of return growth play, and plans on drilling 80-net wells in 2014.</p><p>That's nearly double the number of net-wells drilled in 2013, which was 54. At that rate, the company has a drilling inventory in the Bakken of ~8 years.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/eog-will-utilize-self-sourced-sand-bakken-completions?rq=EOG%20Will%20Utilize%20Self%20Sourced%20Sand%20in%20Bakken%20Completions">EOG Will Utilize Self Sourced Sand in Bakken Completions</a></p><h2>EOG Resources Bakken Development in 2014</h2><p>EOG Resource's focus area will be in its Bakken core acreage (~90,000 net acres) and the Antelope Extension area.</p><p>Based on successful drilling results in the Three Forks formation in the Antelope Extension in 2013, EOG plans on testing additional benches during 2014.</p><p>Completion and cost improvements in the play have resulted in EOG deciding to direct more of its capital budget to the Bakken.</p>
+  <p>EOG Resources sees the Bakken as a high rate of return growth play, and plans on drilling 80-net wells in 2014.</p><p>That's nearly double the number of net-wells drilled in 2013, which was 54. At that rate, the company has a drilling inventory in the Bakken of ~8 years.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/eog-will-utilize-self-sourced-sand-bakken-completions?rq=EOG%20Will%20Utilize%20Self%20Sourced%20Sand%20in%20Bakken%20Completions">EOG Will Utilize Self Sourced Sand in Bakken Completions</a></p><h2>EOG Resources Bakken Development in 2014</h2><p>EOG Resource's focus area will be in its Bakken core acreage (~90,000 net acres) and the Antelope Extension area.</p><p>Based on successful drilling results in the Three Forks formation in the Antelope Extension in 2013, EOG plans on testing additional benches during 2014.</p><p>Completion and cost improvements in the play have resulted in EOG deciding to direct more of its capital budget to the Bakken.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/c10d831c080b.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>EOG is directing a larger percentage of its 2014 capital budget to the Eagle Ford and Bakken where we have tremendous drilling opportunity with excellent rates of return,” said CEO, William Thomas. “By increasing activity in these plays, we expect the momentum and operational efficiencies we’ve created to continue.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/c10d831c080b.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43feda5d4222fbbca416/1467383357084/" data-record-type="1" data-full-url="/bsp-news/news/eog-resources-nearly-doubling-bakken-activity-in-2014" data-title="EOG Resources Nearly Doubling Bakken Activity in 2014"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43feda5d4222fbbca416" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

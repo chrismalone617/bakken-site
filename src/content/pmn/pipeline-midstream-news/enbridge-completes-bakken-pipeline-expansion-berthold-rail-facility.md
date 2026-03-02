@@ -83,7 +83,7 @@ heroImage: "/images/83767869231b.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/83767869231b.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/83767869231b.jpeg" data-image="/images/83767869231b.jpeg" data-image-dimensions="283x300" data-image-focal-point="0.5,0.5" alt="Enbridge Bakken System Map" data-load="false" elementtiming="system-image-block" src="/images/83767869231b.jpeg" width="283" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/83767869231b.jpeg 100w, /images/83767869231b.jpeg 300w, /images/83767869231b.jpeg 500w, /images/83767869231b.jpeg 750w, /images/83767869231b.jpeg 1000w, /images/83767869231b.jpeg 1500w, /images/83767869231b.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Enbridge Bakken System Map" src="/images/83767869231b.jpeg" width="283" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/83767869231b.jpeg 100w, /images/83767869231b.jpeg 300w, /images/83767869231b.jpeg 500w, /images/83767869231b.jpeg 750w, /images/83767869231b.jpeg 1000w, /images/83767869231b.jpeg 1500w, /images/83767869231b.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/83767869231b.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The completed Bakken Pipeline Expansion and Berthold Rail Facility are now providing options that are sorely needed. Combine these finished projects with the upcoming capacity within the Sandpiper Pipeline, and Enbridge will have the ability to move 660,000 barrels per day from the Bakken by early 2015.<span>”</span>
   </blockquote>
   
@@ -173,7 +173,7 @@ heroImage: "/images/83767869231b.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Enbridge partnered with the Berthold Farmers Elevator to construct the new rail facility and the facility has been in service since the second quarter of this year.</p><p>The company is also holding open houses in North Dakota, Minnesota, and Wisconsin this week related to the path of the proposed <a href="http://bakkenshale.com/bsp-news/news/enbridges-sandpiper-project-will-expand-its-north-dakota-system?rq=Sandpiper%20Pipeline%20Project">Sandpiper Pipeline Project</a>. The pipeline will add 225,000 b/d of capacity out of the basin and has an expected in service of late 2014 or early 2015.</p>
+  <p>Enbridge partnered with the Berthold Farmers Elevator to construct the new rail facility and the facility has been in service since the second quarter of this year.</p><p>The company is also holding open houses in North Dakota, Minnesota, and Wisconsin this week related to the path of the proposed <a href="/bsp-news/news/enbridges-sandpiper-project-will-expand-its-north-dakota-system?rq=Sandpiper%20Pipeline%20Project">Sandpiper Pipeline Project</a>. The pipeline will add 225,000 b/d of capacity out of the basin and has an expected in service of late 2014 or early 2015.</p>
 </div>
 
 
@@ -214,9 +214,9 @@ heroImage: "/images/83767869231b.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c4dfa21e80eeb550c1/1467906696587/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/enbridge-completes-bakken-pipeline-expansion-berthold-rail-facility" data-title="Enbridge Completes Bakken Pipeline Expansion &amp; Berthold Rail Facility"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c4dfa21e80eeb550c1" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

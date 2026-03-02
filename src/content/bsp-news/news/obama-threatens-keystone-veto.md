@@ -83,7 +83,7 @@ heroImage: "/images/f325f29b4e4e.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/f325f29b4e4e.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f325f29b4e4e.png" data-image="/images/f325f29b4e4e.png" data-image-dimensions="300x265" data-image-focal-point="0.5,0.5" alt="President Obama to Veto Keystone Bill" data-load="false" elementtiming="system-image-block" src="/images/f325f29b4e4e.png" width="300" height="265" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f325f29b4e4e.png 100w, /images/f325f29b4e4e.png 300w, /images/f325f29b4e4e.png 500w, /images/f325f29b4e4e.png 750w, /images/f325f29b4e4e.png 1000w, /images/f325f29b4e4e.png 1500w, /images/f325f29b4e4e.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="President Obama to Veto Keystone Bill" src="/images/f325f29b4e4e.png" width="300" height="265" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f325f29b4e4e.png 100w, /images/f325f29b4e4e.png 300w, /images/f325f29b4e4e.png 500w, /images/f325f29b4e4e.png 750w, /images/f325f29b4e4e.png 1000w, /images/f325f29b4e4e.png 1500w, /images/f325f29b4e4e.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/f325f29b4e4e.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>On the very day that Congress reconvened, President Obama spoke out about his intentions to veto the latest version of the Keystone pipeline bill. This pronouncement escalates the standoff that has continued for over six years as lawmakers, divided along party line, have debated whether the benefits outweigh the potential risks of such a venture.&nbsp;The GOP has been very clear that this issue would be the first order of business for the 114th congress.</p><p><a href="http://bakkenshale.com/bsp-news/news/keystone-showdown-likely-new-year?rq=Keystone%20Showdown%20Likely%20for%20New%20Year">Related: Keystone Showdown Likely for New Year</a></p><p>Until now, the president has been vague about his intentions and as late as Monday was not speaking publicly about this. But that all changed on Tuesday when White House Press Secretary, Josh Earnest, announced that a veto is likely.</p>
+  <p>On the very day that Congress reconvened, President Obama spoke out about his intentions to veto the latest version of the Keystone pipeline bill. This pronouncement escalates the standoff that has continued for over six years as lawmakers, divided along party line, have debated whether the benefits outweigh the potential risks of such a venture.&nbsp;The GOP has been very clear that this issue would be the first order of business for the 114th congress.</p><p><a href="/bsp-news/news/keystone-showdown-likely-new-year?rq=Keystone%20Showdown%20Likely%20for%20New%20Year">Related: Keystone Showdown Likely for New Year</a></p><p>Until now, the president has been vague about his intentions and as late as Monday was not speaking publicly about this. But that all changed on Tuesday when White House Press Secretary, Josh Earnest, announced that a veto is likely.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/f325f29b4e4e.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Earnest told USA Today that “I can confirm for you that if this bill passes this Congress, the president wouldn’t sign it either. And that’s because there is already a well established process in place to consider whether or not infrastructure projects like this are in the best interests of the country.<span>”</span>
   </blockquote>
   
@@ -220,7 +220,7 @@ heroImage: "/images/f325f29b4e4e.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Sen. Mitch McConnell, R-Ky said that, “The president threatening to veto the first bipartisan infrastructure bill of the new Congress must come as a shock to the American people who spoke loudly in November in favor of bipartisan accomplishments. Once again the president is standing in the way of a shovel-ready jobs project that would help thousands of Americans find work.<span>”</span>
   </blockquote>
   
@@ -269,9 +269,9 @@ heroImage: "/images/f325f29b4e4e.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4413da5d4222fbbca53a/1467382332216/" data-record-type="1" data-full-url="/bsp-news/news/obama-threatens-keystone-veto" data-title="Obama Threatens Another Veto for Pipeline"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4413da5d4222fbbca53a" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

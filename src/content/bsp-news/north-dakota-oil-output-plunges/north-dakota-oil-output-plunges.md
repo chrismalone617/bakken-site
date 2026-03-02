@@ -81,7 +81,7 @@ description: "The North Dakota Department of Mineral Resources (DMR)&amp;nbsp;re
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -90,7 +90,7 @@ description: "The North Dakota Department of Mineral Resources (DMR)&amp;nbsp;re
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f9303eef289e.jpg" data-image="/images/f9303eef289e.jpg" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Bakken Output Loses 50%" data-load="false" elementtiming="system-image-block" src="/images/f9303eef289e.jpg" width="200" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f9303eef289e.jpg 100w, /images/f9303eef289e.jpg 300w, /images/f9303eef289e.jpg 500w, /images/f9303eef289e.jpg 750w, /images/f9303eef289e.jpg 1000w, /images/f9303eef289e.jpg 1500w, /images/f9303eef289e.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Output Loses 50%" src="/images/f9303eef289e.jpg" width="200" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f9303eef289e.jpg 100w, /images/f9303eef289e.jpg 300w, /images/f9303eef289e.jpg 500w, /images/f9303eef289e.jpg 750w, /images/f9303eef289e.jpg 1000w, /images/f9303eef289e.jpg 1500w, /images/f9303eef289e.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -116,7 +116,7 @@ description: "The North Dakota Department of Mineral Resources (DMR)&amp;nbsp;re
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The North Dakota Department of Mineral Resources (DMR)&nbsp;reported last week that the state's oil output dropped more than 50% in April.</p><p><a href="http://bakkenshale.com/bsp-news/news/has-the-bakken-peaked?rq=production">Related: Has the Bakken Peaked?</a></p><p>During the month of April, North Dakota pumped 1,041,007 barrels of oil per day (bpd), 70,414 bpd less than March, according to the North Dakota Department of Mineral Resources (DMR).&nbsp;</p><p>Low crude prices and bad weather are being blamed on the record drop in production as producers are were forced to cut back the drilling and fracking of new wells.</p>
+  <p>The North Dakota Department of Mineral Resources (DMR)&nbsp;reported last week that the state's oil output dropped more than 50% in April.</p><p><a href="/bsp-news/news/has-the-bakken-peaked?rq=production">Related: Has the Bakken Peaked?</a></p><p>During the month of April, North Dakota pumped 1,041,007 barrels of oil per day (bpd), 70,414 bpd less than March, according to the North Dakota Department of Mineral Resources (DMR).&nbsp;</p><p>Low crude prices and bad weather are being blamed on the record drop in production as producers are were forced to cut back the drilling and fracking of new wells.</p>
 </div>
 
 
@@ -163,7 +163,7 @@ description: "The North Dakota Department of Mineral Resources (DMR)&amp;nbsp;re
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Roughly half of the calendar days of the month, the wind was 36 miles an hour or higher, sustained winds and no capability to frack wells,” Helms said. “This is an abnormally high production drop.<span>”</span>
   </blockquote>
   
@@ -212,9 +212,9 @@ description: "The North Dakota Department of Mineral Resources (DMR)&amp;nbsp;re
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/576c0a1c5016e1c1243889ec/1466699673962/" data-record-type="1" data-full-url="/bsp-news/north-dakota-oil-output-plunges" data-title="North Dakota Oil Output Plunges 50%"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="576c0a1c5016e1c1243889ec" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

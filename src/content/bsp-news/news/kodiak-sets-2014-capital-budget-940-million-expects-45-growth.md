@@ -83,7 +83,7 @@ heroImage: "/images/f2890295c2ef.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/f2890295c2ef.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f2890295c2ef.jpeg" data-image="/images/f2890295c2ef.jpeg" data-image-dimensions="300x261" data-image-focal-point="0.5,0.5" alt="Kodiak Oil &amp; Gas Williston Basin Map" data-load="false" elementtiming="system-image-block" src="/images/f2890295c2ef.jpeg" width="300" height="261" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f2890295c2ef.jpeg 100w, /images/f2890295c2ef.jpeg 300w, /images/f2890295c2ef.jpeg 500w, /images/f2890295c2ef.jpeg 750w, /images/f2890295c2ef.jpeg 1000w, /images/f2890295c2ef.jpeg 1500w, /images/f2890295c2ef.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Kodiak Oil &amp; Gas Williston Basin Map" src="/images/f2890295c2ef.jpeg" width="300" height="261" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f2890295c2ef.jpeg 100w, /images/f2890295c2ef.jpeg 300w, /images/f2890295c2ef.jpeg 500w, /images/f2890295c2ef.jpeg 750w, /images/f2890295c2ef.jpeg 1000w, /images/f2890295c2ef.jpeg 1500w, /images/f2890295c2ef.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -159,9 +159,9 @@ heroImage: "/images/f2890295c2ef.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f5da5d4222fbbca399/1467383750573/" data-record-type="1" data-full-url="/bsp-news/news/kodiak-sets-2014-capital-budget-940-million-expects-45-growth" data-title="Kodiak Sets 2014 Capital Budget at $940 Million - Expects 45% Growth"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f5da5d4222fbbca399" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

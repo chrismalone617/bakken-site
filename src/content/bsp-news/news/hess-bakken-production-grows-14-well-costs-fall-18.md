@@ -83,7 +83,7 @@ heroImage: "/images/8a85e3b017d1.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/8a85e3b017d1.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/8a85e3b017d1.jpeg" data-image="/images/8a85e3b017d1.jpeg" data-image-dimensions="229x300" data-image-focal-point="0.5,0.5" alt="Hess' Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/8a85e3b017d1.jpeg" width="229" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8a85e3b017d1.jpeg 100w, /images/8a85e3b017d1.jpeg 300w, /images/8a85e3b017d1.jpeg 500w, /images/8a85e3b017d1.jpeg 750w, /images/8a85e3b017d1.jpeg 1000w, /images/8a85e3b017d1.jpeg 1500w, /images/8a85e3b017d1.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Hess' Bakken Acreage Map" src="/images/8a85e3b017d1.jpeg" width="229" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8a85e3b017d1.jpeg 100w, /images/8a85e3b017d1.jpeg 300w, /images/8a85e3b017d1.jpeg 500w, /images/8a85e3b017d1.jpeg 750w, /images/8a85e3b017d1.jpeg 1000w, /images/8a85e3b017d1.jpeg 1500w, /images/8a85e3b017d1.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Hess Corp has grown Bakken production by 14% and driven well costs down 18% over
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43eeda5d4222fbbca340/1467383924980/" data-record-type="1" data-full-url="/bsp-news/news/hess-bakken-production-grows-14-well-costs-fall-18" data-title="Hess' Bakken Production Grows by 14% &amp; Well Costs Fall 18%"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43eeda5d4222fbbca340" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

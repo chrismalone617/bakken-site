@@ -36,7 +36,7 @@ New services include:</p>
 </ul>
 <blockquote><p>"We are always working to bring expanded value to our customers," said Nathan Savage, Sr. VP at Savage. "The addition of OCTG logistics to the Trenton terminal was a natural fit. The knowledge and network of locations we`ve gained by joining with the Ft. Worth Pipe team will allow us to expand the suite of services we can provide to our oilfield customers."</p></blockquote>
 <p>Read the full press release at <a href="http://www.savageservices.com/pressroom/Savage%20Adds%20Oilfield%20Logistics%20Services%20to%20North%20Dakota%20Terminal.html" target="_blank">savageservices.com</a></p>
-<p>The article above was published through BakkenShale.com`s press release distribution service. Learn more about <a href="http://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f18565f21e0f3cf529e16/573f18585f21e0f3cf529e3c/1463752792598/?format=original" title="Bakken Advertising" target="_blank">Bakken Advertising Here</a></p>
+<p>The article above was published through BakkenShale.com`s press release distribution service. Learn more about <a href="/advertising" title="Bakken Advertising" target="_blank">Bakken Advertising Here</a></p>
 </div>
 
 
@@ -77,9 +77,9 @@ New services include:</p>
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f18565f21e0f3cf529e16/573f18575f21e0f3cf529e28/1463755065953/" data-record-type="1" data-full-url="/press/press-releases/savage-adds-oilfield-logistics-services-north-dakota-terminal" data-title="Savage Adds Oilfield Logistics Services At North Dakota Terminal"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f18575f21e0f3cf529e28" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

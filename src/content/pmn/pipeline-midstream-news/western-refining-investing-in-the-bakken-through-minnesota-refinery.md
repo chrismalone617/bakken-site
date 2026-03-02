@@ -83,7 +83,7 @@ heroImage: "/images/5eba945910bc.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/5eba945910bc.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/5eba945910bc.jpeg" data-image="/images/5eba945910bc.jpeg" data-image-dimensions="223x300" data-image-focal-point="0.5,0.5" alt="Northern Tier Energy Asset Map" data-load="false" elementtiming="system-image-block" src="/images/5eba945910bc.jpeg" width="223" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/5eba945910bc.jpeg 100w, /images/5eba945910bc.jpeg 300w, /images/5eba945910bc.jpeg 500w, /images/5eba945910bc.jpeg 750w, /images/5eba945910bc.jpeg 1000w, /images/5eba945910bc.jpeg 1500w, /images/5eba945910bc.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Northern Tier Energy Asset Map" src="/images/5eba945910bc.jpeg" width="223" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/5eba945910bc.jpeg 100w, /images/5eba945910bc.jpeg 300w, /images/5eba945910bc.jpeg 500w, /images/5eba945910bc.jpeg 750w, /images/5eba945910bc.jpeg 1000w, /images/5eba945910bc.jpeg 1500w, /images/5eba945910bc.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/5eba945910bc.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>This investment further enhances our strategic goal of expanding our refining presence in areas with direct pipeline access to cost-advantaged crude oil resources...... Northern Tier Energy’s St. Paul Park refinery is a very successful refinery with pipeline access to cost-advantaged crude oil and refined product regions that historically have generated strong product margins.<span>”</span>
   </blockquote>
   <figcaption>— Jeff Stevens, Western's CEO</figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/5eba945910bc.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c6dfa21e80eeb550db/1467906217960/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/western-refining-investing-in-the-bakken-through-minnesota-refinery" data-title="Western Refining Investing in the Bakken Through Minnesota Refinery"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c6dfa21e80eeb550db" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

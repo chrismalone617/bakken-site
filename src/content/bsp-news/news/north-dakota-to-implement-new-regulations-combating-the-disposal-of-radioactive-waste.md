@@ -83,7 +83,7 @@ heroImage: "/images/37bb8c32ef2f.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/37bb8c32ef2f.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/37bb8c32ef2f.jpeg" data-image="/images/37bb8c32ef2f.jpeg" data-image-dimensions="300x223" data-image-focal-point="0.5,0.5" alt="Frack Job" data-load="false" elementtiming="system-image-block" src="/images/37bb8c32ef2f.jpeg" width="300" height="223" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/37bb8c32ef2f.jpeg 100w, /images/37bb8c32ef2f.jpeg 300w, /images/37bb8c32ef2f.jpeg 500w, /images/37bb8c32ef2f.jpeg 750w, /images/37bb8c32ef2f.jpeg 1000w, /images/37bb8c32ef2f.jpeg 1500w, /images/37bb8c32ef2f.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Frack Job" src="/images/37bb8c32ef2f.jpeg" width="300" height="223" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/37bb8c32ef2f.jpeg 100w, /images/37bb8c32ef2f.jpeg 300w, /images/37bb8c32ef2f.jpeg 500w, /images/37bb8c32ef2f.jpeg 750w, /images/37bb8c32ef2f.jpeg 1000w, /images/37bb8c32ef2f.jpeg 1500w, /images/37bb8c32ef2f.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/37bb8c32ef2f.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Beginning on June 1st, 2014, North Dakota will begin enforcing new regulations to combat the illegal disposal of radioactive waste. Leak proof containers will now be required at injection well-sites to store "oil socks"*, which are used to filter silt from waste water that is yielded from hydraulic fracking. The oil socks accumulate radium from the soil, rock and water present in the waste water.</p><p>According to the Environmental Protection Agency (EPA), the average concentration of radium in wastewater sludge from oil and gas production is about 75 picocuries per gram.&nbsp;Currently, there aren't any designated dumps in the state that accept radioactive waste below naturally occurring levels in the soil - around 5 picocuries. Montana has some designated facilities that accommodate radioactive waste under 30 picocuries per gram. &nbsp;As a result, multiple incidences have occurred where the oil socks have been disposed of improperly. Most recently, used oil socks have been found in Noonan, ND, at a deserted gas station, and on flatbed trailers in a landfill in Watford City, ND.</p><p>According to a <a target="_blank" href="http://online.wsj.com/news/articles/SB10001424052702304026304579453992970960368">Wall Street Journal </a>report, state officials connected the Watford City, ND, incident to Riverton, WY-based RP Services, LLC. One of the company's clients, <a href="http://bakkenshale.com/companies/continental-resources/">Continental Resources</a>, cut ties with them after that discovery was made.&nbsp;Continental Resources is one of the largest operators in the Bakken Shale.</p><p>Fines for illegal dumping of radioactive waste can reach as high as $10,000 per incident in North Dakota. That's in addition to a $1,000 fine for standard illegal dumping.</p><p><strong>Oil sock</strong>&nbsp;- absorbent tube-like apparatus that filters silt in the process of pumping waste water down injection wells</p>
+  <p>Beginning on June 1st, 2014, North Dakota will begin enforcing new regulations to combat the illegal disposal of radioactive waste. Leak proof containers will now be required at injection well-sites to store "oil socks"*, which are used to filter silt from waste water that is yielded from hydraulic fracking. The oil socks accumulate radium from the soil, rock and water present in the waste water.</p><p>According to the Environmental Protection Agency (EPA), the average concentration of radium in wastewater sludge from oil and gas production is about 75 picocuries per gram.&nbsp;Currently, there aren't any designated dumps in the state that accept radioactive waste below naturally occurring levels in the soil - around 5 picocuries. Montana has some designated facilities that accommodate radioactive waste under 30 picocuries per gram. &nbsp;As a result, multiple incidences have occurred where the oil socks have been disposed of improperly. Most recently, used oil socks have been found in Noonan, ND, at a deserted gas station, and on flatbed trailers in a landfill in Watford City, ND.</p><p>According to a <a target="_blank" href="http://online.wsj.com/news/articles/SB10001424052702304026304579453992970960368">Wall Street Journal </a>report, state officials connected the Watford City, ND, incident to Riverton, WY-based RP Services, LLC. One of the company's clients, <a href="/companies/continental-resources/">Continental Resources</a>, cut ties with them after that discovery was made.&nbsp;Continental Resources is one of the largest operators in the Bakken Shale.</p><p>Fines for illegal dumping of radioactive waste can reach as high as $10,000 per incident in North Dakota. That's in addition to a $1,000 fine for standard illegal dumping.</p><p><strong>Oil sock</strong>&nbsp;- absorbent tube-like apparatus that filters silt in the process of pumping waste water down injection wells</p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/37bb8c32ef2f.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4401da5d4222fbbca443/1467383161498/" data-record-type="1" data-full-url="/bsp-news/news/north-dakota-to-implement-new-regulations-combating-the-disposal-of-radioactive-waste" data-title="North Dakota To Implement New Regulations Combating the Disposal of Radioactive Waste"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4401da5d4222fbbca443" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

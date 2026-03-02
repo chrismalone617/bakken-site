@@ -83,7 +83,7 @@ heroImage: "/images/5f080d81bb1e.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/5f080d81bb1e.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/5f080d81bb1e.png" data-image="/images/5f080d81bb1e.png" data-image-dimensions="300x300" data-image-focal-point="0.5,0.5" alt="Saltwater Waste" data-load="false" elementtiming="system-image-block" src="/images/5f080d81bb1e.png" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/5f080d81bb1e.png 100w, /images/5f080d81bb1e.png 300w, /images/5f080d81bb1e.png 500w, /images/5f080d81bb1e.png 750w, /images/5f080d81bb1e.png 1000w, /images/5f080d81bb1e.png 1500w, /images/5f080d81bb1e.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Saltwater Waste" src="/images/5f080d81bb1e.png" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/5f080d81bb1e.png 100w, /images/5f080d81bb1e.png 300w, /images/5f080d81bb1e.png 500w, /images/5f080d81bb1e.png 750w, /images/5f080d81bb1e.png 1000w, /images/5f080d81bb1e.png 1500w, /images/5f080d81bb1e.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/5f080d81bb1e.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The indictment claims Halik conspired to hinder by “craft, trickery, deceit, and dishonest means the lawful and legitimate functions of the EPA, in enforcing federal laws relating to the requirements of the North Dakota underground injection control program.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/5f080d81bb1e.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c8da5d4222fbbca101/1467380976602/" data-record-type="1" data-full-url="/bsp-news/news/former-bakken-operator-pleads-not-guilty" data-title="Former Bakken Operator Pleads Not-Guilty"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c8da5d4222fbbca101" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/0fef06226d8a.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/0fef06226d8a.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/0fef06226d8a.jpeg" data-image="/images/0fef06226d8a.jpeg" data-image-dimensions="300x269" data-image-focal-point="0.5,0.5" alt="Kodiak Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/0fef06226d8a.jpeg" width="300" height="269" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/0fef06226d8a.jpeg 100w, /images/0fef06226d8a.jpeg 300w, /images/0fef06226d8a.jpeg 500w, /images/0fef06226d8a.jpeg 750w, /images/0fef06226d8a.jpeg 1000w, /images/0fef06226d8a.jpeg 1500w, /images/0fef06226d8a.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Kodiak Bakken Acreage Map" src="/images/0fef06226d8a.jpeg" width="300" height="269" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/0fef06226d8a.jpeg 100w, /images/0fef06226d8a.jpeg 300w, /images/0fef06226d8a.jpeg 500w, /images/0fef06226d8a.jpeg 750w, /images/0fef06226d8a.jpeg 1000w, /images/0fef06226d8a.jpeg 1500w, /images/0fef06226d8a.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -159,9 +159,9 @@ heroImage: "/images/0fef06226d8a.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43ddda5d4222fbbca236/1467384691501/" data-record-type="1" data-full-url="/bsp-news/news/kodiak-buying-bakken-assets-from-liberty-resources-for-660-million" data-title="Kodiak Buying Bakken Assets From Liberty Resources For $660 Million"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43ddda5d4222fbbca236" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

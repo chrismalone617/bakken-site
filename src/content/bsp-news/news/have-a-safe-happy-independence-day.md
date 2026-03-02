@@ -80,7 +80,7 @@ heroImage: "/images/cf42ff459b95.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -89,7 +89,7 @@ heroImage: "/images/cf42ff459b95.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/cf42ff459b95.gif" data-image="/images/cf42ff459b95.gif" data-image-dimensions="300x233" data-image-focal-point="0.5,0.5" alt="Statue of Liberty" data-load="false" elementtiming="system-image-block" src="/images/cf42ff459b95.gif" width="300" height="233" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/cf42ff459b95.gif 100w, /images/cf42ff459b95.gif 300w, /images/cf42ff459b95.gif 500w, /images/cf42ff459b95.gif 750w, /images/cf42ff459b95.gif 1000w, /images/cf42ff459b95.gif 1500w, /images/cf42ff459b95.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Statue of Liberty" src="/images/cf42ff459b95.gif" width="300" height="233" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/cf42ff459b95.gif 100w, /images/cf42ff459b95.gif 300w, /images/cf42ff459b95.gif 500w, /images/cf42ff459b95.gif 750w, /images/cf42ff459b95.gif 1000w, /images/cf42ff459b95.gif 1500w, /images/cf42ff459b95.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -162,9 +162,9 @@ We hope everyone is enjoying a day away from the field or office. We'll be back 
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43dfda5d4222fbbca259/1467384586373/" data-record-type="1" data-full-url="/bsp-news/news/have-a-safe-happy-independence-day" data-title="Have a Safe &amp; Happy Independence Day"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43dfda5d4222fbbca259" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

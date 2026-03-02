@@ -83,7 +83,7 @@ heroImage: "/images/b575f9c5b9ef.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/b575f9c5b9ef.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/b575f9c5b9ef.jpeg" data-image="/images/b575f9c5b9ef.jpeg" data-image-dimensions="300x184" data-image-focal-point="0.5,0.5" alt="Bakken Production and Oil Price" data-load="false" elementtiming="system-image-block" src="/images/b575f9c5b9ef.jpeg" width="300" height="184" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b575f9c5b9ef.jpeg 100w, /images/b575f9c5b9ef.jpeg 300w, /images/b575f9c5b9ef.jpeg 500w, /images/b575f9c5b9ef.jpeg 750w, /images/b575f9c5b9ef.jpeg 1000w, /images/b575f9c5b9ef.jpeg 1500w, /images/b575f9c5b9ef.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Production and Oil Price" src="/images/b575f9c5b9ef.jpeg" width="300" height="184" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b575f9c5b9ef.jpeg 100w, /images/b575f9c5b9ef.jpeg 300w, /images/b575f9c5b9ef.jpeg 500w, /images/b575f9c5b9ef.jpeg 750w, /images/b575f9c5b9ef.jpeg 1000w, /images/b575f9c5b9ef.jpeg 1500w, /images/b575f9c5b9ef.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Bakken oil production hit a new record in December of 2012, after declining in N
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d0da5d4222fbbca16a/1467385230426/" data-record-type="1" data-full-url="/bsp-news/news/bakken-production-sets-record-surpasses-700000-bd" data-title="Bakken Production Sets Record - Surpasses 700,000 b/d"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d0da5d4222fbbca16a" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

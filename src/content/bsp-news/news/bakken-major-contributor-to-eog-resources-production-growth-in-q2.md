@@ -83,7 +83,7 @@ heroImage: "/images/b0495a45db77.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/b0495a45db77.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/b0495a45db77.jpeg" data-image="/images/b0495a45db77.jpeg" data-image-dimensions="300x255" data-image-focal-point="0.5,0.5" alt="EOG Resources Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/b0495a45db77.jpeg" width="300" height="255" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b0495a45db77.jpeg 100w, /images/b0495a45db77.jpeg 300w, /images/b0495a45db77.jpeg 500w, /images/b0495a45db77.jpeg 750w, /images/b0495a45db77.jpeg 1000w, /images/b0495a45db77.jpeg 1500w, /images/b0495a45db77.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="EOG Resources Bakken Acreage Map" src="/images/b0495a45db77.jpeg" width="300" height="255" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b0495a45db77.jpeg 100w, /images/b0495a45db77.jpeg 300w, /images/b0495a45db77.jpeg 500w, /images/b0495a45db77.jpeg 750w, /images/b0495a45db77.jpeg 1000w, /images/b0495a45db77.jpeg 1500w, /images/b0495a45db77.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/b0495a45db77.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>In its second quarter report,&nbsp;<a target="_blank" href="http://eaglefordshale.com/companies/eog-resources/">EOG Resources</a>&nbsp;said the Bakken and <a target="_blank" href="http://eaglefordshale.com/">Eagle Ford Shale</a>&nbsp;plays were major contributors to EOG's overall production growth.</p><p>EOG's U.S. crude oil production grew 33% year-over-year and associated natural gas liquids NGLs grew 22% year-over-year.</p><p>See below for EOG's U.S. production volumes for the quarter:</p><ul><li>Crude Oil and Condensate - 274,600 b/d</li><li>NGLs - 78,500 b/d</li><li>Natural Gas - 925 MMcfd</li></ul><p>The company said most of its activity was focused on its core acreage in Mountrail County during the quarter. According to company officials, well productivity improved due to continued refinements in completion designs.</p><p>In EOG's first-quarter report, the company indicated its activity in the Bakken would nearly double. So far, the company is on track to hit their target goal.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/eog-resources-nearly-doubling-bakken-activity-in-2014">EOG Resources Plans to Nearly Double Bakken Activity in 2014</a></p><h2>EOG Bakken Second Quarter Operations Update</h2><p>Three Core wells were completed during the second quarter in Mountrail County:</p><ul><li>Wayzetta 43-0311H - 1,505 b/d</li><li>Wayzetta 44-0311H - 2,410 b/d</li><li>Wayzetta 45-0311H - 2,690 b/d</li></ul><p>EOG says it plans to drill several Three Forks wells to test various benches of this play on both its core and Antelope extension acreage during the remainder of 2014. Currently, the company has a six rig program running in the Bakken, and 80 net wells planned for the full-year.</p>
+  <p>In its second quarter report,&nbsp;<a target="_blank" href="http://eaglefordshale.com/companies/eog-resources/">EOG Resources</a>&nbsp;said the Bakken and <a target="_blank" href="http://eaglefordshale.com/">Eagle Ford Shale</a>&nbsp;plays were major contributors to EOG's overall production growth.</p><p>EOG's U.S. crude oil production grew 33% year-over-year and associated natural gas liquids NGLs grew 22% year-over-year.</p><p>See below for EOG's U.S. production volumes for the quarter:</p><ul><li>Crude Oil and Condensate - 274,600 b/d</li><li>NGLs - 78,500 b/d</li><li>Natural Gas - 925 MMcfd</li></ul><p>The company said most of its activity was focused on its core acreage in Mountrail County during the quarter. According to company officials, well productivity improved due to continued refinements in completion designs.</p><p>In EOG's first-quarter report, the company indicated its activity in the Bakken would nearly double. So far, the company is on track to hit their target goal.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/eog-resources-nearly-doubling-bakken-activity-in-2014">EOG Resources Plans to Nearly Double Bakken Activity in 2014</a></p><h2>EOG Bakken Second Quarter Operations Update</h2><p>Three Core wells were completed during the second quarter in Mountrail County:</p><ul><li>Wayzetta 43-0311H - 1,505 b/d</li><li>Wayzetta 44-0311H - 2,410 b/d</li><li>Wayzetta 45-0311H - 2,690 b/d</li></ul><p>EOG says it plans to drill several Three Forks wells to test various benches of this play on both its core and Antelope extension acreage during the remainder of 2014. Currently, the company has a six rig program running in the Bakken, and 80 net wells planned for the full-year.</p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/b0495a45db77.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4409da5d4222fbbca4a7/1467382803952/" data-record-type="1" data-full-url="/bsp-news/news/bakken-major-contributor-to-eog-resources-production-growth-in-q2" data-title="Bakken Major Contributor to EOG's Production Growth in Q2"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4409da5d4222fbbca4a7" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

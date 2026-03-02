@@ -83,7 +83,7 @@ heroImage: "/images/884f78b5d030.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/884f78b5d030.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/884f78b5d030.jpeg" data-image="/images/884f78b5d030.jpeg" data-image-dimensions="300x207" data-image-focal-point="0.5,0.5" alt="Crude Oil Transport Routes" data-load="false" elementtiming="system-image-block" src="/images/884f78b5d030.jpeg" width="300" height="207" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/884f78b5d030.jpeg 100w, /images/884f78b5d030.jpeg 300w, /images/884f78b5d030.jpeg 500w, /images/884f78b5d030.jpeg 750w, /images/884f78b5d030.jpeg 1000w, /images/884f78b5d030.jpeg 1500w, /images/884f78b5d030.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Crude Oil Transport Routes" src="/images/884f78b5d030.jpeg" width="300" height="207" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/884f78b5d030.jpeg 100w, /images/884f78b5d030.jpeg 300w, /images/884f78b5d030.jpeg 500w, /images/884f78b5d030.jpeg 750w, /images/884f78b5d030.jpeg 1000w, /images/884f78b5d030.jpeg 1500w, /images/884f78b5d030.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Phillips 66 has signed a five year take or pay contract with Global Partners for
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43ceda5d4222fbbca157/1467385371079/" data-record-type="1" data-full-url="/bsp-news/news/phillips-66-makes-firm-commitment-to-move-bakken-crude" data-title="Phillips 66 Commits to Take 50,000 b/d of Bakken Crude"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43ceda5d4222fbbca157" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

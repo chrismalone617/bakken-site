@@ -83,7 +83,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ff9ff140787e.jpeg" data-image="/images/ff9ff140787e.jpeg" data-image-dimensions="300x207" data-image-focal-point="0.5,0.5" alt="QEP Resources Bakken Three Forks Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/ff9ff140787e.jpeg" width="300" height="207" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ff9ff140787e.jpeg 100w, /images/ff9ff140787e.jpeg 300w, /images/ff9ff140787e.jpeg 500w, /images/ff9ff140787e.jpeg 750w, /images/ff9ff140787e.jpeg 1000w, /images/ff9ff140787e.jpeg 1500w, /images/ff9ff140787e.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="QEP Resources Bakken Three Forks Acreage Map" src="/images/ff9ff140787e.jpeg" width="300" height="207" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ff9ff140787e.jpeg 100w, /images/ff9ff140787e.jpeg 300w, /images/ff9ff140787e.jpeg 500w, /images/ff9ff140787e.jpeg 750w, /images/ff9ff140787e.jpeg 1000w, /images/ff9ff140787e.jpeg 1500w, /images/ff9ff140787e.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p><a href="http://bakkenshale.com/bsp-news/news/qeps-bakken-production-down-due-to-transition-to-pad-drilling">QEP Resources Bakken production was down in the first quarter</a> due to the company's transition to pad drilling. That was quickly reversed as the company brought its first four well pad online on its South Antelope acreage in the second quarter.</p><p>The four wells had a 24-hr, initial production rate that eclipsed 15,000 boe/d or 3,929 boe/d per well after processing when added together. That's after QEP produced just 17,000 boe/d in the first quarter of 2013.</p><p>The first two wells actually eclipsed 4,500 boe/d each and that is from the first two wells the company has drilled in the area. <a href="http://bakkenshale.com/bsp-news/news/qep-helis-bakken-deal">QEP Resources acquired its South Antelope acreage from Helis for $1.3 billion</a> in late 2012.</p>
+  <p><a href="/bsp-news/news/qeps-bakken-production-down-due-to-transition-to-pad-drilling">QEP Resources Bakken production was down in the first quarter</a> due to the company's transition to pad drilling. That was quickly reversed as the company brought its first four well pad online on its South Antelope acreage in the second quarter.</p><p>The four wells had a 24-hr, initial production rate that eclipsed 15,000 boe/d or 3,929 boe/d per well after processing when added together. That's after QEP produced just 17,000 boe/d in the first quarter of 2013.</p><p>The first two wells actually eclipsed 4,500 boe/d each and that is from the first two wells the company has drilled in the area. <a href="/bsp-news/news/qep-helis-bakken-deal">QEP Resources acquired its South Antelope acreage from Helis for $1.3 billion</a> in late 2012.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>I am pleased with QEP`s strong operational results this quarter and I am encouraged by the very strong well results from our first operated multi-well pad on the South Antelope Acquisition,” commented Chuck Stanley, Chairman, President and CEO of QEP Resources. “As anticipated, it has taken some time to transition to pad development, where multiple wells are drilled and cased before completion activity commences.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/ff9ff140787e.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43deda5d4222fbbca245/1467384659290/" data-record-type="1" data-full-url="/bsp-news/news/qep-resources-bakken-well-pad-surpasses-15000-barrels-per-day" data-title="QEP Resources Bakken Well Pad Surpasses 15,000 Barrels Per Day!"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43deda5d4222fbbca245" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

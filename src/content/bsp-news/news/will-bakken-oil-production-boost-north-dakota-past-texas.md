@@ -69,9 +69,9 @@ description: "Bakken production surpassed 700,000 b/d in December 2012 and some 
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d0da5d4222fbbca173/1467329526107/" data-record-type="1" data-full-url="/bsp-news/news/will-bakken-oil-production-boost-north-dakota-past-texas" data-title="Will Bakken Oil Production Boost North Dakota Past Texas?"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d0da5d4222fbbca173" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

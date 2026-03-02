@@ -83,7 +83,7 @@ heroImage: "/images/c399490e025a.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/c399490e025a.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/c399490e025a.jpeg" data-image="/images/c399490e025a.jpeg" data-image-dimensions="300x265" data-image-focal-point="0.5,0.5" alt="Marathon's Bakken and Three Forks Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/c399490e025a.jpeg" width="300" height="265" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c399490e025a.jpeg 100w, /images/c399490e025a.jpeg 300w, /images/c399490e025a.jpeg 500w, /images/c399490e025a.jpeg 750w, /images/c399490e025a.jpeg 1000w, /images/c399490e025a.jpeg 1500w, /images/c399490e025a.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Marathon's Bakken and Three Forks Acreage Map" src="/images/c399490e025a.jpeg" width="300" height="265" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c399490e025a.jpeg 100w, /images/c399490e025a.jpeg 300w, /images/c399490e025a.jpeg 500w, /images/c399490e025a.jpeg 750w, /images/c399490e025a.jpeg 1000w, /images/c399490e025a.jpeg 1500w, /images/c399490e025a.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/c399490e025a.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Marathon is continuing to ramp up its presence in US domestic shale plays, with increased activity expected in the Bakken Shale through the end of 2014. In a company statement in late March 2014, officials revealed that Marathon hit its target of a 28-rig program across the Eagle Ford, Bakken and Oklahoma-Woodford Shale plays at the end of January.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/marathon-oil-bakken-production-drives-north-american-ep-income-up">Marathon Oil's Bakken Production Drives North American E&amp;P Segment Income Up 38%</a></p>
+  <p>Marathon is continuing to ramp up its presence in US domestic shale plays, with increased activity expected in the Bakken Shale through the end of 2014. In a company statement in late March 2014, officials revealed that Marathon hit its target of a 28-rig program across the Eagle Ford, Bakken and Oklahoma-Woodford Shale plays at the end of January.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/marathon-oil-bakken-production-drives-north-american-ep-income-up">Marathon Oil's Bakken Production Drives North American E&amp;P Segment Income Up 38%</a></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/c399490e025a.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Marathon Oil’s CEO Lee Tillman said, “We continue to have high confidence in our ability to deliver on our North America long-term production growth targets underpinned by strong resource growth through downspacing and well optimization. In addition, we are progressing the evaluation and appraisal of co-development opportunities with the Eagle Ford’s Austin Chalk and the Bakken’s deeper Three Forks benches.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/c399490e025a.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4400da5d4222fbbca431/1467383218086/" data-record-type="1" data-full-url="/bsp-news/news/marathon-accelerates-activity-in-the-bakken-and-other-us-domestic-plays" data-title="Marathon Accelerates Activity in The Bakken and Other US Domestic Plays"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4400da5d4222fbbca431" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/93227e96a91e.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/93227e96a91e.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/93227e96a91e.png" data-image="/images/93227e96a91e.png" data-image-dimensions="668x444" data-image-focal-point="0.5,0.5" alt="Low prices impact state economies" data-load="false" elementtiming="system-image-block" src="/images/93227e96a91e.png" width="668" height="444" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/93227e96a91e.png 100w, /images/93227e96a91e.png 300w, /images/93227e96a91e.png 500w, /images/93227e96a91e.png 750w, /images/93227e96a91e.png 1000w, /images/93227e96a91e.png 1500w, /images/93227e96a91e.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Low prices impact state economies" src="/images/93227e96a91e.png" width="668" height="444" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/93227e96a91e.png 100w, /images/93227e96a91e.png 300w, /images/93227e96a91e.png 500w, /images/93227e96a91e.png 750w, /images/93227e96a91e.png 1000w, /images/93227e96a91e.png 1500w, /images/93227e96a91e.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/93227e96a91e.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Stephen Brown with Resources for the Future writes that, “The reduction in oil prices provides US consumers with what amounts to an annual increase in disposable income of $350 billion (about 2.0 percent of US GDP) through reduced prices for gasoline, diesel fuel, other petroleum products, and goods and services whose production uses petroleum products. The average US household will see a raw gain that amounts to $2,790 per year.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/93227e96a91e.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4412da5d4222fbbca52b/1467382379086/" data-record-type="1" data-full-url="/bsp-news/news/low-oil-prices-offer-uneven-economic-effect" data-title="Low Oil Prices Offer Uneven Economic Effect"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4412da5d4222fbbca52b" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

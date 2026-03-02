@@ -83,7 +83,7 @@ heroImage: "/images/2718b92ef2e8.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/2718b92ef2e8.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/2718b92ef2e8.jpeg" data-image="/images/2718b92ef2e8.jpeg" data-image-dimensions="300x184" data-image-focal-point="0.5,0.5" alt="Vantage Ethane Pipeline Map" data-load="false" elementtiming="system-image-block" src="/images/2718b92ef2e8.jpeg" width="300" height="184" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/2718b92ef2e8.jpeg 100w, /images/2718b92ef2e8.jpeg 300w, /images/2718b92ef2e8.jpeg 500w, /images/2718b92ef2e8.jpeg 750w, /images/2718b92ef2e8.jpeg 1000w, /images/2718b92ef2e8.jpeg 1500w, /images/2718b92ef2e8.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Vantage Ethane Pipeline Map" src="/images/2718b92ef2e8.jpeg" width="300" height="184" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/2718b92ef2e8.jpeg 100w, /images/2718b92ef2e8.jpeg 300w, /images/2718b92ef2e8.jpeg 500w, /images/2718b92ef2e8.jpeg 750w, /images/2718b92ef2e8.jpeg 1000w, /images/2718b92ef2e8.jpeg 1500w, /images/2718b92ef2e8.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/2718b92ef2e8.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The Vantage Pipeline is another major piece of infrastructure that will help us build our North American energy security partnership with our closest friend and ally Canada. The project illustrates clearly how modern pipelines can create jobs, make us more energy secure, and do so with good environmental stewardship. It will enable us to reduce flaring in North Dakota and also reduce emissions where the natural gas is used by industry.<span>”</span>
   </blockquote>
   <figcaption>— Senator John Hoeven</figcaption>
@@ -187,9 +187,9 @@ heroImage: "/images/2718b92ef2e8.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e1da5d4222fbbca277/1467384449961/" data-record-type="1" data-full-url="/bsp-news/news/bakken-ethane-pipeline-gets-state-department-approval" data-title="Bakken Ethane Pipeline Gets State Department Approval"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e1da5d4222fbbca277" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

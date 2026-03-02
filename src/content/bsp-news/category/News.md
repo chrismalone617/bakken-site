@@ -83,7 +83,7 @@ description: "Bakken Shale News, MarketPlace, Jobs"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ description: "Bakken Shale News, MarketPlace, Jobs"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/a88a86fbf9a4.jpg" data-image="/images/a88a86fbf9a4.jpg" data-image-dimensions="300x225" data-image-focal-point="0.5,0.5" alt="RimRock Buys Bakken Assets" data-load="false" elementtiming="system-image-block" src="/images/a88a86fbf9a4.jpg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a88a86fbf9a4.jpg 100w, /images/a88a86fbf9a4.jpg 300w, /images/a88a86fbf9a4.jpg 500w, /images/a88a86fbf9a4.jpg 750w, /images/a88a86fbf9a4.jpg 1000w, /images/a88a86fbf9a4.jpg 1500w, /images/a88a86fbf9a4.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="RimRock Buys Bakken Assets" src="/images/a88a86fbf9a4.jpg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a88a86fbf9a4.jpg 100w, /images/a88a86fbf9a4.jpg 300w, /images/a88a86fbf9a4.jpg 500w, /images/a88a86fbf9a4.jpg 750w, /images/a88a86fbf9a4.jpg 1000w, /images/a88a86fbf9a4.jpg 1500w, /images/a88a86fbf9a4.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -115,7 +115,7 @@ description: "Bakken Shale News, MarketPlace, Jobs"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>RimRock Oil and Gas gains a foothold in the Bakken with purchase of Williston assets from Whiting.&nbsp;</p><p><a href="https://bakkenshale.com/bsp-news/continental-touts-bakken-innovation">Continental Touts Bakken Innovation</a></p><p>Whiting Petroleum has announced it closed last week on the sale of Bakken Shale assets in Dunn and McLean Counties for $500 million. Details of the sale include:</p><ul><li>29,637 net acres</li><li>29 non-operated drilling spacing units</li><li>17 operated units</li><li>Net daily production from the properties averaged 7,785 BOE/d for 2017 Q2</li><li>Lease operating expense averaged approximately $12.60 per BOE for the 12 months ending June 30, 2017</li></ul><p>Whiting's CEO, James K. Volker said the company will use to proceeds of the sale to pay down $500 million in debt.</p>
+  <p>RimRock Oil and Gas gains a foothold in the Bakken with purchase of Williston assets from Whiting.&nbsp;</p><p><a href="/bsp-news/continental-touts-bakken-innovation">Continental Touts Bakken Innovation</a></p><p>Whiting Petroleum has announced it closed last week on the sale of Bakken Shale assets in Dunn and McLean Counties for $500 million. Details of the sale include:</p><ul><li>29,637 net acres</li><li>29 non-operated drilling spacing units</li><li>17 operated units</li><li>Net daily production from the properties averaged 7,785 BOE/d for 2017 Q2</li><li>Lease operating expense averaged approximately $12.60 per BOE for the 12 months ending June 30, 2017</li></ul><p>Whiting's CEO, James K. Volker said the company will use to proceeds of the sale to pay down $500 million in debt.</p>
 </div>
 
 
@@ -162,7 +162,7 @@ description: "Bakken Shale News, MarketPlace, Jobs"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The Fort Berthold properties represent only approximately 7% of Whiting’s second quarter total production. The sale provides Whiting additional liquidity to develop its industry-leading properties across the Williston Basin, where the Company estimates it has 4,850 future gross drilling locations.<span>”</span>
   </blockquote>
   <figcaption>— James J. Volker, Whiting's Chairman, President and CEO</figcaption>
@@ -194,9 +194,9 @@ description: "Bakken Shale News, MarketPlace, Jobs"
 
         <div>
           
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/59b5669de9bfdf95034a9468/1505062211422/" data-record-type="1" data-full-url="/bsp-news/news/whiting-sells-bakken-assets-500-million" data-title="Whiting Sells Bakken Assets for $500 Million"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="59b5669de9bfdf95034a9468" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

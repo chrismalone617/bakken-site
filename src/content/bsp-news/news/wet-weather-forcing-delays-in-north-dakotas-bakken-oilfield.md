@@ -83,7 +83,7 @@ heroImage: "/images/11fbff5df0f9.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/11fbff5df0f9.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/11fbff5df0f9.jpeg" data-image="/images/11fbff5df0f9.jpeg" data-image-dimensions="300x211" data-image-focal-point="0.5,0.5" alt="North Dakota Bakken Region Precipitation Map May 2013" data-load="false" elementtiming="system-image-block" src="/images/11fbff5df0f9.jpeg" width="300" height="211" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/11fbff5df0f9.jpeg 100w, /images/11fbff5df0f9.jpeg 300w, /images/11fbff5df0f9.jpeg 500w, /images/11fbff5df0f9.jpeg 750w, /images/11fbff5df0f9.jpeg 1000w, /images/11fbff5df0f9.jpeg 1500w, /images/11fbff5df0f9.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="North Dakota Bakken Region Precipitation Map May 2013" src="/images/11fbff5df0f9.jpeg" width="300" height="211" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/11fbff5df0f9.jpeg 100w, /images/11fbff5df0f9.jpeg 300w, /images/11fbff5df0f9.jpeg 500w, /images/11fbff5df0f9.jpeg 750w, /images/11fbff5df0f9.jpeg 1000w, /images/11fbff5df0f9.jpeg 1500w, /images/11fbff5df0f9.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/11fbff5df0f9.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Operators have not been able to catch a break.<span>”</span>
   </blockquote>
   <figcaption>— Lynn Helms</figcaption>
@@ -173,7 +173,7 @@ heroImage: "/images/11fbff5df0f9.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Nine inches of rain fell over the past two weeks in McKenzie County alone. More than one-third, or 67 of the 188 <a href="http://bakkenshale.com/drilling/">rigs targeting the Bakken</a> are active in McKenzie County.</p><p>Expect mention of delays to creep into earnings calls and operational updates over the coming weeks. A truck ban on a Sunday won't slow down the industry too much, but damaged roads and continued rain might.</p>
+  <p>Nine inches of rain fell over the past two weeks in McKenzie County alone. More than one-third, or 67 of the 188 <a href="/drilling/">rigs targeting the Bakken</a> are active in McKenzie County.</p><p>Expect mention of delays to creep into earnings calls and operational updates over the coming weeks. A truck ban on a Sunday won't slow down the industry too much, but damaged roads and continued rain might.</p>
 </div>
 
 
@@ -214,9 +214,9 @@ heroImage: "/images/11fbff5df0f9.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43deda5d4222fbbca24f/1467384627991/" data-record-type="1" data-full-url="/bsp-news/news/wet-weather-forcing-delays-in-north-dakotas-bakken-oilfield" data-title="Wet Weather Forcing Delays In North Dakota's Bakken Oilfield"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43deda5d4222fbbca24f" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

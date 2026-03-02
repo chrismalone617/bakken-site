@@ -83,7 +83,7 @@ heroImage: "/images/2a05103dbc5b.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/2a05103dbc5b.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/2a05103dbc5b.png" data-image="/images/2a05103dbc5b.png" data-image-dimensions="298x300" data-image-focal-point="0.5,0.5" alt="Dalrymple cuts state income tax" data-load="false" elementtiming="system-image-block" src="/images/2a05103dbc5b.png" width="298" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/2a05103dbc5b.png 100w, /images/2a05103dbc5b.png 300w, /images/2a05103dbc5b.png 500w, /images/2a05103dbc5b.png 750w, /images/2a05103dbc5b.png 1000w, /images/2a05103dbc5b.png 1500w, /images/2a05103dbc5b.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Dalrymple cuts state income tax" src="/images/2a05103dbc5b.png" width="298" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/2a05103dbc5b.png 100w, /images/2a05103dbc5b.png 300w, /images/2a05103dbc5b.png 500w, /images/2a05103dbc5b.png 750w, /images/2a05103dbc5b.png 1000w, /images/2a05103dbc5b.png 1500w, /images/2a05103dbc5b.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/2a05103dbc5b.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Senate Majority Leader Mac Sneider told a teh Jamestown Sun that “I think at a time when we’re seeing warning signs of not wanting our budget to be dependent on the price of a commodity, I think eliminating the income tax is shortsighted. We’ll be focusing on tax relief, but it’ll be on the tax that people are most concerned about, and that’s property tax.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/2a05103dbc5b.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4413da5d4222fbbca534/1467382354352/" data-record-type="1" data-full-url="/bsp-news/news/no-income-tax-north-dakota" data-title="No Income Tax for North Dakota?"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4413da5d4222fbbca534" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

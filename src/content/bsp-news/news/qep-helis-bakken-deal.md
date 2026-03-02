@@ -83,7 +83,7 @@ heroImage: "/images/6145619829f8.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/6145619829f8.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/6145619829f8.gif" data-image="/images/6145619829f8.gif" data-image-dimensions="300x234" data-image-focal-point="0.5,0.5" alt="QEP Bakken Acquisition Aug 2012" data-load="false" elementtiming="system-image-block" src="/images/6145619829f8.gif" width="300" height="234" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/6145619829f8.gif 100w, /images/6145619829f8.gif 300w, /images/6145619829f8.gif 500w, /images/6145619829f8.gif 750w, /images/6145619829f8.gif 1000w, /images/6145619829f8.gif 1500w, /images/6145619829f8.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="QEP Bakken Acquisition Aug 2012" src="/images/6145619829f8.gif" width="300" height="234" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/6145619829f8.gif 100w, /images/6145619829f8.gif 300w, /images/6145619829f8.gif 500w, /images/6145619829f8.gif 750w, /images/6145619829f8.gif 1000w, /images/6145619829f8.gif 1500w, /images/6145619829f8.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -159,9 +159,9 @@ heroImage: "/images/6145619829f8.gif"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c5da5d4222fbbca0d5/1467385750413/" data-record-type="1" data-full-url="/bsp-news/news/qep-helis-bakken-deal" data-title="QEP - Helis Bakken Deal Agreed for 27,600 Acres for $1.3 Billion"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c5da5d4222fbbca0d5" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

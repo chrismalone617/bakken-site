@@ -84,7 +84,7 @@ heroImage: "/images/c5c5ada52b05.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -93,7 +93,7 @@ heroImage: "/images/c5c5ada52b05.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/c5c5ada52b05.png" data-image="/images/c5c5ada52b05.png" data-image-dimensions="387x297" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/c5c5ada52b05.png" width="387" height="297" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c5c5ada52b05.png 100w, /images/c5c5ada52b05.png 300w, /images/c5c5ada52b05.png 500w, /images/c5c5ada52b05.png 750w, /images/c5c5ada52b05.png 1000w, /images/c5c5ada52b05.png 1500w, /images/c5c5ada52b05.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/c5c5ada52b05.png" width="387" height="297" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c5c5ada52b05.png 100w, /images/c5c5ada52b05.png 300w, /images/c5c5ada52b05.png 500w, /images/c5c5ada52b05.png 750w, /images/c5c5ada52b05.png 1000w, /images/c5c5ada52b05.png 1500w, /images/c5c5ada52b05.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -116,7 +116,7 @@ heroImage: "/images/c5c5ada52b05.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>ExxonMobil Corporation plans to shift its focus to U.S. shale drilling for the remainder of 2017.</p><p>Related:&nbsp;<a href="https://bakkenshale.com/bsp-news/news/marathon-announces-2017-plan-for-bakken">Marathon Announces 2017 Plan for Bakken</a></p><p>ExxonMobil executives announced last week they anticipate their 2017 capital spending program to be around $22 billion, an increase of 16 percent from 2016. Of that amount, they will allocate $5.5 billion for drilling in Bakken Shale and Permian basin.</p>
+  <p>ExxonMobil Corporation plans to shift its focus to U.S. shale drilling for the remainder of 2017.</p><p>Related:&nbsp;<a href="/bsp-news/news/marathon-announces-2017-plan-for-bakken">Marathon Announces 2017 Plan for Bakken</a></p><p>ExxonMobil executives announced last week they anticipate their 2017 capital spending program to be around $22 billion, an increase of 16 percent from 2016. Of that amount, they will allocate $5.5 billion for drilling in Bakken Shale and Permian basin.</p>
 </div>
 
 
@@ -163,7 +163,7 @@ heroImage: "/images/c5c5ada52b05.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>More than one quarter of the planned spending this year will be made in high-value, short-cycle opportunities, including in the Permian and Bakken basins. Short-cycle investments are those expected to generate positive cash flow in less than three years after initial investment. <span>”</span>
   </blockquote>
   <figcaption>— Darren Woods, Chairman and Chief Executive Officer </figcaption>
@@ -218,9 +218,9 @@ heroImage: "/images/c5c5ada52b05.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/58bf5598e58c62f784436010/1488992048907/" data-record-type="1" data-full-url="/bsp-news/news/exxon-bets-on-bakken-shale" data-title="ExxonMobil Bets on U.S. Shale"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="58bf5598e58c62f784436010" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

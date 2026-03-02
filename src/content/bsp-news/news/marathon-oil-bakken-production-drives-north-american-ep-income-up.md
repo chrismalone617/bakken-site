@@ -83,7 +83,7 @@ heroImage: "/images/d359cc917043.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d359cc917043.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d359cc917043.jpeg" data-image="/images/d359cc917043.jpeg" data-image-dimensions="300x233" data-image-focal-point="0.5,0.5" alt="Marathon Oil Bakken Map" data-load="false" elementtiming="system-image-block" src="/images/d359cc917043.jpeg" width="300" height="233" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d359cc917043.jpeg 100w, /images/d359cc917043.jpeg 300w, /images/d359cc917043.jpeg 500w, /images/d359cc917043.jpeg 750w, /images/d359cc917043.jpeg 1000w, /images/d359cc917043.jpeg 1500w, /images/d359cc917043.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Marathon Oil Bakken Map" src="/images/d359cc917043.jpeg" width="300" height="233" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d359cc917043.jpeg 100w, /images/d359cc917043.jpeg 300w, /images/d359cc917043.jpeg 500w, /images/d359cc917043.jpeg 750w, /images/d359cc917043.jpeg 1000w, /images/d359cc917043.jpeg 1500w, /images/d359cc917043.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/d359cc917043.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Marathon Oil's Bakken production helped drive the company's North American E&amp;P segment income to $529 million in 2013, compared to $382 million in 2012.</p><p>The approximately ~38% increase was primarily due to higher liquids volumes from the Eagle Ford, Bakken and Oklahoma resource basins.</p><p><strong>Read more:</strong><a href="http://bakkenshale.com/bsp-news/news/marathon-oil-plans-to-spend-1-billion-in-the-bakken-in-2014?rq=Marathon%20Oil%20Plans%20to%20Spend%20%241-Billion%20in%20the%20Bakken%20in%202014">Marathon Oil Plans to Spend $1-Billion in the Bakken in 2014</a></p><h2>Marathon Q4 2013 Production and 2014 Bakken Budget</h2><p>[ic-l]Marathon Oil averaged approximately 40,000 net boe/d of production in the Bakken during the fourth quarter. That's approximately a ~5% increase from 38,000 net boe/d in the third quarter of 2013.</p><p>In 2014, Marathon will spend $1 billion of its $3.6 billion budget in North America in the Bakken. As a result, Bakken production is expected to grow to a little less than 50,000 boe/d.</p><p>Marathon Oil's average Bakken production by commodity is as follows:</p><ul><li>90% crude oil</li><li>4% NGLs</li><li>6% Natural Gas</li></ul><h2>Marathon Hits Q4 2013 Production Target</h2><p>In the fourth quarter, the company reached total depth on 15 gross wells and brought 22 gross wells to sales, hitting its year-end exit rate estimate of 40,000 boe/d.</p>
+  <p>Marathon Oil's Bakken production helped drive the company's North American E&amp;P segment income to $529 million in 2013, compared to $382 million in 2012.</p><p>The approximately ~38% increase was primarily due to higher liquids volumes from the Eagle Ford, Bakken and Oklahoma resource basins.</p><p><strong>Read more:</strong><a href="/bsp-news/news/marathon-oil-plans-to-spend-1-billion-in-the-bakken-in-2014?rq=Marathon%20Oil%20Plans%20to%20Spend%20%241-Billion%20in%20the%20Bakken%20in%202014">Marathon Oil Plans to Spend $1-Billion in the Bakken in 2014</a></p><h2>Marathon Q4 2013 Production and 2014 Bakken Budget</h2><p>[ic-l]Marathon Oil averaged approximately 40,000 net boe/d of production in the Bakken during the fourth quarter. That's approximately a ~5% increase from 38,000 net boe/d in the third quarter of 2013.</p><p>In 2014, Marathon will spend $1 billion of its $3.6 billion budget in North America in the Bakken. As a result, Bakken production is expected to grow to a little less than 50,000 boe/d.</p><p>Marathon Oil's average Bakken production by commodity is as follows:</p><ul><li>90% crude oil</li><li>4% NGLs</li><li>6% Natural Gas</li></ul><h2>Marathon Hits Q4 2013 Production Target</h2><p>In the fourth quarter, the company reached total depth on 15 gross wells and brought 22 gross wells to sales, hitting its year-end exit rate estimate of 40,000 boe/d.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/d359cc917043.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>During 2013... our strong year-over-year net production growth in the top U.S. liquids resource plays — 136 percent in the Eagle Ford, 34 percent in the Bakken and 68 percent in the Oklahoma resource basins — demonstrated our ability to drive superior operating results,” said Lee M. Tillman, Marathon Oil’s president and CEO.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/d359cc917043.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43fcda5d4222fbbca3f3/1467383458504/" data-record-type="1" data-full-url="/bsp-news/news/marathon-oil-bakken-production-drives-north-american-ep-income-up" data-title="Marathon Oil's Bakken Production Drives North American E&amp;P Income Up 38%"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43fcda5d4222fbbca3f3" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

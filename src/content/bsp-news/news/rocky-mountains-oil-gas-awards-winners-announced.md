@@ -83,7 +83,7 @@ heroImage: "/images/c009d9d41edf.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/c009d9d41edf.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/c009d9d41edf.jpeg" data-image="/images/c009d9d41edf.jpeg" data-image-dimensions="300x249" data-image-focal-point="0.5,0.5" alt="Oil &amp; Gas Awards" data-load="false" elementtiming="system-image-block" src="/images/c009d9d41edf.jpeg" width="300" height="249" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c009d9d41edf.jpeg 100w, /images/c009d9d41edf.jpeg 300w, /images/c009d9d41edf.jpeg 500w, /images/c009d9d41edf.jpeg 750w, /images/c009d9d41edf.jpeg 1000w, /images/c009d9d41edf.jpeg 1500w, /images/c009d9d41edf.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Oil &amp; Gas Awards" src="/images/c009d9d41edf.jpeg" width="300" height="249" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c009d9d41edf.jpeg 100w, /images/c009d9d41edf.jpeg 300w, /images/c009d9d41edf.jpeg 500w, /images/c009d9d41edf.jpeg 750w, /images/c009d9d41edf.jpeg 1000w, /images/c009d9d41edf.jpeg 1500w, /images/c009d9d41edf.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -159,9 +159,9 @@ heroImage: "/images/c009d9d41edf.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d6da5d4222fbbca1c1/1467385132812/" data-record-type="1" data-full-url="/bsp-news/news/rocky-mountains-oil-gas-awards-winners-announced" data-title="Rocky Mountains Oil &amp; Gas Awards Winners Announced"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d6da5d4222fbbca1c1" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

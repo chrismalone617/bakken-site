@@ -83,7 +83,7 @@ heroImage: "/images/fa25b4b35e08.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/fa25b4b35e08.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/fa25b4b35e08.jpeg" data-image="/images/fa25b4b35e08.jpeg" data-image-dimensions="300x228" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/fa25b4b35e08.jpeg" width="300" height="228" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/fa25b4b35e08.jpeg 100w, /images/fa25b4b35e08.jpeg 300w, /images/fa25b4b35e08.jpeg 500w, /images/fa25b4b35e08.jpeg 750w, /images/fa25b4b35e08.jpeg 1000w, /images/fa25b4b35e08.jpeg 1500w, /images/fa25b4b35e08.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/fa25b4b35e08.jpeg" width="300" height="228" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/fa25b4b35e08.jpeg 100w, /images/fa25b4b35e08.jpeg 300w, /images/fa25b4b35e08.jpeg 500w, /images/fa25b4b35e08.jpeg 750w, /images/fa25b4b35e08.jpeg 1000w, /images/fa25b4b35e08.jpeg 1500w, /images/fa25b4b35e08.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,7 +160,7 @@ heroImage: "/images/fa25b4b35e08.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>I confronted the man that pepper sprayed me and I said, ‘Did you know you just pepper sprayed a pregnant woman?.’ In the native culture, the pregnant women are held sacred, so to do that against our women and to a woman that is pregnant, that should tell you what kind of character they have. I am a mother. I am protecting another mother. I am fighting for another mother and her children and that’s mother earth.<span>”</span>
   </blockquote>
   <figcaption>— Trisha Etringer to SiouxLandMatters.com</figcaption>
@@ -209,9 +209,9 @@ heroImage: "/images/fa25b4b35e08.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/57d0055abe6594f91112f687/1473601916567/" data-record-type="1" data-full-url="/bsp-news/news/violence-erupts-at-pipeline-protest" data-title="Violence Erupts at Pipeline Protest"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="57d0055abe6594f91112f687" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

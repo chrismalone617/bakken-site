@@ -69,9 +69,9 @@ description: "There are more locals staying in North Dakota and more people movi
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f2a8a1e8488ddde011e67/573f2a8c1e8488ddde011e88/1712179224565/" data-record-type="1" data-full-url="/bsp-jobs/jobs-news/miracle-of-the-bakken-oil-boom-video" data-title="Miracle of the Bakken Oil Boom - Video"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f2a8c1e8488ddde011e88" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

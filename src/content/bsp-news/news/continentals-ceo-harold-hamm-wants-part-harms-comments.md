@@ -83,7 +83,7 @@ heroImage: "/images/4fff93d97fea.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/4fff93d97fea.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/4fff93d97fea.jpeg" data-image="/images/4fff93d97fea.jpeg" data-image-dimensions="239x300" data-image-focal-point="0.5,0.5" alt="Harold Hamm Continental Resources" data-load="false" elementtiming="system-image-block" src="/images/4fff93d97fea.jpeg" width="239" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/4fff93d97fea.jpeg 100w, /images/4fff93d97fea.jpeg 300w, /images/4fff93d97fea.jpeg 500w, /images/4fff93d97fea.jpeg 750w, /images/4fff93d97fea.jpeg 1000w, /images/4fff93d97fea.jpeg 1500w, /images/4fff93d97fea.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Harold Hamm Continental Resources" src="/images/4fff93d97fea.jpeg" width="239" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/4fff93d97fea.jpeg 100w, /images/4fff93d97fea.jpeg 300w, /images/4fff93d97fea.jpeg 500w, /images/4fff93d97fea.jpeg 750w, /images/4fff93d97fea.jpeg 1000w, /images/4fff93d97fea.jpeg 1500w, /images/4fff93d97fea.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/4fff93d97fea.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Harold Hamm spoke out against Robert Harms' recent comments regarding a "moderated approach" to oil and gas development in North Dakota in an interview with Forum News Service.</p><p>Hamm makes the case that the industry has already slowed down quite a bit from the frantic pace of exploration and is now developing leases in a more orderly fashion.</p><p>One example is the <a href="http://bakkenshale.com/drilling/">Bakken rig count</a>. It's down almost 20% from the peak.Multiple wells are being drilled from a single pad and operators are using what they've learned through exploration to drive down drill times.</p>
+  <p>Harold Hamm spoke out against Robert Harms' recent comments regarding a "moderated approach" to oil and gas development in North Dakota in an interview with Forum News Service.</p><p>Hamm makes the case that the industry has already slowed down quite a bit from the frantic pace of exploration and is now developing leases in a more orderly fashion.</p><p>One example is the <a href="/drilling/">Bakken rig count</a>. It's down almost 20% from the peak.Multiple wells are being drilled from a single pad and operators are using what they've learned through exploration to drive down drill times.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/4fff93d97fea.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We shouldn’t overreact. We’re doing something that’s not only the best thing for North Dakota and for that area up there, but also for our entire nation,” Hamm said. “The world has been changed by the fact that we can produce energy of this quantity in America today.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/4fff93d97fea.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f7da5d4222fbbca3b7/1467383618574/" data-record-type="1" data-full-url="/bsp-news/news/continentals-ceo-harold-hamm-wants-part-harms-comments" data-title="Continental's CEO Harold Hamm Wants No Part of Harms' &quot;Moderated Approach&quot;"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f7da5d4222fbbca3b7" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

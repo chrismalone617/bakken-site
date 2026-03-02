@@ -83,7 +83,7 @@ heroImage: "/images/b98506af65c5.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/b98506af65c5.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/b98506af65c5.jpeg" data-image="/images/b98506af65c5.jpeg" data-image-dimensions="300x300" data-image-focal-point="0.5,0.5" alt="Saskatchewan Ethane Processing Plant" data-load="false" elementtiming="system-image-block" src="/images/b98506af65c5.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b98506af65c5.jpeg 100w, /images/b98506af65c5.jpeg 300w, /images/b98506af65c5.jpeg 500w, /images/b98506af65c5.jpeg 750w, /images/b98506af65c5.jpeg 1000w, /images/b98506af65c5.jpeg 1500w, /images/b98506af65c5.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Saskatchewan Ethane Processing Plant" src="/images/b98506af65c5.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b98506af65c5.jpeg 100w, /images/b98506af65c5.jpeg 300w, /images/b98506af65c5.jpeg 500w, /images/b98506af65c5.jpeg 750w, /images/b98506af65c5.jpeg 1000w, /images/b98506af65c5.jpeg 1500w, /images/b98506af65c5.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/b98506af65c5.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The <a href="http://bakkenshale.com/drilling/">Bakken-Three Forks rig count</a>&nbsp;stayed flat at 191 rigs running across our coverage area by the end of last week. The NDIC notes 198 rigs are active in North Dakota, but around 15 of those are in the process of moving in and rigging up.</p><p>In recent Bakken news,&nbsp;Pembina Pipeline Corp. announced in early Sept. 2014 it will acquire Bakken midstream assets for $650-million from entities affiliated with Riverstone Holdings, LLC.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/pmn/pipeline-midstream-news/pembina-acquires-bakken-midstream-assets-650-million?rq=Pembina%20Acquires%20Bakken%20Assets%20-%20%24650%20Million">Pembina Acquires Bakken Assets - $650 Million</a></p><p><em>The U.S. rig count increased by 11 to 1,925 rigs running by the end of last week. A total of 340 rigs were targeting natural gas (two more than the previous week) and 1,584 were targeting oil in the U.S.&nbsp;(nine more than the previous week).&nbsp;The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.).&nbsp;</em><strong>192</strong>&nbsp;rigs are running in the Williston Basin across MT, ND, and SD.&nbsp;<strong>183 </strong>are in ND alone.</p><p>Not all rigs counted in our census are drilling for the Bakken, but it's close. The NDIC estimates 95% or more of activity in this region targets the Bakken and Three Forks formations.</p><blockquote><p>Note: The NDIC reports 198 rigs are active in North Dakota. That is six more than Baker Hughes reports in the Bakken area, and 15 more than the company reports in North Dakota. On any given week, a certain number of rigs are in route to the next well location or idle waiting to drill the next well. The NDIC notes that around 15 rigs are in the process of moving in and rigging up.</p></blockquote><h2>Bakken Oil &amp; Gas Rigs</h2><p>The number of oil rigs stayed flat at 191 rigs running by the end of the week . WTI oil prices stayed relatively flat from the previous week, trading at $93.25/bbl on Friday afternoon.&nbsp;Williston Basin Sweet crude traded at $79.94/bbl on Aug. 29th. The WTI-Brent opened up a bit, settling at just under $7 by the end of last week.</p><p>The natural gas rig count in the region held flat at zero. Natural gas futures (Henry Hub) were trading at $3.98/mmbtu by the end of last week. A little more than 10% of the production stream from the Bakken and Three Forks is attributable to natural gas and roughly half of that is NGLs.</p><blockquote><p>McKenzie County continues to lead development with 66 rigs running. Dunn, Mountrail, and Williams counties are the only other counties with more than 25 rigs running each. View the full list below under the <em>Bakken Drilling by County</em>&nbsp;section.</p></blockquote><p>Activity is dominated by horizontal drilling:</p><ul><li>175 rigs are drilling horizontal wells</li><li>16 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><h2>Bakken Oil &amp; Gas News</h2><ul><li><a href="http://bakkenshale.com/pmn/pipeline-midstream-news/pembina-acquires-bakken-midstream-assets-650-million?rq=Pembina%20Acquires%20Bakken%20Assets%20-%20%24650%20Million">Pembina Acquires Bakken Assets - $650 Million</a></li><li><a href="http://bakkenshale.com/bsp-news/news/rail-lines-face-bottlenecks-in-bakken?rq=Rail%20Lines%20Face%20Bottlenecks%20in%20Bakken">Rail Lines Face Bottlenecks in Bakken</a></li></ul><p><a href="http://jobs.bakkenshale.com/">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts -&nbsp;Daily or Weekly Email Alerts</a></p><h2>Bakken Drilling by County</h2>
+  <p>The <a href="/drilling/">Bakken-Three Forks rig count</a>&nbsp;stayed flat at 191 rigs running across our coverage area by the end of last week. The NDIC notes 198 rigs are active in North Dakota, but around 15 of those are in the process of moving in and rigging up.</p><p>In recent Bakken news,&nbsp;Pembina Pipeline Corp. announced in early Sept. 2014 it will acquire Bakken midstream assets for $650-million from entities affiliated with Riverstone Holdings, LLC.</p><p><strong>Read more</strong>: <a href="//pmn/pipeline-midstream-news/pembina-acquires-bakken-midstream-assets-650-million?rq=Pembina%20Acquires%20Bakken%20Assets%20-%20%24650%20Million">Pembina Acquires Bakken Assets - $650 Million</a></p><p><em>The U.S. rig count increased by 11 to 1,925 rigs running by the end of last week. A total of 340 rigs were targeting natural gas (two more than the previous week) and 1,584 were targeting oil in the U.S.&nbsp;(nine more than the previous week).&nbsp;The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.).&nbsp;</em><strong>192</strong>&nbsp;rigs are running in the Williston Basin across MT, ND, and SD.&nbsp;<strong>183 </strong>are in ND alone.</p><p>Not all rigs counted in our census are drilling for the Bakken, but it's close. The NDIC estimates 95% or more of activity in this region targets the Bakken and Three Forks formations.</p><blockquote><p>Note: The NDIC reports 198 rigs are active in North Dakota. That is six more than Baker Hughes reports in the Bakken area, and 15 more than the company reports in North Dakota. On any given week, a certain number of rigs are in route to the next well location or idle waiting to drill the next well. The NDIC notes that around 15 rigs are in the process of moving in and rigging up.</p></blockquote><h2>Bakken Oil &amp; Gas Rigs</h2><p>The number of oil rigs stayed flat at 191 rigs running by the end of the week . WTI oil prices stayed relatively flat from the previous week, trading at $93.25/bbl on Friday afternoon.&nbsp;Williston Basin Sweet crude traded at $79.94/bbl on Aug. 29th. The WTI-Brent opened up a bit, settling at just under $7 by the end of last week.</p><p>The natural gas rig count in the region held flat at zero. Natural gas futures (Henry Hub) were trading at $3.98/mmbtu by the end of last week. A little more than 10% of the production stream from the Bakken and Three Forks is attributable to natural gas and roughly half of that is NGLs.</p><blockquote><p>McKenzie County continues to lead development with 66 rigs running. Dunn, Mountrail, and Williams counties are the only other counties with more than 25 rigs running each. View the full list below under the <em>Bakken Drilling by County</em>&nbsp;section.</p></blockquote><p>Activity is dominated by horizontal drilling:</p><ul><li>175 rigs are drilling horizontal wells</li><li>16 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><h2>Bakken Oil &amp; Gas News</h2><ul><li><a href="//pmn/pipeline-midstream-news/pembina-acquires-bakken-midstream-assets-650-million?rq=Pembina%20Acquires%20Bakken%20Assets%20-%20%24650%20Million">Pembina Acquires Bakken Assets - $650 Million</a></li><li><a href="/bsp-news/news/rail-lines-face-bottlenecks-in-bakken?rq=Rail%20Lines%20Face%20Bottlenecks%20in%20Bakken">Rail Lines Face Bottlenecks in Bakken</a></li></ul><p><a href="http://jobs.bakkenshale.com/">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts -&nbsp;Daily or Weekly Email Alerts</a></p><h2>Bakken Drilling by County</h2>
 </div>
 
 
@@ -201,7 +201,7 @@ heroImage: "/images/b98506af65c5.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -210,7 +210,7 @@ heroImage: "/images/b98506af65c5.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d6af64ab06df.png" data-image="/images/d6af64ab06df.png" data-image-dimensions="727x424" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/d6af64ab06df.png" width="727" height="424" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d6af64ab06df.png 100w, /images/d6af64ab06df.png 300w, /images/d6af64ab06df.png 500w, /images/d6af64ab06df.png 750w, /images/d6af64ab06df.png 1000w, /images/d6af64ab06df.png 1500w, /images/d6af64ab06df.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/d6af64ab06df.png" width="727" height="424" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d6af64ab06df.png 100w, /images/d6af64ab06df.png 300w, /images/d6af64ab06df.png 500w, /images/d6af64ab06df.png 750w, /images/d6af64ab06df.png 1000w, /images/d6af64ab06df.png 1500w, /images/d6af64ab06df.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -272,9 +272,9 @@ heroImage: "/images/b98506af65c5.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f41e26dc6951d90c43bbf/573f41f56dc6951d90c43cc3/1467828970649/" data-record-type="1" data-full-url="/drilling/drilling-rig-count/bakken-shale-rig-count-stays-flat-at-191-2" data-title="Bakken Shale Rig Count Stays Flat at 191"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f41f56dc6951d90c43cc3" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

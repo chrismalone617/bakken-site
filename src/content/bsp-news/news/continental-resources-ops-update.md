@@ -83,7 +83,7 @@ heroImage: "/images/f0643ebbdf4a.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/f0643ebbdf4a.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f0643ebbdf4a.jpeg" data-image="/images/f0643ebbdf4a.jpeg" data-image-dimensions="300x285" data-image-focal-point="0.5,0.5" alt="Continental Resources Bakken Shale Map" data-load="false" elementtiming="system-image-block" src="/images/f0643ebbdf4a.jpeg" width="300" height="285" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f0643ebbdf4a.jpeg 100w, /images/f0643ebbdf4a.jpeg 300w, /images/f0643ebbdf4a.jpeg 500w, /images/f0643ebbdf4a.jpeg 750w, /images/f0643ebbdf4a.jpeg 1000w, /images/f0643ebbdf4a.jpeg 1500w, /images/f0643ebbdf4a.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Continental Resources Bakken Shale Map" src="/images/f0643ebbdf4a.jpeg" width="300" height="285" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f0643ebbdf4a.jpeg 100w, /images/f0643ebbdf4a.jpeg 300w, /images/f0643ebbdf4a.jpeg 500w, /images/f0643ebbdf4a.jpeg 750w, /images/f0643ebbdf4a.jpeg 1000w, /images/f0643ebbdf4a.jpeg 1500w, /images/f0643ebbdf4a.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/f0643ebbdf4a.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Our production growth remained strong despite seasonal challenges in the Bakken. We continue to monitor oil differentials and transportation costs to ensure we realize the most attractive pricing for our premium Bakken oil.<span>”</span>
   </blockquote>
   <figcaption>— W. F. "Rick" Bott, Continental's President and Chief Operating Officer</figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/f0643ebbdf4a.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43dbda5d4222fbbca21d/1467384794057/" data-record-type="1" data-full-url="/bsp-news/news/continental-resources-ops-update" data-title="Continental Resources' Bakken Production Surpasses 100,000 boe/d (Gross Operated)"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43dbda5d4222fbbca21d" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

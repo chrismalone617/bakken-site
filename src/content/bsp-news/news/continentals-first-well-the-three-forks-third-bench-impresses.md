@@ -83,7 +83,7 @@ heroImage: "/images/c440c8188fa3.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/c440c8188fa3.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/c440c8188fa3.jpeg" data-image="/images/c440c8188fa3.jpeg" data-image-dimensions="81x300" data-image-focal-point="0.5,0.5" alt="Bakken Petroleum System - CLR" data-load="false" elementtiming="system-image-block" src="/images/c440c8188fa3.jpeg" width="81" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c440c8188fa3.jpeg 100w, /images/c440c8188fa3.jpeg 300w, /images/c440c8188fa3.jpeg 500w, /images/c440c8188fa3.jpeg 750w, /images/c440c8188fa3.jpeg 1000w, /images/c440c8188fa3.jpeg 1500w, /images/c440c8188fa3.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Petroleum System - CLR" src="/images/c440c8188fa3.jpeg" width="81" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c440c8188fa3.jpeg 100w, /images/c440c8188fa3.jpeg 300w, /images/c440c8188fa3.jpeg 500w, /images/c440c8188fa3.jpeg 750w, /images/c440c8188fa3.jpeg 1000w, /images/c440c8188fa3.jpeg 1500w, /images/c440c8188fa3.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Continental Resources announced results from its first well test in the third be
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43cada5d4222fbbca123/1467385547983/" data-record-type="1" data-full-url="/bsp-news/news/continentals-first-well-the-three-forks-third-bench-impresses" data-title="Continentals First Well the Three Fork's Third Bench Impresses"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43cada5d4222fbbca123" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

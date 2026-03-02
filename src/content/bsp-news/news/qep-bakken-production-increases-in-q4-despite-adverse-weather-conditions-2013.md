@@ -83,7 +83,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ff9ff140787e.jpeg" data-image="/images/ff9ff140787e.jpeg" data-image-dimensions="300x207" data-image-focal-point="0.5,0.5" alt="QEP Resources Bakken Three Forks Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/ff9ff140787e.jpeg" width="300" height="207" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ff9ff140787e.jpeg 100w, /images/ff9ff140787e.jpeg 300w, /images/ff9ff140787e.jpeg 500w, /images/ff9ff140787e.jpeg 750w, /images/ff9ff140787e.jpeg 1000w, /images/ff9ff140787e.jpeg 1500w, /images/ff9ff140787e.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="QEP Resources Bakken Three Forks Acreage Map" src="/images/ff9ff140787e.jpeg" width="300" height="207" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ff9ff140787e.jpeg 100w, /images/ff9ff140787e.jpeg 300w, /images/ff9ff140787e.jpeg 500w, /images/ff9ff140787e.jpeg 750w, /images/ff9ff140787e.jpeg 1000w, /images/ff9ff140787e.jpeg 1500w, /images/ff9ff140787e.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>QEP Resources grew its Bakken and Three Forks production in the fourth-quarter, despite adverse weather conditions, achieving net average production of 27,700 boe/d (96% liquids). That's a 30% increase over third-quarter 2013 production, which was 21,300 boe/d.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/qep-resources-bakken-three-forks-production-surpasses-21000-boed?rq=QEP">QEP Resources Bakken &amp; Three Forks Production Surpasses 21,000 boe/d</a></p><p>The company brought 26 operated wells to sales in the fourth-quarter, with good initial production rates.&nbsp;17 of those wells were in the South Antelope, and their average 24-hour initial production (IP) rate was ~3,025 boe/d. The other nine wells were in the Fort Berthold Reservation, with an average 24-hour initial production (IP) rate of 1,850 boe/d.</p><p>In 2013, QEP also saw the value of its South Antelope property rise to $2.8 billion from a $1.14 billion investment. Production from this asset grew throughout the year.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/qep-resources-south-antelope-bakken-property-valuation?rq=QEP%20Resources%20South%20Antelope%20Bakken%20Properties%20Valued%20at%20%242.8%20Billion%20at%20Year-End%202013">QEP Resources South Antelope Bakken Properties Valued at $2.8 Billion at Year-End 2013</a></p>
+  <p>QEP Resources grew its Bakken and Three Forks production in the fourth-quarter, despite adverse weather conditions, achieving net average production of 27,700 boe/d (96% liquids). That's a 30% increase over third-quarter 2013 production, which was 21,300 boe/d.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/qep-resources-bakken-three-forks-production-surpasses-21000-boed?rq=QEP">QEP Resources Bakken &amp; Three Forks Production Surpasses 21,000 boe/d</a></p><p>The company brought 26 operated wells to sales in the fourth-quarter, with good initial production rates.&nbsp;17 of those wells were in the South Antelope, and their average 24-hour initial production (IP) rate was ~3,025 boe/d. The other nine wells were in the Fort Berthold Reservation, with an average 24-hour initial production (IP) rate of 1,850 boe/d.</p><p>In 2013, QEP also saw the value of its South Antelope property rise to $2.8 billion from a $1.14 billion investment. Production from this asset grew throughout the year.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/qep-resources-south-antelope-bakken-property-valuation?rq=QEP%20Resources%20South%20Antelope%20Bakken%20Properties%20Valued%20at%20%242.8%20Billion%20at%20Year-End%202013">QEP Resources South Antelope Bakken Properties Valued at $2.8 Billion at Year-End 2013</a></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>QEP Energy’s capital investment program resulted in a 62% increase in crude oil production over last year driven by a 133% increase in production from the Williston Basin. Crude oil volumes represented 20% of QEP Energy’s production in 2013, a substantial increase from 12% in 2012 and 8% in 2011,” said Chuck Stanley, CEO, QEP Resources.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/ff9ff140787e.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43feda5d4222fbbca419/1467383347791/" data-record-type="1" data-full-url="/bsp-news/news/qep-bakken-production-increases-in-q4-despite-adverse-weather-conditions-2013" data-title="QEP Bakken Production Increases in Q4 2013, Despite Adverse Weather Conditions"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43feda5d4222fbbca419" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

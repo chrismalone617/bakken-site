@@ -83,7 +83,7 @@ heroImage: "/images/d162431754b7.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d162431754b7.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d162431754b7.jpeg" data-image="/images/d162431754b7.jpeg" data-image-dimensions="234x300" data-image-focal-point="0.5,0.5" alt="Deloitte - Technically Recoverable Tight Oil" data-load="false" elementtiming="system-image-block" src="/images/d162431754b7.jpeg" width="234" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d162431754b7.jpeg 100w, /images/d162431754b7.jpeg 300w, /images/d162431754b7.jpeg 500w, /images/d162431754b7.jpeg 750w, /images/d162431754b7.jpeg 1000w, /images/d162431754b7.jpeg 1500w, /images/d162431754b7.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Deloitte - Technically Recoverable Tight Oil" src="/images/d162431754b7.jpeg" width="234" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d162431754b7.jpeg 100w, /images/d162431754b7.jpeg 300w, /images/d162431754b7.jpeg 500w, /images/d162431754b7.jpeg 750w, /images/d162431754b7.jpeg 1000w, /images/d162431754b7.jpeg 1500w, /images/d162431754b7.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Several key leaders from across the industry shared their optimism at the annual
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f3da5d4222fbbca385/1467383824181/" data-record-type="1" data-full-url="/bsp-news/news/oil-gas-industry-focused-innovation-deloitte-oil-gas-conference" data-title="Oil &amp; Gas Industry Focused on Innovation - Deloitte Oil &amp; Gas Conference"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f3da5d4222fbbca385" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/315981ce811f.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/315981ce811f.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/315981ce811f.jpeg" data-image="/images/315981ce811f.jpeg" data-image-dimensions="300x196" data-image-focal-point="0.5,0.5" alt="Sandpiper Project Map - Enbridge" data-load="false" elementtiming="system-image-block" src="/images/315981ce811f.jpeg" width="300" height="196" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/315981ce811f.jpeg 100w, /images/315981ce811f.jpeg 300w, /images/315981ce811f.jpeg 500w, /images/315981ce811f.jpeg 750w, /images/315981ce811f.jpeg 1000w, /images/315981ce811f.jpeg 1500w, /images/315981ce811f.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Sandpiper Project Map - Enbridge" src="/images/315981ce811f.jpeg" width="300" height="196" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/315981ce811f.jpeg 100w, /images/315981ce811f.jpeg 300w, /images/315981ce811f.jpeg 500w, /images/315981ce811f.jpeg 750w, /images/315981ce811f.jpeg 1000w, /images/315981ce811f.jpeg 1500w, /images/315981ce811f.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/315981ce811f.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Enbridge is planning a new 600-mile, 24-inch pipeline, the Sandpiper Project, from Beaver Lodge, ND, to Superior, WI. The Sandpiper Project has a planned cost of $2.5 billion and will move 225,000 b/d of Bakken crude The pipeline is part of a larger program in which Enbridge will invest $6.2 billion to increase accessibility to North Dakota and Western Canada's light crude. In total, the system expansions will move 400,000 b/d of light oil. The pipeline has shipper support and is expected to be completed in early 2016. FERC approval is required before construction begins.</p><p>The Sandpiper Project is likely a determining factor in <a href="http://bakkenshale.com/bsp-news/news/oneok-cancels-bakken-crude-express-plans">Oneok Canceling the Bakken Crude Express</a>. If Enbridge's estimates prove true, you could see the Bakken Crude Express or a similar project come back to life. Current production is near 700,000 b/d and Enbridge expects it could grow to 1,200,000 b/d in the next five years.</p><blockquote><p>"This $6.2 billion investment rounds out our suite of major crude oil new market access initiatives for North American markets," said Al Monaco, President and Chief Executive Officer, Enbridge Inc. "..... These market access initiatives reflect changing North American supply and demand fundamentals and will create significant value for our customers....."</p></blockquote><p>It must be a promising investment. Enbridge has a total of $26 billion in projects planned between 2012 and 2016. That's impressive considering the company (ENB) has a market cap of ~$35 billion. Add Enbridge Energy Partner's market cap and it's closer to $43 billion - still no small feat. The $2.5 billion Sandpiper Project will be funded by EEP.</p>
+  <p>Enbridge is planning a new 600-mile, 24-inch pipeline, the Sandpiper Project, from Beaver Lodge, ND, to Superior, WI. The Sandpiper Project has a planned cost of $2.5 billion and will move 225,000 b/d of Bakken crude The pipeline is part of a larger program in which Enbridge will invest $6.2 billion to increase accessibility to North Dakota and Western Canada's light crude. In total, the system expansions will move 400,000 b/d of light oil. The pipeline has shipper support and is expected to be completed in early 2016. FERC approval is required before construction begins.</p><p>The Sandpiper Project is likely a determining factor in <a href="/bsp-news/news/oneok-cancels-bakken-crude-express-plans">Oneok Canceling the Bakken Crude Express</a>. If Enbridge's estimates prove true, you could see the Bakken Crude Express or a similar project come back to life. Current production is near 700,000 b/d and Enbridge expects it could grow to 1,200,000 b/d in the next five years.</p><blockquote><p>"This $6.2 billion investment rounds out our suite of major crude oil new market access initiatives for North American markets," said Al Monaco, President and Chief Executive Officer, Enbridge Inc. "..... These market access initiatives reflect changing North American supply and demand fundamentals and will create significant value for our customers....."</p></blockquote><p>It must be a promising investment. Enbridge has a total of $26 billion in projects planned between 2012 and 2016. That's impressive considering the company (ENB) has a market cap of ~$35 billion. Add Enbridge Energy Partner's market cap and it's closer to $43 billion - still no small feat. The $2.5 billion Sandpiper Project will be funded by EEP.</p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/315981ce811f.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43cbda5d4222fbbca129/1467385529191/" data-record-type="1" data-full-url="/bsp-news/news/enbridges-sandpiper-project-will-expand-its-north-dakota-system" data-title="Enbridge's Sandpiper Project Will Expand its North Dakota System"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43cbda5d4222fbbca129" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

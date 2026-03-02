@@ -83,7 +83,7 @@ heroImage: "/images/e0677cad1681.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/e0677cad1681.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/e0677cad1681.jpeg" data-image="/images/e0677cad1681.jpeg" data-image-dimensions="297x300" data-image-focal-point="0.5,0.5" alt="Whiting Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/e0677cad1681.jpeg" width="297" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e0677cad1681.jpeg 100w, /images/e0677cad1681.jpeg 300w, /images/e0677cad1681.jpeg 500w, /images/e0677cad1681.jpeg 750w, /images/e0677cad1681.jpeg 1000w, /images/e0677cad1681.jpeg 1500w, /images/e0677cad1681.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Whiting Bakken Acreage Map" src="/images/e0677cad1681.jpeg" width="297" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e0677cad1681.jpeg 100w, /images/e0677cad1681.jpeg 300w, /images/e0677cad1681.jpeg 500w, /images/e0677cad1681.jpeg 750w, /images/e0677cad1681.jpeg 1000w, /images/e0677cad1681.jpeg 1500w, /images/e0677cad1681.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/e0677cad1681.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Whiting Petroleum had record production in 2013 of 94,090 boe/d across its portfolio. That's up 14% from 2012 production of 82,540 boe/d.</p><p>In the fourth-quarter of 2013, Whiting's production hit the 100,000 boe/d mark. That's up 9% from the third-quarter.</p><p>The strong production numbers are due largely to the company's development of core Bakken assets in North Dakota and Montana.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/whiting-expands-bakken-position-tests-new-completion-designs-in-the-third-quarter">Whiting Expands Bakken Position and Tests New Completion Designs in the Third Quarter</a></p>
+  <p>Whiting Petroleum had record production in 2013 of 94,090 boe/d across its portfolio. That's up 14% from 2012 production of 82,540 boe/d.</p><p>In the fourth-quarter of 2013, Whiting's production hit the 100,000 boe/d mark. That's up 9% from the third-quarter.</p><p>The strong production numbers are due largely to the company's development of core Bakken assets in North Dakota and Montana.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/whiting-expands-bakken-position-tests-new-completion-designs-in-the-third-quarter">Whiting Expands Bakken Position and Tests New Completion Designs in the Third Quarter</a></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/e0677cad1681.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Whiting CEO, James Volkner, said, “with full-scale development underway at such fields as Pronghorn, Hidden Bench and Missouri Breaks, we generated excellent results in 2013. In the wake of this development, we posted records in production, proved reserves and discretionary cash flow.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/e0677cad1681.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43ffda5d4222fbbca41c/1467383338543/" data-record-type="1" data-full-url="/bsp-news/news/whiting-hits-record-production-fourth-quarter-2013" data-title="Whiting Hits Record Production in the Fourth-Quarter of 2013"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43ffda5d4222fbbca41c" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

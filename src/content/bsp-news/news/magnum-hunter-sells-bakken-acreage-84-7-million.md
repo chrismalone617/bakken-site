@@ -83,7 +83,7 @@ heroImage: "/images/8d7bf47a0566.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/8d7bf47a0566.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/8d7bf47a0566.jpeg" data-image="/images/8d7bf47a0566.jpeg" data-image-dimensions="300x300" data-image-focal-point="0.5,0.5" alt="Magnum Hunter Resources' Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/8d7bf47a0566.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8d7bf47a0566.jpeg 100w, /images/8d7bf47a0566.jpeg 300w, /images/8d7bf47a0566.jpeg 500w, /images/8d7bf47a0566.jpeg 750w, /images/8d7bf47a0566.jpeg 1000w, /images/8d7bf47a0566.jpeg 1500w, /images/8d7bf47a0566.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Magnum Hunter Resources' Bakken Acreage Map" src="/images/8d7bf47a0566.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8d7bf47a0566.jpeg 100w, /images/8d7bf47a0566.jpeg 300w, /images/8d7bf47a0566.jpeg 500w, /images/8d7bf47a0566.jpeg 750w, /images/8d7bf47a0566.jpeg 1000w, /images/8d7bf47a0566.jpeg 1500w, /images/8d7bf47a0566.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/8d7bf47a0566.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Houston, TX-based Magnum Hunter Resources has sold a large chunk of its Bakken acreage for $84.7-million to an undisclosed buyer.</p><p>The deal, which closed in mid October of this year, included non-operated working interests in ~105,661 gross (12,500 net) leasehold acres in <a href="http://bakkenshale.com/counties/divide-county-nd">Divide County, ND</a>. The divested properties currently account for net average production of ~720 boe/d.</p>
+  <p>Houston, TX-based Magnum Hunter Resources has sold a large chunk of its Bakken acreage for $84.7-million to an undisclosed buyer.</p><p>The deal, which closed in mid October of this year, included non-operated working interests in ~105,661 gross (12,500 net) leasehold acres in <a href="/counties/divide-county-nd">Divide County, ND</a>. The divested properties currently account for net average production of ~720 boe/d.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/8d7bf47a0566.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>In a prepared statement, CEO Gary Evans described the sold Bakken assets as non-core. “Our remaining portfolio of assets located in North Dakota consists of 151 gross producing wells covering approximately 159,916 gross (73,690 net) acres, said Evans. Total net production to the Company from these remaining assets is currently approximately 2,577 boe/d at present with another ~800 boe/d anticipated to be put on production prior to year-end from this region.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/8d7bf47a0566.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f440eda5d4222fbbca4ed/1467382601046/" data-record-type="1" data-full-url="/bsp-news/news/magnum-hunter-sells-bakken-acreage-84-7-million" data-title="Magnum Hunter Sells Bakken Acreage - $84.7-Million"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f440eda5d4222fbbca4ed" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

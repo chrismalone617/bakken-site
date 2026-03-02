@@ -25,7 +25,7 @@ description: "Dakota Plains expects to commission an expansion of its Pioneer Te
     <div><div data-layout-label="Post Body" data-type="item" data-updated-on="1467906226752"><div><div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Dakota Plains expects to commission an expansion of its Pioneer Terminal in New Town, ND, on December 18th.</p><p><strong>Read more:</strong><a href="http://bakkenshale.com/pmn/pipeline-midstream-news/dakota-plains-pioneer-project-under-construction?rq=Dakota%20Plains%20Pioneer%20Project%20Under%20Construction">Dakota Plains Pioneer Project Under Construction</a></p><p>When completed, throughput capacity at the rail terminal will increase from 30,000 b/d to 80,000 b/d. The facility will also have 180,000 barrels of storage.</p><p>The expansion couldn't come at a better time. The spread between WTI and Brent oil prices is at the highest point since March. A larger spread makes moving oil by rail more attractive.</p>
+  <p>Dakota Plains expects to commission an expansion of its Pioneer Terminal in New Town, ND, on December 18th.</p><p><strong>Read more:</strong><a href="//pmn/pipeline-midstream-news/dakota-plains-pioneer-project-under-construction?rq=Dakota%20Plains%20Pioneer%20Project%20Under%20Construction">Dakota Plains Pioneer Project Under Construction</a></p><p>When completed, throughput capacity at the rail terminal will increase from 30,000 b/d to 80,000 b/d. The facility will also have 180,000 barrels of storage.</p><p>The expansion couldn't come at a better time. The spread between WTI and Brent oil prices is at the highest point since March. A larger spread makes moving oil by rail more attractive.</p>
 </div>
 
 
@@ -72,7 +72,7 @@ description: "Dakota Plains expects to commission an expansion of its Pioneer Te
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>With price spreads and throughput volumes at their current high levels, and with our newly expanded Pioneer Terminal soon allowing higher throughput volumes, we believe we will be well-positioned for profitability as we move forward.<span>”</span>
   </blockquote>
   <figcaption>— Mr. Craig McKenzie, CEO</figcaption>
@@ -121,9 +121,9 @@ description: "Dakota Plains expects to commission an expansion of its Pioneer Te
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c7dfa21e80eeb550e5/1467906020504/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/dakota-plains-facility-expansion-expected-online-december" data-title="Dakota Plains Facility Expansion Expected Online in December - Video"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c7dfa21e80eeb550e5" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

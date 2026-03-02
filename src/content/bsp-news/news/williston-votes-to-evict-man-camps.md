@@ -83,7 +83,7 @@ heroImage: "/images/4c1fc1d433fb.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/4c1fc1d433fb.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/4c1fc1d433fb.jpg" data-image="/images/4c1fc1d433fb.jpg" data-image-dimensions="300x175" data-image-focal-point="0.5,0.5" alt="Temporary Housing in Bakken" data-load="false" elementtiming="system-image-block" src="/images/4c1fc1d433fb.jpg" width="300" height="175" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/4c1fc1d433fb.jpg 100w, /images/4c1fc1d433fb.jpg 300w, /images/4c1fc1d433fb.jpg 500w, /images/4c1fc1d433fb.jpg 750w, /images/4c1fc1d433fb.jpg 1000w, /images/4c1fc1d433fb.jpg 1500w, /images/4c1fc1d433fb.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Temporary Housing in Bakken" src="/images/4c1fc1d433fb.jpg" width="300" height="175" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/4c1fc1d433fb.jpg 100w, /images/4c1fc1d433fb.jpg 300w, /images/4c1fc1d433fb.jpg 500w, /images/4c1fc1d433fb.jpg 750w, /images/4c1fc1d433fb.jpg 1000w, /images/4c1fc1d433fb.jpg 1500w, /images/4c1fc1d433fb.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/4c1fc1d433fb.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Bakken 'man-camps' are fighting for their existence after Williston City voted to let them die.</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/bakken-man-camps-disappear?rq=Will%20Bakken%20Man%20Camps%20Disappear%3F">Will Bakken Man Camps Disappear?</a></p><p>Man camps provide temporary employee housing to oilfield workers and have been a prominent feature dotting the landscape since the oil boom brought an influx of people to the Bakken region. But many have emptied in recent months due to the downturn and at least one local government wants to ban them altogether.</p><p>Last month, the Williston City Commission approved of an ordinance that would deny man-camps occupancy permit extensions beyond July 2016. This marks the first time that a community has evicted a man camp, though other communities in Texas and North Dakota have blocked their arrival or expansion.</p><p>Williston leaders want oilfield workers to plant permanent roots or use existing hotels when they must stay for extended periods. They say that there is already plenty of housing in the city.</p><p>Williston mayor Howard Klug told <a target="_blank" href="http://www.reuters.com/article/us-usa-oil-housing-idUSKBN0TC1TV20151123#A2iEpLJA8UxsTIhC.97">Reuters</a> that “The man camp industry should understand we allowed them to come here on a temporary basis.”</p><p>As expected, providers of temporary housing have pushed back against the ordinance, warning that this will mean layoffs for up to 200 workers and a loss of revenue and donations for the community. They also are afraid that this might set a precedence for other communities who are considering pushing out man-camps.</p><p>The November 24th meeting was expected to be a non-event, but the an official 11th-hour protest to the ordinance caused a disruption in the proceedings. The ordinance passed by a 3-2 vote, but the mayor promised that the the city will be working on an amendment that might may include allowing some of the city’s crew camps to remain open.</p>
+  <p>Bakken 'man-camps' are fighting for their existence after Williston City voted to let them die.</p><p>Related: <a href="/bsp-news/news/bakken-man-camps-disappear?rq=Will%20Bakken%20Man%20Camps%20Disappear%3F">Will Bakken Man Camps Disappear?</a></p><p>Man camps provide temporary employee housing to oilfield workers and have been a prominent feature dotting the landscape since the oil boom brought an influx of people to the Bakken region. But many have emptied in recent months due to the downturn and at least one local government wants to ban them altogether.</p><p>Last month, the Williston City Commission approved of an ordinance that would deny man-camps occupancy permit extensions beyond July 2016. This marks the first time that a community has evicted a man camp, though other communities in Texas and North Dakota have blocked their arrival or expansion.</p><p>Williston leaders want oilfield workers to plant permanent roots or use existing hotels when they must stay for extended periods. They say that there is already plenty of housing in the city.</p><p>Williston mayor Howard Klug told <a target="_blank" href="http://www.reuters.com/article/us-usa-oil-housing-idUSKBN0TC1TV20151123#A2iEpLJA8UxsTIhC.97">Reuters</a> that “The man camp industry should understand we allowed them to come here on a temporary basis.”</p><p>As expected, providers of temporary housing have pushed back against the ordinance, warning that this will mean layoffs for up to 200 workers and a loss of revenue and donations for the community. They also are afraid that this might set a precedence for other communities who are considering pushing out man-camps.</p><p>The November 24th meeting was expected to be a non-event, but the an official 11th-hour protest to the ordinance caused a disruption in the proceedings. The ordinance passed by a 3-2 vote, but the mayor promised that the the city will be working on an amendment that might may include allowing some of the city’s crew camps to remain open.</p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/4c1fc1d433fb.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4425da5d4222fbbca685/1467208961814/" data-record-type="1" data-full-url="/bsp-news/news/williston-votes-to-evict-man-camps" data-title="Williston Votes to Evict Man Camps"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4425da5d4222fbbca685" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

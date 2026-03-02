@@ -83,7 +83,7 @@ heroImage: "/images/98dddfb2c4b4.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/98dddfb2c4b4.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/98dddfb2c4b4.png" data-image="/images/98dddfb2c4b4.png" data-image-dimensions="300x235" data-image-focal-point="0.5,0.5" alt="North Dakota Developments, LLC" data-load="false" elementtiming="system-image-block" src="/images/98dddfb2c4b4.png" width="300" height="235" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/98dddfb2c4b4.png 100w, /images/98dddfb2c4b4.png 300w, /images/98dddfb2c4b4.png 500w, /images/98dddfb2c4b4.png 750w, /images/98dddfb2c4b4.png 1000w, /images/98dddfb2c4b4.png 1500w, /images/98dddfb2c4b4.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="North Dakota Developments, LLC" src="/images/98dddfb2c4b4.png" width="300" height="235" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/98dddfb2c4b4.png 100w, /images/98dddfb2c4b4.png 300w, /images/98dddfb2c4b4.png 500w, /images/98dddfb2c4b4.png 750w, /images/98dddfb2c4b4.png 1000w, /images/98dddfb2c4b4.png 1500w, /images/98dddfb2c4b4.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/98dddfb2c4b4.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Two days after North Dakota filed an injunction to delay new federal fracking rules, a district court grants a temporary reprieve.</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/new-fracking-rules-for-public-land?rq=New%20Fracking%20Rules%20for%20Public%20Lands">New Fracking Rules for Public Lands</a></p><p>U.S. District Court Judge Scott W. Skavdahl delayed the new ruling, which was to go into effect this week, saying that permitting of oil and gas wells on federal land will proceed under current regulations until July 22nd.</p><p>The case before Judge Skavdahl combined a challenge from North Dakoa, Wyoming and Colorado with one from industry groups who believed the Bureau of Land Management (BLM) did not follow federal rule-making law and exceeded their authority.</p><p>Related:&nbsp;<a target="_blank" href="http://eaglefordshale.com/news/federal-fracking-regulations-challenged/">Federal <strong>Fracking</strong> Regulations Challenged </a></p>
+  <p>Two days after North Dakota filed an injunction to delay new federal fracking rules, a district court grants a temporary reprieve.</p><p>Related: <a href="/bsp-news/news/new-fracking-rules-for-public-land?rq=New%20Fracking%20Rules%20for%20Public%20Lands">New Fracking Rules for Public Lands</a></p><p>U.S. District Court Judge Scott W. Skavdahl delayed the new ruling, which was to go into effect this week, saying that permitting of oil and gas wells on federal land will proceed under current regulations until July 22nd.</p><p>The case before Judge Skavdahl combined a challenge from North Dakoa, Wyoming and Colorado with one from industry groups who believed the Bureau of Land Management (BLM) did not follow federal rule-making law and exceeded their authority.</p><p>Related:&nbsp;<a target="_blank" href="http://eaglefordshale.com/news/federal-fracking-regulations-challenged/">Federal <strong>Fracking</strong> Regulations Challenged </a></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/98dddfb2c4b4.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Jessica Kershaw, a BLM spokeswoman said “While the matter is being resolved, the BLM will follow the court’s order and will continue to process applications for permit to drill and inspect well sites under its pre-existing regulations.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/98dddfb2c4b4.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e7da5d4222fbbca2d2/1467381092536/" data-record-type="1" data-full-url="/bsp-news/news/north-dakota-fights-fracking-rule-2" data-title="North Dakota Fights Fracking Rule"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e7da5d4222fbbca2d2" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

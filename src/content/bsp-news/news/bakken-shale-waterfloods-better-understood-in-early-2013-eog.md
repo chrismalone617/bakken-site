@@ -83,7 +83,7 @@ heroImage: "/images/508db4e5456a.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/508db4e5456a.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/508db4e5456a.gif" data-image="/images/508db4e5456a.gif" data-image-dimensions="298x300" data-image-focal-point="0.5,0.5" alt="EOG Resources Bakken Shale Map" data-load="false" elementtiming="system-image-block" src="/images/508db4e5456a.gif" width="298" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/508db4e5456a.gif 100w, /images/508db4e5456a.gif 300w, /images/508db4e5456a.gif 500w, /images/508db4e5456a.gif 750w, /images/508db4e5456a.gif 1000w, /images/508db4e5456a.gif 1500w, /images/508db4e5456a.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="EOG Resources Bakken Shale Map" src="/images/508db4e5456a.gif" width="298" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/508db4e5456a.gif 100w, /images/508db4e5456a.gif 300w, /images/508db4e5456a.gif 500w, /images/508db4e5456a.gif 750w, /images/508db4e5456a.gif 1000w, /images/508db4e5456a.gif 1500w, /images/508db4e5456a.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -159,9 +159,9 @@ heroImage: "/images/508db4e5456a.gif"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c6da5d4222fbbca0dd/1467385735561/" data-record-type="1" data-full-url="/bsp-news/news/bakken-shale-waterfloods-better-understood-in-early-2013-eog" data-title="Bakken Shale Waterfloods Better Understood in Early 2013 - EOG"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c6da5d4222fbbca0dd" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

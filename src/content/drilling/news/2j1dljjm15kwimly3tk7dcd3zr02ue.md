@@ -81,7 +81,7 @@ description: "The  Bakken-Three Forks rig count &amp;nbsp;saw positive movement 
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -90,7 +90,7 @@ description: "The  Bakken-Three Forks rig count &amp;nbsp;saw positive movement 
                 
                 
                 
-                <img data-stretch="false" data-src="/images/9e413be1e2be.jpeg" data-image="/images/9e413be1e2be.jpeg" data-image-dimensions="300x180" data-image-focal-point="0.5,0.5" alt="Bakken Rig Count on the Rise" data-load="false" elementtiming="system-image-block" src="/images/9e413be1e2be.jpeg" width="300" height="180" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/9e413be1e2be.jpeg 100w, /images/9e413be1e2be.jpeg 300w, /images/9e413be1e2be.jpeg 500w, /images/9e413be1e2be.jpeg 750w, /images/9e413be1e2be.jpeg 1000w, /images/9e413be1e2be.jpeg 1500w, /images/9e413be1e2be.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Rig Count on the Rise" src="/images/9e413be1e2be.jpeg" width="300" height="180" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/9e413be1e2be.jpeg 100w, /images/9e413be1e2be.jpeg 300w, /images/9e413be1e2be.jpeg 500w, /images/9e413be1e2be.jpeg 750w, /images/9e413be1e2be.jpeg 1000w, /images/9e413be1e2be.jpeg 1500w, /images/9e413be1e2be.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -116,7 +116,7 @@ description: "The  Bakken-Three Forks rig count &amp;nbsp;saw positive movement 
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The <a href="http://bakkenshale.com/drilling">Bakken-Three Forks rig count</a>&nbsp;saw positive movement this week as it increased by two to 26 rigs running across our coverage area by midday Friday.</p><p>In recent Bakken news,&nbsp;<span>The North Dakota Department of Mineral Resources (DMR)&nbsp;reported last week that the state's oil output dropped more than 50% in April.</span></p><p><span><a href="http://bakkenshale.com/bsp-news/north-dakota-oil-output-plunges">Read more: North Dakota Oil Output Plunges by 50%</a>&nbsp;</span></p><p><em>A total of <strong>420</strong>&nbsp;oil and gas rigs were running across the United States this week, a decrease of three over last week.&nbsp;<strong>90</strong>&nbsp;were targeting natural gas (four more than the previous week) and <strong>330</strong>&nbsp;were targeting oil in the U.S. (seven less than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><span>&nbsp;</span><em>&nbsp;<strong>26</strong>&nbsp;of the rigs active in the U.S. were running in North Dakota.</em></p><h2>Bakken Oil &amp; Gas Rigs</h2><p>Bakken oil rigs were at 26 this week with Bloomberg reporting WTI oil prices at $<span>47.64</span> on Friday afternoon. WTI-Brent saw a slight decrease this week to $<span>48.41</span>.&nbsp;The Bakken has zero natural active gas rig in the area this week with futures trading to $2.67/mmbtu by midday.</p><p>McKenzie County leads development with 12 rigs running this week, far outpacing other counties. View the full list below under the <em>Bakken Drilling by County</em>&nbsp;section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>26 rigs are drilling horizontal wells</li><li>0 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><p><a href="http://jobs.bakkenshale.com/">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</a></p><h2>Bakken Drilling by County</h2>
+  <p>The <a href="/drilling">Bakken-Three Forks rig count</a>&nbsp;saw positive movement this week as it increased by two to 26 rigs running across our coverage area by midday Friday.</p><p>In recent Bakken news,&nbsp;<span>The North Dakota Department of Mineral Resources (DMR)&nbsp;reported last week that the state's oil output dropped more than 50% in April.</span></p><p><span><a href="/bsp-news/north-dakota-oil-output-plunges">Read more: North Dakota Oil Output Plunges by 50%</a>&nbsp;</span></p><p><em>A total of <strong>420</strong>&nbsp;oil and gas rigs were running across the United States this week, a decrease of three over last week.&nbsp;<strong>90</strong>&nbsp;were targeting natural gas (four more than the previous week) and <strong>330</strong>&nbsp;were targeting oil in the U.S. (seven less than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><span>&nbsp;</span><em>&nbsp;<strong>26</strong>&nbsp;of the rigs active in the U.S. were running in North Dakota.</em></p><h2>Bakken Oil &amp; Gas Rigs</h2><p>Bakken oil rigs were at 26 this week with Bloomberg reporting WTI oil prices at $<span>47.64</span> on Friday afternoon. WTI-Brent saw a slight decrease this week to $<span>48.41</span>.&nbsp;The Bakken has zero natural active gas rig in the area this week with futures trading to $2.67/mmbtu by midday.</p><p>McKenzie County leads development with 12 rigs running this week, far outpacing other counties. View the full list below under the <em>Bakken Drilling by County</em>&nbsp;section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>26 rigs are drilling horizontal wells</li><li>0 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><p><a href="http://jobs.bakkenshale.com/">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</a></p><h2>Bakken Drilling by County</h2>
 </div>
 
 
@@ -199,7 +199,7 @@ description: "The  Bakken-Three Forks rig count &amp;nbsp;saw positive movement 
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -208,7 +208,7 @@ description: "The  Bakken-Three Forks rig count &amp;nbsp;saw positive movement 
                 
                 
                 
-                <img data-stretch="false" data-src="/images/9f4041c88c1f.png" data-image="/images/9f4041c88c1f.png" data-image-dimensions="809x286" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/9f4041c88c1f.png" width="809" height="286" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/9f4041c88c1f.png 100w, /images/9f4041c88c1f.png 300w, /images/9f4041c88c1f.png 500w, /images/9f4041c88c1f.png 750w, /images/9f4041c88c1f.png 1000w, /images/9f4041c88c1f.png 1500w, /images/9f4041c88c1f.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/9f4041c88c1f.png" width="809" height="286" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/9f4041c88c1f.png 100w, /images/9f4041c88c1f.png 300w, /images/9f4041c88c1f.png 500w, /images/9f4041c88c1f.png 750w, /images/9f4041c88c1f.png 1000w, /images/9f4041c88c1f.png 1500w, /images/9f4041c88c1f.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -270,9 +270,9 @@ description: "The  Bakken-Three Forks rig count &amp;nbsp;saw positive movement 
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f41e26dc6951d90c43bbf/576e85976b8f5b047cfaabf5/1466861497888/" data-record-type="1" data-full-url="/drilling/news/2j1dljjm15kwimly3tk7dcd3zr02ue" data-title="Bakken Rig Count Makes Gains "><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="576e85976b8f5b047cfaabf5" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

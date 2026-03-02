@@ -72,7 +72,7 @@ description: "Tesoro has launched  tesoroalert.com  to keep everyone up to date 
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We deeply regret our recent crude oil spill north of Tioga, North Dakota. This type of event is unacceptable. We take full responsibility and will make the situation right.......We`re committed to leaving the land in the same or better condition it was in before our event, and we are taking steps to prevent incidents of this kind from occurring again.<span>”</span>
   </blockquote>
   <figcaption>— Dan Romasko, COO</figcaption>
@@ -121,9 +121,9 @@ description: "Tesoro has launched  tesoroalert.com  to keep everyone up to date 
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43eeda5d4222fbbca33b/1467317716173/" data-record-type="1" data-full-url="/bsp-news/news/tesoro-website-launched-response-oil-spill" data-title="Tesoro Website Launched In Response to Oil Spill"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43eeda5d4222fbbca33b" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

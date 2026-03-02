@@ -83,7 +83,7 @@ heroImage: "/images/52dac3e9fbd8.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/52dac3e9fbd8.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/52dac3e9fbd8.jpg" data-image="/images/52dac3e9fbd8.jpg" data-image-dimensions="300x200" data-image-focal-point="0.5,0.5" alt="Crude Plunges to Six Year Low" data-load="false" elementtiming="system-image-block" src="/images/52dac3e9fbd8.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/52dac3e9fbd8.jpg 100w, /images/52dac3e9fbd8.jpg 300w, /images/52dac3e9fbd8.jpg 500w, /images/52dac3e9fbd8.jpg 750w, /images/52dac3e9fbd8.jpg 1000w, /images/52dac3e9fbd8.jpg 1500w, /images/52dac3e9fbd8.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Crude Plunges to Six Year Low" src="/images/52dac3e9fbd8.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/52dac3e9fbd8.jpg 100w, /images/52dac3e9fbd8.jpg 300w, /images/52dac3e9fbd8.jpg 500w, /images/52dac3e9fbd8.jpg 750w, /images/52dac3e9fbd8.jpg 1000w, /images/52dac3e9fbd8.jpg 1500w, /images/52dac3e9fbd8.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/52dac3e9fbd8.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>OPEC announced last Friday that it will stick with its policy to produce oil at a high rate, a measure that may signal they are underestimating Bakken producers.</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/opec-shale-drillers?rq=OPEC%20Challenges%20Bakken%20Shale%20Drillers"><strong>OPEC</strong> Challenges Bakken Shale Drillers</a></p><p>If the measure by OPEC was meant to intimidate U.S. energy producers, they may want to try again. Despite this tactic to crush competitors, U.S. oil companies have worked to streamline operations an become more efficient. Many now claim they can remain profitable at the lower crude prices for some time.</p>
+  <p>OPEC announced last Friday that it will stick with its policy to produce oil at a high rate, a measure that may signal they are underestimating Bakken producers.</p><p>Related: <a href="/bsp-news/news/opec-shale-drillers?rq=OPEC%20Challenges%20Bakken%20Shale%20Drillers"><strong>OPEC</strong> Challenges Bakken Shale Drillers</a></p><p>If the measure by OPEC was meant to intimidate U.S. energy producers, they may want to try again. Despite this tactic to crush competitors, U.S. oil companies have worked to streamline operations an become more efficient. Many now claim they can remain profitable at the lower crude prices for some time.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/52dac3e9fbd8.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Lynn Helms, head of North Dakota’s Department of Mineral Resources says that “OPEC is still is our main competition. But what you’re seeing now is the Bakken becoming the swing producer, something that has happened relatively quickly because of efficiencies in drilling and completion technology.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/52dac3e9fbd8.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d2da5d4222fbbca187/1467381185250/" data-record-type="1" data-full-url="/bsp-news/news/opec-decision-doesnt-intimidate" data-title="OPEC Decision Doesn't Intimidate"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d2da5d4222fbbca187" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

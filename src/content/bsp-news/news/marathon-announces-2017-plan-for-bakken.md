@@ -84,7 +84,7 @@ heroImage: "/images/8647c8dbfcff.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -93,7 +93,7 @@ heroImage: "/images/8647c8dbfcff.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/8647c8dbfcff.png" data-image="/images/8647c8dbfcff.png" data-image-dimensions="300x230" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/8647c8dbfcff.png" width="300" height="230" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8647c8dbfcff.png 100w, /images/8647c8dbfcff.png 300w, /images/8647c8dbfcff.png 500w, /images/8647c8dbfcff.png 750w, /images/8647c8dbfcff.png 1000w, /images/8647c8dbfcff.png 1500w, /images/8647c8dbfcff.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/8647c8dbfcff.png" width="300" height="230" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8647c8dbfcff.png 100w, /images/8647c8dbfcff.png 300w, /images/8647c8dbfcff.png 500w, /images/8647c8dbfcff.png 750w, /images/8647c8dbfcff.png 1000w, /images/8647c8dbfcff.png 1500w, /images/8647c8dbfcff.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -116,7 +116,7 @@ heroImage: "/images/8647c8dbfcff.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Marathon Oil Corp. plans to increase its Bakken activity.</p><p>Related:&nbsp;<a href="https://bakkenshale.com/bsp-news/news/continental">Continental Plans 26% Growth for Bakken</a></p><p>Marathon announced their 2016 results last week including a fourth quarter 2016 net loss of $1,371 million.&nbsp;</p><p>The company's Bakken production during the quarter averaged 52,000 net boed, down only slightly from the prior quarter's average of 54,000 net boed. Other full year results include:</p><ul><li>2016 capital program at $1.1 billion, $300 million below original budget</li><li>Total production averaged 393,000 net boed&nbsp;</li><li>E&amp;P production averaged 342,000 net boed</li><li>Ended the year with 12 rigs operating in the U.S. resource plays&nbsp;</li><li>Decreased G&amp;A expenses by 18% year over year</li><li>Non-core asset sales for approximately $1.3 billion, excluding closing adjustment</li><li>Year-end liquidity of $5.8 billion&nbsp;</li></ul><h2>2017</h2>
+  <p>Marathon Oil Corp. plans to increase its Bakken activity.</p><p>Related:&nbsp;<a href="/bsp-news/news/continental">Continental Plans 26% Growth for Bakken</a></p><p>Marathon announced their 2016 results last week including a fourth quarter 2016 net loss of $1,371 million.&nbsp;</p><p>The company's Bakken production during the quarter averaged 52,000 net boed, down only slightly from the prior quarter's average of 54,000 net boed. Other full year results include:</p><ul><li>2016 capital program at $1.1 billion, $300 million below original budget</li><li>Total production averaged 393,000 net boed&nbsp;</li><li>E&amp;P production averaged 342,000 net boed</li><li>Ended the year with 12 rigs operating in the U.S. resource plays&nbsp;</li><li>Decreased G&amp;A expenses by 18% year over year</li><li>Non-core asset sales for approximately $1.3 billion, excluding closing adjustment</li><li>Year-end liquidity of $5.8 billion&nbsp;</li></ul><h2>2017</h2>
 </div>
 
 
@@ -163,7 +163,7 @@ heroImage: "/images/8647c8dbfcff.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We’re entering 2017 with a simplified portfolio more concentrated on our high-return, low-cost opportunities in the U.S. resource plays. Our $2.2 billion capital program accelerates sequential resource play production growth to the second quarter while providing exit rate momentum that positions us to deliver compound annual growth rates of 10-12 percent.<span>”</span>
   </blockquote>
   <figcaption>— President and CEO Lee Tillman</figcaption>
@@ -217,9 +217,9 @@ heroImage: "/images/8647c8dbfcff.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/58ae4933440243fae9d5223f/1487818464304/" data-record-type="1" data-full-url="/bsp-news/news/marathon-announces-2017-plan-for-bakken" data-title="Marathon Announces 2017 Plan for Bakken"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="58ae4933440243fae9d5223f" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

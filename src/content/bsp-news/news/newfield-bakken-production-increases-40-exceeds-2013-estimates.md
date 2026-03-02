@@ -83,7 +83,7 @@ heroImage: "/images/1544dfe2fb8d.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/1544dfe2fb8d.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/1544dfe2fb8d.jpeg" data-image="/images/1544dfe2fb8d.jpeg" data-image-dimensions="300x276" data-image-focal-point="0.5,0.5" alt="Newfield Williston Basin Production Chart" data-load="false" elementtiming="system-image-block" src="/images/1544dfe2fb8d.jpeg" width="300" height="276" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/1544dfe2fb8d.jpeg 100w, /images/1544dfe2fb8d.jpeg 300w, /images/1544dfe2fb8d.jpeg 500w, /images/1544dfe2fb8d.jpeg 750w, /images/1544dfe2fb8d.jpeg 1000w, /images/1544dfe2fb8d.jpeg 1500w, /images/1544dfe2fb8d.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Newfield Williston Basin Production Chart" src="/images/1544dfe2fb8d.jpeg" width="300" height="276" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/1544dfe2fb8d.jpeg 100w, /images/1544dfe2fb8d.jpeg 300w, /images/1544dfe2fb8d.jpeg 500w, /images/1544dfe2fb8d.jpeg 750w, /images/1544dfe2fb8d.jpeg 1000w, /images/1544dfe2fb8d.jpeg 1500w, /images/1544dfe2fb8d.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/1544dfe2fb8d.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Newfield's Bakken net production in 2013 was ~4.4 MMBOE or ~12,000 boe/d. That's a 40% increase over 2012 production. At the beginning of 2013, the company had only estimated a production growth rate of 15% year-over-year in the play.</p><p>In 2014, Newfield will continue its current 4 rig program, and expects to achieve 35% to 40% year-over-year production growth. Capital expenditures are set at $330 million for 2014.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/newfield-completes-record-bakken-wells?rq=Newfield%20Completes%20Record%20Bakken%20Wells">Newfield Completes Record Bakken Wells</a></p>
+  <p>Newfield's Bakken net production in 2013 was ~4.4 MMBOE or ~12,000 boe/d. That's a 40% increase over 2012 production. At the beginning of 2013, the company had only estimated a production growth rate of 15% year-over-year in the play.</p><p>In 2014, Newfield will continue its current 4 rig program, and expects to achieve 35% to 40% year-over-year production growth. Capital expenditures are set at $330 million for 2014.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/newfield-completes-record-bakken-wells?rq=Newfield%20Completes%20Record%20Bakken%20Wells">Newfield Completes Record Bakken Wells</a></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/1544dfe2fb8d.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>In a company statement, CEO Lee Boothby said, “in 2013, we twice raised production guidance and once again, exceeded our guidance ranges in the fourth quarter, both domestically and internationally. The 2013 production from continuing operations was 40.1 million barrels of oil equivalent, exceeding our beginning-of-year estimates. The outperformance was primarily related to the Williston and Anadarko basins. <span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/1544dfe2fb8d.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43ffda5d4222fbbca425/1467383316917/" data-record-type="1" data-full-url="/bsp-news/news/newfield-bakken-production-increases-40-exceeds-2013-estimates" data-title="Newfield Bakken Production Increases 40%, Exceeds 2013 Estimates"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43ffda5d4222fbbca425" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

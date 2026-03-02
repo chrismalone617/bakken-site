@@ -83,7 +83,7 @@ heroImage: "/images/f2890295c2ef.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/f2890295c2ef.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f2890295c2ef.jpeg" data-image="/images/f2890295c2ef.jpeg" data-image-dimensions="300x261" data-image-focal-point="0.5,0.5" alt="Kodiak Oil &amp; Gas Williston Basin Map" data-load="false" elementtiming="system-image-block" src="/images/f2890295c2ef.jpeg" width="300" height="261" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f2890295c2ef.jpeg 100w, /images/f2890295c2ef.jpeg 300w, /images/f2890295c2ef.jpeg 500w, /images/f2890295c2ef.jpeg 750w, /images/f2890295c2ef.jpeg 1000w, /images/f2890295c2ef.jpeg 1500w, /images/f2890295c2ef.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Kodiak Oil &amp; Gas Williston Basin Map" src="/images/f2890295c2ef.jpeg" width="300" height="261" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f2890295c2ef.jpeg 100w, /images/f2890295c2ef.jpeg 300w, /images/f2890295c2ef.jpeg 500w, /images/f2890295c2ef.jpeg 750w, /images/f2890295c2ef.jpeg 1000w, /images/f2890295c2ef.jpeg 1500w, /images/f2890295c2ef.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/f2890295c2ef.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We believe the third quarter of 2013 was a transformational quarter for Kodiak. In addition to accelerated growth in production and reserves, we successfully brought our two down-spacing pilot programs onto full production.<span>”</span>
   </blockquote>
   <figcaption>— Kodiak's CEO, Lynn A. Peterson</figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/f2890295c2ef.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43eeda5d4222fbbca338/1467383934435/" data-record-type="1" data-full-url="/bsp-news/news/kodiak-oil-gas-grows-bakken-production-fifty-percent-in-q3" data-title="Kodiak Oil &amp; Gas Grows Bakken Production More Than 50% in Q3"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43eeda5d4222fbbca338" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

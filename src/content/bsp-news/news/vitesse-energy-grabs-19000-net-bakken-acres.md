@@ -83,7 +83,7 @@ heroImage: "/images/41df4ba4e4fd.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/41df4ba4e4fd.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/41df4ba4e4fd.jpeg" data-image="/images/41df4ba4e4fd.jpeg" data-image-dimensions="300x201" data-image-focal-point="0.5,0.5" alt="Bakken Oil Workers" data-load="false" elementtiming="system-image-block" src="/images/41df4ba4e4fd.jpeg" width="300" height="201" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/41df4ba4e4fd.jpeg 100w, /images/41df4ba4e4fd.jpeg 300w, /images/41df4ba4e4fd.jpeg 500w, /images/41df4ba4e4fd.jpeg 750w, /images/41df4ba4e4fd.jpeg 1000w, /images/41df4ba4e4fd.jpeg 1500w, /images/41df4ba4e4fd.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Oil Workers" src="/images/41df4ba4e4fd.jpeg" width="300" height="201" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/41df4ba4e4fd.jpeg 100w, /images/41df4ba4e4fd.jpeg 300w, /images/41df4ba4e4fd.jpeg 500w, /images/41df4ba4e4fd.jpeg 750w, /images/41df4ba4e4fd.jpeg 1000w, /images/41df4ba4e4fd.jpeg 1500w, /images/41df4ba4e4fd.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/41df4ba4e4fd.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Centennial, CO-based Vitesse Energy, LLC has purchased non-operated oil and gas assets in the Williston Basin from EnerVest Operating, LLC for $186.5-million. Included in the deal are working interests in approximately 600 wells and over 19,000 net acres in core Bakken Counties of <a href="http://bakkenshale.com/counties/williams-county-nd">Williams</a>, <a href="http://bakkenshale.com/counties/mckenzie-county-nd">McKenzie</a> and <a href="http://bakkenshale.com/counties/mountrail-county-nd">Mountrail</a>.</p>
+  <p>Centennial, CO-based Vitesse Energy, LLC has purchased non-operated oil and gas assets in the Williston Basin from EnerVest Operating, LLC for $186.5-million. Included in the deal are working interests in approximately 600 wells and over 19,000 net acres in core Bakken Counties of <a href="/counties/williams-county-nd">Williams</a>, <a href="/counties/mckenzie-county-nd">McKenzie</a> and <a href="/counties/mountrail-county-nd">Mountrail</a>.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/41df4ba4e4fd.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Vitesse CEO Bob Gerrity, said, “this acquisition represents a synergistic addition to our existing high-quality acreage in the core area of the Bakken and Three Forks play, and also provides new growth opportunities in developing areas of the field where technology continues to enhance returns.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/41df4ba4e4fd.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f440cda5d4222fbbca4d6/1467382662365/" data-record-type="1" data-full-url="/bsp-news/news/vitesse-energy-grabs-19000-net-bakken-acres" data-title="Vitesse Energy Grabs 19,000 Net Bakken Acres -Sept. 2014"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f440cda5d4222fbbca4d6" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

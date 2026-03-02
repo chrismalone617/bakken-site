@@ -83,7 +83,7 @@ heroImage: "/images/90d476f1fe73.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/90d476f1fe73.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/90d476f1fe73.jpeg" data-image="/images/90d476f1fe73.jpeg" data-image-dimensions="300x300" data-image-focal-point="0.5,0.5" alt="Whiting Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/90d476f1fe73.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/90d476f1fe73.jpeg 100w, /images/90d476f1fe73.jpeg 300w, /images/90d476f1fe73.jpeg 500w, /images/90d476f1fe73.jpeg 750w, /images/90d476f1fe73.jpeg 1000w, /images/90d476f1fe73.jpeg 1500w, /images/90d476f1fe73.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Whiting Bakken Acreage Map" src="/images/90d476f1fe73.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/90d476f1fe73.jpeg 100w, /images/90d476f1fe73.jpeg 300w, /images/90d476f1fe73.jpeg 500w, /images/90d476f1fe73.jpeg 750w, /images/90d476f1fe73.jpeg 1000w, /images/90d476f1fe73.jpeg 1500w, /images/90d476f1fe73.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/90d476f1fe73.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The addition of Kodiak’s complementary acreage position (approx. 173,000 net acres) and substantial inventory of high return drilling locations will provide the opportunity to drive significant value growth for both Whiting and Kodiak shareholders through an acceleration in drilling and increase in operational efficiencies,” said Whiting CEO James Voulkner.<span>”</span>
   </blockquote>
   
@@ -227,9 +227,9 @@ heroImage: "/images/90d476f1fe73.jpeg"
         
 
         
-          <a href="http://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4431da5d4222fbbca948/1463764017417/?format=original">
+          <a href="/">
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -238,7 +238,7 @@ heroImage: "/images/90d476f1fe73.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/b09d929aba72.jpeg" data-image="/images/b09d929aba72.jpeg" data-image-dimensions="282x279" data-image-focal-point="0.5,0.5" alt="Kodiak Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/b09d929aba72.jpeg" width="282" height="279" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b09d929aba72.jpeg 100w, /images/b09d929aba72.jpeg 300w, /images/b09d929aba72.jpeg 500w, /images/b09d929aba72.jpeg 750w, /images/b09d929aba72.jpeg 1000w, /images/b09d929aba72.jpeg 1500w, /images/b09d929aba72.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Kodiak Bakken Acreage Map" src="/images/b09d929aba72.jpeg" width="282" height="279" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b09d929aba72.jpeg 100w, /images/b09d929aba72.jpeg 300w, /images/b09d929aba72.jpeg 500w, /images/b09d929aba72.jpeg 750w, /images/b09d929aba72.jpeg 1000w, /images/b09d929aba72.jpeg 1500w, /images/b09d929aba72.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -305,9 +305,9 @@ heroImage: "/images/90d476f1fe73.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4407da5d4222fbbca493/1467382938159/" data-record-type="1" data-full-url="/bsp-news/news/whiting-petroleum-acquires-kodiak-oil-gas-3-8-billion" data-title="Whiting Petroleum Acquires Kodiak Oil &amp; Gas - $3.8 Billion"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4407da5d4222fbbca493" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

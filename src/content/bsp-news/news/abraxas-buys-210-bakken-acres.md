@@ -83,7 +83,7 @@ heroImage: "/images/ec82d009c0fd.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/ec82d009c0fd.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ec82d009c0fd.jpg" data-image="/images/ec82d009c0fd.jpg" data-image-dimensions="300x200" data-image-focal-point="0.5,0.5" alt="Abraxas Buys Bakken Acreage" data-load="false" elementtiming="system-image-block" src="/images/ec82d009c0fd.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ec82d009c0fd.jpg 100w, /images/ec82d009c0fd.jpg 300w, /images/ec82d009c0fd.jpg 500w, /images/ec82d009c0fd.jpg 750w, /images/ec82d009c0fd.jpg 1000w, /images/ec82d009c0fd.jpg 1500w, /images/ec82d009c0fd.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Abraxas Buys Bakken Acreage" src="/images/ec82d009c0fd.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ec82d009c0fd.jpg 100w, /images/ec82d009c0fd.jpg 300w, /images/ec82d009c0fd.jpg 500w, /images/ec82d009c0fd.jpg 750w, /images/ec82d009c0fd.jpg 1000w, /images/ec82d009c0fd.jpg 1500w, /images/ec82d009c0fd.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/ec82d009c0fd.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Bob Watson, President and CEO of Abraxas, commented“The acquisition of additional Bakken interests directly plays into our strategy of acquiring interests at a reasonable cost that will provide future development in our core areas. Each operated unit we are able to successfully acquire adds approximately two years of inventory for our Company owned drilling rig and substantial potential reserves. We will continue to search for similar opportunities that will allow us to further consolidate our interests in our core regions in the currently distressed environment.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/ec82d009c0fd.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f441eda5d4222fbbca62d/1467381700466/" data-record-type="1" data-full-url="/bsp-news/news/abraxas-buys-210-bakken-acres" data-title="Abraxas Buys 210 Bakken Acres"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f441eda5d4222fbbca62d" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

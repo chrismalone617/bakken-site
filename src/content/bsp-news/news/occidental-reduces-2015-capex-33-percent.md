@@ -83,7 +83,7 @@ heroImage: "/images/3206515526fb.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/3206515526fb.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/3206515526fb.jpeg" data-image="/images/3206515526fb.jpeg" data-image-dimensions="300x300" data-image-focal-point="0.5,0.5" alt="Occidental Bakken Acreage" data-load="false" elementtiming="system-image-block" src="/images/3206515526fb.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3206515526fb.jpeg 100w, /images/3206515526fb.jpeg 300w, /images/3206515526fb.jpeg 500w, /images/3206515526fb.jpeg 750w, /images/3206515526fb.jpeg 1000w, /images/3206515526fb.jpeg 1500w, /images/3206515526fb.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Occidental Bakken Acreage" src="/images/3206515526fb.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3206515526fb.jpeg 100w, /images/3206515526fb.jpeg 300w, /images/3206515526fb.jpeg 500w, /images/3206515526fb.jpeg 750w, /images/3206515526fb.jpeg 1000w, /images/3206515526fb.jpeg 1500w, /images/3206515526fb.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/3206515526fb.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Occidental Petroleum Corporation reported during its earnings call in late January that the company sustained a fourth quarter loss of $3.4 billion.</p><p>In response to low oil prices, Occidental announced it will scale back its 2015 capital spending by 33 percent to $5.8 billion from $8.7 billion spent in 2014.&nbsp;In addition to the cuts, the company will also be reducing its activity in the Bakken.</p><p>This confirms the news we reported in October that the company was in the process of restructuring, and looking to sell off its Williston Basin assets. <a href="http://bakkenshale.com/bsp-news/news/occidental-bakken-assets-on-the-table">Read more here</a>.</p>
+  <p>Occidental Petroleum Corporation reported during its earnings call in late January that the company sustained a fourth quarter loss of $3.4 billion.</p><p>In response to low oil prices, Occidental announced it will scale back its 2015 capital spending by 33 percent to $5.8 billion from $8.7 billion spent in 2014.&nbsp;In addition to the cuts, the company will also be reducing its activity in the Bakken.</p><p>This confirms the news we reported in October that the company was in the process of restructuring, and looking to sell off its Williston Basin assets. <a href="/bsp-news/news/occidental-bakken-assets-on-the-table">Read more here</a>.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/3206515526fb.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Stephen Chazen, President and Chief Executive Officer confirmed that the company “minimized our development activities in the Williston Basin, domestic gas properties, Bahrain, and the Joslyn oil sands project, as these have subpar returns in this current product price environment. These efforts should result in a reduction in the cost of executing our capital program, as well as reducing our operating expenses<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/3206515526fb.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4414da5d4222fbbca54c/1467382270515/" data-record-type="1" data-full-url="/bsp-news/news/occidental-reduces-2015-capex-33-percent" data-title="Occidental Petroleum Reduced 2015 Capex by 33%"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4414da5d4222fbbca54c" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

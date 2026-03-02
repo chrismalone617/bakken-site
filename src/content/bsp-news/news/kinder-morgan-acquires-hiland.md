@@ -83,7 +83,7 @@ heroImage: "/images/edf5ced2667c.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/edf5ced2667c.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/edf5ced2667c.png" data-image="/images/edf5ced2667c.png" data-image-dimensions="258x255" data-image-focal-point="0.5,0.5" alt="Hamm sells Hiland" data-load="false" elementtiming="system-image-block" src="/images/edf5ced2667c.png" width="258" height="255" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/edf5ced2667c.png 100w, /images/edf5ced2667c.png 300w, /images/edf5ced2667c.png 500w, /images/edf5ced2667c.png 750w, /images/edf5ced2667c.png 1000w, /images/edf5ced2667c.png 1500w, /images/edf5ced2667c.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Hamm sells Hiland" src="/images/edf5ced2667c.png" width="258" height="255" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/edf5ced2667c.png 100w, /images/edf5ced2667c.png 300w, /images/edf5ced2667c.png 500w, /images/edf5ced2667c.png 750w, /images/edf5ced2667c.png 1000w, /images/edf5ced2667c.png 1500w, /images/edf5ced2667c.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/edf5ced2667c.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We are delighted to establish a substantial midstream footprint in one of the most prolific oil producing basins in the United States,” said KMI Chairman and CEO Richard D. Kinder. “Hiland’s systems serve some of the Bakken’s largest and most successful producers, including Continental. We look forward to continuing to provide high quality midstream services to these producers and pursuing incremental growth opportunities in the basin.<span>”</span>
   </blockquote>
   
@@ -173,7 +173,7 @@ heroImage: "/images/edf5ced2667c.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Harold Hamm began contemplating the sale due to financial worries stemming from plummeting oil prices and a very public, and expensive divorce. Hamm reportedly sold the interest in order to gain the necessary cash for a $1 billion divorce settlement, one of the largest divorce tabs ever recorded. This acquisition is on the heels of a personal loan in December at the same time the company slashed its 2015 capex for the second time.</p><p>Related:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/more-budget-cuts-continental-resources?rq=More%20Budget%20Cuts%20for%20Continental%20Resources">More Budget Cuts for Continental Resources</a></p>
+  <p>Harold Hamm began contemplating the sale due to financial worries stemming from plummeting oil prices and a very public, and expensive divorce. Hamm reportedly sold the interest in order to gain the necessary cash for a $1 billion divorce settlement, one of the largest divorce tabs ever recorded. This acquisition is on the heels of a personal loan in December at the same time the company slashed its 2015 capex for the second time.</p><p>Related:&nbsp;<a href="/bsp-news/news/more-budget-cuts-continental-resources?rq=More%20Budget%20Cuts%20for%20Continental%20Resources">More Budget Cuts for Continental Resources</a></p>
 </div>
 
 
@@ -214,9 +214,9 @@ heroImage: "/images/edf5ced2667c.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4415da5d4222fbbca558/1467382231284/" data-record-type="1" data-full-url="/bsp-news/news/kinder-morgan-acquires-hiland" data-title="Kinder Morgan Acquires Hiland"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4415da5d4222fbbca558" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

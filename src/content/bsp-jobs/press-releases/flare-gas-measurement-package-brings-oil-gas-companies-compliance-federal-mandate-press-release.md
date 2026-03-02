@@ -71,9 +71,9 @@ Pennsylvania-based Thermal Instrument Company, a 55 year old designer and manufa
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f2a8a1e8488ddde011e67/573f2a8d1e8488ddde011e94/1467903949633/" data-record-type="1" data-full-url="/bsp-jobs/press-releases/flare-gas-measurement-package-brings-oil-gas-companies-compliance-federal-mandate-press-release" data-title="Flare Gas Measurement Package Brings Oil &amp; Gas Companies into Compliance with Federal Mandate - Press Release"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f2a8d1e8488ddde011e94" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -67,9 +67,9 @@ The overwhelming majority of rigs are targeting the Bakken and Three Forks forma
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f41e26dc6951d90c43bbf/573f41e36dc6951d90c43bcd/1467848850892/" data-record-type="1" data-full-url="/drilling/drilling-rig-count/north-dakota-rig-count-sets-record-at-204-november-2011" data-title="North Dakota Rig Count Sets Record at 204 - November 2011"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f41e36dc6951d90c43bcd" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

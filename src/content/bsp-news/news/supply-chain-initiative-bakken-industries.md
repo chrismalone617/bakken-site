@@ -83,7 +83,7 @@ heroImage: "/images/cbb6dbc0e8c4.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/cbb6dbc0e8c4.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/cbb6dbc0e8c4.png" data-image="/images/cbb6dbc0e8c4.png" data-image-dimensions="263x205" data-image-focal-point="0.5,0.5" alt="ManLog" data-load="false" elementtiming="system-image-block" src="/images/cbb6dbc0e8c4.png" width="263" height="205" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/cbb6dbc0e8c4.png 100w, /images/cbb6dbc0e8c4.png 300w, /images/cbb6dbc0e8c4.png 500w, /images/cbb6dbc0e8c4.png 750w, /images/cbb6dbc0e8c4.png 1000w, /images/cbb6dbc0e8c4.png 1500w, /images/cbb6dbc0e8c4.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="ManLog" src="/images/cbb6dbc0e8c4.png" width="263" height="205" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/cbb6dbc0e8c4.png 100w, /images/cbb6dbc0e8c4.png 300w, /images/cbb6dbc0e8c4.png 500w, /images/cbb6dbc0e8c4.png 750w, /images/cbb6dbc0e8c4.png 1000w, /images/cbb6dbc0e8c4.png 1500w, /images/cbb6dbc0e8c4.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/cbb6dbc0e8c4.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Shawn Wenko, Executive Director of Williston Economic Development said that, “One of our goals in 2015 is to help more of our regional manufacturing firms get connected to the oil and gas industry,” said Wenko. “Given the magnitude and expected duration of this $30 billion industry, now is the time to grow and diversify our economy throughout the region.<span>”</span>
   </blockquote>
   
@@ -193,7 +193,7 @@ heroImage: "/images/cbb6dbc0e8c4.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>President of DAWA Solutions Group, Jeff Xarling explains further that “We need to start connecting those dots with regional manufacturers that can deliver more cost-effective products and services. The end result is a win-win with reduced costs for operators and economic development and diversification for companies and communities throughout the region.<span>”</span>
   </blockquote>
   
@@ -201,7 +201,7 @@ heroImage: "/images/cbb6dbc0e8c4.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p><a href="http://jobs.bakkenshale.com/">More on Williston: Jobs in the Bakken</a></p><p><a href="http://bakkenshale.com/housing/">More on Williston: Housing in the Bakken</a></p><p>ManLog will be held at The Well in Williston State College in Williston, ND. Conference participants can expect informative presentations, panel discussions and opportunities to network with others. There are several advertising opportunities for companies including a trade show component, where exhibitors can showcase their offerings.</p><p>Conference Topics:</p><p>- Product &amp; Service Supply Chain in the Oil and Gas Industry - Study: Cost Reduction through Supply Chain Enhancement in the Bakken - Exploration &amp; Production Company Perspectives (Oil Companies) - Product &amp; Service Development in the Bakken Region (Success Stories) - Manufacturing in the Bakken - Regional Manufacturing Capabilities - Value-Added Energy Development (Downstream) - North Dakota NGL Market Study – Presented by IHS - Logistics – Materials Management &amp; Transportation Opportunities</p><p>For more inforamtion about this conference, go to <a target="_blank" href="http://www.manlognd.com/News/Enhanced-Bakken-Supply-Chain-Initiative-Launched">manlognd.com</a></p>
+  <p><a href="http://jobs.bakkenshale.com/">More on Williston: Jobs in the Bakken</a></p><p><a href="/housing/">More on Williston: Housing in the Bakken</a></p><p>ManLog will be held at The Well in Williston State College in Williston, ND. Conference participants can expect informative presentations, panel discussions and opportunities to network with others. There are several advertising opportunities for companies including a trade show component, where exhibitors can showcase their offerings.</p><p>Conference Topics:</p><p>- Product &amp; Service Supply Chain in the Oil and Gas Industry - Study: Cost Reduction through Supply Chain Enhancement in the Bakken - Exploration &amp; Production Company Perspectives (Oil Companies) - Product &amp; Service Development in the Bakken Region (Success Stories) - Manufacturing in the Bakken - Regional Manufacturing Capabilities - Value-Added Energy Development (Downstream) - North Dakota NGL Market Study – Presented by IHS - Logistics – Materials Management &amp; Transportation Opportunities</p><p>For more inforamtion about this conference, go to <a target="_blank" href="http://www.manlognd.com/News/Enhanced-Bakken-Supply-Chain-Initiative-Launched">manlognd.com</a></p>
 </div>
 
 
@@ -242,9 +242,9 @@ heroImage: "/images/cbb6dbc0e8c4.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4413da5d4222fbbca540/1467382310472/" data-record-type="1" data-full-url="/bsp-news/news/supply-chain-initiative-bakken-industries" data-title="Supply Chain Initiative Launched for Bakken"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4413da5d4222fbbca540" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/0467f910da44.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/0467f910da44.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/0467f910da44.jpeg" data-image="/images/0467f910da44.jpeg" data-image-dimensions="294x300" data-image-focal-point="0.5,0.5" alt="halcon bakken" data-load="false" elementtiming="system-image-block" src="/images/0467f910da44.jpeg" width="294" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/0467f910da44.jpeg 100w, /images/0467f910da44.jpeg 300w, /images/0467f910da44.jpeg 500w, /images/0467f910da44.jpeg 750w, /images/0467f910da44.jpeg 1000w, /images/0467f910da44.jpeg 1500w, /images/0467f910da44.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="halcon bakken" src="/images/0467f910da44.jpeg" width="294" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/0467f910da44.jpeg 100w, /images/0467f910da44.jpeg 300w, /images/0467f910da44.jpeg 500w, /images/0467f910da44.jpeg 750w, /images/0467f910da44.jpeg 1000w, /images/0467f910da44.jpeg 1500w, /images/0467f910da44.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/0467f910da44.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Halcon CEO Floyd Wilson says that, “Our plan is to deploy capital to assets where results indicate EURs and initial production rates higher than our published type curves. We are comfortable with our current liquidity position and we expect our strong hedge portfolio to continue generating income well into 2016. Although we are significantly hedged, the continued weakness in crude oil prices, combined with elevated service costs, calls for conservative planning. We expect to see these costs come down dramatically during 2015.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/0467f910da44.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4413da5d4222fbbca53d/1467382321054/" data-record-type="1" data-full-url="/bsp-news/news/halcon-resources-reduces-2015-budget" data-title="Halcón Resources Reduces 2015 Budget"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4413da5d4222fbbca53d" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/b06b8b77a495.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/b06b8b77a495.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/b06b8b77a495.png" data-image="/images/b06b8b77a495.png" data-image-dimensions="300x223" data-image-focal-point="0.5,0.5" alt="ConocoPhillips New Plan" data-load="false" elementtiming="system-image-block" src="/images/b06b8b77a495.png" width="300" height="223" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b06b8b77a495.png 100w, /images/b06b8b77a495.png 300w, /images/b06b8b77a495.png 500w, /images/b06b8b77a495.png 750w, /images/b06b8b77a495.png 1000w, /images/b06b8b77a495.png 1500w, /images/b06b8b77a495.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="ConocoPhillips New Plan" src="/images/b06b8b77a495.png" width="300" height="223" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b06b8b77a495.png 100w, /images/b06b8b77a495.png 300w, /images/b06b8b77a495.png 500w, /images/b06b8b77a495.png 750w, /images/b06b8b77a495.png 1000w, /images/b06b8b77a495.png 1500w, /images/b06b8b77a495.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/b06b8b77a495.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Ryan Lance, chairman and chief executive officer noted “The energy landscape has changed dramatically as a result of the recent decline in commodity prices, but we responded quickly to position the company as a core energy holding in a lower, more volatile price environment.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/b06b8b77a495.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f441cda5d4222fbbca5b2/1467381839112/" data-record-type="1" data-full-url="/bsp-news/news/conocophillips-reveals-plan-to-stay-flexible" data-title="ConocoPhillips Reveals Plan to Stay Flexible"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f441cda5d4222fbbca5b2" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

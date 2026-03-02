@@ -83,7 +83,7 @@ heroImage: "/images/d0e013e205f8.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d0e013e205f8.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d0e013e205f8.jpeg" data-image="/images/d0e013e205f8.jpeg" data-image-dimensions="300x208" data-image-focal-point="0.5,0.5" alt="Marathon Oil Bakken Initial Production Improvement" data-load="false" elementtiming="system-image-block" src="/images/d0e013e205f8.jpeg" width="300" height="208" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d0e013e205f8.jpeg 100w, /images/d0e013e205f8.jpeg 300w, /images/d0e013e205f8.jpeg 500w, /images/d0e013e205f8.jpeg 750w, /images/d0e013e205f8.jpeg 1000w, /images/d0e013e205f8.jpeg 1500w, /images/d0e013e205f8.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Marathon Oil Bakken Initial Production Improvement" src="/images/d0e013e205f8.jpeg" width="300" height="208" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d0e013e205f8.jpeg 100w, /images/d0e013e205f8.jpeg 300w, /images/d0e013e205f8.jpeg 500w, /images/d0e013e205f8.jpeg 750w, /images/d0e013e205f8.jpeg 1000w, /images/d0e013e205f8.jpeg 1500w, /images/d0e013e205f8.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/d0e013e205f8.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Marathon Oil plans to spend $1 billion of its $3.6 billion budget in North America in the Bakken in 2014.</p><p>As a result, the company's production is expected to grow from a little less than 40,000 boe/d in 2013 to a little less than 50,000 boe/d in 2014.</p><p>Marathon will run six rigs in 2014, with one rig dedicated to recompleting Bakken wells that were stimulated with open hole completions.</p><p><strong>Read more:</strong><a href="http://bakkenshale.com/bsp-news/news/marathon-oils-bakken-production-holds-flat-in-q3-drilling-faster?rq=Marathon%20Oil's%20Bakken%20Production%20Flat%20in%20Q3%20-%20Drilling%20Faster">Marathon Oil's Bakken Production Flat in Q3 - Drilling Faster</a></p><p>The company has transitioned from open hole completions to 20-stage completions then to 30-stage completions today. Over the first 1,000 days of a wells life, Marathon's current 30-stage completions are producing 122% more than open hole completions were a short time ago.</p>
+  <p>Marathon Oil plans to spend $1 billion of its $3.6 billion budget in North America in the Bakken in 2014.</p><p>As a result, the company's production is expected to grow from a little less than 40,000 boe/d in 2013 to a little less than 50,000 boe/d in 2014.</p><p>Marathon will run six rigs in 2014, with one rig dedicated to recompleting Bakken wells that were stimulated with open hole completions.</p><p><strong>Read more:</strong><a href="/bsp-news/news/marathon-oils-bakken-production-holds-flat-in-q3-drilling-faster?rq=Marathon%20Oil's%20Bakken%20Production%20Flat%20in%20Q3%20-%20Drilling%20Faster">Marathon Oil's Bakken Production Flat in Q3 - Drilling Faster</a></p><p>The company has transitioned from open hole completions to 20-stage completions then to 30-stage completions today. Over the first 1,000 days of a wells life, Marathon's current 30-stage completions are producing 122% more than open hole completions were a short time ago.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/d0e013e205f8.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We believe this standard of performance, coupled with continued resource growth, fully supports an accelerated investment in our three high-quality resource plays — the Eagle Ford, Bakken and Oklahoma Woodford.<span>”</span>
   </blockquote>
   <figcaption>— Lee Tillman, CEO, </figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/d0e013e205f8.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f4da5d4222fbbca393/1467383762166/" data-record-type="1" data-full-url="/bsp-news/news/marathon-oil-plans-to-spend-1-billion-in-the-bakken-in-2014" data-title="Marathon Oil Plans To Spend $1 Billion in the Bakken in 2014"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f4da5d4222fbbca393" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

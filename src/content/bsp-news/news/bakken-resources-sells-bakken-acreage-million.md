@@ -83,7 +83,7 @@ heroImage: "/images/19a4a764f379.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/19a4a764f379.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/19a4a764f379.jpeg" data-image="/images/19a4a764f379.jpeg" data-image-dimensions="300x178" data-image-focal-point="0.5,0.5" alt="McKenzie County, ND" data-load="false" elementtiming="system-image-block" src="/images/19a4a764f379.jpeg" width="300" height="178" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/19a4a764f379.jpeg 100w, /images/19a4a764f379.jpeg 300w, /images/19a4a764f379.jpeg 500w, /images/19a4a764f379.jpeg 750w, /images/19a4a764f379.jpeg 1000w, /images/19a4a764f379.jpeg 1500w, /images/19a4a764f379.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="McKenzie County, ND" src="/images/19a4a764f379.jpeg" width="300" height="178" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/19a4a764f379.jpeg 100w, /images/19a4a764f379.jpeg 300w, /images/19a4a764f379.jpeg 500w, /images/19a4a764f379.jpeg 750w, /images/19a4a764f379.jpeg 1000w, /images/19a4a764f379.jpeg 1500w, /images/19a4a764f379.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/19a4a764f379.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Bakken Resources Inc. sold <strong>767</strong> net acres in McKenzie County, ND to an undisclosed buyer in early February 2014.</p><p>Total purchase price for the acreage was <strong>$7,871,248</strong>. That comes out to $10,250 per net mineral acre.</p><h2>Notable Bakken Acquisitions and Divestitures in January 2014</h2><p>So far in 2014, there have been at least two other acreage deals in the Bakken.</p><p>Emerald Oil acquired 20,800 net acres in the Williston Basin for $74.6 million in two separate deals in early January.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/emerald-acquires-bakken-acreage-in-the-wiliston-basin-for-75-million">Emerald Acquires Bakken Acreage in the Williston for $74.6 Million</a></p><p>Oasis had a $333 million sale in January of its’ non-operated Sanish properties and a few non-operated leases adjacent to the Sanish.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/oasis-sells-bakken-acreage-strong-production-growth-in-2014?rq=Oasis%20Sells%20Bakken%20Acreage%20-%20Strong%20Production%20Growth%20in%202014">Oasis Sells Bakken Acreage - Strong Production Growth in 2014</a></p><h2>Bakken Resources Gains ~412% Return on Investment</h2><p>With the closing of its' acreage deal, Bakken Resources gains a ~412% percent return on its original investment. In November of 2010, the company spent $1,535,000 for the 767 net acres in McKenzie County.</p><p>Bakken Resources will retain a 2% royalty interest in the sold assets.</p>
+  <p>Bakken Resources Inc. sold <strong>767</strong> net acres in McKenzie County, ND to an undisclosed buyer in early February 2014.</p><p>Total purchase price for the acreage was <strong>$7,871,248</strong>. That comes out to $10,250 per net mineral acre.</p><h2>Notable Bakken Acquisitions and Divestitures in January 2014</h2><p>So far in 2014, there have been at least two other acreage deals in the Bakken.</p><p>Emerald Oil acquired 20,800 net acres in the Williston Basin for $74.6 million in two separate deals in early January.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/emerald-acquires-bakken-acreage-in-the-wiliston-basin-for-75-million">Emerald Acquires Bakken Acreage in the Williston for $74.6 Million</a></p><p>Oasis had a $333 million sale in January of its’ non-operated Sanish properties and a few non-operated leases adjacent to the Sanish.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/oasis-sells-bakken-acreage-strong-production-growth-in-2014?rq=Oasis%20Sells%20Bakken%20Acreage%20-%20Strong%20Production%20Growth%20in%202014">Oasis Sells Bakken Acreage - Strong Production Growth in 2014</a></p><h2>Bakken Resources Gains ~412% Return on Investment</h2><p>With the closing of its' acreage deal, Bakken Resources gains a ~412% percent return on its original investment. In November of 2010, the company spent $1,535,000 for the 767 net acres in McKenzie County.</p><p>Bakken Resources will retain a 2% royalty interest in the sold assets.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/19a4a764f379.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We are very pleased about this win-win transaction,” notes Val Holms, CEO. “Proceeds from this transaction will allow us to seriously explore several other opportunities we are currently evaluating. We continue to hold a 2% royalty interest in the assets we sold and also receive royalties on our remaining 1,600 +/- net mineral acres located in Bakken region.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/19a4a764f379.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43fcda5d4222fbbca3f9/1467383406477/" data-record-type="1" data-full-url="/bsp-news/news/bakken-resources-sells-bakken-acreage-million" data-title="Bakken Resources Sells Bakken Acreage ~$7.9 Million"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43fcda5d4222fbbca3f9" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

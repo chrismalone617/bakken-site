@@ -82,7 +82,7 @@ description: "Bakken Shale News, MarketPlace, Jobs"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -91,7 +91,7 @@ description: "Bakken Shale News, MarketPlace, Jobs"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/58f3b3cc015a.jpeg" data-image="/images/58f3b3cc015a.jpeg" data-image-dimensions="300x199" data-image-focal-point="0.5,0.5" alt="Killdeer Lodge Workout Facility - PTI Group" data-load="false" elementtiming="system-image-block" src="/images/58f3b3cc015a.jpeg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/58f3b3cc015a.jpeg 100w, /images/58f3b3cc015a.jpeg 300w, /images/58f3b3cc015a.jpeg 500w, /images/58f3b3cc015a.jpeg 750w, /images/58f3b3cc015a.jpeg 1000w, /images/58f3b3cc015a.jpeg 1500w, /images/58f3b3cc015a.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Killdeer Lodge Workout Facility - PTI Group" src="/images/58f3b3cc015a.jpeg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/58f3b3cc015a.jpeg 100w, /images/58f3b3cc015a.jpeg 300w, /images/58f3b3cc015a.jpeg 500w, /images/58f3b3cc015a.jpeg 750w, /images/58f3b3cc015a.jpeg 1000w, /images/58f3b3cc015a.jpeg 1500w, /images/58f3b3cc015a.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -162,9 +162,9 @@ description: "Bakken Shale News, MarketPlace, Jobs"
 
         <div>
           
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f18565f21e0f3cf529e16/573f18585f21e0f3cf529e31/1463754724317/" data-record-type="1" data-full-url="/press/press-releases/pti-group-usa-announces-new-bakken-accommodations-location-press-release" data-title="PTI Group USA Announces New Bakken Accommodations Location - Press Release"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f18585f21e0f3cf529e31" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

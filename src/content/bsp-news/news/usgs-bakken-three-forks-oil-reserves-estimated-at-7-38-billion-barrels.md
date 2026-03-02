@@ -83,7 +83,7 @@ heroImage: "/images/a165d78f0b28.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/a165d78f0b28.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/a165d78f0b28.jpeg" data-image="/images/a165d78f0b28.jpeg" data-image-dimensions="292x300" data-image-focal-point="0.5,0.5" alt="USGS Bakken Reserves - Petroleum System Map" data-load="false" elementtiming="system-image-block" src="/images/a165d78f0b28.jpeg" width="292" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a165d78f0b28.jpeg 100w, /images/a165d78f0b28.jpeg 300w, /images/a165d78f0b28.jpeg 500w, /images/a165d78f0b28.jpeg 750w, /images/a165d78f0b28.jpeg 1000w, /images/a165d78f0b28.jpeg 1500w, /images/a165d78f0b28.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="USGS Bakken Reserves - Petroleum System Map" src="/images/a165d78f0b28.jpeg" width="292" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a165d78f0b28.jpeg 100w, /images/a165d78f0b28.jpeg 300w, /images/a165d78f0b28.jpeg 500w, /images/a165d78f0b28.jpeg 750w, /images/a165d78f0b28.jpeg 1000w, /images/a165d78f0b28.jpeg 1500w, /images/a165d78f0b28.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/a165d78f0b28.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Since the 2008 USGS assessment, more than 4,000 wells have been drilled in the Williston Basin, providing updated subsurface geologic data. Previously, very little data existed on the Three Forks Formation and it was generally thought to be unproductive. However, new drilling resulted in a new understanding of the reservoir and its resource potential.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/a165d78f0b28.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d9da5d4222fbbca1fc/1467384865371/" data-record-type="1" data-full-url="/bsp-news/news/usgs-bakken-three-forks-oil-reserves-estimated-at-7-38-billion-barrels" data-title="USGS - Bakken &amp; Three Forks Oil Reserves Estimated at 7.38 Billion Bbls"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d9da5d4222fbbca1fc" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/59b0a5d3e052.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/59b0a5d3e052.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/59b0a5d3e052.gif" data-image="/images/59b0a5d3e052.gif" data-image-dimensions="300x233" data-image-focal-point="0.5,0.5" alt="Tioga Pipeline Map" data-load="false" elementtiming="system-image-block" src="/images/59b0a5d3e052.gif" width="300" height="233" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/59b0a5d3e052.gif 100w, /images/59b0a5d3e052.gif 300w, /images/59b0a5d3e052.gif 500w, /images/59b0a5d3e052.gif 750w, /images/59b0a5d3e052.gif 1000w, /images/59b0a5d3e052.gif 1500w, /images/59b0a5d3e052.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Tioga Pipeline Map" src="/images/59b0a5d3e052.gif" width="300" height="233" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/59b0a5d3e052.gif 100w, /images/59b0a5d3e052.gif 300w, /images/59b0a5d3e052.gif 500w, /images/59b0a5d3e052.gif 750w, /images/59b0a5d3e052.gif 1000w, /images/59b0a5d3e052.gif 1500w, /images/59b0a5d3e052.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -200,9 +200,9 @@ The Tioga Pipeline received regulatory approval on October 1st. Alliance Pipelin
         
 
         
-          <a href="http://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4426da5d4222fbbca6b5/1463764006331/Tioga-Pipeline-Construction-Timeline.jpeg?format=original">
+          <a href="/">
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -211,7 +211,7 @@ The Tioga Pipeline received regulatory approval on October 1st. Alliance Pipelin
                 
                 
                 
-                <img data-stretch="false" data-src="/images/a9a4bee10554.jpeg" data-image="/images/a9a4bee10554.jpeg" data-image-dimensions="650x246" data-image-focal-point="0.5,0.5" alt="Tioga Pipeline Construction Timeline" data-load="false" elementtiming="system-image-block" src="/images/a9a4bee10554.jpeg" width="650" height="246" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a9a4bee10554.jpeg 100w, /images/a9a4bee10554.jpeg 300w, /images/a9a4bee10554.jpeg 500w, /images/a9a4bee10554.jpeg 750w, /images/a9a4bee10554.jpeg 1000w, /images/a9a4bee10554.jpeg 1500w, /images/a9a4bee10554.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Tioga Pipeline Construction Timeline" src="/images/a9a4bee10554.jpeg" width="650" height="246" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a9a4bee10554.jpeg 100w, /images/a9a4bee10554.jpeg 300w, /images/a9a4bee10554.jpeg 500w, /images/a9a4bee10554.jpeg 750w, /images/a9a4bee10554.jpeg 1000w, /images/a9a4bee10554.jpeg 1500w, /images/a9a4bee10554.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -251,9 +251,9 @@ The Tioga Pipeline received regulatory approval on October 1st. Alliance Pipelin
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c6da5d4222fbbca0e9/1467385691643/" data-record-type="1" data-full-url="/bsp-news/news/tioga-pipeline-gets-regulatory-approval-2013-in-service" data-title="Tioga Pipeline Gets Regulatory Approval - 2013 In-Service"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c6da5d4222fbbca0e9" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

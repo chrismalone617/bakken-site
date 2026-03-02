@@ -83,7 +83,7 @@ heroImage: "/images/48df2ed219d8.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/48df2ed219d8.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/48df2ed219d8.png" data-image="/images/48df2ed219d8.png" data-image-dimensions="300x165" data-image-focal-point="0.5,0.5" alt="Bakken Rig" data-load="false" elementtiming="system-image-block" src="/images/48df2ed219d8.png" width="300" height="165" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/48df2ed219d8.png 100w, /images/48df2ed219d8.png 300w, /images/48df2ed219d8.png 500w, /images/48df2ed219d8.png 750w, /images/48df2ed219d8.png 1000w, /images/48df2ed219d8.png 1500w, /images/48df2ed219d8.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Rig" src="/images/48df2ed219d8.png" width="300" height="165" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/48df2ed219d8.png 100w, /images/48df2ed219d8.png 300w, /images/48df2ed219d8.png 500w, /images/48df2ed219d8.png 750w, /images/48df2ed219d8.png 1000w, /images/48df2ed219d8.png 1500w, /images/48df2ed219d8.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/48df2ed219d8.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>ConocoPhillips Bakken Shale production was 43,000 boe/d in the fourth-quarter of 2013, surpassing fourth quarter 2012 production of the formation by ~ 80%.</p><p>In the Lower 48 and Latin America, that accounted for about ~12% of the company's total production.</p><p>Read more: <a href="http://bakkenshale.com/bsp-news/news/conocophillips-increases-bakken-spending-2014-budget">Conoco Phillips Increases Bakken Spending in its 2014 Budget</a></p><h2>ConocoPhillips Production Growing Rapidly in the Bakken</h2><p>In the fourth quarter of 2012, Conoco's Bakken production averaged 24,000 boe/d.</p><p>At the beginning of 2013, production was only expected to grow by 10%, but with the ~80% increase to 43,000 boe/d, Conoco is well within its 2013 target goal to produce an average of 40,000 boe/d over the next 4 - 5 years.</p><h2>ConocoPhillips Capital Budget in Unconventional Drilling</h2><p>In 2014, Conoco will spend ~$9 billion on its North American operations. Approximately $4.3 billion will be focused on the Bakken, Eagle Ford and Niobrara Shale. In 2013, Conoco's production in the Bakken, Eagle Ford and Permian grew 31% from ~167,000 boe/d in the fourth-quarter of 2012 to ~218,000 boe/d in 2013.</p><h2>Bakken Contribution to Conoco's Reserves</h2><p>The growth in unconventional drilling has contributed greatly to Conoco's reserves.</p>
+  <p>ConocoPhillips Bakken Shale production was 43,000 boe/d in the fourth-quarter of 2013, surpassing fourth quarter 2012 production of the formation by ~ 80%.</p><p>In the Lower 48 and Latin America, that accounted for about ~12% of the company's total production.</p><p>Read more: <a href="/bsp-news/news/conocophillips-increases-bakken-spending-2014-budget">Conoco Phillips Increases Bakken Spending in its 2014 Budget</a></p><h2>ConocoPhillips Production Growing Rapidly in the Bakken</h2><p>In the fourth quarter of 2012, Conoco's Bakken production averaged 24,000 boe/d.</p><p>At the beginning of 2013, production was only expected to grow by 10%, but with the ~80% increase to 43,000 boe/d, Conoco is well within its 2013 target goal to produce an average of 40,000 boe/d over the next 4 - 5 years.</p><h2>ConocoPhillips Capital Budget in Unconventional Drilling</h2><p>In 2014, Conoco will spend ~$9 billion on its North American operations. Approximately $4.3 billion will be focused on the Bakken, Eagle Ford and Niobrara Shale. In 2013, Conoco's production in the Bakken, Eagle Ford and Permian grew 31% from ~167,000 boe/d in the fourth-quarter of 2012 to ~218,000 boe/d in 2013.</p><h2>Bakken Contribution to Conoco's Reserves</h2><p>The growth in unconventional drilling has contributed greatly to Conoco's reserves.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/48df2ed219d8.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>CEO Ryan Lance, said, “2013 was a significant year for the company and we achieved several important, strategic milestones... [the company] achieved conventional and unconventional exploration success... [and] our capital program yielded strong organic reserve replacement.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/48df2ed219d8.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43fada5d4222fbbca3df/1467383511710/" data-record-type="1" data-full-url="/bsp-news/news/bakken-shale-conocophillips-production-up-80-in-q4-2013-to-43000-boed" data-title="ConocoPhillips' Bakken Shale Production Up 80% in Q4 2013 to 43,000 boe/d"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43fada5d4222fbbca3df" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/d5829f49f702.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d5829f49f702.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d5829f49f702.gif" data-image="/images/d5829f49f702.gif" data-image-dimensions="300x225" data-image-focal-point="0.5,0.5" alt="Oil Rail Car Image" data-load="false" elementtiming="system-image-block" src="/images/d5829f49f702.gif" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d5829f49f702.gif 100w, /images/d5829f49f702.gif 300w, /images/d5829f49f702.gif 500w, /images/d5829f49f702.gif 750w, /images/d5829f49f702.gif 1000w, /images/d5829f49f702.gif 1500w, /images/d5829f49f702.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Oil Rail Car Image" src="/images/d5829f49f702.gif" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d5829f49f702.gif 100w, /images/d5829f49f702.gif 300w, /images/d5829f49f702.gif 500w, /images/d5829f49f702.gif 750w, /images/d5829f49f702.gif 1000w, /images/d5829f49f702.gif 1500w, /images/d5829f49f702.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ An investigation will ensue, but initial reports make it sound as if the air bra
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c3dfa21e80eeb550b3/1467906735673/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/derailed-train-in-canada-was-carrying-bakken-oil" data-title="Derailed Train In Canada Was Carrying Bakken Oil"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c3dfa21e80eeb550b3" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

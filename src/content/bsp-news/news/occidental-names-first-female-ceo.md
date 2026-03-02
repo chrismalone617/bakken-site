@@ -83,7 +83,7 @@ heroImage: "/images/3206515526fb.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/3206515526fb.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/3206515526fb.jpeg" data-image="/images/3206515526fb.jpeg" data-image-dimensions="300x300" data-image-focal-point="0.5,0.5" alt="Occidental Bakken Acreage" data-load="false" elementtiming="system-image-block" src="/images/3206515526fb.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3206515526fb.jpeg 100w, /images/3206515526fb.jpeg 300w, /images/3206515526fb.jpeg 500w, /images/3206515526fb.jpeg 750w, /images/3206515526fb.jpeg 1000w, /images/3206515526fb.jpeg 1500w, /images/3206515526fb.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Occidental Bakken Acreage" src="/images/3206515526fb.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3206515526fb.jpeg 100w, /images/3206515526fb.jpeg 300w, /images/3206515526fb.jpeg 500w, /images/3206515526fb.jpeg 750w, /images/3206515526fb.jpeg 1000w, /images/3206515526fb.jpeg 1500w, /images/3206515526fb.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/3206515526fb.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The board and I congratulate Vicki on her well-deserved promotion. After a thoughtful succession review, the board selected Vicki based on her strong track record of successfully growing our domestic oil and gas business profitably and efficiently,” said Mr. Chazen, President and Chief Executive Officer. “I look forward to working with her to prepare her for the CEO role and to stepping aside when she is ready to take it on.<span>”</span>
   </blockquote>
   
@@ -173,7 +173,7 @@ heroImage: "/images/3206515526fb.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>One day after the announcement, Occidental released its Q1 numbers showing production is up 13%. &nbsp;The total company average daily oil and gas production volumes increased by 72,000 barrels of oil equivalent (BOE) to 645,000 BOE from 573,000 BOE in the first quarter of 2014.</p><p>Related:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/occidental-reduces-2015-capex-33-percent?rq=Occidental%20Petroleum%20Reduced%202015%20Capex%20by%2033%25">Occidental Petroleum Reduced 2015 Capex by 33%</a></p><p>Occidental’s North Dakota assets encompass approximately 303,000 net acres of oil producing and unconventional properties in the Williston Basin's Bakken, Pronghorn and Three Forks formations.</p><p>Read more at <a target="_blank" href="http://www.oxy.com/News/Pages/Article.aspx?Article=5337.html">oxy.com</a></p>
+  <p>One day after the announcement, Occidental released its Q1 numbers showing production is up 13%. &nbsp;The total company average daily oil and gas production volumes increased by 72,000 barrels of oil equivalent (BOE) to 645,000 BOE from 573,000 BOE in the first quarter of 2014.</p><p>Related:&nbsp;<a href="/bsp-news/news/occidental-reduces-2015-capex-33-percent?rq=Occidental%20Petroleum%20Reduced%202015%20Capex%20by%2033%25">Occidental Petroleum Reduced 2015 Capex by 33%</a></p><p>Occidental’s North Dakota assets encompass approximately 303,000 net acres of oil producing and unconventional properties in the Williston Basin's Bakken, Pronghorn and Three Forks formations.</p><p>Read more at <a target="_blank" href="http://www.oxy.com/News/Pages/Article.aspx?Article=5337.html">oxy.com</a></p>
 </div>
 
 
@@ -214,9 +214,9 @@ heroImage: "/images/3206515526fb.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f441fda5d4222fbbca633/1467381678237/" data-record-type="1" data-full-url="/bsp-news/news/occidental-names-first-female-ceo" data-title="Occidental Names First Female CEO"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f441fda5d4222fbbca633" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

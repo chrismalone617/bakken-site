@@ -83,7 +83,7 @@ heroImage: "/images/3cdcea2e36ae.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/3cdcea2e36ae.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/3cdcea2e36ae.jpeg" data-image="/images/3cdcea2e36ae.jpeg" data-image-dimensions="294x300" data-image-focal-point="0.5,0.5" alt="Halcon Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/3cdcea2e36ae.jpeg" width="294" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3cdcea2e36ae.jpeg 100w, /images/3cdcea2e36ae.jpeg 300w, /images/3cdcea2e36ae.jpeg 500w, /images/3cdcea2e36ae.jpeg 750w, /images/3cdcea2e36ae.jpeg 1000w, /images/3cdcea2e36ae.jpeg 1500w, /images/3cdcea2e36ae.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Halcon Bakken Acreage Map" src="/images/3cdcea2e36ae.jpeg" width="294" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3cdcea2e36ae.jpeg 100w, /images/3cdcea2e36ae.jpeg 300w, /images/3cdcea2e36ae.jpeg 500w, /images/3cdcea2e36ae.jpeg 750w, /images/3cdcea2e36ae.jpeg 1000w, /images/3cdcea2e36ae.jpeg 1500w, /images/3cdcea2e36ae.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/3cdcea2e36ae.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Halcon is focused on drilling wells in the Fort Berthold area in 2014 and anticipates spending approximately 49% of its total drilling and completions budget in the Williston Basin. Based on previous budget estimates, that's about ~475 million.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/halcon-holds-production-guidance-lowers-2014-capital-budget">Halcon Holds Production Guidance &amp; Lowers its 2014 Capital Budget</a></p><p>The company's plan for 2014 is to focus on its "de-risked" acreage, which includes the Fort Berthold area.</p>
+  <p>Halcon is focused on drilling wells in the Fort Berthold area in 2014 and anticipates spending approximately 49% of its total drilling and completions budget in the Williston Basin. Based on previous budget estimates, that's about ~475 million.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/halcon-holds-production-guidance-lowers-2014-capital-budget">Halcon Holds Production Guidance &amp; Lowers its 2014 Capital Budget</a></p><p>The company's plan for 2014 is to focus on its "de-risked" acreage, which includes the Fort Berthold area.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/3cdcea2e36ae.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Floyd Wilson, CEO, said in a company statement, “our focus in 2014 is on drilling wells in the sweet spots of our de-risked acreage in the Williston Basin and El Halcón. We will also begin drilling wells on our newly acquired acreage located in what we believe to be the core of theTuscaloosa Marine Shale. We are primed for growth and have a deep drilling inventory. We are committed to maintaining capital discipline and dedicated to improving capital efficiency.<span>”</span>
   </blockquote>
   
@@ -220,7 +220,7 @@ heroImage: "/images/3cdcea2e36ae.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>At Winter NAPE, Wilson, was quoted, “[the company’s] most recent wells in the Bakken are the best ever.<span>”</span>
   </blockquote>
   
@@ -269,9 +269,9 @@ heroImage: "/images/3cdcea2e36ae.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43ffda5d4222fbbca41f/1467383325849/" data-record-type="1" data-full-url="/bsp-news/news/nearly-half-of-halcon-2014-budget-targeting-bakken-475-million" data-title="Nearly Half of Halcon 2014 Budget Targeting Bakken - ~$475 Million"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43ffda5d4222fbbca41f" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

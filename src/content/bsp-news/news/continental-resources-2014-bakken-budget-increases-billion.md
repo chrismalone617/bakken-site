@@ -83,7 +83,7 @@ heroImage: "/images/c8aa703bf4ff.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/c8aa703bf4ff.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/c8aa703bf4ff.jpeg" data-image="/images/c8aa703bf4ff.jpeg" data-image-dimensions="283x300" data-image-focal-point="0.5,0.5" alt="Continental Resources Bakken Three Forks Map" data-load="false" elementtiming="system-image-block" src="/images/c8aa703bf4ff.jpeg" width="283" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c8aa703bf4ff.jpeg 100w, /images/c8aa703bf4ff.jpeg 300w, /images/c8aa703bf4ff.jpeg 500w, /images/c8aa703bf4ff.jpeg 750w, /images/c8aa703bf4ff.jpeg 1000w, /images/c8aa703bf4ff.jpeg 1500w, /images/c8aa703bf4ff.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Continental Resources Bakken Three Forks Map" src="/images/c8aa703bf4ff.jpeg" width="283" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c8aa703bf4ff.jpeg 100w, /images/c8aa703bf4ff.jpeg 300w, /images/c8aa703bf4ff.jpeg 500w, /images/c8aa703bf4ff.jpeg 750w, /images/c8aa703bf4ff.jpeg 1000w, /images/c8aa703bf4ff.jpeg 1500w, /images/c8aa703bf4ff.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/c8aa703bf4ff.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>...the Company has set a new goal to reduce average operated Bakken completed well costs in a range of 3% to 5% by the end of 2014.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/c8aa703bf4ff.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43eada5d4222fbbca2fe/1467384174003/" data-record-type="1" data-full-url="/bsp-news/news/continental-resources-2014-bakken-budget-increases-billion" data-title="Continental Resources' 2014 Bakken Budget Increases to $2.5 Billion"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43eada5d4222fbbca2fe" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

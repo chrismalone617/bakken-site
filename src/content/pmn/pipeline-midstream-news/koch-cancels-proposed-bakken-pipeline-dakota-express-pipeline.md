@@ -83,7 +83,7 @@ heroImage: "/images/894f8b561d2d.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/894f8b561d2d.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/894f8b561d2d.jpeg" data-image="/images/894f8b561d2d.jpeg" data-image-dimensions="300x238" data-image-focal-point="0.5,0.5" alt="Bakken Pipeline Map" data-load="false" elementtiming="system-image-block" src="/images/894f8b561d2d.jpeg" width="300" height="238" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/894f8b561d2d.jpeg 100w, /images/894f8b561d2d.jpeg 300w, /images/894f8b561d2d.jpeg 500w, /images/894f8b561d2d.jpeg 750w, /images/894f8b561d2d.jpeg 1000w, /images/894f8b561d2d.jpeg 1500w, /images/894f8b561d2d.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Pipeline Map" src="/images/894f8b561d2d.jpeg" width="300" height="238" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/894f8b561d2d.jpeg 100w, /images/894f8b561d2d.jpeg 300w, /images/894f8b561d2d.jpeg 500w, /images/894f8b561d2d.jpeg 750w, /images/894f8b561d2d.jpeg 1000w, /images/894f8b561d2d.jpeg 1500w, /images/894f8b561d2d.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/894f8b561d2d.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The "Dakota Express Pipeline", proposed in June 2013 by Koch Pipeline, will not be built according to a <a target="_blank" href="http://www.bloomberg.com/news/2014-01-22/koch-ends-plans-for-pipeline-to-illinois-from-bakken.html">Bloomberg</a> report. The project included a 250,000 b/d pipeline to transport oil out of the Bakken in Western North Dakota to receipt points in Illinois.</p><p><strong>Read more:</strong><a href="http://bakkenshale.com/pmn/pipeline-midstream-news/koch-open-season-for-bakken-crude-pipeline-starts?rq=Koch%20Plans%20Open%20Season%20for%20Bakken%20Crude%20Pipeline%20to%20Illinois">Koch Plans Open Season for Bakken Crude Pipeline to Illinois</a></p><p>With production in the Bakken, nearing 1 million b/d, the need for pipelines is only increasing. Although it is not known why the company decided to axe the project, Company Spokesman, Jake Reit, did confirm the decision to Lynn Doan with Bloomberg, saying:</p><blockquote><p>"the non-binding open season for the Dakota Express Pipeline is no longer being pursued"</p></blockquote><p>Pipeline companies prefer to have long-term, binding commitments for capacity. If commitments do not reach a certain point, the project will be called off. As a very loose rule of thumb, pipeline companies look for commitments of 60% or more of designed capacity before they move forward. In this case, that could mean Koch failed to receive commitments for 150,000 b/d.</p><p>This isn't the first proposed pipeline to get canceled: <a href="http://bakkenshale.com/bsp-news/news/oneok-cancels-bakken-crude-express-plans">Oneok canceled plans for the Bakken Crude Express Pipeline</a> in late 2012.</p><p>The Koch cancellation is surprising considering there is more than 500,000 b/d of oil moving by rail out of the basin today.</p>
+  <p>The "Dakota Express Pipeline", proposed in June 2013 by Koch Pipeline, will not be built according to a <a target="_blank" href="http://www.bloomberg.com/news/2014-01-22/koch-ends-plans-for-pipeline-to-illinois-from-bakken.html">Bloomberg</a> report. The project included a 250,000 b/d pipeline to transport oil out of the Bakken in Western North Dakota to receipt points in Illinois.</p><p><strong>Read more:</strong><a href="//pmn/pipeline-midstream-news/koch-open-season-for-bakken-crude-pipeline-starts?rq=Koch%20Plans%20Open%20Season%20for%20Bakken%20Crude%20Pipeline%20to%20Illinois">Koch Plans Open Season for Bakken Crude Pipeline to Illinois</a></p><p>With production in the Bakken, nearing 1 million b/d, the need for pipelines is only increasing. Although it is not known why the company decided to axe the project, Company Spokesman, Jake Reit, did confirm the decision to Lynn Doan with Bloomberg, saying:</p><blockquote><p>"the non-binding open season for the Dakota Express Pipeline is no longer being pursued"</p></blockquote><p>Pipeline companies prefer to have long-term, binding commitments for capacity. If commitments do not reach a certain point, the project will be called off. As a very loose rule of thumb, pipeline companies look for commitments of 60% or more of designed capacity before they move forward. In this case, that could mean Koch failed to receive commitments for 150,000 b/d.</p><p>This isn't the first proposed pipeline to get canceled: <a href="/bsp-news/news/oneok-cancels-bakken-crude-express-plans">Oneok canceled plans for the Bakken Crude Express Pipeline</a> in late 2012.</p><p>The Koch cancellation is surprising considering there is more than 500,000 b/d of oil moving by rail out of the basin today.</p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/894f8b561d2d.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22cadfa21e80eeb5510c/1467905715410/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/koch-cancels-proposed-bakken-pipeline-dakota-express-pipeline" data-title="Koch Cancels Proposed Bakken Pipeline - Dakota Express Pipeline"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22cadfa21e80eeb5510c" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

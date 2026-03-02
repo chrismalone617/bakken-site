@@ -83,7 +83,7 @@ heroImage: "/images/68490a67019b.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/68490a67019b.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/68490a67019b.jpeg" data-image="/images/68490a67019b.jpeg" data-image-dimensions="300x126" data-image-focal-point="0.5,0.5" alt="Bakken and Three Forks Well Spuds Q4 2013" data-load="false" elementtiming="system-image-block" src="/images/68490a67019b.jpeg" width="300" height="126" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/68490a67019b.jpeg 100w, /images/68490a67019b.jpeg 300w, /images/68490a67019b.jpeg 500w, /images/68490a67019b.jpeg 750w, /images/68490a67019b.jpeg 1000w, /images/68490a67019b.jpeg 1500w, /images/68490a67019b.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken and Three Forks Well Spuds Q4 2013" src="/images/68490a67019b.jpeg" width="300" height="126" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/68490a67019b.jpeg 100w, /images/68490a67019b.jpeg 300w, /images/68490a67019b.jpeg 500w, /images/68490a67019b.jpeg 750w, /images/68490a67019b.jpeg 1000w, /images/68490a67019b.jpeg 1500w, /images/68490a67019b.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/68490a67019b.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The number of wells started in the Williston Basin was down slightly from 751 wells in the third quarter to 737 wells in the fourth quarter.</p><p><strong>Also read:</strong><a href="http://bakkenshale.com/drilling/drilling-rig-count/bakken-three-forks-well-spuds-set-record-in-the-williston-basin">Bakken &amp; Three Forks Well Spuds Set Record in Q3</a></p><p>Baker Hughes also reported a drop in the average rig count during the quarter from 183 to 180 across the basin from quarter to quarter.</p><p>Drilling efficiency or the number of wells drilled by each rig held flat at 4.09 per rig.</p><p>Watch for the above drilling metrics to be impacted negatively over the coming months of winter. Harsh weather makes drilling efficiency targets hard to achieve.</p>
+  <p>The number of wells started in the Williston Basin was down slightly from 751 wells in the third quarter to 737 wells in the fourth quarter.</p><p><strong>Also read:</strong><a href="/drilling/drilling-rig-count/bakken-three-forks-well-spuds-set-record-in-the-williston-basin">Bakken &amp; Three Forks Well Spuds Set Record in Q3</a></p><p>Baker Hughes also reported a drop in the average rig count during the quarter from 183 to 180 across the basin from quarter to quarter.</p><p>Drilling efficiency or the number of wells drilled by each rig held flat at 4.09 per rig.</p><p>Watch for the above drilling metrics to be impacted negatively over the coming months of winter. Harsh weather makes drilling efficiency targets hard to achieve.</p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/68490a67019b.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f7da5d4222fbbca3ba/1467383603197/" data-record-type="1" data-full-url="/bsp-news/news/bakken-well-spuds-slightly-drilling-efficiency-flat-q4-baker-hughes" data-title="Bakken Well Spuds Down - Drilling Efficiency Flat in Q4 - Baker Hughes"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f7da5d4222fbbca3ba" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

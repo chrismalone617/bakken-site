@@ -84,7 +84,7 @@ heroImage: "/images/d9b0c8004486.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -93,7 +93,7 @@ heroImage: "/images/d9b0c8004486.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d9b0c8004486.png" data-image="/images/d9b0c8004486.png" data-image-dimensions="300x230" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/d9b0c8004486.png" width="300" height="230" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d9b0c8004486.png 100w, /images/d9b0c8004486.png 300w, /images/d9b0c8004486.png 500w, /images/d9b0c8004486.png 750w, /images/d9b0c8004486.png 1000w, /images/d9b0c8004486.png 1500w, /images/d9b0c8004486.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/d9b0c8004486.png" width="300" height="230" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d9b0c8004486.png 100w, /images/d9b0c8004486.png 300w, /images/d9b0c8004486.png 500w, /images/d9b0c8004486.png 750w, /images/d9b0c8004486.png 1000w, /images/d9b0c8004486.png 1500w, /images/d9b0c8004486.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -116,7 +116,7 @@ heroImage: "/images/d9b0c8004486.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Bakken Shale powerhouse, Continental Resources, is counting on continued momentum as it raises its expectations for North Dakota activity and production for the rest of the year.</p><p><a href="https://bakkenshale.com/companies/continental-resources/?rq=continental">Read more about Continental in the Bakken Shale Play</a></p><p>Oklahoma-based Continental announced third quarter results, saying it is betting on recovery from enhanced work at the Bakken shale oil reserve basin in North Dakota, and the SCOOP and STACK reservoirs in Oklahoma.</p><p>The company expects to end the year with production volumes that are about 5 percent more than it estimated in August.&nbsp;</p>
+  <p>Bakken Shale powerhouse, Continental Resources, is counting on continued momentum as it raises its expectations for North Dakota activity and production for the rest of the year.</p><p><a href="/companies/continental-resources/?rq=continental">Read more about Continental in the Bakken Shale Play</a></p><p>Oklahoma-based Continental announced third quarter results, saying it is betting on recovery from enhanced work at the Bakken shale oil reserve basin in North Dakota, and the SCOOP and STACK reservoirs in Oklahoma.</p><p>The company expects to end the year with production volumes that are about 5 percent more than it estimated in August.&nbsp;</p>
 </div>
 
 
@@ -163,7 +163,7 @@ heroImage: "/images/d9b0c8004486.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We brought on several excellent producers in the Bakken using enhanced completion designs, including two wells that generated CLR-record 30-day initial rates for the Bakken. This is an encouraging start as the Company begins working down its large backlog of Bakken uncompleted wells and capturing their value.<span>”</span>
   </blockquote>
   <figcaption>— Harold Hamm, Chairman and Chief Executive Officer</figcaption>
@@ -218,7 +218,7 @@ heroImage: "/images/d9b0c8004486.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The Company plans to increase from two to four stimulation crews in North Dakota by year-end 2016. The Company now expects to end 2016 with approximately 175 gross operated uncompleted wells in the Bakken and approximately 45 gross operated uncompleted wells in Oklahoma. The projected year-end Bakken uncompleted well count of 175 excludes approximately 15 wells that will have been stimulated by year-end 2016, but not produced with first sales until 2017.<span>”</span>
   </blockquote>
   <figcaption>— Continental Press Release</figcaption>
@@ -294,9 +294,9 @@ heroImage: "/images/d9b0c8004486.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/57ff8b6603596ec2ff5bd3d4/1480460352127/" data-record-type="1" data-full-url="/bsp-news/news/7d3x253vmm7ntnk1rlz0n6y3qgd36m" data-title="Continental Resources Raises Expectations for remainder of 2016"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="57ff8b6603596ec2ff5bd3d4" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

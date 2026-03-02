@@ -83,7 +83,7 @@ heroImage: "/images/7073192cbb02.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/7073192cbb02.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/7073192cbb02.jpg" data-image="/images/7073192cbb02.jpg" data-image-dimensions="207x244" data-image-focal-point="0.5,0.5" alt="Stallion-Oilfield-Services-Ltd" data-load="false" elementtiming="system-image-block" src="/images/7073192cbb02.jpg" width="207" height="244" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/7073192cbb02.jpg 100w, /images/7073192cbb02.jpg 300w, /images/7073192cbb02.jpg 500w, /images/7073192cbb02.jpg 750w, /images/7073192cbb02.jpg 1000w, /images/7073192cbb02.jpg 1500w, /images/7073192cbb02.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Stallion-Oilfield-Services-Ltd" src="/images/7073192cbb02.jpg" width="207" height="244" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/7073192cbb02.jpg 100w, /images/7073192cbb02.jpg 300w, /images/7073192cbb02.jpg 500w, /images/7073192cbb02.jpg 750w, /images/7073192cbb02.jpg 1000w, /images/7073192cbb02.jpg 1500w, /images/7073192cbb02.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/7073192cbb02.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The real difference is in the counting.<span>”</span>
   </blockquote>
   <figcaption>— Stallion Attorney, Levi Anders </figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/7073192cbb02.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e7da5d4222fbbca2cf/1467383571982/" data-record-type="1" data-full-url="/bsp-news/news/stallions-2-6-million-temporary-housing-fine-reduced" data-title="Stallion's $2.6 Million Temporary Housing Fine Reduced"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e7da5d4222fbbca2cf" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

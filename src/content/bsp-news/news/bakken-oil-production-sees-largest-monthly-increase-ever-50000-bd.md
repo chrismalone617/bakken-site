@@ -83,7 +83,7 @@ heroImage: "/images/c257a1335751.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/c257a1335751.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/c257a1335751.jpeg" data-image="/images/c257a1335751.jpeg" data-image-dimensions="300x206" data-image-focal-point="0.5,0.5" alt="Bakken Oil Production Forecast - NDPA" data-load="false" elementtiming="system-image-block" src="/images/c257a1335751.jpeg" width="300" height="206" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c257a1335751.jpeg 100w, /images/c257a1335751.jpeg 300w, /images/c257a1335751.jpeg 500w, /images/c257a1335751.jpeg 750w, /images/c257a1335751.jpeg 1000w, /images/c257a1335751.jpeg 1500w, /images/c257a1335751.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Oil Production Forecast - NDPA" src="/images/c257a1335751.jpeg" width="300" height="206" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c257a1335751.jpeg 100w, /images/c257a1335751.jpeg 300w, /images/c257a1335751.jpeg 500w, /images/c257a1335751.jpeg 750w, /images/c257a1335751.jpeg 1000w, /images/c257a1335751.jpeg 1500w, /images/c257a1335751.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/c257a1335751.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Revised August 15, 2013: NDIC reports Bakken oil production grew a little more than 10,000 b/d from May to June.<span>”</span>
   </blockquote>
   
@@ -173,7 +173,7 @@ heroImage: "/images/c257a1335751.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Read more in the article <a href="http://bakkenshale.com/bsp-news/news/bakken-oil-production-sets-record-at-more-than-750000-bd-in-june">Bakken Oil Production Sets Record At More Than 750,000 b/d In June</a></p><p><a href="http://bakkenshale.com/bsp-news/news/bakken-oil-production-record-set-in-may-despite-the-weather">May Was A Record Month In The Bakken Too</a></p><p>Production climbed to a record of more than 810,000 barrels per day in May even though it was the <a href="http://bakkenshale.com/bsp-news/news/wet-weather-forcing-delays-in-north-dakotas-bakken-oilfield">wettest month on record in the Bakken.</a> The delays caused by weather primed June to be a good month for production.</p><p>Genscape estimates 70% of production moved by rail during the month and that North Dakota production will grow another 68,000 b/d to more than 920,000 b/d by year-end 2013.</p>
+  <p>Read more in the article <a href="/bsp-news/news/bakken-oil-production-sets-record-at-more-than-750000-bd-in-june">Bakken Oil Production Sets Record At More Than 750,000 b/d In June</a></p><p><a href="/bsp-news/news/bakken-oil-production-record-set-in-may-despite-the-weather">May Was A Record Month In The Bakken Too</a></p><p>Production climbed to a record of more than 810,000 barrels per day in May even though it was the <a href="/bsp-news/news/wet-weather-forcing-delays-in-north-dakotas-bakken-oilfield">wettest month on record in the Bakken.</a> The delays caused by weather primed June to be a good month for production.</p><p>Genscape estimates 70% of production moved by rail during the month and that North Dakota production will grow another 68,000 b/d to more than 920,000 b/d by year-end 2013.</p>
 </div>
 
 
@@ -214,9 +214,9 @@ heroImage: "/images/c257a1335751.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e5da5d4222fbbca2bf/1467384306778/" data-record-type="1" data-full-url="/bsp-news/news/bakken-oil-production-sees-largest-monthly-increase-ever-50000-bd" data-title="Bakken Oil Production Sees Largest Monthly Increase Ever In June - 50,000+ b/d"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e5da5d4222fbbca2bf" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

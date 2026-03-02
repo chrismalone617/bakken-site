@@ -66,9 +66,9 @@ description: "Canadian Pacific and Smart Sand are partnering to supply Northern 
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c4da5d4222fbbca0c8/1467332636273/" data-record-type="1" data-full-url="/bsp-news/news/canadian-pacific-smart-sand-partner-to-supply-bakken-frac-sand" data-title="Canadian Pacific - Smart Sand Partner to Supply Bakken Frack Sand"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c4da5d4222fbbca0c8" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

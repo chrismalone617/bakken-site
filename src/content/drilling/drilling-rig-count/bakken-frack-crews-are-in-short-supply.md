@@ -25,7 +25,7 @@ description: "Bakken Shale drilling  has grown to well over 200 rigs working, bu
     <div><div data-layout-label="Post Body" data-type="item" data-updated-on="1467849036871"><div><div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p><a href="http://bakkenshale.com/drilling/">Bakken Shale drilling</a> has grown to well over 200 rigs working, but the number of hydraulic fracturing (fracking) service crews has not kept pace. The number of wells waiting to be completed in North Dakota has grown to <strong>300 more than normal</strong>. The number is holding constant, which means we're keeping up with the number of rigs working currently, but we won't elimiate the backlog without additional completion crews. If the backlog is diminished, North Dakota will continue its path of surpassing OPEC members in total daily production. The state surpassed Ecuador in November of 2011. If the state reaches 800,000 b/d it begin to challenge the ranks of the <strong>top 25 countries</strong> in the world.</p>
+  <p><a href="/drilling/">Bakken Shale drilling</a> has grown to well over 200 rigs working, but the number of hydraulic fracturing (fracking) service crews has not kept pace. The number of wells waiting to be completed in North Dakota has grown to <strong>300 more than normal</strong>. The number is holding constant, which means we're keeping up with the number of rigs working currently, but we won't elimiate the backlog without additional completion crews. If the backlog is diminished, North Dakota will continue its path of surpassing OPEC members in total daily production. The state surpassed Ecuador in November of 2011. If the state reaches 800,000 b/d it begin to challenge the ranks of the <strong>top 25 countries</strong> in the world.</p>
 </div>
 
 
@@ -66,9 +66,9 @@ description: "Bakken Shale drilling  has grown to well over 200 rigs working, bu
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f41e26dc6951d90c43bbf/573f41e36dc6951d90c43bca/1467848839564/" data-record-type="1" data-full-url="/drilling/drilling-rig-count/bakken-frack-crews-are-in-short-supply" data-title="Bakken Frack Crews are in Short Supply"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f41e36dc6951d90c43bca" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

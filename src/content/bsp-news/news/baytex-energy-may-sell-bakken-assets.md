@@ -83,7 +83,7 @@ heroImage: "/images/74d7303f4f31.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/74d7303f4f31.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/74d7303f4f31.jpeg" data-image="/images/74d7303f4f31.jpeg" data-image-dimensions="300x269" data-image-focal-point="0.5,0.5" alt="Baytex Energy Bakken Assets" data-load="false" elementtiming="system-image-block" src="/images/74d7303f4f31.jpeg" width="300" height="269" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/74d7303f4f31.jpeg 100w, /images/74d7303f4f31.jpeg 300w, /images/74d7303f4f31.jpeg 500w, /images/74d7303f4f31.jpeg 750w, /images/74d7303f4f31.jpeg 1000w, /images/74d7303f4f31.jpeg 1500w, /images/74d7303f4f31.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Baytex Energy Bakken Assets" src="/images/74d7303f4f31.jpeg" width="300" height="269" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/74d7303f4f31.jpeg 100w, /images/74d7303f4f31.jpeg 300w, /images/74d7303f4f31.jpeg 500w, /images/74d7303f4f31.jpeg 750w, /images/74d7303f4f31.jpeg 1000w, /images/74d7303f4f31.jpeg 1500w, /images/74d7303f4f31.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -159,9 +159,9 @@ heroImage: "/images/74d7303f4f31.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4407da5d4222fbbca48c/1467382963217/" data-record-type="1" data-full-url="/bsp-news/news/baytex-energy-may-sell-bakken-assets" data-title="Baytex Energy May Sell Bakken Assets"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4407da5d4222fbbca48c" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

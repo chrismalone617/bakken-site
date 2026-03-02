@@ -25,7 +25,7 @@ description: "Bakken super-producer, Continental Resources, announced that crude
     <div><div data-layout-label="Post Body" data-type="item" data-updated-on="1465934779375"><div><div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Bakken super-producer, Continental Resources, announced that crude prices are finally within a good range for them to move forward with well completions.&nbsp;</p><p><a href="http://bakkenshale.com/bsp-news/news/continental-reduces-bakken-rigs?rq=continental%20resources">Related: Continental Sidelines Bakken Rigs</a></p><p>Founder and CEO Harold Hamm told Bloomberg this week that new drilling in the Bakken won't take place until crude prices pass the $60 before mark. But encouraged by the recent increases, the company will move forward to complete their backlog of wells that still need to be fracked.&nbsp;&nbsp;</p><p>In late 2015, Hamm announced that Continental would join other producers to sideline their rigs in the Bakken. There are currently 24 running rigs in the <a href="http://bakkenshale.com/drilling/">Bakken Three Forks region</a>, down from 54 in December. These drilled but uncompleted wells (DUC) have remained dormant as Hamm and others waited out the prices.&nbsp;</p>
+  <p>Bakken super-producer, Continental Resources, announced that crude prices are finally within a good range for them to move forward with well completions.&nbsp;</p><p><a href="/bsp-news/news/continental-reduces-bakken-rigs?rq=continental%20resources">Related: Continental Sidelines Bakken Rigs</a></p><p>Founder and CEO Harold Hamm told Bloomberg this week that new drilling in the Bakken won't take place until crude prices pass the $60 before mark. But encouraged by the recent increases, the company will move forward to complete their backlog of wells that still need to be fracked.&nbsp;&nbsp;</p><p>In late 2015, Hamm announced that Continental would join other producers to sideline their rigs in the Bakken. There are currently 24 running rigs in the <a href="/drilling/">Bakken Three Forks region</a>, down from 54 in December. These drilled but uncompleted wells (DUC) have remained dormant as Hamm and others waited out the prices.&nbsp;</p>
 </div>
 
 
@@ -72,7 +72,7 @@ description: "Bakken super-producer, Continental Resources, announced that crude
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Peter Pulikkan of Bloomberg referred to Lynn Hems data when he said “Most Bakken shale drillers will start completiing their backlogs of unfinished wells when crude reaches $55-$60 range.”<span>”</span>
   </blockquote>
   
@@ -121,9 +121,9 @@ description: "Bakken super-producer, Continental Resources, announced that crude
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/5760618345bf21ca77741ecb/1466556742744/" data-record-type="1" data-full-url="/bsp-news/news/continental-resources-begin-drilling-again" data-title="Continental Resources to Start Fracking Again"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="5760618345bf21ca77741ecb" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

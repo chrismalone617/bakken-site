@@ -83,7 +83,7 @@ heroImage: "/images/c58a0d4981ff.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/c58a0d4981ff.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/c58a0d4981ff.jpeg" data-image="/images/c58a0d4981ff.jpeg" data-image-dimensions="300x257" data-image-focal-point="0.5,0.5" alt="EOG Resources Bakken Map" data-load="false" elementtiming="system-image-block" src="/images/c58a0d4981ff.jpeg" width="300" height="257" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c58a0d4981ff.jpeg 100w, /images/c58a0d4981ff.jpeg 300w, /images/c58a0d4981ff.jpeg 500w, /images/c58a0d4981ff.jpeg 750w, /images/c58a0d4981ff.jpeg 1000w, /images/c58a0d4981ff.jpeg 1500w, /images/c58a0d4981ff.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="EOG Resources Bakken Map" src="/images/c58a0d4981ff.jpeg" width="300" height="257" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c58a0d4981ff.jpeg 100w, /images/c58a0d4981ff.jpeg 300w, /images/c58a0d4981ff.jpeg 500w, /images/c58a0d4981ff.jpeg 750w, /images/c58a0d4981ff.jpeg 1000w, /images/c58a0d4981ff.jpeg 1500w, /images/c58a0d4981ff.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/c58a0d4981ff.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>EOG is consistently making the best oil wells in the best two oil plays in North America, the Eagle Ford and Bakken/Three Forks.<span>”</span>
   </blockquote>
   <figcaption>— CEO, William R. "Bill" Thomas. </figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/c58a0d4981ff.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43efda5d4222fbbca354/1467383884047/" data-record-type="1" data-full-url="/bsp-news/news/eog-will-utilize-self-sourced-sand-bakken-completions" data-title="EOG Will Utilize Self-Sourced Sand in Bakken Completions"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43efda5d4222fbbca354" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

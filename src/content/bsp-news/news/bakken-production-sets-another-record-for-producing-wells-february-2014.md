@@ -83,7 +83,7 @@ heroImage: "/images/3451c6aef243.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/3451c6aef243.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/3451c6aef243.jpeg" data-image="/images/3451c6aef243.jpeg" data-image-dimensions="300x276" data-image-focal-point="0.5,0.5" alt="Bakken Production Chart - Goldman Sachs" data-load="false" elementtiming="system-image-block" src="/images/3451c6aef243.jpeg" width="300" height="276" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3451c6aef243.jpeg 100w, /images/3451c6aef243.jpeg 300w, /images/3451c6aef243.jpeg 500w, /images/3451c6aef243.jpeg 750w, /images/3451c6aef243.jpeg 1000w, /images/3451c6aef243.jpeg 1500w, /images/3451c6aef243.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Production Chart - Goldman Sachs" src="/images/3451c6aef243.jpeg" width="300" height="276" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3451c6aef243.jpeg 100w, /images/3451c6aef243.jpeg 300w, /images/3451c6aef243.jpeg 500w, /images/3451c6aef243.jpeg 750w, /images/3451c6aef243.jpeg 1000w, /images/3451c6aef243.jpeg 1500w, /images/3451c6aef243.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/3451c6aef243.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>In February 2014, the number of producing wells in North Dakota reached an all-time record high of <strong>10,186</strong>. The information was released in the North Dakota Industrial Commission's (NDIC) Director's Cut for Aril 2014. The number of producing wells in North Dakota has risen month over month since the beginning of the year.</p><p>Approximately 94% of all oil production in February came from the Bakken and Three forks formation - 892,399 b/d. Another 6% came from legacy conventional pools.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/bakken-production-sets-another-record-10000-plus-nd-wells-producing?rq=Bakken%20Production%20Sets%20Another%20Record%20-%20More%20than%2010%2C000%20ND%20Wells%20Producing">Bakken Production Sets Another Record - More than 10,000 ND Wells Producing</a></p><p>Weather had the most significant impact on production in January and February. In the month of February alone, there were 18 days with temperatures five or more degrees below normal. Four days were recorded where wind gusts were too high for completion work. During this time frame,&nbsp;Hess's Tioga natural gas plant expansion plans were delayed; and company officials cited poor weather conditions as the cause. As a result, approximately 100 wells in North Dakota had to be shut-in to reduce flaring. In March, Hess began selling gas from its' Tioga plant.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/pmn/pipeline-midstream-news/hess-to-begin-selling-bakken-natural-gas-from-tioga-plant?rq=Hess%20to%20Begin%20Selling%20Bakken%20Natural%20Gas%20from%20Tioga%20Plant">Hess to Begin Selling Bakken Natural Gas from Tioga Plant</a></p>
+  <p>In February 2014, the number of producing wells in North Dakota reached an all-time record high of <strong>10,186</strong>. The information was released in the North Dakota Industrial Commission's (NDIC) Director's Cut for Aril 2014. The number of producing wells in North Dakota has risen month over month since the beginning of the year.</p><p>Approximately 94% of all oil production in February came from the Bakken and Three forks formation - 892,399 b/d. Another 6% came from legacy conventional pools.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/bakken-production-sets-another-record-10000-plus-nd-wells-producing?rq=Bakken%20Production%20Sets%20Another%20Record%20-%20More%20than%2010%2C000%20ND%20Wells%20Producing">Bakken Production Sets Another Record - More than 10,000 ND Wells Producing</a></p><p>Weather had the most significant impact on production in January and February. In the month of February alone, there were 18 days with temperatures five or more degrees below normal. Four days were recorded where wind gusts were too high for completion work. During this time frame,&nbsp;Hess's Tioga natural gas plant expansion plans were delayed; and company officials cited poor weather conditions as the cause. As a result, approximately 100 wells in North Dakota had to be shut-in to reduce flaring. In March, Hess began selling gas from its' Tioga plant.</p><p><strong>Read more</strong>: <a href="//pmn/pipeline-midstream-news/hess-to-begin-selling-bakken-natural-gas-from-tioga-plant?rq=Hess%20to%20Begin%20Selling%20Bakken%20Natural%20Gas%20from%20Tioga%20Plant">Hess to Begin Selling Bakken Natural Gas from Tioga Plant</a></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/3451c6aef243.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>NDIC Director Lynn Helms commented, “the drilling rig count was pretty much unchanged from January to February, and the number of well completions was up slightly from 60 to 70. Days from spud to initial production decreased 8 days to 114. Investor confidence appears to be growing. There were still over 100 wells shut in for the Tioga gas plant conversion in an attempt to minimize flaring, but the biggest production impact was still the weather.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/3451c6aef243.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c8da5d4222fbbca0fc/1467383172308/" data-record-type="1" data-full-url="/bsp-news/news/bakken-production-sets-another-record-for-producing-wells-february-2014" data-title="Bakken Production Sets Another Record for Producing Wells - February 2014"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c8da5d4222fbbca0fc" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

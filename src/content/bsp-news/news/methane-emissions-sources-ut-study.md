@@ -83,7 +83,7 @@ heroImage: "/images/ea90db98d70d.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/ea90db98d70d.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ea90db98d70d.jpg" data-image="/images/ea90db98d70d.jpg" data-image-dimensions="198x300" data-image-focal-point="0.5,0.5" alt="alt=&quot;Methane Emissions&quot;" data-load="false" elementtiming="system-image-block" src="/images/ea90db98d70d.jpg" width="198" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ea90db98d70d.jpg 100w, /images/ea90db98d70d.jpg 300w, /images/ea90db98d70d.jpg 500w, /images/ea90db98d70d.jpg 750w, /images/ea90db98d70d.jpg 1000w, /images/ea90db98d70d.jpg 1500w, /images/ea90db98d70d.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="alt=&quot;Methane Emissions&quot;" src="/images/ea90db98d70d.jpg" width="198" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ea90db98d70d.jpg 100w, /images/ea90db98d70d.jpg 300w, /images/ea90db98d70d.jpg 500w, /images/ea90db98d70d.jpg 750w, /images/ea90db98d70d.jpg 1000w, /images/ea90db98d70d.jpg 1500w, /images/ea90db98d70d.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/ea90db98d70d.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>David Allen, principal researcher and professor at Cockrell School gives some perspective on the findings by sharing that “over the past several decades, 10 percent of the cars on the road have been responsible for the majority of automotive exhaust pollution,” said Allen. “Similarly, a small group of sources within these two categories are responsible for the vast majority of pneumatic and unloading emissions at natural gas production sites.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/ea90db98d70d.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4410da5d4222fbbca515/1467382511312/" data-record-type="1" data-full-url="/bsp-news/news/methane-emissions-sources-ut-study" data-title="Methane Emissions from Two Main Sources says UT Study"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4410da5d4222fbbca515" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

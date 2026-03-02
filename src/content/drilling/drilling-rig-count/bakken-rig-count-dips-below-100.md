@@ -83,7 +83,7 @@ heroImage: "/images/cc0e6629614b.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/cc0e6629614b.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/cc0e6629614b.jpg" data-image="/images/cc0e6629614b.jpg" data-image-dimensions="300x250" data-image-focal-point="0.5,0.5" alt="Williston Service Population Grew 20%" data-load="false" elementtiming="system-image-block" src="/images/cc0e6629614b.jpg" width="300" height="250" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/cc0e6629614b.jpg 100w, /images/cc0e6629614b.jpg 300w, /images/cc0e6629614b.jpg 500w, /images/cc0e6629614b.jpg 750w, /images/cc0e6629614b.jpg 1000w, /images/cc0e6629614b.jpg 1500w, /images/cc0e6629614b.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Williston Service Population Grew 20%" src="/images/cc0e6629614b.jpg" width="300" height="250" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/cc0e6629614b.jpg 100w, /images/cc0e6629614b.jpg 300w, /images/cc0e6629614b.jpg 500w, /images/cc0e6629614b.jpg 750w, /images/cc0e6629614b.jpg 1000w, /images/cc0e6629614b.jpg 1500w, /images/cc0e6629614b.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/cc0e6629614b.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The <a href="http://bakkenshale.com/drilling/">Bakken-Three Forks rig count</a> decreased by five t0 <strong>97</strong> rigs running across our coverage area by the end of last week.</p><p>In recent Bakken news, a study reveals that Williston, N.D. is experiencing population growth that is ten times the normal rate. Infrastructure maintenance and improvements are a growing concern throughout the state as growing populations and oil equipment demands have taxed the current roadways and services.</p><p>Read more: <a href="http://bakkenshale.com/bsp-news/news/population-grows-20-in-williston?rq=Population%20Grows%2020%25%20in%20Williston">Population Grows 20% in Williston</a></p><p><em>The U.S. rig count fell another 56 to 1069 rigs running as of today. A total of 242 rigs were targeting natural gas (down 15 from the previous week) and 825 were targeting oil in the U.S. (41 less than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><strong>99 </strong>rigs are running in the Williston Basin across MT, ND, and SD. <strong>96 </strong>are in ND alone.</p><h2><strong>Bakken Oil &amp; Gas Rigs</strong></h2><p>The number of oil rigs decreased by five t0 97 rigs running by midday. WTI oil prices increased $.91 from the previous week, trading at $45.72/bbl on Friday afternoon. The WTI-Brent saw an increase of $.47 by week’s end, landing at $55.14. There are currently no natural active gas rigs in the area and futures are trading at $2.79/mmbtu by midday.</p><p>McKenzie County continues to lead development and increased to 43 rigs running. Williams (18) and Mountrail (17) counties are the next closest producers. View the full list below under the <em>Bakken Drilling by County</em> section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>96 rigs are drilling horizontal wells</li><li>1 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><p><a href="http://jobs.bakkenshale.com/">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</a></p><h2><strong>Bakken Drilling by County</strong></h2>
+  <p>The <a href="/drilling/">Bakken-Three Forks rig count</a> decreased by five t0 <strong>97</strong> rigs running across our coverage area by the end of last week.</p><p>In recent Bakken news, a study reveals that Williston, N.D. is experiencing population growth that is ten times the normal rate. Infrastructure maintenance and improvements are a growing concern throughout the state as growing populations and oil equipment demands have taxed the current roadways and services.</p><p>Read more: <a href="/bsp-news/news/population-grows-20-in-williston?rq=Population%20Grows%2020%25%20in%20Williston">Population Grows 20% in Williston</a></p><p><em>The U.S. rig count fell another 56 to 1069 rigs running as of today. A total of 242 rigs were targeting natural gas (down 15 from the previous week) and 825 were targeting oil in the U.S. (41 less than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><strong>99 </strong>rigs are running in the Williston Basin across MT, ND, and SD. <strong>96 </strong>are in ND alone.</p><h2><strong>Bakken Oil &amp; Gas Rigs</strong></h2><p>The number of oil rigs decreased by five t0 97 rigs running by midday. WTI oil prices increased $.91 from the previous week, trading at $45.72/bbl on Friday afternoon. The WTI-Brent saw an increase of $.47 by week’s end, landing at $55.14. There are currently no natural active gas rigs in the area and futures are trading at $2.79/mmbtu by midday.</p><p>McKenzie County continues to lead development and increased to 43 rigs running. Williams (18) and Mountrail (17) counties are the next closest producers. View the full list below under the <em>Bakken Drilling by County</em> section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>96 rigs are drilling horizontal wells</li><li>1 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><p><a href="http://jobs.bakkenshale.com/">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</a></p><h2><strong>Bakken Drilling by County</strong></h2>
 </div>
 
 
@@ -201,7 +201,7 @@ heroImage: "/images/cc0e6629614b.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -210,7 +210,7 @@ heroImage: "/images/cc0e6629614b.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/3d00c2d3bc1d.png" data-image="/images/3d00c2d3bc1d.png" data-image-dimensions="736x420" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/3d00c2d3bc1d.png" width="736" height="420" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3d00c2d3bc1d.png 100w, /images/3d00c2d3bc1d.png 300w, /images/3d00c2d3bc1d.png 500w, /images/3d00c2d3bc1d.png 750w, /images/3d00c2d3bc1d.png 1000w, /images/3d00c2d3bc1d.png 1500w, /images/3d00c2d3bc1d.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/3d00c2d3bc1d.png" width="736" height="420" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3d00c2d3bc1d.png 100w, /images/3d00c2d3bc1d.png 300w, /images/3d00c2d3bc1d.png 500w, /images/3d00c2d3bc1d.png 750w, /images/3d00c2d3bc1d.png 1000w, /images/3d00c2d3bc1d.png 1500w, /images/3d00c2d3bc1d.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -231,7 +231,7 @@ heroImage: "/images/cc0e6629614b.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>&nbsp;</p><h2><strong>Bakken Oil &amp; Gas Rigs</strong></h2><p><a href="http://bakkenshale.com/bsp-news/news/whiting-petroleum-is-it-up-for-sale?rq=Whiting%20Petroleum%3A%20Is%20It%20Up%20for%20Sale%3F">Whiting Petroleum: Is It Up for Sale?</a></p><p><a href="http://bakkenshale.com/bsp-news/news/anti-fracking-movement-blamed-on-russia?rq=Anti-Fracking%20Movement%20Blamed%20on%20Russia">Anti-Fracking Movement Blamed on Russia</a></p><p><a href="http://bakkenshale.com/bsp-news/news/the-economic-impact-of-shale-oil?rq=The%20Economic%20Impact%20of%20Shale%20Oil">The Economic Impact of Shale Oil</a></p><h2><strong>What is the Rig Count?</strong></h2><p>The Bakken Shale Rig Count is an index of the total number of oil &amp; gas drilling rigs running across Montana and North Dakota. The rigs referred to in this article are for ALL drilling reported by Baker Hughes and not solely wells targeting the Bakken formation. All land rigs and onshore rig data shown here are based upon industry estimates provided by the Baker Hughes Rig Count.</p><p>Read more at <a target="_blank" href="http://phx.corporate-ir.net/phoenix.zhtml?c=79687&amp;p=irol-reportsother%20">bakerhughes.com</a></p>
+  <p>&nbsp;</p><h2><strong>Bakken Oil &amp; Gas Rigs</strong></h2><p><a href="/bsp-news/news/whiting-petroleum-is-it-up-for-sale?rq=Whiting%20Petroleum%3A%20Is%20It%20Up%20for%20Sale%3F">Whiting Petroleum: Is It Up for Sale?</a></p><p><a href="/bsp-news/news/anti-fracking-movement-blamed-on-russia?rq=Anti-Fracking%20Movement%20Blamed%20on%20Russia">Anti-Fracking Movement Blamed on Russia</a></p><p><a href="/bsp-news/news/the-economic-impact-of-shale-oil?rq=The%20Economic%20Impact%20of%20Shale%20Oil">The Economic Impact of Shale Oil</a></p><h2><strong>What is the Rig Count?</strong></h2><p>The Bakken Shale Rig Count is an index of the total number of oil &amp; gas drilling rigs running across Montana and North Dakota. The rigs referred to in this article are for ALL drilling reported by Baker Hughes and not solely wells targeting the Bakken formation. All land rigs and onshore rig data shown here are based upon industry estimates provided by the Baker Hughes Rig Count.</p><p>Read more at <a target="_blank" href="http://phx.corporate-ir.net/phoenix.zhtml?c=79687&amp;p=irol-reportsother%20">bakerhughes.com</a></p>
 </div>
 
 
@@ -272,9 +272,9 @@ heroImage: "/images/cc0e6629614b.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f41e26dc6951d90c43bbf/573f41fb6dc6951d90c43d16/1467821712670/" data-record-type="1" data-full-url="/drilling/drilling-rig-count/bakken-rig-count-dips-below-100" data-title="Bakken Rig Count Dips Below 100"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f41fb6dc6951d90c43d16" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

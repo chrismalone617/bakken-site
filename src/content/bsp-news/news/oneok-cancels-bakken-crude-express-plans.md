@@ -83,7 +83,7 @@ heroImage: "/images/70f3e02bf093.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/70f3e02bf093.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/70f3e02bf093.jpeg" data-image="/images/70f3e02bf093.jpeg" data-image-dimensions="255x300" data-image-focal-point="0.5,0.5" alt="Oneok's Bakken Crude Express Pipeline Map" data-load="false" elementtiming="system-image-block" src="/images/70f3e02bf093.jpeg" width="255" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/70f3e02bf093.jpeg 100w, /images/70f3e02bf093.jpeg 300w, /images/70f3e02bf093.jpeg 500w, /images/70f3e02bf093.jpeg 750w, /images/70f3e02bf093.jpeg 1000w, /images/70f3e02bf093.jpeg 1500w, /images/70f3e02bf093.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Oneok's Bakken Crude Express Pipeline Map" src="/images/70f3e02bf093.jpeg" width="255" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/70f3e02bf093.jpeg 100w, /images/70f3e02bf093.jpeg 300w, /images/70f3e02bf093.jpeg 500w, /images/70f3e02bf093.jpeg 750w, /images/70f3e02bf093.jpeg 1000w, /images/70f3e02bf093.jpeg 1500w, /images/70f3e02bf093.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Oneok announced it is canceling plans to build the Bakken Crude Express pipeline
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43cada5d4222fbbca11c/1467385557560/" data-record-type="1" data-full-url="/bsp-news/news/oneok-cancels-bakken-crude-express-plans" data-title="Oneok Cancels Bakken Crude Express Plans"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43cada5d4222fbbca11c" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

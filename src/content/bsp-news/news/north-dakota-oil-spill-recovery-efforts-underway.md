@@ -83,7 +83,7 @@ heroImage: "/images/c651882c939b.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/c651882c939b.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/c651882c939b.jpeg" data-image="/images/c651882c939b.jpeg" data-image-dimensions="300x238" data-image-focal-point="0.5,0.5" alt="Bakken Pipeline Map" data-load="false" elementtiming="system-image-block" src="/images/c651882c939b.jpeg" width="300" height="238" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c651882c939b.jpeg 100w, /images/c651882c939b.jpeg 300w, /images/c651882c939b.jpeg 500w, /images/c651882c939b.jpeg 750w, /images/c651882c939b.jpeg 1000w, /images/c651882c939b.jpeg 1500w, /images/c651882c939b.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Pipeline Map" src="/images/c651882c939b.jpeg" width="300" height="238" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c651882c939b.jpeg 100w, /images/c651882c939b.jpeg 300w, /images/c651882c939b.jpeg 500w, /images/c651882c939b.jpeg 750w, /images/c651882c939b.jpeg 1000w, /images/c651882c939b.jpeg 1500w, /images/c651882c939b.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ North Dakota oil spill recovery efforts are underway near Tioga in Williams Coun
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43edda5d4222fbbca32c/1467383968105/" data-record-type="1" data-full-url="/bsp-news/news/north-dakota-oil-spill-recovery-efforts-underway" data-title="North Dakota Oil Spill Recovery Efforts Underway - Tesoro"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43edda5d4222fbbca32c" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

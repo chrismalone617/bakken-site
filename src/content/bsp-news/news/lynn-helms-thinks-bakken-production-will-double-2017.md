@@ -83,7 +83,7 @@ heroImage: "/images/3451c6aef243.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/3451c6aef243.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/3451c6aef243.jpeg" data-image="/images/3451c6aef243.jpeg" data-image-dimensions="300x276" data-image-focal-point="0.5,0.5" alt="Bakken Production Chart - Goldman Sachs" data-load="false" elementtiming="system-image-block" src="/images/3451c6aef243.jpeg" width="300" height="276" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3451c6aef243.jpeg 100w, /images/3451c6aef243.jpeg 300w, /images/3451c6aef243.jpeg 500w, /images/3451c6aef243.jpeg 750w, /images/3451c6aef243.jpeg 1000w, /images/3451c6aef243.jpeg 1500w, /images/3451c6aef243.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Production Chart - Goldman Sachs" src="/images/3451c6aef243.jpeg" width="300" height="276" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3451c6aef243.jpeg 100w, /images/3451c6aef243.jpeg 300w, /images/3451c6aef243.jpeg 500w, /images/3451c6aef243.jpeg 750w, /images/3451c6aef243.jpeg 1000w, /images/3451c6aef243.jpeg 1500w, /images/3451c6aef243.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ In an address to local officials, the North Dakota Department of Mineral Resourc
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43ebda5d4222fbbca30e/1467384048301/" data-record-type="1" data-full-url="/bsp-news/news/lynn-helms-thinks-bakken-production-will-double-2017" data-title="Lynn Helms Thinks Bakken Production Will Double By 2017"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43ebda5d4222fbbca30e" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

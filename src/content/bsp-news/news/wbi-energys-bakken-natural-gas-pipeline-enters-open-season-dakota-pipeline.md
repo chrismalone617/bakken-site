@@ -83,7 +83,7 @@ heroImage: "/images/37dde06e9512.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/37dde06e9512.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/37dde06e9512.jpeg" data-image="/images/37dde06e9512.jpeg" data-image-dimensions="300x189" data-image-focal-point="0.5,0.5" alt="WBI Dakota Pipeline" data-load="false" elementtiming="system-image-block" src="/images/37dde06e9512.jpeg" width="300" height="189" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/37dde06e9512.jpeg 100w, /images/37dde06e9512.jpeg 300w, /images/37dde06e9512.jpeg 500w, /images/37dde06e9512.jpeg 750w, /images/37dde06e9512.jpeg 1000w, /images/37dde06e9512.jpeg 1500w, /images/37dde06e9512.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="WBI Dakota Pipeline" src="/images/37dde06e9512.jpeg" width="300" height="189" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/37dde06e9512.jpeg 100w, /images/37dde06e9512.jpeg 300w, /images/37dde06e9512.jpeg 500w, /images/37dde06e9512.jpeg 750w, /images/37dde06e9512.jpeg 1000w, /images/37dde06e9512.jpeg 1500w, /images/37dde06e9512.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/37dde06e9512.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The Dakota Pipeline offers another avenue to move Bakken-produced natural gas out of the area and complements our other ongoing activities to build connections to several natural gas processing facilities,” said David Goodin, CEO of MDU Resources. “The increase in natural gas pipeline capacity out of the region will provide additional transportation opportunities for new production as it comes on line, as well as more capacity for natural gas captured through industry’s efforts to reduce the flaring of this valuable resource.<span>”</span>
   </blockquote>
   
@@ -220,7 +220,7 @@ heroImage: "/images/37dde06e9512.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>This project provides access to markets in the Mid-Continent and Great Lakes regions... Through the open season process, we intend to secure capacity commitments for the Dakota Pipeline and begin the process for obtaining the necessary permits and regulatory approvals.<span>”</span>
   </blockquote>
   
@@ -269,9 +269,9 @@ heroImage: "/images/37dde06e9512.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43fbda5d4222fbbca3e4/1467383501878/" data-record-type="1" data-full-url="/bsp-news/news/wbi-energys-bakken-natural-gas-pipeline-enters-open-season-dakota-pipeline" data-title="WBI Energy's Bakken Natural Gas Pipeline Enters Open Season - Dakota Pipeline"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43fbda5d4222fbbca3e4" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

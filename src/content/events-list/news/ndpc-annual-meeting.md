@@ -99,11 +99,11 @@ description: "More information mid-summer."
         
 
         <div>
-  <span data-item-id="573a5e381d07c0255dfd745c" data-like-count="0">
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>
-<span data-system-data-id="1466108965370-KSBOL1YM89MH6K654H1X" data-asset-url="/images/c41a41c73d9a.png" data-record-type="12" data-full-url="/events-list/news/ndpc-annual-meeting" data-title="NDPC Annual Meeting"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span></div>
+</div>
       </div>
       
 

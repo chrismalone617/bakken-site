@@ -83,7 +83,7 @@ heroImage: "/images/68a3f74f5f68.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/68a3f74f5f68.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/68a3f74f5f68.jpeg" data-image="/images/68a3f74f5f68.jpeg" data-image-dimensions="296x300" data-image-focal-point="0.5,0.5" alt="Whiting Petroleum Bakken Acquisition Acreage Map - August 2013" data-load="false" elementtiming="system-image-block" src="/images/68a3f74f5f68.jpeg" width="296" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/68a3f74f5f68.jpeg 100w, /images/68a3f74f5f68.jpeg 300w, /images/68a3f74f5f68.jpeg 500w, /images/68a3f74f5f68.jpeg 750w, /images/68a3f74f5f68.jpeg 1000w, /images/68a3f74f5f68.jpeg 1500w, /images/68a3f74f5f68.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Whiting Petroleum Bakken Acquisition Acreage Map - August 2013" src="/images/68a3f74f5f68.jpeg" width="296" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/68a3f74f5f68.jpeg 100w, /images/68a3f74f5f68.jpeg 300w, /images/68a3f74f5f68.jpeg 500w, /images/68a3f74f5f68.jpeg 750w, /images/68a3f74f5f68.jpeg 1000w, /images/68a3f74f5f68.jpeg 1500w, /images/68a3f74f5f68.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/68a3f74f5f68.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>This acreage expands our presence in our Western Williston Basin area where we have seen recent strong production growth primarily as a result of positive drilling results at our Hidden Bench, Tarpon and Missouri Breaks prospects.<span>”</span>
   </blockquote>
   <figcaption>— James J. Volker, Whiting`s CEO</figcaption>
@@ -227,9 +227,9 @@ heroImage: "/images/68a3f74f5f68.jpeg"
         
 
         
-          <a href="http://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f442cda5d4222fbbca829/1463764012097/?format=original">
+          <a href="/">
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -238,7 +238,7 @@ heroImage: "/images/68a3f74f5f68.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/56962449dd5b.jpeg" data-image="/images/56962449dd5b.jpeg" data-image-dimensions="195x300" data-image-focal-point="0.5,0.5" alt="Whiting Petroleum Bakken Acreage Breakout - August 2013" data-load="false" elementtiming="system-image-block" src="/images/56962449dd5b.jpeg" width="195" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/56962449dd5b.jpeg 100w, /images/56962449dd5b.jpeg 300w, /images/56962449dd5b.jpeg 500w, /images/56962449dd5b.jpeg 750w, /images/56962449dd5b.jpeg 1000w, /images/56962449dd5b.jpeg 1500w, /images/56962449dd5b.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Whiting Petroleum Bakken Acreage Breakout - August 2013" src="/images/56962449dd5b.jpeg" width="195" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/56962449dd5b.jpeg 100w, /images/56962449dd5b.jpeg 300w, /images/56962449dd5b.jpeg 500w, /images/56962449dd5b.jpeg 750w, /images/56962449dd5b.jpeg 1000w, /images/56962449dd5b.jpeg 1500w, /images/56962449dd5b.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -305,9 +305,9 @@ heroImage: "/images/68a3f74f5f68.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e8da5d4222fbbca2de/1467384263984/" data-record-type="1" data-full-url="/bsp-news/news/whiting-petroleum-acquires-bakken-acreage-mt-nd" data-title="Whiting Petroleum Acquires Bakken Acreage In MT &amp; ND - $260 Million"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e8da5d4222fbbca2de" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

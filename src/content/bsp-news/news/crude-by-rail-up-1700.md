@@ -83,7 +83,7 @@ heroImage: "/images/34cb870182fe.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/34cb870182fe.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/34cb870182fe.png" data-image="/images/34cb870182fe.png" data-image-dimensions="300x224" data-image-focal-point="0.5,0.5" alt="Crude by Rail" data-load="false" elementtiming="system-image-block" src="/images/34cb870182fe.png" width="300" height="224" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/34cb870182fe.png 100w, /images/34cb870182fe.png 300w, /images/34cb870182fe.png 500w, /images/34cb870182fe.png 750w, /images/34cb870182fe.png 1000w, /images/34cb870182fe.png 1500w, /images/34cb870182fe.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Crude by Rail" src="/images/34cb870182fe.png" width="300" height="224" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/34cb870182fe.png 100w, /images/34cb870182fe.png 300w, /images/34cb870182fe.png 500w, /images/34cb870182fe.png 750w, /images/34cb870182fe.png 1000w, /images/34cb870182fe.png 1500w, /images/34cb870182fe.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/34cb870182fe.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The Energy Information Administration (EIA) released the latest data today for crude by rail &nbsp;(CBR) across the country that shows a significant increase over the last five years.</p><p>Total CBR movement in the United States and between the United States and Canada was more than 1 million barrels per day (bbl/d) in 2014, up from 55,000 bbl/d in 2010. The regional distribution of these movements has also changed over this period.</p><p>Crude by rail continues to be highly controversial as people question the safety for individuals and the environment. &nbsp;With production at an all time high, the CBR numbers will continue to escalate as producers must find a way to move their product.</p><p>Related:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/how-the-keystone-xl-pipeline-would-impact-the-bakken?rq=How%20the%20Keystone%20XL%20Pipeline%20Would%20Impact%20the%20Bakken">How the Keystone XL Pipeline Would Impact the Bakken</a></p><p>Related:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/dot-seeks-new-rail-car-design-and-bakken-crude-testing?rq=DOT%20Seeks%20New%20Rail%20Car%20Design%20and%20Bakken%20Crude%20Testing">DOT Seeks New Rail Car Design and Bakken Crude Testing</a></p>
+  <p>The Energy Information Administration (EIA) released the latest data today for crude by rail &nbsp;(CBR) across the country that shows a significant increase over the last five years.</p><p>Total CBR movement in the United States and between the United States and Canada was more than 1 million barrels per day (bbl/d) in 2014, up from 55,000 bbl/d in 2010. The regional distribution of these movements has also changed over this period.</p><p>Crude by rail continues to be highly controversial as people question the safety for individuals and the environment. &nbsp;With production at an all time high, the CBR numbers will continue to escalate as producers must find a way to move their product.</p><p>Related:&nbsp;<a href="/bsp-news/news/how-the-keystone-xl-pipeline-would-impact-the-bakken?rq=How%20the%20Keystone%20XL%20Pipeline%20Would%20Impact%20the%20Bakken">How the Keystone XL Pipeline Would Impact the Bakken</a></p><p>Related:&nbsp;<a href="/bsp-news/news/dot-seeks-new-rail-car-design-and-bakken-crude-testing?rq=DOT%20Seeks%20New%20Rail%20Car%20Design%20and%20Bakken%20Crude%20Testing">DOT Seeks New Rail Car Design and Bakken Crude Testing</a></p>
 </div>
 
 
@@ -201,7 +201,7 @@ heroImage: "/images/34cb870182fe.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -210,7 +210,7 @@ heroImage: "/images/34cb870182fe.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/dfdec524d6ed.png" data-image="/images/dfdec524d6ed.png" data-image-dimensions="875x212" data-image-focal-point="0.5,0.5" alt="crude by rail3" data-load="false" elementtiming="system-image-block" src="/images/dfdec524d6ed.png" width="875" height="212" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/dfdec524d6ed.png 100w, /images/dfdec524d6ed.png 300w, /images/dfdec524d6ed.png 500w, /images/dfdec524d6ed.png 750w, /images/dfdec524d6ed.png 1000w, /images/dfdec524d6ed.png 1500w, /images/dfdec524d6ed.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="crude by rail3" src="/images/dfdec524d6ed.png" width="875" height="212" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/dfdec524d6ed.png 100w, /images/dfdec524d6ed.png 300w, /images/dfdec524d6ed.png 500w, /images/dfdec524d6ed.png 750w, /images/dfdec524d6ed.png 1000w, /images/dfdec524d6ed.png 1500w, /images/dfdec524d6ed.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -283,7 +283,7 @@ heroImage: "/images/34cb870182fe.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>EIA Administrator Adam Sieminski says that “EIA expects that the new data it has developed using information provided by the U.S. Surface Transportation Board (STB) along with data from other third-party sources and our own survey data, will provide key insights into oil-by-rail movements, including shipments to and from Canada.<span>”</span>
   </blockquote>
   
@@ -332,9 +332,9 @@ heroImage: "/images/34cb870182fe.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f441ada5d4222fbbca59d/1467381913220/" data-record-type="1" data-full-url="/bsp-news/news/crude-by-rail-up-1700" data-title="Crude by Rail Up 1700%"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f441ada5d4222fbbca59d" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

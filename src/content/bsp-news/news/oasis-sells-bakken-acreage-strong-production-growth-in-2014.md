@@ -83,7 +83,7 @@ heroImage: "/images/89ae9c038e3e.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/89ae9c038e3e.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/89ae9c038e3e.jpeg" data-image="/images/89ae9c038e3e.jpeg" data-image-dimensions="296x300" data-image-focal-point="0.5,0.5" alt="Oasis Petroleum Bakken Acreage Map - Acquisition Included" data-load="false" elementtiming="system-image-block" src="/images/89ae9c038e3e.jpeg" width="296" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/89ae9c038e3e.jpeg 100w, /images/89ae9c038e3e.jpeg 300w, /images/89ae9c038e3e.jpeg 500w, /images/89ae9c038e3e.jpeg 750w, /images/89ae9c038e3e.jpeg 1000w, /images/89ae9c038e3e.jpeg 1500w, /images/89ae9c038e3e.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Oasis Petroleum Bakken Acreage Map - Acquisition Included" src="/images/89ae9c038e3e.jpeg" width="296" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/89ae9c038e3e.jpeg 100w, /images/89ae9c038e3e.jpeg 300w, /images/89ae9c038e3e.jpeg 500w, /images/89ae9c038e3e.jpeg 750w, /images/89ae9c038e3e.jpeg 1000w, /images/89ae9c038e3e.jpeg 1500w, /images/89ae9c038e3e.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/89ae9c038e3e.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Mr. Nusz said, “The funds from the Sanish divestiture strengthen our liquidity position to execute on our accelerated drilling program in 2014. The transaction is consistent with our growth strategy as we de-lever the balance sheet and put the capital into our high return operated projects.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/89ae9c038e3e.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43fbda5d4222fbbca3ea/1467383480843/" data-record-type="1" data-full-url="/bsp-news/news/oasis-sells-bakken-acreage-strong-production-growth-in-2014" data-title="Oasis Sells Bakken Acreage - Strong Production Growth in 2014  "><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43fbda5d4222fbbca3ea" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

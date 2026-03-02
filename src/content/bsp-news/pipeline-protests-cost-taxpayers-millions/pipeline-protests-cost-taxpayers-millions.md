@@ -82,7 +82,7 @@ description: "North Dakota taxpayers must foot the bill for nearly $40 million f
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -91,7 +91,7 @@ description: "North Dakota taxpayers must foot the bill for nearly $40 million f
                 
                 
                 
-                <img data-stretch="false" data-src="/images/933e95f9a5c3.jpg" data-image="/images/933e95f9a5c3.jpg" data-image-dimensions="300x237" data-image-focal-point="0.5,0.5" alt="ND Taxpayers pay millions" data-load="false" elementtiming="system-image-block" src="/images/933e95f9a5c3.jpg" width="300" height="237" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/933e95f9a5c3.jpg 100w, /images/933e95f9a5c3.jpg 300w, /images/933e95f9a5c3.jpg 500w, /images/933e95f9a5c3.jpg 750w, /images/933e95f9a5c3.jpg 1000w, /images/933e95f9a5c3.jpg 1500w, /images/933e95f9a5c3.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="ND Taxpayers pay millions" src="/images/933e95f9a5c3.jpg" width="300" height="237" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/933e95f9a5c3.jpg 100w, /images/933e95f9a5c3.jpg 300w, /images/933e95f9a5c3.jpg 500w, /images/933e95f9a5c3.jpg 750w, /images/933e95f9a5c3.jpg 1000w, /images/933e95f9a5c3.jpg 1500w, /images/933e95f9a5c3.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -119,7 +119,7 @@ description: "North Dakota taxpayers must foot the bill for nearly $40 million f
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>North Dakota taxpayers must foot the bill for nearly $40 million from the protests over the Dakota Access Pipeline.</p><p>Related:&nbsp;<a href="https://bakkenshale.com/bsp-news/dakota-access-protest-camps-evacuated">Dakota Access Protest Camps Evacuated</a></p><p>After almost a year of tension and confrontation, the construction site of the Dakota Access has emptied of protestors, but their presence will continue to be felt.</p><p>Morton County officials have reported that property damage and personnel will cost North Dakota taxpayers nearly $40 million. Additional funds will be needed to house the over 750+ people who were arrested at the site. &nbsp;</p><p>Since the cleanup began, the U.S. Army Corps of Engineers reportedly hauled out close to 1,000 dumpsters filled with trash, personal items and old building material and spent $1.1 million </p><p>Demonstrators have been protesting the 1,172 mile &nbsp;Dakota Access Pipeline for nearly a year, with some estimates numbering the crowd in the thousands. While the main focus of the protests were in Cannonball, people from all over the world joined in solidarity including protests in Los Angeles, Seattle and Dallas, home of Energy Transfer Partners</p>
+  <p>North Dakota taxpayers must foot the bill for nearly $40 million from the protests over the Dakota Access Pipeline.</p><p>Related:&nbsp;<a href="/bsp-news/dakota-access-protest-camps-evacuated">Dakota Access Protest Camps Evacuated</a></p><p>After almost a year of tension and confrontation, the construction site of the Dakota Access has emptied of protestors, but their presence will continue to be felt.</p><p>Morton County officials have reported that property damage and personnel will cost North Dakota taxpayers nearly $40 million. Additional funds will be needed to house the over 750+ people who were arrested at the site. &nbsp;</p><p>Since the cleanup began, the U.S. Army Corps of Engineers reportedly hauled out close to 1,000 dumpsters filled with trash, personal items and old building material and spent $1.1 million </p><p>Demonstrators have been protesting the 1,172 mile &nbsp;Dakota Access Pipeline for nearly a year, with some estimates numbering the crowd in the thousands. While the main focus of the protests were in Cannonball, people from all over the world joined in solidarity including protests in Los Angeles, Seattle and Dallas, home of Energy Transfer Partners</p>
 </div>
 
 
@@ -165,9 +165,9 @@ description: "North Dakota taxpayers must foot the bill for nearly $40 million f
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/58ed4c94db29d654c6d4c413/1491947805483/" data-record-type="1" data-full-url="/bsp-news/pipeline-protests-cost-taxpayers-millions" data-title="Pipeline Protests Will Cost Taxpayers Millions"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="58ed4c94db29d654c6d4c413" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

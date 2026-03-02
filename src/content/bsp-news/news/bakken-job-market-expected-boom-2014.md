@@ -72,7 +72,7 @@ description: "Oil and gas operators in the Bakken are on a hiring frenzy as they
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We’re excited to significantly boost our employee base in response to the growing demand among energy industry customers for our services. <span>”</span>
   </blockquote>
   <figcaption>— Mark Johnsrud, Nuverra's CEO</figcaption>
@@ -121,9 +121,9 @@ description: "Oil and gas operators in the Bakken are on a hiring frenzy as they
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f5da5d4222fbbca3a5/1467313678673/" data-record-type="1" data-full-url="/bsp-news/news/bakken-job-market-expected-boom-2014" data-title="Bakken Job Market Expected to Boom in 2014 - Again"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f5da5d4222fbbca3a5" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

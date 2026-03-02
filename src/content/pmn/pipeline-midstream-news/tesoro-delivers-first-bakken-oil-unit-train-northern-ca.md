@@ -83,7 +83,7 @@ heroImage: "/images/a0617a1629da.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/a0617a1629da.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/a0617a1629da.jpeg" data-image="/images/a0617a1629da.jpeg" data-image-dimensions="300x162" data-image-focal-point="0.5,0.5" alt="Tesoro Refinery Map - Golden Eagle Refinery Highlighted" data-load="false" elementtiming="system-image-block" src="/images/a0617a1629da.jpeg" width="300" height="162" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a0617a1629da.jpeg 100w, /images/a0617a1629da.jpeg 300w, /images/a0617a1629da.jpeg 500w, /images/a0617a1629da.jpeg 750w, /images/a0617a1629da.jpeg 1000w, /images/a0617a1629da.jpeg 1500w, /images/a0617a1629da.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Tesoro Refinery Map - Golden Eagle Refinery Highlighted" src="/images/a0617a1629da.jpeg" width="300" height="162" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a0617a1629da.jpeg 100w, /images/a0617a1629da.jpeg 300w, /images/a0617a1629da.jpeg 500w, /images/a0617a1629da.jpeg 750w, /images/a0617a1629da.jpeg 1000w, /images/a0617a1629da.jpeg 1500w, /images/a0617a1629da.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Tesoro Corp delivered its first unit train carrying Bakken crude to Golden Eagle
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c5dfa21e80eeb550cc/1467906452606/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/tesoro-delivers-first-bakken-oil-unit-train-northern-ca" data-title="Tesoro Delivers First Bakken Oil Unit Train to Northern California Refinery"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c5dfa21e80eeb550cc" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

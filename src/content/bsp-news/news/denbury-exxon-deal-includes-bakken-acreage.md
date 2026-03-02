@@ -83,7 +83,7 @@ heroImage: "/images/ad4bad0054c2.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/ad4bad0054c2.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ad4bad0054c2.gif" data-image="/images/ad4bad0054c2.gif" data-image-dimensions="181x300" data-image-focal-point="0.5,0.5" alt="Denbury Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/ad4bad0054c2.gif" width="181" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ad4bad0054c2.gif 100w, /images/ad4bad0054c2.gif 300w, /images/ad4bad0054c2.gif 500w, /images/ad4bad0054c2.gif 750w, /images/ad4bad0054c2.gif 1000w, /images/ad4bad0054c2.gif 1500w, /images/ad4bad0054c2.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Denbury Bakken Acreage Map" src="/images/ad4bad0054c2.gif" width="181" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ad4bad0054c2.gif 100w, /images/ad4bad0054c2.gif 300w, /images/ad4bad0054c2.gif 500w, /images/ad4bad0054c2.gif 750w, /images/ad4bad0054c2.gif 1000w, /images/ad4bad0054c2.gif 1500w, /images/ad4bad0054c2.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Denbury and Exxon have announced a deal that includes almost 200,000 acres in th
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c6da5d4222fbbca0e3/1467385715579/" data-record-type="1" data-full-url="/bsp-news/news/denbury-exxon-deal-includes-bakken-acreage" data-title="Denbury - Exxon Deal Includes Bakken Acreage, CO2, Tertiary Flood Fields, Cash"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c6da5d4222fbbca0e3" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

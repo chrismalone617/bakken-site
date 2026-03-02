@@ -83,7 +83,7 @@ heroImage: "/images/b103619e398f.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/b103619e398f.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/b103619e398f.jpg" data-image="/images/b103619e398f.jpg" data-image-dimensions="300x199" data-image-focal-point="0.5,0.5" alt="North Dakota Oil Tax Reductions" data-load="false" elementtiming="system-image-block" src="/images/b103619e398f.jpg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b103619e398f.jpg 100w, /images/b103619e398f.jpg 300w, /images/b103619e398f.jpg 500w, /images/b103619e398f.jpg 750w, /images/b103619e398f.jpg 1000w, /images/b103619e398f.jpg 1500w, /images/b103619e398f.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="North Dakota Oil Tax Reductions" src="/images/b103619e398f.jpg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b103619e398f.jpg 100w, /images/b103619e398f.jpg 300w, /images/b103619e398f.jpg 500w, /images/b103619e398f.jpg 750w, /images/b103619e398f.jpg 1000w, /images/b103619e398f.jpg 1500w, /images/b103619e398f.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/b103619e398f.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>North Dakota is one step closer to cutting the price-triggered exemption that will lower the extraction tax on oil.</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/north-dakota-tax-trigger-getting-closer?rq=North%20Dakota%20Tax%20Trigger%20Getting%20Closer">North Dakota Tax <strong>Trigger</strong> Getting Closer</a></p><p>On Friday, North Dakota lawmakers cleared the way to change a 30 year old tax structure that gave some tax breaks for the oil industry have been linked to a price "trigger." &nbsp;Debate in North Dakota’s House was fierce and ended in a 66-26 vote in favor of cutting the state’s oil tax rate from 11.5 percent to 10 percent.</p><p>Republicans believe that this will provide a more stable table policy that will boost the state’s economy, but Democrats have said that it will cost the state billions over the next 10 years. The legislature’s research group estimates that the new tax structure will add $120 million to the state’s coffers between 2015-2017.</p><p>Now that the bill has cleared both house and the senate, the bill is now on its way to the governor’s desk for final approval.</p>
+  <p>North Dakota is one step closer to cutting the price-triggered exemption that will lower the extraction tax on oil.</p><p>Related: <a href="/bsp-news/news/north-dakota-tax-trigger-getting-closer?rq=North%20Dakota%20Tax%20Trigger%20Getting%20Closer">North Dakota Tax <strong>Trigger</strong> Getting Closer</a></p><p>On Friday, North Dakota lawmakers cleared the way to change a 30 year old tax structure that gave some tax breaks for the oil industry have been linked to a price "trigger." &nbsp;Debate in North Dakota’s House was fierce and ended in a 66-26 vote in favor of cutting the state’s oil tax rate from 11.5 percent to 10 percent.</p><p>Republicans believe that this will provide a more stable table policy that will boost the state’s economy, but Democrats have said that it will cost the state billions over the next 10 years. The legislature’s research group estimates that the new tax structure will add $120 million to the state’s coffers between 2015-2017.</p><p>Now that the bill has cleared both house and the senate, the bill is now on its way to the governor’s desk for final approval.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/b103619e398f.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Governor Dalrymple’s spokesman Jeff Zent said the governor had not studied the bill. “Generally speaking, a flat tax offers the advantage of greater economic certainty,” Zent said. “But the details of any plan are very important, and we haven’t seen a final proposal.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/b103619e398f.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f441eda5d4222fbbca624/1467381733763/" data-record-type="1" data-full-url="/bsp-news/news/lower-oil-tax-for-north-dakota" data-title="Lower Oil Tax for North Dakota"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f441eda5d4222fbbca624" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

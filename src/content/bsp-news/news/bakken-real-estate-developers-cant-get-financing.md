@@ -25,7 +25,7 @@ description: "Reuters published an article detailing why many real estate develo
     <div><div data-layout-label="Post Body" data-type="item" data-updated-on="1467326245474"><div><div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Reuters published an article detailing why many real estate developments in North Dakota can't get construction financing. The big lenders simply haven't stepped up to the plate in North Dakota.</p><p>There are many reasons, but one is the reluctance of workers to build homes in the area. In Williston, only 20 permits for homes were issued through May of 2013, but 482 permits for apartments had been issued over the same period. The type of <a href="http://bakkenshale.com/housing/">Bakken housing</a> being developed sends a signal to lenders that residents are here to stay.....and will be spending a bigger portion of their paychecks in the area. Home building indicates people plan to reside in the area much longer than apartment rentals.</p><p>There were several items of note in the article:</p><ul><li>Average two-bedroom apartment rents for $2,500/month</li><li>Banks are afraid of an oil bust</li><li>ND has the 4th LOWEST mortgage foreclosure rate</li><li>KKR is self-funding a 330 apartment, 164-acre development</li><li>The largest banks, BoA &amp; Chase, don't have branches in ND</li><li>Wages at local retail outlets is high at $15-16/hr</li></ul><p>You can read the full article at <a target="_blank" href="http://www.reuters.com/article/2013/06/30/us-bakken-property-analysis-idUSBRE95T09O20130630">reuters.com</a></p>
+  <p>Reuters published an article detailing why many real estate developments in North Dakota can't get construction financing. The big lenders simply haven't stepped up to the plate in North Dakota.</p><p>There are many reasons, but one is the reluctance of workers to build homes in the area. In Williston, only 20 permits for homes were issued through May of 2013, but 482 permits for apartments had been issued over the same period. The type of <a href="/housing/">Bakken housing</a> being developed sends a signal to lenders that residents are here to stay.....and will be spending a bigger portion of their paychecks in the area. Home building indicates people plan to reside in the area much longer than apartment rentals.</p><p>There were several items of note in the article:</p><ul><li>Average two-bedroom apartment rents for $2,500/month</li><li>Banks are afraid of an oil bust</li><li>ND has the 4th LOWEST mortgage foreclosure rate</li><li>KKR is self-funding a 330 apartment, 164-acre development</li><li>The largest banks, BoA &amp; Chase, don't have branches in ND</li><li>Wages at local retail outlets is high at $15-16/hr</li></ul><p>You can read the full article at <a target="_blank" href="http://www.reuters.com/article/2013/06/30/us-bakken-property-analysis-idUSBRE95T09O20130630">reuters.com</a></p>
 </div>
 
 
@@ -66,9 +66,9 @@ description: "Reuters published an article detailing why many real estate develo
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e0da5d4222fbbca260/1467326033764/" data-record-type="1" data-full-url="/bsp-news/news/bakken-real-estate-developers-cant-get-financing" data-title="Bakken Real Estate Developers Can't Get Financing"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e0da5d4222fbbca260" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

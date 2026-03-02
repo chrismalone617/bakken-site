@@ -72,7 +72,7 @@ description: "Tesoro and Savage Companies plan to build a 120,000 b/d crude-by-r
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Building upon the recent success of the rail unloading facility at our Anacortes, Wash., refinery, where we have been delivering Mid-Continent crude oil via unit train in an environmentally sound and cost-effective manner, this project is the ideal next step for Tesoro as we drive additional feedstock cost advantage to the remaining refineries in our West Coast system.<span>”</span>
   </blockquote>
   <figcaption>— Greg Goff, CEO of Tesoro</figcaption>
@@ -80,7 +80,7 @@ description: "Tesoro and Savage Companies plan to build a 120,000 b/d crude-by-r
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>You can read more about oil prices received on the West Coast in the article <a href="http://bakkenshale.com/bsp-news/news/bakken-crude-going-west-for-premium-prices?rq=Bakken%20Crude%20Can%20Get%20Premium%20Prices%20On%20the%20West%20Coast">Bakken Crude Can Get Premium Prices On the West Coast</a>.</p>
+  <p>You can read more about oil prices received on the West Coast in the article <a href="/bsp-news/news/bakken-crude-going-west-for-premium-prices?rq=Bakken%20Crude%20Can%20Get%20Premium%20Prices%20On%20the%20West%20Coast">Bakken Crude Can Get Premium Prices On the West Coast</a>.</p>
 </div>
 
 
@@ -127,7 +127,7 @@ description: "Tesoro and Savage Companies plan to build a 120,000 b/d crude-by-r
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We are looking forward to bringing crude oil destination services to the Port of Vancouver.<span>”</span>
   </blockquote>
   <figcaption>— Kirk Aubry, COO of Savage.</figcaption>
@@ -176,9 +176,9 @@ description: "Tesoro and Savage Companies plan to build a 120,000 b/d crude-by-r
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c0dfa21e80eeb55087/1467907533276/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/tesoro-savage-crude-rail-unloading-marine-loading-facility" data-title="Tesoro &amp; Savage Building Crude Unloading &amp; Marine Loading Facility - Vancouver, WA"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c0dfa21e80eeb55087" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

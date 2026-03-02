@@ -83,7 +83,7 @@ heroImage: "/images/142dc1dc5e45.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/142dc1dc5e45.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/142dc1dc5e45.jpg" data-image="/images/142dc1dc5e45.jpg" data-image-dimensions="279x300" data-image-focal-point="0.5,0.5" alt="Kodiak Oil and Gas Bakken Shale Map" data-load="false" elementtiming="system-image-block" src="/images/142dc1dc5e45.jpg" width="279" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/142dc1dc5e45.jpg 100w, /images/142dc1dc5e45.jpg 300w, /images/142dc1dc5e45.jpg 500w, /images/142dc1dc5e45.jpg 750w, /images/142dc1dc5e45.jpg 1000w, /images/142dc1dc5e45.jpg 1500w, /images/142dc1dc5e45.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Kodiak Oil and Gas Bakken Shale Map" src="/images/142dc1dc5e45.jpg" width="279" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/142dc1dc5e45.jpg 100w, /images/142dc1dc5e45.jpg 300w, /images/142dc1dc5e45.jpg 500w, /images/142dc1dc5e45.jpg 750w, /images/142dc1dc5e45.jpg 1000w, /images/142dc1dc5e45.jpg 1500w, /images/142dc1dc5e45.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Kodiak Oil &amp; Gas lowered its production guidance for 2012 last week, but bea
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c9da5d4222fbbca10d/1467385624342/" data-record-type="1" data-full-url="/bsp-news/news/kodiak-oil-gas-is-spending-more-lowering-guidance" data-title="Kodiak Oil &amp; Gas is Spending More &amp; Lowering Guidance"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c9da5d4222fbbca10d" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -25,7 +25,7 @@ description: "Whiting Petroleum reported record Bakken/Three Forks production of
     <div><div data-layout-label="Post Body" data-type="item" data-updated-on="1467239022323"><div><div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Whiting Petroleum reported record Bakken/Three Forks production of 80,195 boe/d in the second quarter of 2014. The data was released in the company's second quarter report, and represents a 33% increase in production year-over-year. Bakken/Three Forks production counted for 73% of the company's total production across its portfolio. Currently the company holds 1,059,957 gross (674,162 net) acres in the Williston Basin in North Dakota and Montana.&nbsp;Whiting Petroleum recently announced the acquisition of Kodiak Oil &amp; Gas, in an all stock transaction, for $3.8 billion.&nbsp;The deal makes the combined company the largest Bakken/Three Forks producer, unseating Harold Hamm’s Continental Resources from the top spot.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/whiting-petroleum-acquires-kodiak-oil-gas-3-8-billion">Whiting Petroleum Acquires Kodiak Oil &amp; Gas - $3.8 billion</a></p>
+  <p>Whiting Petroleum reported record Bakken/Three Forks production of 80,195 boe/d in the second quarter of 2014. The data was released in the company's second quarter report, and represents a 33% increase in production year-over-year. Bakken/Three Forks production counted for 73% of the company's total production across its portfolio. Currently the company holds 1,059,957 gross (674,162 net) acres in the Williston Basin in North Dakota and Montana.&nbsp;Whiting Petroleum recently announced the acquisition of Kodiak Oil &amp; Gas, in an all stock transaction, for $3.8 billion.&nbsp;The deal makes the combined company the largest Bakken/Three Forks producer, unseating Harold Hamm’s Continental Resources from the top spot.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/whiting-petroleum-acquires-kodiak-oil-gas-3-8-billion">Whiting Petroleum Acquires Kodiak Oil &amp; Gas - $3.8 billion</a></p>
 </div>
 
 
@@ -72,7 +72,7 @@ description: "Whiting Petroleum reported record Bakken/Three Forks production of
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Whiting CEO James Volker said in a prepared statement, “we believe we have plenty of running room in theWilliston Basin, particularly in light of our new completion techniques and downspacing programs.<span>”</span>
   </blockquote>
   
@@ -121,9 +121,9 @@ description: "Whiting Petroleum reported record Bakken/Three Forks production of
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4408da5d4222fbbca4a4/1467238928960/" data-record-type="1" data-full-url="/bsp-news/news/whiting-bakken-production-hits-record-levels-second-quarter" data-title="Whiting Bakken Production Hits Record Levels in Second Quarter"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4408da5d4222fbbca4a4" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/70e6c099e4ad.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/70e6c099e4ad.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/70e6c099e4ad.jpeg" data-image="/images/70e6c099e4ad.jpeg" data-image-dimensions="300x261" data-image-focal-point="0.5,0.5" alt="U.S. Energy Corp. Rig" data-load="false" elementtiming="system-image-block" src="/images/70e6c099e4ad.jpeg" width="300" height="261" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/70e6c099e4ad.jpeg 100w, /images/70e6c099e4ad.jpeg 300w, /images/70e6c099e4ad.jpeg 500w, /images/70e6c099e4ad.jpeg 750w, /images/70e6c099e4ad.jpeg 1000w, /images/70e6c099e4ad.jpeg 1500w, /images/70e6c099e4ad.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="U.S. Energy Corp. Rig" src="/images/70e6c099e4ad.jpeg" width="300" height="261" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/70e6c099e4ad.jpeg 100w, /images/70e6c099e4ad.jpeg 300w, /images/70e6c099e4ad.jpeg 500w, /images/70e6c099e4ad.jpeg 750w, /images/70e6c099e4ad.jpeg 1000w, /images/70e6c099e4ad.jpeg 1500w, /images/70e6c099e4ad.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/70e6c099e4ad.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Bob Watson, CEO of Abraxas, said in a company statement,”in the Bakken, weather has abated and we plan to be on location in the coming weeks to frac our three well Jore pad. Drilling continues to run quite smoothly on the Ravin pad. Success on this initial downspacing test obviously carries with it significant reserve and inventory implications for the company.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/70e6c099e4ad.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4401da5d4222fbbca440/1467383183281/" data-record-type="1" data-full-url="/bsp-news/news/u-s-energy-corp-and-abraxas-petroleum-provide-bakken-operations-update" data-title="U.S. Energy Corp. and Abraxas Petroleum Provide Bakken Operations Update "><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4401da5d4222fbbca440" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

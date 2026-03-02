@@ -83,7 +83,7 @@ heroImage: "/images/d7ba4cc9b135.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d7ba4cc9b135.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d7ba4cc9b135.jpeg" data-image="/images/d7ba4cc9b135.jpeg" data-image-dimensions="289x300" data-image-focal-point="0.5,0.5" alt="Magelan Petroleum Poplar CO2 EOR Project MT" data-load="false" elementtiming="system-image-block" src="/images/d7ba4cc9b135.jpeg" width="289" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d7ba4cc9b135.jpeg 100w, /images/d7ba4cc9b135.jpeg 300w, /images/d7ba4cc9b135.jpeg 500w, /images/d7ba4cc9b135.jpeg 750w, /images/d7ba4cc9b135.jpeg 1000w, /images/d7ba4cc9b135.jpeg 1500w, /images/d7ba4cc9b135.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Magelan Petroleum Poplar CO2 EOR Project MT" src="/images/d7ba4cc9b135.jpeg" width="289" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d7ba4cc9b135.jpeg 100w, /images/d7ba4cc9b135.jpeg 300w, /images/d7ba4cc9b135.jpeg 500w, /images/d7ba4cc9b135.jpeg 750w, /images/d7ba4cc9b135.jpeg 1000w, /images/d7ba4cc9b135.jpeg 1500w, /images/d7ba4cc9b135.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/d7ba4cc9b135.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We believe that bringing this field to full-scale EOR development could result in the addition of 50 million barrels of reserves to our books and could have a significant multiplier effect on our valuation.<span>”</span>
   </blockquote>
   <figcaption>— Magellan's CEO </figcaption>
@@ -187,9 +187,9 @@ heroImage: "/images/d7ba4cc9b135.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43cdda5d4222fbbca148/1467384701587/" data-record-type="1" data-full-url="/bsp-news/news/magellan-petroleum-planning-co2-eor-pilot-test-at-poplar-dome" data-title="Magellan Petroleum Planning CO2 EOR Pilot Test At Poplar Dome"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43cdda5d4222fbbca148" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -95,11 +95,11 @@ description: "SPE Deepwater Drilling &amp;amp; Completions Conference   Galvesto
         
 
         <div>
-  <span data-item-id="57608fbc2eeb81800417818b" data-like-count="0">
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>
-<span data-system-data-id="1465946847860-ZAM09K34VQ84LFL6MHXK" data-asset-url="/images/b81154f14f95.png" data-record-type="12" data-full-url="/events-list/news/spe-deepwater-drilling-completions-conference" data-title="SPE Deepwater Drilling &amp; Completions Conference"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span></div>
+</div>
       </div>
       
 

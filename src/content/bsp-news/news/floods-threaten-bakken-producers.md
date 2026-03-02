@@ -83,7 +83,7 @@ heroImage: "/images/a0b443b2c747.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/a0b443b2c747.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/a0b443b2c747.jpg" data-image="/images/a0b443b2c747.jpg" data-image-dimensions="300x224" data-image-focal-point="0.5,0.5" alt="Floods Threaten Bakken Producers" data-load="false" elementtiming="system-image-block" src="/images/a0b443b2c747.jpg" width="300" height="224" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a0b443b2c747.jpg 100w, /images/a0b443b2c747.jpg 300w, /images/a0b443b2c747.jpg 500w, /images/a0b443b2c747.jpg 750w, /images/a0b443b2c747.jpg 1000w, /images/a0b443b2c747.jpg 1500w, /images/a0b443b2c747.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Floods Threaten Bakken Producers" src="/images/a0b443b2c747.jpg" width="300" height="224" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a0b443b2c747.jpg 100w, /images/a0b443b2c747.jpg 300w, /images/a0b443b2c747.jpg 500w, /images/a0b443b2c747.jpg 750w, /images/a0b443b2c747.jpg 1000w, /images/a0b443b2c747.jpg 1500w, /images/a0b443b2c747.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/a0b443b2c747.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>North Dakota experienced its wettest May on record and all the rain is causing trouble for some oil and gas producers.</p><p>The region had almost 8 inches of rain last month and now flood waters threaten operators near the confluence of the Missouri and Yellowstone rivers. More rain is expected and could cause raise flood levels to 22 feet by this weekend. North Dakota regulators have stepped up inspections and are urging producers to take precautions. Inclement weather can easily wreak havoc on the energy infrastructure including well flooding, road closures and truck bans.</p><p>Related: &nbsp;<a href="http://bakkenshale.com/bsp-news/news/wet-weather-forcing-delays-in-north-dakotas-bakken-oilfield?rq=Wet%20Weather%20Forcing%20Delays%20in%20Bakken%20Oilfield">Wet Weather Forcing Delays in Bakken Oilfield</a></p>
+  <p>North Dakota experienced its wettest May on record and all the rain is causing trouble for some oil and gas producers.</p><p>The region had almost 8 inches of rain last month and now flood waters threaten operators near the confluence of the Missouri and Yellowstone rivers. More rain is expected and could cause raise flood levels to 22 feet by this weekend. North Dakota regulators have stepped up inspections and are urging producers to take precautions. Inclement weather can easily wreak havoc on the energy infrastructure including well flooding, road closures and truck bans.</p><p>Related: &nbsp;<a href="/bsp-news/news/wet-weather-forcing-delays-in-north-dakotas-bakken-oilfield?rq=Wet%20Weather%20Forcing%20Delays%20in%20Bakken%20Oilfield">Wet Weather Forcing Delays in Bakken Oilfield</a></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/a0b443b2c747.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Alison Ritter, a spokeswoman for the state Department of Mineral Resources, said 13 companies were notified to secure their equipment. “The well sites might not flood but the access roads might,” Ritter said. “So we want to make sure they have everything secure now in case they lose access.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/a0b443b2c747.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f440bda5d4222fbbca4cd/1467381206799/" data-record-type="1" data-full-url="/bsp-news/news/floods-threaten-bakken-producers" data-title="Floods Threaten Bakken Producers"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f440bda5d4222fbbca4cd" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/98d893629f95.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/98d893629f95.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/98d893629f95.png" data-image="/images/98d893629f95.png" data-image-dimensions="300x258" data-image-focal-point="0.5,0.5" alt="2015-03-10_1221-e1426008312739-300x258.png" data-load="false" elementtiming="system-image-block" src="/images/98d893629f95.png" width="300" height="258" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/98d893629f95.png 100w, /images/98d893629f95.png 300w, /images/98d893629f95.png 500w, /images/98d893629f95.png 750w, /images/98d893629f95.png 1000w, /images/98d893629f95.png 1500w, /images/98d893629f95.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="2015-03-10_1221-e1426008312739-300x258.png" src="/images/98d893629f95.png" width="300" height="258" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/98d893629f95.png 100w, /images/98d893629f95.png 300w, /images/98d893629f95.png 500w, /images/98d893629f95.png 750w, /images/98d893629f95.png 1000w, /images/98d893629f95.png 1500w, /images/98d893629f95.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -113,7 +113,7 @@ heroImage: "/images/98d893629f95.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Abraxas Petroleum announced a record 2014 during its earnings call on March 4th and reported on their 2015 spending plan.</p><p>2014 Highlights include oil production that averaged 5,720 Boepd and $63.3 million in net income. Abraxas’ fourth quarter net income was $30.1 million, which is up over the same period in 2013 when they reported $27.0 million. The company’s adjusted net income for Q4 &nbsp;was $6.1 million, compared to $1.4 million in 2013.</p><p>Related:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/eog-reduces-2015-capex-40-percent?rq=EOG%20Reduces%202015%20Capex%2040%20Percent">EOG Reduces 2015 Capex 40 Percent</a></p><p>Abraxas plans to cut its capital spending to $54 million for 2015, compared with $193 million in 2014. The company further expects a 26% growth in production to 7100 barrels a day as it completes the nine wells it drilled during 2014.</p>
+  <p>Abraxas Petroleum announced a record 2014 during its earnings call on March 4th and reported on their 2015 spending plan.</p><p>2014 Highlights include oil production that averaged 5,720 Boepd and $63.3 million in net income. Abraxas’ fourth quarter net income was $30.1 million, which is up over the same period in 2013 when they reported $27.0 million. The company’s adjusted net income for Q4 &nbsp;was $6.1 million, compared to $1.4 million in 2013.</p><p>Related:&nbsp;<a href="/bsp-news/news/eog-reduces-2015-capex-40-percent?rq=EOG%20Reduces%202015%20Capex%2040%20Percent">EOG Reduces 2015 Capex 40 Percent</a></p><p>Abraxas plans to cut its capital spending to $54 million for 2015, compared with $193 million in 2014. The company further expects a 26% growth in production to 7100 barrels a day as it completes the nine wells it drilled during 2014.</p>
 </div>
 
 
@@ -160,7 +160,7 @@ heroImage: "/images/98d893629f95.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Bob Watson, Abraxas’ President and CEO commented, “After a tremendous 2014 for Abraxas, we now enter a very tumultuous 2015 from a commodity price perspective. We remain focused on preserving our abundant liquidity and strong balance sheet, which we endeavor to use to our advantage in a distressed environment. We are also blessed with an attractive asset base that presents numerous opportunities to expand our capital program should commodity prices and service costs dictate. We look forward to updating the market on the results of some of these efforts in the near future.<span>”</span>
   </blockquote>
   
@@ -209,9 +209,9 @@ heroImage: "/images/98d893629f95.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4418da5d4222fbbca579/1467382125394/" data-record-type="1" data-full-url="/bsp-news/news/abraxas-petroleum-releases-q4-results" data-title="Abraxas Petroleum Releases Q4 Results"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4418da5d4222fbbca579" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

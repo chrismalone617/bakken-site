@@ -72,7 +72,7 @@ description: "Crestwood Midstream is acquiring Arrow Midstream for $750 million.
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We are very excited about the addition of the Arrow assets to Crestwood’s rapidly expanding crude services business and our Bakken Shale footprint,” stated Robert G. Phillips, Chairman, President and Chief Executive Officer of Crestwood’s general partner. “.....The Bakken Shale is a core area for our future growth, and by extending our platform upstream of COLT, Crestwood will be expanding and optimizing the full suite of liquids value chain services we can provide for both our producer and demand-side customers.<span>”</span>
   </blockquote>
   
@@ -121,9 +121,9 @@ description: "Crestwood Midstream is acquiring Arrow Midstream for $750 million.
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c6dfa21e80eeb550d2/1467906332136/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/crestwood-midstream-acquires-arrow-midstream-750-million-expanding-bakken-footprint" data-title="Crestwood Midstream Acquires Arrow Midstream for $750 Million - Expanding Bakken Footprint"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c6dfa21e80eeb550d2" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

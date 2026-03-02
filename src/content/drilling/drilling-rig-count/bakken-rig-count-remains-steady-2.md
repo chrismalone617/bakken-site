@@ -83,7 +83,7 @@ heroImage: "/images/d797dcba8af1.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d797dcba8af1.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d797dcba8af1.jpg" data-image="/images/d797dcba8af1.jpg" data-image-dimensions="300x200" data-image-focal-point="0.5,0.5" alt="Bakken Rig Count Remains Steady" data-load="false" elementtiming="system-image-block" src="/images/d797dcba8af1.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d797dcba8af1.jpg 100w, /images/d797dcba8af1.jpg 300w, /images/d797dcba8af1.jpg 500w, /images/d797dcba8af1.jpg 750w, /images/d797dcba8af1.jpg 1000w, /images/d797dcba8af1.jpg 1500w, /images/d797dcba8af1.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Rig Count Remains Steady" src="/images/d797dcba8af1.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d797dcba8af1.jpg 100w, /images/d797dcba8af1.jpg 300w, /images/d797dcba8af1.jpg 500w, /images/d797dcba8af1.jpg 750w, /images/d797dcba8af1.jpg 1000w, /images/d797dcba8af1.jpg 1500w, /images/d797dcba8af1.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/d797dcba8af1.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The <a href="http://bakkenshale.com/drilling/">Bakken-Three Forks rig count</a>&nbsp;remained steady this week with <strong>63</strong>&nbsp;rigs running across our coverage area by end of the week on Friday.</p><p>In recent Bakken news, Occidental Petroleum Corp. will be leaving the Bakken as it sells its North Dakota oil assets.&nbsp;<br>&nbsp;</p><p>Read more:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/occidental-to-leave-the-bakken?rq=Occidental%20to%20Leave%20the%20Bakken">Occidental to Leave the Bakken</a></p><p><em>A total of <strong>787</strong>&nbsp;oil and gas rigs were running across the United States this week. 193 were targeting natural gas (one more than the previous week) and 594were targeting oil in the U.S. (one less than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><strong><em> 63</em></strong>are in ND alone.</p><h2><strong>Bakken Oil &amp; Gas Rigs</strong></h2><p>The Bakken oil rigs were at 63 this week with Bloomberg reporting WTI oil prices trading at $44.60/bbl on Friday afternoon.&nbsp;WTI-Brent decreased $2.47landing at $47.99. The Bakken has zero natural active gas rig in the area this week with futures decreasing slightly to $2.29/mmbtu by midday.</p><p>McKenzie County continues to lead development with 24 rigs running this week, far outpacing other counties. View the full list below under the <em>Bakken Drilling by County</em> section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>62 rigs are drilling horizontal wells</li><li>1 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><p><a href="http://jobs.bakkenshale.com/">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</a></p><h2><strong>Bakken Drilling by County</strong></h2>
+  <p>The <a href="/drilling/">Bakken-Three Forks rig count</a>&nbsp;remained steady this week with <strong>63</strong>&nbsp;rigs running across our coverage area by end of the week on Friday.</p><p>In recent Bakken news, Occidental Petroleum Corp. will be leaving the Bakken as it sells its North Dakota oil assets.&nbsp;<br>&nbsp;</p><p>Read more:&nbsp;<a href="/bsp-news/news/occidental-to-leave-the-bakken?rq=Occidental%20to%20Leave%20the%20Bakken">Occidental to Leave the Bakken</a></p><p><em>A total of <strong>787</strong>&nbsp;oil and gas rigs were running across the United States this week. 193 were targeting natural gas (one more than the previous week) and 594were targeting oil in the U.S. (one less than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><strong><em> 63</em></strong>are in ND alone.</p><h2><strong>Bakken Oil &amp; Gas Rigs</strong></h2><p>The Bakken oil rigs were at 63 this week with Bloomberg reporting WTI oil prices trading at $44.60/bbl on Friday afternoon.&nbsp;WTI-Brent decreased $2.47landing at $47.99. The Bakken has zero natural active gas rig in the area this week with futures decreasing slightly to $2.29/mmbtu by midday.</p><p>McKenzie County continues to lead development with 24 rigs running this week, far outpacing other counties. View the full list below under the <em>Bakken Drilling by County</em> section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>62 rigs are drilling horizontal wells</li><li>1 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><p><a href="http://jobs.bakkenshale.com/">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</a></p><h2><strong>Bakken Drilling by County</strong></h2>
 </div>
 
 
@@ -201,7 +201,7 @@ heroImage: "/images/d797dcba8af1.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -210,7 +210,7 @@ heroImage: "/images/d797dcba8af1.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f9156abe04c6.png" data-image="/images/f9156abe04c6.png" data-image-dimensions="732x450" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/f9156abe04c6.png" width="732" height="450" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f9156abe04c6.png 100w, /images/f9156abe04c6.png 300w, /images/f9156abe04c6.png 500w, /images/f9156abe04c6.png 750w, /images/f9156abe04c6.png 1000w, /images/f9156abe04c6.png 1500w, /images/f9156abe04c6.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/f9156abe04c6.png" width="732" height="450" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f9156abe04c6.png 100w, /images/f9156abe04c6.png 300w, /images/f9156abe04c6.png 500w, /images/f9156abe04c6.png 750w, /images/f9156abe04c6.png 1000w, /images/f9156abe04c6.png 1500w, /images/f9156abe04c6.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -272,9 +272,9 @@ heroImage: "/images/d797dcba8af1.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f41e26dc6951d90c43bbf/573f41fe6dc6951d90c43d47/1467816112884/" data-record-type="1" data-full-url="/drilling/drilling-rig-count/bakken-rig-count-remains-steady-2" data-title="Bakken Rig Count Remains Steady"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f41fe6dc6951d90c43d47" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

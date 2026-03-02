@@ -66,9 +66,9 @@ description: "Bakken Shale News, MarketPlace, Jobs"
 
         <div>
           
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/5a3a89f6e4966b5c09e3d718/1513786217420/" data-record-type="1" data-full-url="/bsp-news/mineral-rights-in-bakken-under-question" data-title="Mineral Rights in Bakken Under Question"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="5a3a89f6e4966b5c09e3d718" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

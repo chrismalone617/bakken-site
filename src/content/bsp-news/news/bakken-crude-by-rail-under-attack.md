@@ -83,7 +83,7 @@ heroImage: "/images/96525aa68847.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/96525aa68847.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/96525aa68847.jpeg" data-image="/images/96525aa68847.jpeg" data-image-dimensions="300x199" data-image-focal-point="0.5,0.5" alt="Crude by Rail" data-load="false" elementtiming="system-image-block" src="/images/96525aa68847.jpeg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/96525aa68847.jpeg 100w, /images/96525aa68847.jpeg 300w, /images/96525aa68847.jpeg 500w, /images/96525aa68847.jpeg 750w, /images/96525aa68847.jpeg 1000w, /images/96525aa68847.jpeg 1500w, /images/96525aa68847.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Crude by Rail" src="/images/96525aa68847.jpeg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/96525aa68847.jpeg 100w, /images/96525aa68847.jpeg 300w, /images/96525aa68847.jpeg 500w, /images/96525aa68847.jpeg 750w, /images/96525aa68847.jpeg 1000w, /images/96525aa68847.jpeg 1500w, /images/96525aa68847.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/96525aa68847.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>On Tuesday, the Swinomish Indian Tribal Community filed a lawsuit in federal court against BNSF Railway to restrict the movement of crude oil by rail through their reservation. They are seeking a permanent injunction that requires the company to live up to a 1991 agreement to limit the number of trains on its land to two per day.</p><p>The Tribal Community is located in Washington State, but the train tracks that run across its land bring crude from the Bakken region of North Dakota. Many believe that this oil is more dangerous.</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/bakken-oil-flammable?rq=Is%20Bakken%20Oil%20More%20Flammable%3F">Is Bakken Oil More Flammable?</a></p>
+  <p>On Tuesday, the Swinomish Indian Tribal Community filed a lawsuit in federal court against BNSF Railway to restrict the movement of crude oil by rail through their reservation. They are seeking a permanent injunction that requires the company to live up to a 1991 agreement to limit the number of trains on its land to two per day.</p><p>The Tribal Community is located in Washington State, but the train tracks that run across its land bring crude from the Bakken region of North Dakota. Many believe that this oil is more dangerous.</p><p>Related: <a href="/bsp-news/news/bakken-oil-flammable?rq=Is%20Bakken%20Oil%20More%20Flammable%3F">Is Bakken Oil More Flammable?</a></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/96525aa68847.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Experiences across the country have now shown us all the dangers of Bakken Crude,” Swinomish Indian Tribal Community Chairman Brian Cladoosby said in a statement. “It’s unacceptable for BNSF to put our people and our way of life at risk without regard to the agreement we established in good faith,” he said.<span>”</span>
   </blockquote>
   
@@ -173,7 +173,7 @@ heroImage: "/images/96525aa68847.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Recent reports have crude by <a href="http://bakkenshale.com/bsp-news/news/crude-by-rail-up-1700?rq=crude-by-rail-up-1700">rail transport up 1700%</a> over the last five years and accidents at a near-tenfold rise since 2008.&nbsp;With oil production currently at all time highs many fear that the number of accidents will increase and add to recent incidents:</p><ul><li>3/8/15:Train carrying crude oil derails in northern Ontario <a target="_blank" href="http://www.timesfreepress.com/news/breakingnews/story/2015/mar/08/train-carrying-crude-oil-derails-northern-ontario/292164/">more</a></li></ul><ul><li>3//7/15 Train carrying crude oil derails in Canada <a target="_blank" href="http://fuelfix.com/blog/2015/03/07/train-carrying-crude-oil-derails-in-canada/">more</a></li></ul><ul><li>3/6/15: Oil train carrying Bakken crude explodes in Illinois <a target="_blank" href="http://fuelfix.com/blog/2015/03/06/illinois-oil-train-derailment-involved-safer-tank-cars/">more</a></li></ul><ul><li>2/14/15 Train carrying crude oil derails in Canada <a target="_blank" href="http://www.tsb.gc.ca/eng/medias-media/communiques/rail/2015/r15h0013-20150223.asp">more</a></li></ul><ul><li>2/17/15: WV derailment carries Bakken crude in <a target="_blank" href="http://www.nytimes.com/2015/02/18/us/west-virginia-train-derailment-dumps-oil-into-river.html?_r=0">more</a></li></ul><p>Related: <a href="http://bakkenshale.com/bsp-news/news/bakken-oil-safety?rq=Bakken%20Oil%20Safety">Bakken Oil Safety</a></p><p>photo: © <a href="http://www.dreamstime.com/kolyvanov_info#res10082514">Kolyvanov</a> | <a href="http://www.dreamstime.com/royalty-free-stock-photos-railway-tanks-image25253058#res10082514">The Railway Tanks Photo</a></p>
+  <p>Recent reports have crude by <a href="/bsp-news/news/crude-by-rail-up-1700?rq=crude-by-rail-up-1700">rail transport up 1700%</a> over the last five years and accidents at a near-tenfold rise since 2008.&nbsp;With oil production currently at all time highs many fear that the number of accidents will increase and add to recent incidents:</p><ul><li>3/8/15:Train carrying crude oil derails in northern Ontario <a target="_blank" href="http://www.timesfreepress.com/news/breakingnews/story/2015/mar/08/train-carrying-crude-oil-derails-northern-ontario/292164/">more</a></li></ul><ul><li>3//7/15 Train carrying crude oil derails in Canada <a target="_blank" href="http://fuelfix.com/blog/2015/03/07/train-carrying-crude-oil-derails-in-canada/">more</a></li></ul><ul><li>3/6/15: Oil train carrying Bakken crude explodes in Illinois <a target="_blank" href="http://fuelfix.com/blog/2015/03/06/illinois-oil-train-derailment-involved-safer-tank-cars/">more</a></li></ul><ul><li>2/14/15 Train carrying crude oil derails in Canada <a target="_blank" href="http://www.tsb.gc.ca/eng/medias-media/communiques/rail/2015/r15h0013-20150223.asp">more</a></li></ul><ul><li>2/17/15: WV derailment carries Bakken crude in <a target="_blank" href="http://www.nytimes.com/2015/02/18/us/west-virginia-train-derailment-dumps-oil-into-river.html?_r=0">more</a></li></ul><p>Related: <a href="/bsp-news/news/bakken-oil-safety?rq=Bakken%20Oil%20Safety">Bakken Oil Safety</a></p><p>photo: © <a href="http://www.dreamstime.com/kolyvanov_info#res10082514">Kolyvanov</a> | <a href="http://www.dreamstime.com/royalty-free-stock-photos-railway-tanks-image25253058#res10082514">The Railway Tanks Photo</a></p>
 </div>
 
 
@@ -214,9 +214,9 @@ heroImage: "/images/96525aa68847.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f441bda5d4222fbbca5af/1467381850647/" data-record-type="1" data-full-url="/bsp-news/news/bakken-crude-by-rail-under-attack" data-title="Bakken Crude by Rail Under Attack"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f441bda5d4222fbbca5af" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

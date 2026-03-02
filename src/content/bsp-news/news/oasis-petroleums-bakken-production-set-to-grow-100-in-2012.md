@@ -83,7 +83,7 @@ heroImage: "/images/4eff5762db2c.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/4eff5762db2c.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/4eff5762db2c.jpg" data-image="/images/4eff5762db2c.jpg" data-image-dimensions="250x300" data-image-focal-point="0.5,0.5" alt="Oasis Petroleum West Williston Basin Map" data-load="false" elementtiming="system-image-block" src="/images/4eff5762db2c.jpg" width="250" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/4eff5762db2c.jpg 100w, /images/4eff5762db2c.jpg 300w, /images/4eff5762db2c.jpg 500w, /images/4eff5762db2c.jpg 750w, /images/4eff5762db2c.jpg 1000w, /images/4eff5762db2c.jpg 1500w, /images/4eff5762db2c.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Oasis Petroleum West Williston Basin Map" src="/images/4eff5762db2c.jpg" width="250" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/4eff5762db2c.jpg 100w, /images/4eff5762db2c.jpg 300w, /images/4eff5762db2c.jpg 500w, /images/4eff5762db2c.jpg 750w, /images/4eff5762db2c.jpg 1000w, /images/4eff5762db2c.jpg 1500w, /images/4eff5762db2c.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -159,9 +159,9 @@ heroImage: "/images/4eff5762db2c.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c7da5d4222fbbca0f5/1467385592774/" data-record-type="1" data-full-url="/bsp-news/news/oasis-petroleums-bakken-production-set-to-grow-100-in-2012" data-title="Oasis Petroleum's Bakken Production Set to Grow 100%+ in 2012"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c7da5d4222fbbca0f5" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/03f2a85cc95e.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/03f2a85cc95e.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/03f2a85cc95e.jpeg" data-image="/images/03f2a85cc95e.jpeg" data-image-dimensions="289x300" data-image-focal-point="0.5,0.5" alt="FBI" data-load="false" elementtiming="system-image-block" src="/images/03f2a85cc95e.jpeg" width="289" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/03f2a85cc95e.jpeg 100w, /images/03f2a85cc95e.jpeg 300w, /images/03f2a85cc95e.jpeg 500w, /images/03f2a85cc95e.jpeg 750w, /images/03f2a85cc95e.jpeg 1000w, /images/03f2a85cc95e.jpeg 1500w, /images/03f2a85cc95e.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="FBI" src="/images/03f2a85cc95e.jpeg" width="289" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/03f2a85cc95e.jpeg 100w, /images/03f2a85cc95e.jpeg 300w, /images/03f2a85cc95e.jpeg 500w, /images/03f2a85cc95e.jpeg 750w, /images/03f2a85cc95e.jpeg 1000w, /images/03f2a85cc95e.jpeg 1500w, /images/03f2a85cc95e.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/03f2a85cc95e.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Moving agents from eastern Montana to western North Dakota is not an effective response to our region’s growing problems.<span>”</span>
   </blockquote>
   <figcaption>— Senator Jon Tester</figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/03f2a85cc95e.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f9da5d4222fbbca3d3/1467383552007/" data-record-type="1" data-full-url="/bsp-news/news/bakken-crime-causes-feud-between-senators" data-title="Bakken Crime Causes Feud Between Senators"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f9da5d4222fbbca3d3" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

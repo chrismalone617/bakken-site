@@ -72,7 +72,7 @@ description: "Forbes has ranked the state of North Dakota second for business. T
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Forbes says “Credit the development of the Bakken oil shale fields in the western part of the state for much of that growth...<span>”</span>
   </blockquote>
   
@@ -121,9 +121,9 @@ description: "Forbes has ranked the state of North Dakota second for business. T
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f2a8a1e8488ddde011e67/573f2a8d1e8488ddde011e8b/1467904004915/" data-record-type="1" data-full-url="/bsp-jobs/jobs-news/forbes-ranks-north-dakota-2nd-business-credits-bakken-video" data-title="Forbes Ranks North Dakota 2nd for Business and Credits the Bakken - Video"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f2a8d1e8488ddde011e8b" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

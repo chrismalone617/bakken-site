@@ -83,7 +83,7 @@ heroImage: "/images/7e90409d20de.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/7e90409d20de.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/7e90409d20de.jpeg" data-image="/images/7e90409d20de.jpeg" data-image-dimensions="300x164" data-image-focal-point="0.5,0.5" alt="Bakken Natural Gas Pipeline to Minnesota - WBI Energy" data-load="false" elementtiming="system-image-block" src="/images/7e90409d20de.jpeg" width="300" height="164" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/7e90409d20de.jpeg 100w, /images/7e90409d20de.jpeg 300w, /images/7e90409d20de.jpeg 500w, /images/7e90409d20de.jpeg 750w, /images/7e90409d20de.jpeg 1000w, /images/7e90409d20de.jpeg 1500w, /images/7e90409d20de.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Natural Gas Pipeline to Minnesota - WBI Energy" src="/images/7e90409d20de.jpeg" width="300" height="164" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/7e90409d20de.jpeg 100w, /images/7e90409d20de.jpeg 300w, /images/7e90409d20de.jpeg 500w, /images/7e90409d20de.jpeg 750w, /images/7e90409d20de.jpeg 1000w, /images/7e90409d20de.jpeg 1500w, /images/7e90409d20de.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/7e90409d20de.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>It`s exciting to think that the proposed pipeline could provide a new transportation route to bring Bakken-produced natural gas directly to industrial customers and commercial and residential utility customers in eastern North Dakota,” said David L. Goodin, CEO of MDU Resources. “Through interconnecting pipelines, the proposed pipeline could also serve Minnesota, Wisconsin and Midwest U.S. markets.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/7e90409d20de.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c2dfa21e80eeb550a4/1467907060122/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/bakken-natural-gas-pipeline-to-minnesota-wbi-energy" data-title="Bakken Natural Gas Pipeline To Minnesota - WBI Energy"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c2dfa21e80eeb550a4" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

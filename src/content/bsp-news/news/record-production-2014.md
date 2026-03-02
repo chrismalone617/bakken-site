@@ -83,7 +83,7 @@ heroImage: "/images/d63a70df4f64.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d63a70df4f64.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d63a70df4f64.jpg" data-image="/images/d63a70df4f64.jpg" data-image-dimensions="300x187" data-image-focal-point="0.5,0.5" alt="Bakken has a great 2014" data-load="false" elementtiming="system-image-block" src="/images/d63a70df4f64.jpg" width="300" height="187" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d63a70df4f64.jpg 100w, /images/d63a70df4f64.jpg 300w, /images/d63a70df4f64.jpg 500w, /images/d63a70df4f64.jpg 750w, /images/d63a70df4f64.jpg 1000w, /images/d63a70df4f64.jpg 1500w, /images/d63a70df4f64.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken has a great 2014" src="/images/d63a70df4f64.jpg" width="300" height="187" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d63a70df4f64.jpg 100w, /images/d63a70df4f64.jpg 300w, /images/d63a70df4f64.jpg 500w, /images/d63a70df4f64.jpg 750w, /images/d63a70df4f64.jpg 1000w, /images/d63a70df4f64.jpg 1500w, /images/d63a70df4f64.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/d63a70df4f64.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>2014 was one for the record books as exploding production elevated the Bakken region to major-player status amongst the world's energy leaders.</p><p>January began as North Dakota set <a href="http://bakkenshale.com/bsp-news/news/bakken-production-sets-another-record-10000-plus-nd-wells-producing?rq=bakken-production-sets-another-record-">several all-time highs</a> including having over 10,000 producing wells averaging 973,045 b/d and natural gas at 1,086,571 MCF/day.</p><p>By June, the NDIC announced it had hit the 1 million b/d in production. This long anticipated goal was slowed a bit by difficult weather in the winter but by the time it happened, the U/S. was positioned as the <a href="http://bakkenshale.com/bsp-news/news/u-s-leads-world-wide-oil-production">worlds largest oil producer</a>.&nbsp;Even as oil prices began to decline throughout the fall, production continued to break records and by <a href="http://bakkenshale.com/bsp-news/news/bentek-energy-nd-bakken-hit-1-2-million-bd-aug-2014">September, production averaged 1.2 million b/d</a>.</p><p>The latest numbers from the NDIC show that at the end of the year, the Bakken and Three Forks regions alone averaged 1,118,010 barrels per day and boasted two more all time high records for producing wells (11,892) and gas (44,317,381 MCF = 1,429,593 MCF/day).</p><p>Whether this volume of prodcution can be maintained with current price declines is unclear, but the <a target="_blank" href="http://www.eia.gov/forecasts/steo/report/us_oil.cfm">EIA predicts</a> that drilling will slow for 2015 due the uncertainty.</p><p><strong>Read more at <a target="_blank" href="https://www.dmr.nd.gov/oilgas/directorscut/directorscut-2014-12-12.pdf">dmr.nd.gov</a></strong></p>
+  <p>2014 was one for the record books as exploding production elevated the Bakken region to major-player status amongst the world's energy leaders.</p><p>January began as North Dakota set <a href="/bsp-news/news/bakken-production-sets-another-record-10000-plus-nd-wells-producing?rq=bakken-production-sets-another-record-">several all-time highs</a> including having over 10,000 producing wells averaging 973,045 b/d and natural gas at 1,086,571 MCF/day.</p><p>By June, the NDIC announced it had hit the 1 million b/d in production. This long anticipated goal was slowed a bit by difficult weather in the winter but by the time it happened, the U/S. was positioned as the <a href="/bsp-news/news/u-s-leads-world-wide-oil-production">worlds largest oil producer</a>.&nbsp;Even as oil prices began to decline throughout the fall, production continued to break records and by <a href="/bsp-news/news/bentek-energy-nd-bakken-hit-1-2-million-bd-aug-2014">September, production averaged 1.2 million b/d</a>.</p><p>The latest numbers from the NDIC show that at the end of the year, the Bakken and Three Forks regions alone averaged 1,118,010 barrels per day and boasted two more all time high records for producing wells (11,892) and gas (44,317,381 MCF = 1,429,593 MCF/day).</p><p>Whether this volume of prodcution can be maintained with current price declines is unclear, but the <a target="_blank" href="http://www.eia.gov/forecasts/steo/report/us_oil.cfm">EIA predicts</a> that drilling will slow for 2015 due the uncertainty.</p><p><strong>Read more at <a target="_blank" href="https://www.dmr.nd.gov/oilgas/directorscut/directorscut-2014-12-12.pdf">dmr.nd.gov</a></strong></p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/d63a70df4f64.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4412da5d4222fbbca531/1467382366329/" data-record-type="1" data-full-url="/bsp-news/news/record-production-2014" data-title="Year in Review: Record Production"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4412da5d4222fbbca531" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

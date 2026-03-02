@@ -83,7 +83,7 @@ heroImage: "/images/93e1fc1e4c9e.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/93e1fc1e4c9e.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/93e1fc1e4c9e.jpeg" data-image="/images/93e1fc1e4c9e.jpeg" data-image-dimensions="300x196" data-image-focal-point="0.5,0.5" alt="Sandpiper Pipeline Map - Enbridge" data-load="false" elementtiming="system-image-block" src="/images/93e1fc1e4c9e.jpeg" width="300" height="196" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/93e1fc1e4c9e.jpeg 100w, /images/93e1fc1e4c9e.jpeg 300w, /images/93e1fc1e4c9e.jpeg 500w, /images/93e1fc1e4c9e.jpeg 750w, /images/93e1fc1e4c9e.jpeg 1000w, /images/93e1fc1e4c9e.jpeg 1500w, /images/93e1fc1e4c9e.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Sandpiper Pipeline Map - Enbridge" src="/images/93e1fc1e4c9e.jpeg" width="300" height="196" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/93e1fc1e4c9e.jpeg 100w, /images/93e1fc1e4c9e.jpeg 300w, /images/93e1fc1e4c9e.jpeg 500w, /images/93e1fc1e4c9e.jpeg 750w, /images/93e1fc1e4c9e.jpeg 1000w, /images/93e1fc1e4c9e.jpeg 1500w, /images/93e1fc1e4c9e.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/93e1fc1e4c9e.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The Sandpiper Project provides much needed pipeline capacity to enable rapidly growing Bakken crude oil production.......” said Stephen J. Wuori, president. “We are delighted to welcome Marathon Petroleum as both a committed shipper and a partner. Their shipping commitment demonstrates the economic attractiveness of establishing a low-cost reliable pipeline solution for Bakken producers to access the premium North American markets for light crude oil.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/93e1fc1e4c9e.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c8dfa21e80eeb550eb/1467906074604/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/enbridges-sandpiper-pipeline-gains-anchor-shipper-in-marathon-petroleum-open-season-starts" data-title="Enbridge's Sandpiper Pipeline Gains Anchor Shipper in Marathon Petroleum - Open Season"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c8dfa21e80eeb550eb" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

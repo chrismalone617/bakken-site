@@ -80,7 +80,7 @@ heroImage: "/images/767ebb5ed4a6.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -89,7 +89,7 @@ heroImage: "/images/767ebb5ed4a6.jpeg"
                 
                 
                 
-                <img data-stretch="true" data-src="/images/767ebb5ed4a6.jpeg" data-image="/images/767ebb5ed4a6.jpeg" data-image-dimensions="300x225" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/767ebb5ed4a6.jpeg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/767ebb5ed4a6.jpeg 100w, /images/767ebb5ed4a6.jpeg 300w, /images/767ebb5ed4a6.jpeg 500w, /images/767ebb5ed4a6.jpeg 750w, /images/767ebb5ed4a6.jpeg 1000w, /images/767ebb5ed4a6.jpeg 1500w, /images/767ebb5ed4a6.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/767ebb5ed4a6.jpeg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/767ebb5ed4a6.jpeg 100w, /images/767ebb5ed4a6.jpeg 300w, /images/767ebb5ed4a6.jpeg 500w, /images/767ebb5ed4a6.jpeg 750w, /images/767ebb5ed4a6.jpeg 1000w, /images/767ebb5ed4a6.jpeg 1500w, /images/767ebb5ed4a6.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -156,9 +156,9 @@ heroImage: "/images/767ebb5ed4a6.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/5748ab042b8ddef6b33bac86/1466557052438/" data-record-type="1" data-full-url="/bsp-news/news/happy-memorial-day-2016" data-title="Happy Memorial Day"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="5748ab042b8ddef6b33bac86" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

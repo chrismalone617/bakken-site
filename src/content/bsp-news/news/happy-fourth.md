@@ -80,7 +80,7 @@ heroImage: "/images/16f8d426b1f3.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -89,7 +89,7 @@ heroImage: "/images/16f8d426b1f3.gif"
                 
                 
                 
-                <img data-stretch="true" data-src="/images/16f8d426b1f3.gif" data-image="/images/16f8d426b1f3.gif" data-image-dimensions="300x233" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/16f8d426b1f3.gif" width="300" height="233" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/16f8d426b1f3.gif 100w, /images/16f8d426b1f3.gif 300w, /images/16f8d426b1f3.gif 500w, /images/16f8d426b1f3.gif 750w, /images/16f8d426b1f3.gif 1000w, /images/16f8d426b1f3.gif 1500w, /images/16f8d426b1f3.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/16f8d426b1f3.gif" width="300" height="233" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/16f8d426b1f3.gif 100w, /images/16f8d426b1f3.gif 300w, /images/16f8d426b1f3.gif 500w, /images/16f8d426b1f3.gif 750w, /images/16f8d426b1f3.gif 1000w, /images/16f8d426b1f3.gif 1500w, /images/16f8d426b1f3.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -156,9 +156,9 @@ heroImage: "/images/16f8d426b1f3.gif"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/577a4f13893fc0e70a969484/1467634061828/" data-record-type="1" data-full-url="/bsp-news/news/happy-fourth" data-title="Happy Fourth!"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="577a4f13893fc0e70a969484" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/eaa3445b43af.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/eaa3445b43af.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/eaa3445b43af.jpeg" data-image="/images/eaa3445b43af.jpeg" data-image-dimensions="300x187" data-image-focal-point="0.5,0.5" alt="Bob Dudley BP" data-load="false" elementtiming="system-image-block" src="/images/eaa3445b43af.jpeg" width="300" height="187" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/eaa3445b43af.jpeg 100w, /images/eaa3445b43af.jpeg 300w, /images/eaa3445b43af.jpeg 500w, /images/eaa3445b43af.jpeg 750w, /images/eaa3445b43af.jpeg 1000w, /images/eaa3445b43af.jpeg 1500w, /images/eaa3445b43af.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bob Dudley BP" src="/images/eaa3445b43af.jpeg" width="300" height="187" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/eaa3445b43af.jpeg 100w, /images/eaa3445b43af.jpeg 300w, /images/eaa3445b43af.jpeg 500w, /images/eaa3445b43af.jpeg 750w, /images/eaa3445b43af.jpeg 1000w, /images/eaa3445b43af.jpeg 1500w, /images/eaa3445b43af.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ BP's Bob Dudley addressed the crowd at IHS CERAWeek to share expectations of wha
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d6da5d4222fbbca1b8/1467385165243/" data-record-type="1" data-full-url="/bsp-news/news/bakken-production-future-world-growth-bp-dudley" data-title="Bakken Production Points To Future World Growth - BP's Dudley"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d6da5d4222fbbca1b8" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

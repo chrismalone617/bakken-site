@@ -83,7 +83,7 @@ heroImage: "/images/89ae9c038e3e.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/89ae9c038e3e.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/89ae9c038e3e.jpeg" data-image="/images/89ae9c038e3e.jpeg" data-image-dimensions="296x300" data-image-focal-point="0.5,0.5" alt="Oasis Petroleum Bakken Acreage Map - Acquisition Included" data-load="false" elementtiming="system-image-block" src="/images/89ae9c038e3e.jpeg" width="296" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/89ae9c038e3e.jpeg 100w, /images/89ae9c038e3e.jpeg 300w, /images/89ae9c038e3e.jpeg 500w, /images/89ae9c038e3e.jpeg 750w, /images/89ae9c038e3e.jpeg 1000w, /images/89ae9c038e3e.jpeg 1500w, /images/89ae9c038e3e.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Oasis Petroleum Bakken Acreage Map - Acquisition Included" src="/images/89ae9c038e3e.jpeg" width="296" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/89ae9c038e3e.jpeg 100w, /images/89ae9c038e3e.jpeg 300w, /images/89ae9c038e3e.jpeg 500w, /images/89ae9c038e3e.jpeg 750w, /images/89ae9c038e3e.jpeg 1000w, /images/89ae9c038e3e.jpeg 1500w, /images/89ae9c038e3e.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/89ae9c038e3e.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>There were $1.8 billion in Bakken deals in the third quarter and that led all shale plays in terms of dollar value. There were $16.4 billion worth of deals in the third quarter and $5.4 were attributable to assets in shale plays.</p><p>The <a target="_blank" href="http://eaglefordshale.com/">Eagle Ford</a> in South Texas led with seven deals compared to the Bakken's three, but trailed the Bakken in total deal value by $100 million.</p><p>PWC only tracks deals with a value of more than $50 million. We actually covered four deals in the quarter:</p><ul><li><a href="http://bakkenshale.com/bsp-news/news/oasis-petroleums-bakken-deal-grows-acreage-position-50-1-5-billion">Oasis Acquires 160,000 Plus Bakken Acres - $1.5 Billion</a></li><li><a href="http://bakkenshale.com/bsp-news/news/whiting-petroleum-acquires-bakken-acreage-mt-nd">Whiting Petroleum Acquires Bakken Acreage in Montana and North Dakota - $260 million</a></li><li><a href="http://bakkenshale.com/bsp-news/news/samson-oil-gas-selling-bakken-assets">Samson Sells Bakken Assets in Montana - $13.5 million</a></li><li><a href="http://bakkenshale.com/bsp-news/news/halcon-resolute-bakken-acreage-williams-county">Halcon Buys Resolute Energy's Williams County Bakken Acreage - $75 million</a></li></ul><p>Read the full oil and gas divestitures report at <a target="_blank" href="http://www.pwc.com/us/en/press-releases/2013/divestitures-continue-to-drive-us-oil-and-gas.jhtml">pwc.com</a></p>
+  <p>There were $1.8 billion in Bakken deals in the third quarter and that led all shale plays in terms of dollar value. There were $16.4 billion worth of deals in the third quarter and $5.4 were attributable to assets in shale plays.</p><p>The <a target="_blank" href="http://eaglefordshale.com/">Eagle Ford</a> in South Texas led with seven deals compared to the Bakken's three, but trailed the Bakken in total deal value by $100 million.</p><p>PWC only tracks deals with a value of more than $50 million. We actually covered four deals in the quarter:</p><ul><li><a href="/bsp-news/news/oasis-petroleums-bakken-deal-grows-acreage-position-50-1-5-billion">Oasis Acquires 160,000 Plus Bakken Acres - $1.5 Billion</a></li><li><a href="/bsp-news/news/whiting-petroleum-acquires-bakken-acreage-mt-nd">Whiting Petroleum Acquires Bakken Acreage in Montana and North Dakota - $260 million</a></li><li><a href="/bsp-news/news/samson-oil-gas-selling-bakken-assets">Samson Sells Bakken Assets in Montana - $13.5 million</a></li><li><a href="/bsp-news/news/halcon-resolute-bakken-acreage-williams-county">Halcon Buys Resolute Energy's Williams County Bakken Acreage - $75 million</a></li></ul><p>Read the full oil and gas divestitures report at <a target="_blank" href="http://www.pwc.com/us/en/press-releases/2013/divestitures-continue-to-drive-us-oil-and-gas.jhtml">pwc.com</a></p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/89ae9c038e3e.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43eeda5d4222fbbca346/1467383874993/" data-record-type="1" data-full-url="/bsp-news/news/bakken-deals-account-for-33-of-us-shale-deals-in-q3" data-title="Bakken Deals Account for 33% of U.S. Shale Deals in Q3"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43eeda5d4222fbbca346" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

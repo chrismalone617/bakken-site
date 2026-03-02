@@ -83,7 +83,7 @@ heroImage: "/images/c62972f99091.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/c62972f99091.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/c62972f99091.jpg" data-image="/images/c62972f99091.jpg" data-image-dimensions="300x199" data-image-focal-point="0.5,0.5" alt="Bakken roads" data-load="false" elementtiming="system-image-block" src="/images/c62972f99091.jpg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c62972f99091.jpg 100w, /images/c62972f99091.jpg 300w, /images/c62972f99091.jpg 500w, /images/c62972f99091.jpg 750w, /images/c62972f99091.jpg 1000w, /images/c62972f99091.jpg 1500w, /images/c62972f99091.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken roads" src="/images/c62972f99091.jpg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c62972f99091.jpg 100w, /images/c62972f99091.jpg 300w, /images/c62972f99091.jpg 500w, /images/c62972f99091.jpg 750w, /images/c62972f99091.jpg 1000w, /images/c62972f99091.jpg 1500w, /images/c62972f99091.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/c62972f99091.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Speaking with the Dickenson Press, Watford City Mayor Brent Sanford said, “The traffic flow will be better. It will be safer. So this is really a great investment for public safety.<span>”</span>
   </blockquote>
   
@@ -173,7 +173,7 @@ heroImage: "/images/c62972f99091.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Related ND News: <a href="http://bakkenshale.com/bsp-news/news/no-income-tax-north-dakota?rq=No%20Income%20Tax%20for%20North%20Dakota%3F">No Income Tax for North Dakota?</a></p><p>Senate bill 2103 allocates the nearly $1.1 billion as follows:</p><ul><li>$450 million for the Department of Transportation</li><li>300 million for the state’s top 10 oil-producing counties</li><li>$140 million for cities within the top 10 oil producing counties</li><li>$8,750,000 to school districts in oil-producing counties</li><li>$215 million for hub cities: Williston, Dickinson, Minot and Watford City.</li><li>$112 million for non-oil-producing counties.</li><li>$16 million for townships in non-oil-producing counties.</li></ul><p>Read the entire bill at <a target="_blank" href="http://www.legis.nd.gov/assembly/64-2015/documents/15-0378-02000.pdf?20150226085442">legi.nd.gov</a></p>
+  <p>Related ND News: <a href="/bsp-news/news/no-income-tax-north-dakota?rq=No%20Income%20Tax%20for%20North%20Dakota%3F">No Income Tax for North Dakota?</a></p><p>Senate bill 2103 allocates the nearly $1.1 billion as follows:</p><ul><li>$450 million for the Department of Transportation</li><li>300 million for the state’s top 10 oil-producing counties</li><li>$140 million for cities within the top 10 oil producing counties</li><li>$8,750,000 to school districts in oil-producing counties</li><li>$215 million for hub cities: Williston, Dickinson, Minot and Watford City.</li><li>$112 million for non-oil-producing counties.</li><li>$16 million for townships in non-oil-producing counties.</li></ul><p>Read the entire bill at <a target="_blank" href="http://www.legis.nd.gov/assembly/64-2015/documents/15-0378-02000.pdf?20150226085442">legi.nd.gov</a></p>
 </div>
 
 
@@ -214,9 +214,9 @@ heroImage: "/images/c62972f99091.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4416da5d4222fbbca56a/1467382176220/" data-record-type="1" data-full-url="/bsp-news/news/governor-dalrymple-commits-infrastructure" data-title="Governor Dalrymple Commits to Infrastructure"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4416da5d4222fbbca56a" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/124739010982.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/124739010982.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/124739010982.jpeg" data-image="/images/124739010982.jpeg" data-image-dimensions="240x300" data-image-focal-point="0.5,0.5" alt="Bison Gathering System - Bakken" data-load="false" elementtiming="system-image-block" src="/images/124739010982.jpeg" width="240" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/124739010982.jpeg 100w, /images/124739010982.jpeg 300w, /images/124739010982.jpeg 500w, /images/124739010982.jpeg 750w, /images/124739010982.jpeg 1000w, /images/124739010982.jpeg 1500w, /images/124739010982.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bison Gathering System - Bakken" src="/images/124739010982.jpeg" width="240" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/124739010982.jpeg 100w, /images/124739010982.jpeg 300w, /images/124739010982.jpeg 500w, /images/124739010982.jpeg 750w, /images/124739010982.jpeg 1000w, /images/124739010982.jpeg 1500w, /images/124739010982.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Summit Midstream has agreed to buy Bison Midstream, LLC, for $250 million.</p><p
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c2dfa21e80eeb550a7/1467907001019/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/summit-midstream-buys-bison-midstream-natural-gas-gathering-operations" data-title="Summit Midstream Buys Bison Midstream - Bakken Natural Gas Gathering System"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c2dfa21e80eeb550a7" data-like-count="1">
+          
+  <span>
     <span></span>
     <span>1 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/844cb0658de5.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/844cb0658de5.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/844cb0658de5.jpg" data-image="/images/844cb0658de5.jpg" data-image-dimensions="300x213" data-image-focal-point="0.5,0.5" alt="ND Pump Jack Photo" data-load="false" elementtiming="system-image-block" src="/images/844cb0658de5.jpg" width="300" height="213" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/844cb0658de5.jpg 100w, /images/844cb0658de5.jpg 300w, /images/844cb0658de5.jpg 500w, /images/844cb0658de5.jpg 750w, /images/844cb0658de5.jpg 1000w, /images/844cb0658de5.jpg 1500w, /images/844cb0658de5.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="ND Pump Jack Photo" src="/images/844cb0658de5.jpg" width="300" height="213" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/844cb0658de5.jpg 100w, /images/844cb0658de5.jpg 300w, /images/844cb0658de5.jpg 500w, /images/844cb0658de5.jpg 750w, /images/844cb0658de5.jpg 1000w, /images/844cb0658de5.jpg 1500w, /images/844cb0658de5.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ North Dakota oil production could surpass a whopping 2 Million barrels of oil pe
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c5da5d4222fbbca0d0/1467385760205/" data-record-type="1" data-full-url="/bsp-news/news/north-dakota-production-could-jump-to-2-million-barrels-per-day" data-title="North Dakota Oil Production Could Jump to 2 Million Barrels Per Day"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c5da5d4222fbbca0d0" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

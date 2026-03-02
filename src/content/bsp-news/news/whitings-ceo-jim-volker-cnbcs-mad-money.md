@@ -66,9 +66,9 @@ description: "Whiting"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f4da5d4222fbbca390/1467315758390/" data-record-type="1" data-full-url="/bsp-news/news/whitings-ceo-jim-volker-cnbcs-mad-money" data-title="Whiting's CEO Jim Volker on CNBC's Mad Money - Video"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f4da5d4222fbbca390" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

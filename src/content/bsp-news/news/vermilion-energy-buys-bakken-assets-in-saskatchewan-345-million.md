@@ -83,7 +83,7 @@ heroImage: "/images/c37ae28acaf4.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/c37ae28acaf4.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/c37ae28acaf4.gif" data-image="/images/c37ae28acaf4.gif" data-image-dimensions="300x221" data-image-focal-point="0.5,0.5" alt="Bakken Shale Map" data-load="false" elementtiming="system-image-block" src="/images/c37ae28acaf4.gif" width="300" height="221" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c37ae28acaf4.gif 100w, /images/c37ae28acaf4.gif 300w, /images/c37ae28acaf4.gif 500w, /images/c37ae28acaf4.gif 750w, /images/c37ae28acaf4.gif 1000w, /images/c37ae28acaf4.gif 1500w, /images/c37ae28acaf4.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Shale Map" src="/images/c37ae28acaf4.gif" width="300" height="221" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c37ae28acaf4.gif 100w, /images/c37ae28acaf4.gif 300w, /images/c37ae28acaf4.gif 500w, /images/c37ae28acaf4.gif 750w, /images/c37ae28acaf4.gif 1000w, /images/c37ae28acaf4.gif 1500w, /images/c37ae28acaf4.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/c37ae28acaf4.gif"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>In a company statement, Vermilion officials stated, “we have been evaluating producing entry opportunities into this prolific area for an extended period of time, but had not previously been able to structure a transaction that met the stringent requirements of our dividend growth model.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/c37ae28acaf4.gif"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4400da5d4222fbbca42b/1467383288297/" data-record-type="1" data-full-url="/bsp-news/news/vermilion-energy-buys-bakken-assets-in-saskatchewan-345-million" data-title="Vermilion Energy Buys Bakken Assets in Saskatchewan - $345 Million"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4400da5d4222fbbca42b" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

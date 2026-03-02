@@ -83,7 +83,7 @@ heroImage: "/images/f6110f093c1d.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/f6110f093c1d.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f6110f093c1d.jpeg" data-image="/images/f6110f093c1d.jpeg" data-image-dimensions="200x274" data-image-focal-point="0.5,0.5" alt="EOG CEO Bill Thomas" data-load="false" elementtiming="system-image-block" src="/images/f6110f093c1d.jpeg" width="200" height="274" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f6110f093c1d.jpeg 100w, /images/f6110f093c1d.jpeg 300w, /images/f6110f093c1d.jpeg 500w, /images/f6110f093c1d.jpeg 750w, /images/f6110f093c1d.jpeg 1000w, /images/f6110f093c1d.jpeg 1500w, /images/f6110f093c1d.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="EOG CEO Bill Thomas" src="/images/f6110f093c1d.jpeg" width="200" height="274" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f6110f093c1d.jpeg 100w, /images/f6110f093c1d.jpeg 300w, /images/f6110f093c1d.jpeg 500w, /images/f6110f093c1d.jpeg 750w, /images/f6110f093c1d.jpeg 1000w, /images/f6110f093c1d.jpeg 1500w, /images/f6110f093c1d.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/f6110f093c1d.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Thomas said, “we don’t see another play out there that’s like an Eagle Ford or Bakken that will maintain this tremendous growth that we have had going forward. So production we believe is beginning to slow. In 2012, [production] was about 1-million b/d per year and then last year was a little over 800,000 b/d per year. We are looking at maybe this year 750, maybe in 2016 650,000 b/d per year and really over a fairly short period of time we really believe that the U.S. will be in kind of a very low growth mode. So oil is not going to just go on forever because there is not really another Eagle Ford or Bakken out there.<span>”</span>
   </blockquote>
   
@@ -173,7 +173,7 @@ heroImage: "/images/f6110f093c1d.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Thomas' postulation about the Bakken and Eagle Ford, which is likely an accurate depiction, doesn't diminish the impact these plays have already had, or will continue to have on the oil and gas industry, and the U.S. economy. According to the EIA, production in the Bakken Shale has now exceeded the 1-million b/d mark.&nbsp;Recently, Continental Resources, the Bakken Shale's largest producer, released data showing the Bakken field of North Dakota and Montana reached the milestone of 1-billion bbls of cumulative light, sweet crude oil produced during first quarter of 2014.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/continental-resources-bakken-hits-1-billion-barrel-mark?rq=Continental%20Resources%3A%20Bakken%20Hits%201-Billion%20Barrel%20Mark">Continental Resources: Bakken Hits 1-Billion Barrel Mark</a></p>
+  <p>Thomas' postulation about the Bakken and Eagle Ford, which is likely an accurate depiction, doesn't diminish the impact these plays have already had, or will continue to have on the oil and gas industry, and the U.S. economy. According to the EIA, production in the Bakken Shale has now exceeded the 1-million b/d mark.&nbsp;Recently, Continental Resources, the Bakken Shale's largest producer, released data showing the Bakken field of North Dakota and Montana reached the milestone of 1-billion bbls of cumulative light, sweet crude oil produced during first quarter of 2014.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/continental-resources-bakken-hits-1-billion-barrel-mark?rq=Continental%20Resources%3A%20Bakken%20Hits%201-Billion%20Barrel%20Mark">Continental Resources: Bakken Hits 1-Billion Barrel Mark</a></p>
 </div>
 
 
@@ -214,9 +214,9 @@ heroImage: "/images/f6110f093c1d.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4405da5d4222fbbca46e/1467383051967/" data-record-type="1" data-full-url="/bsp-news/news/is-the-bakken-americas-last-oil-boom" data-title="Is the Bakken America's Last Oil Boom?"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4405da5d4222fbbca46e" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

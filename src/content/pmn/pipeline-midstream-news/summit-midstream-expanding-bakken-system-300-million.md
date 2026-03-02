@@ -25,7 +25,7 @@ description: "Summit Midstream Partners announced in June of 2014 that it will s
     <div><div data-layout-label="Post Body" data-type="item" data-updated-on="1467905563057"><div><div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Summit Midstream Partners announced in June of 2014 that it will spend $300 million on four new development projects involving oil, water and natural gas gathering in the Bakken Shale play. The new projects will further expand the companies footprint in Williams and Divide counties.&nbsp;In June of 2013, Summit announced plans to spend $60 million on development projects in North Dakota.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/pmn/pipeline-midstream-news/summit-midstream-expanding-bakken-system-300-million">Summit Midstream Expanding Bakken System in Williams and Divide Counties</a></p><p>One of the Summit's new projects is geared towards providing customers with additional crude oil interconnects.&nbsp;Meadowlark, a wholly owned operating subsidiary of Summit, will construct a new crude oil truck unloading station.&nbsp;With this project, Meadowlark will provide its customers with a new interconnect for up to 50,000 b/d of crude oil deliverability, providing access to new downstream markets on both the East and West Coasts.</p>
+  <p>Summit Midstream Partners announced in June of 2014 that it will spend $300 million on four new development projects involving oil, water and natural gas gathering in the Bakken Shale play. The new projects will further expand the companies footprint in Williams and Divide counties.&nbsp;In June of 2013, Summit announced plans to spend $60 million on development projects in North Dakota.</p><p><strong>Read more</strong>: <a href="/pmn/pipeline-midstream-news/summit-midstream-expanding-bakken-system-300-million">Summit Midstream Expanding Bakken System in Williams and Divide Counties</a></p><p>One of the Summit's new projects is geared towards providing customers with additional crude oil interconnects.&nbsp;Meadowlark, a wholly owned operating subsidiary of Summit, will construct a new crude oil truck unloading station.&nbsp;With this project, Meadowlark will provide its customers with a new interconnect for up to 50,000 b/d of crude oil deliverability, providing access to new downstream markets on both the East and West Coasts.</p>
 </div>
 
 
@@ -72,7 +72,7 @@ description: "Summit Midstream Partners announced in June of 2014 that it will s
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We expect our new organic development projects will further enhance Summit’s position as a leading, independent midstream provider in the Bakken Shale.<span>”</span>
   </blockquote>
   <figcaption>— CEO Steve Newby.</figcaption>
@@ -121,9 +121,9 @@ description: "Summit Midstream Partners announced in June of 2014 that it will s
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22ccdfa21e80eeb55120/1467905331923/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/summit-midstream-expanding-bakken-system-300-million" data-title="Summit Midstream Expanding Bakken System - $300 Million"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22ccdfa21e80eeb55120" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/e12dac3990e9.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/e12dac3990e9.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/e12dac3990e9.gif" data-image="/images/e12dac3990e9.gif" data-image-dimensions="300x225" data-image-focal-point="0.5,0.5" alt="Oil Rail Car Image" data-load="false" elementtiming="system-image-block" src="/images/e12dac3990e9.gif" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e12dac3990e9.gif 100w, /images/e12dac3990e9.gif 300w, /images/e12dac3990e9.gif 500w, /images/e12dac3990e9.gif 750w, /images/e12dac3990e9.gif 1000w, /images/e12dac3990e9.gif 1500w, /images/e12dac3990e9.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Oil Rail Car Image" src="/images/e12dac3990e9.gif" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e12dac3990e9.gif 100w, /images/e12dac3990e9.gif 300w, /images/e12dac3990e9.gif 500w, /images/e12dac3990e9.gif 750w, /images/e12dac3990e9.gif 1000w, /images/e12dac3990e9.gif 1500w, /images/e12dac3990e9.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/e12dac3990e9.gif"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>John Hoeven, the Republican Senator from North Dakota, said at the hearing, “the bottom line is that we need greater rail capacity to meet the growing needs of North Dakota’s expanding economy and dynamic businesses and farms. To make that happen, railroads must commit to investing in more rail infrastructure, including more locomotives, more railcars and more crews.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/e12dac3990e9.gif"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f440bda5d4222fbbca4c0/1467382718065/" data-record-type="1" data-full-url="/bsp-news/news/rail-lines-face-bottlenecks-in-bakken" data-title="Rail Lines Face Bottlenecks in Bakken"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f440bda5d4222fbbca4c0" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

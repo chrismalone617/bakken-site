@@ -83,7 +83,7 @@ heroImage: "/images/46aa69be112e.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/46aa69be112e.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/46aa69be112e.jpeg" data-image="/images/46aa69be112e.jpeg" data-image-dimensions="300x228" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/46aa69be112e.jpeg" width="300" height="228" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/46aa69be112e.jpeg 100w, /images/46aa69be112e.jpeg 300w, /images/46aa69be112e.jpeg 500w, /images/46aa69be112e.jpeg 750w, /images/46aa69be112e.jpeg 1000w, /images/46aa69be112e.jpeg 1500w, /images/46aa69be112e.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/46aa69be112e.jpeg" width="300" height="228" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/46aa69be112e.jpeg 100w, /images/46aa69be112e.jpeg 300w, /images/46aa69be112e.jpeg 500w, /images/46aa69be112e.jpeg 750w, /images/46aa69be112e.jpeg 1000w, /images/46aa69be112e.jpeg 1500w, /images/46aa69be112e.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -113,7 +113,7 @@ heroImage: "/images/46aa69be112e.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Protests continue to grow around the country over the 1,172 mile Dakota Access Pipeline.</p><p><a href="http://bakkenshale.com/bsp-news/news/violence-erupts-at-pipeline-protest">Related: Violence Erupts over Pipeline</a></p><p>Construction on the Dakota Access Pipeline has been the focus of escalating protests since construction was halted over the Labor Day weekend after violence erupted.&nbsp;</p><p>Over the past three months, there have been three protests in Dallas, the home of the company behind the pipeline,&nbsp;Energy Transfer Partners.&nbsp;In September, dozens of people gathered in front of Energy Transfer's corporate headquarters and this past week,&nbsp;protesters yelled concerns at attendees at a fundraiser in Klyde Warren Park.&nbsp;</p><h2>Other Protests</h2><ul dir="ltr"><li>Yesterday, more than 800 people protested in Los Angeles' MacArthur Par.&nbsp;&nbsp;showed support for the pipeline activists. Among the crowd were celebrities including Susan Sarandon and Mark Ruffalo.</li><li>Over the weekend, protestors set up a camp in Cannonball ND,&nbsp;directly in the path of the project, according to Fox News. The groups erected tents and teepees on private land that the group contends rightfully belongs to native Americans.</li><li>In Morton County, ND, more than 127 people were arrested while Sheriff;s used pepper spray on the crowd.&nbsp;</li></ul>
+  <p>Protests continue to grow around the country over the 1,172 mile Dakota Access Pipeline.</p><p><a href="/bsp-news/news/violence-erupts-at-pipeline-protest">Related: Violence Erupts over Pipeline</a></p><p>Construction on the Dakota Access Pipeline has been the focus of escalating protests since construction was halted over the Labor Day weekend after violence erupted.&nbsp;</p><p>Over the past three months, there have been three protests in Dallas, the home of the company behind the pipeline,&nbsp;Energy Transfer Partners.&nbsp;In September, dozens of people gathered in front of Energy Transfer's corporate headquarters and this past week,&nbsp;protesters yelled concerns at attendees at a fundraiser in Klyde Warren Park.&nbsp;</p><h2>Other Protests</h2><ul dir="ltr"><li>Yesterday, more than 800 people protested in Los Angeles' MacArthur Par.&nbsp;&nbsp;showed support for the pipeline activists. Among the crowd were celebrities including Susan Sarandon and Mark Ruffalo.</li><li>Over the weekend, protestors set up a camp in Cannonball ND,&nbsp;directly in the path of the project, according to Fox News. The groups erected tents and teepees on private land that the group contends rightfully belongs to native Americans.</li><li>In Morton County, ND, more than 127 people were arrested while Sheriff;s used pepper spray on the crowd.&nbsp;</li></ul>
 </div>
 
 
@@ -160,7 +160,7 @@ heroImage: "/images/46aa69be112e.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>North Dakota sheriffs said protests were neither lawful nor peaceful. The Standing Rock Sioux tribe countered that law enforcement officials beat area demonstrators and using a militarized response to quell the protests.<span>”</span>
   </blockquote>
   <figcaption>— UPI.com</figcaption>
@@ -209,9 +209,9 @@ heroImage: "/images/46aa69be112e.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/580fe025e6f2e1af3c353cbb/1477438355905/" data-record-type="1" data-full-url="/bsp-news/news/protests-over-pipeline-spread-across-the-country" data-title="Protests Over Pipeline Spread Across the Country"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="580fe025e6f2e1af3c353cbb" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

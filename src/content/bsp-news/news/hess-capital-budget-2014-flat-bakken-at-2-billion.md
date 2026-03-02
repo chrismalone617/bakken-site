@@ -83,7 +83,7 @@ heroImage: "/images/8a85e3b017d1.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/8a85e3b017d1.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/8a85e3b017d1.jpeg" data-image="/images/8a85e3b017d1.jpeg" data-image-dimensions="229x300" data-image-focal-point="0.5,0.5" alt="Hess' Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/8a85e3b017d1.jpeg" width="229" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8a85e3b017d1.jpeg 100w, /images/8a85e3b017d1.jpeg 300w, /images/8a85e3b017d1.jpeg 500w, /images/8a85e3b017d1.jpeg 750w, /images/8a85e3b017d1.jpeg 1000w, /images/8a85e3b017d1.jpeg 1500w, /images/8a85e3b017d1.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Hess' Bakken Acreage Map" src="/images/8a85e3b017d1.jpeg" width="229" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8a85e3b017d1.jpeg 100w, /images/8a85e3b017d1.jpeg 300w, /images/8a85e3b017d1.jpeg 500w, /images/8a85e3b017d1.jpeg 750w, /images/8a85e3b017d1.jpeg 1000w, /images/8a85e3b017d1.jpeg 1500w, /images/8a85e3b017d1.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/8a85e3b017d1.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Hess plans on committing nearly half of its $5.8 billion capital budget to unconventional shale resources in 2014, with $2.2 billion slated for development of the Bakken. That's the same figure Hess earmarked for development spending in the formation for 2013, but the company's strategic focus is slightly different this year as shale costs shrink.</p><p>Although overall investments in infrastructure are down slightly, Hess still plans on allotting $350 million for completing the expansion of the Tioga Gas Plant and associated pipeline and compression projects.</p><p><strong>Also read:</strong><a href="http://bakkenshale.com/pmn/pipeline-midstream-news/alliance-pipelines-tioga-lateral-is-online-moving-gas-onto-its-mainline-system?rq=alliance%20pipeline">Alliance Pipeline's Tioga Lateral Is Online &amp; Moving Gas Onto Its Mainline System</a></p>
+  <p>Hess plans on committing nearly half of its $5.8 billion capital budget to unconventional shale resources in 2014, with $2.2 billion slated for development of the Bakken. That's the same figure Hess earmarked for development spending in the formation for 2013, but the company's strategic focus is slightly different this year as shale costs shrink.</p><p>Although overall investments in infrastructure are down slightly, Hess still plans on allotting $350 million for completing the expansion of the Tioga Gas Plant and associated pipeline and compression projects.</p><p><strong>Also read:</strong><a href="//pmn/pipeline-midstream-news/alliance-pipelines-tioga-lateral-is-online-moving-gas-onto-its-mainline-system?rq=alliance%20pipeline">Alliance Pipeline's Tioga Lateral Is Online &amp; Moving Gas Onto Its Mainline System</a></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/8a85e3b017d1.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Greg Hill, President and COO, said, “as a result of lower well costs and decreased investments in infrastructure projects we plan to operate 17 rigs versus 14 last year and to bring 225 new operated wells online in 2014 compared to 168 in 2013.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/8a85e3b017d1.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43fada5d4222fbbca3d9/1467383530379/" data-record-type="1" data-full-url="/bsp-news/news/hess-capital-budget-2014-flat-bakken-at-2-billion" data-title="Hess Capital Budget for 2014 Flat in Bakken at $2.2 Billion"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43fada5d4222fbbca3d9" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

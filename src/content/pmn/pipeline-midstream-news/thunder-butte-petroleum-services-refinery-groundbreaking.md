@@ -83,7 +83,7 @@ heroImage: "/images/52654410c41b.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/52654410c41b.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/52654410c41b.png" data-image="/images/52654410c41b.png" data-image-dimensions="167x151" data-image-focal-point="0.5,0.5" alt="Thunder Butte Petroleum" data-load="false" elementtiming="system-image-block" src="/images/52654410c41b.png" width="167" height="151" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/52654410c41b.png 100w, /images/52654410c41b.png 300w, /images/52654410c41b.png 500w, /images/52654410c41b.png 750w, /images/52654410c41b.png 1000w, /images/52654410c41b.png 1500w, /images/52654410c41b.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Thunder Butte Petroleum" src="/images/52654410c41b.png" width="167" height="151" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/52654410c41b.png 100w, /images/52654410c41b.png 300w, /images/52654410c41b.png 500w, /images/52654410c41b.png 750w, /images/52654410c41b.png 1000w, /images/52654410c41b.png 1500w, /images/52654410c41b.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/52654410c41b.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Ground has been broken at the site of the Thunder Butte Petroleum Services Refinery southwest of Minot, ND. Three affiliated Indian tribes have joined together for the $450 million project that will be constructed on a 476-acre site.</p><p>This is the second refinery to break ground in the past two months. The <a href="http://bakkenshale.com/pmn/pipeline-midstream-news/dakota-prairie-refinery-groundbreaking-mdu-resources?rq=dakota-prairie-refinery-groundbreaking-mdu-resources">Dakota Prairie Refinery Groundbreaking</a> was held in March near Dickinson.</p>
+  <p>Ground has been broken at the site of the Thunder Butte Petroleum Services Refinery southwest of Minot, ND. Three affiliated Indian tribes have joined together for the $450 million project that will be constructed on a 476-acre site.</p><p>This is the second refinery to break ground in the past two months. The <a href="//pmn/pipeline-midstream-news/dakota-prairie-refinery-groundbreaking-mdu-resources?rq=dakota-prairie-refinery-groundbreaking-mdu-resources">Dakota Prairie Refinery Groundbreaking</a> was held in March near Dickinson.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/52654410c41b.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>It`s really an important time for our people. It`s exciting,” said tribal representative Ken Hall. “But we have to be mindful going forward to not lose our culture.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/52654410c41b.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c0dfa21e80eeb5508a/1467907414077/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/thunder-butte-petroleum-services-refinery-groundbreaking" data-title="Thunder Butte Petroleum Services Refinery Ground Broken"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c0dfa21e80eeb5508a" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

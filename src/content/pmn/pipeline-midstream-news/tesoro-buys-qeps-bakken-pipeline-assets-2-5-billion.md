@@ -83,7 +83,7 @@ heroImage: "/images/ee5c62f42d13.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/ee5c62f42d13.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ee5c62f42d13.jpeg" data-image="/images/ee5c62f42d13.jpeg" data-image-dimensions="500x500" data-image-focal-point="0.5,0.5" alt="QEP Midstream Operations Map" data-load="false" elementtiming="system-image-block" src="/images/ee5c62f42d13.jpeg" width="500" height="500" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ee5c62f42d13.jpeg 100w, /images/ee5c62f42d13.jpeg 300w, /images/ee5c62f42d13.jpeg 500w, /images/ee5c62f42d13.jpeg 750w, /images/ee5c62f42d13.jpeg 1000w, /images/ee5c62f42d13.jpeg 1500w, /images/ee5c62f42d13.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="QEP Midstream Operations Map" src="/images/ee5c62f42d13.jpeg" width="500" height="500" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ee5c62f42d13.jpeg 100w, /images/ee5c62f42d13.jpeg 300w, /images/ee5c62f42d13.jpeg 500w, /images/ee5c62f42d13.jpeg 750w, /images/ee5c62f42d13.jpeg 1000w, /images/ee5c62f42d13.jpeg 1500w, /images/ee5c62f42d13.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/ee5c62f42d13.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The sale of our midstream business is a significant milestone in the strategic repositioning of our company, as we believe QEP will be better positioned to deliver continued growth in production and Adjusted EBITDA in 2015 and beyond.<span>”</span>
   </blockquote>
   <figcaption>— Chuck Stanley, President and CEO of QEP Resources</figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/ee5c62f42d13.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22cddfa21e80eeb55179/1467904832412/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/tesoro-buys-qeps-bakken-pipeline-assets-2-5-billion" data-title="Tesoro Buys QEP's Bakken Pipeline Assets - $2.5 Billion"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22cddfa21e80eeb55179" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

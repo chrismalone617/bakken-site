@@ -72,7 +72,7 @@ description: "PBF Energy"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Better lucky than smart,” PBF Chairman Thomas D. O`Malley said. “We were lucky when we bought the Delaware City Refinery. They came with a large quantity of cornfields, soybean fields - in essence a surplus of about four-and-a-half thousand acres of land, and most of it was level. So we were able to put this (rail terminal) in.<span>”</span>
   </blockquote>
   
@@ -121,9 +121,9 @@ description: "PBF Energy"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d9da5d4222fbbca200/1467327124496/" data-record-type="1" data-full-url="/bsp-news/news/delaware-city-refinery-taking-more-bakken-crude" data-title="Delaware City Refinery Taking More Bakken Crude"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d9da5d4222fbbca200" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

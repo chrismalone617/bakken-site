@@ -83,7 +83,7 @@ heroImage: "/images/2a5ffdc40a65.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/2a5ffdc40a65.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/2a5ffdc40a65.jpeg" data-image="/images/2a5ffdc40a65.jpeg" data-image-dimensions="300x208" data-image-focal-point="0.5,0.5" alt="Van Hook Terminal - New Town, ND" data-load="false" elementtiming="system-image-block" src="/images/2a5ffdc40a65.jpeg" width="300" height="208" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/2a5ffdc40a65.jpeg 100w, /images/2a5ffdc40a65.jpeg 300w, /images/2a5ffdc40a65.jpeg 500w, /images/2a5ffdc40a65.jpeg 750w, /images/2a5ffdc40a65.jpeg 1000w, /images/2a5ffdc40a65.jpeg 1500w, /images/2a5ffdc40a65.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Van Hook Terminal - New Town, ND" src="/images/2a5ffdc40a65.jpeg" width="300" height="208" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/2a5ffdc40a65.jpeg 100w, /images/2a5ffdc40a65.jpeg 300w, /images/2a5ffdc40a65.jpeg 500w, /images/2a5ffdc40a65.jpeg 750w, /images/2a5ffdc40a65.jpeg 1000w, /images/2a5ffdc40a65.jpeg 1500w, /images/2a5ffdc40a65.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ The four facilities are rail terminals:</p><ul><li>Van Hook Crude Terminal - New
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43cbda5d4222fbbca126/1467385538681/" data-record-type="1" data-full-url="/bsp-news/news/plains-all-american-u-s-development-corp-reach-500-million-rail-deal" data-title="Plains All American - U.S. Development Corp Reach $500 Million Rail Deal"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43cbda5d4222fbbca126" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

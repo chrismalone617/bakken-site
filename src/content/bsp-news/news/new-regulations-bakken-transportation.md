@@ -83,7 +83,7 @@ heroImage: "/images/9d11297c266b.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/9d11297c266b.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/9d11297c266b.jpg" data-image="/images/9d11297c266b.jpg" data-image-dimensions="300x225" data-image-focal-point="0.5,0.5" alt="new regulations for Bakken add strict guidelines" data-load="false" elementtiming="system-image-block" src="/images/9d11297c266b.jpg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/9d11297c266b.jpg 100w, /images/9d11297c266b.jpg 300w, /images/9d11297c266b.jpg 500w, /images/9d11297c266b.jpg 750w, /images/9d11297c266b.jpg 1000w, /images/9d11297c266b.jpg 1500w, /images/9d11297c266b.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="new regulations for Bakken add strict guidelines" src="/images/9d11297c266b.jpg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/9d11297c266b.jpg 100w, /images/9d11297c266b.jpg 300w, /images/9d11297c266b.jpg 500w, /images/9d11297c266b.jpg 750w, /images/9d11297c266b.jpg 1000w, /images/9d11297c266b.jpg 1500w, /images/9d11297c266b.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/9d11297c266b.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>In an effort to improve the safety of crude production in the Bakken region, the North Dakota Industrial Commission issued an order on December 9th that will impose new regulations on oil producers.</p><p>The order (no. 25417) is the result of an investigation that began at an emotionally charged hearing in September. Over the past two months, commission members Gov. Jack Dalrymple, Attorney General Wayne Stenehjem and Agriculture Commissioner Doug Goehring considered oral and written comments from technical witnesses, manufacturers, land/royalty owners and the general public.</p><p>The new regulations will go into effect on April 1, 2015 and require that all new wells in the Bakken Petroleum System utilize equipment that controls vapor pressure in order to lessen the likelihood of explosions during transportation. This order comes as a <a href="http://bakkenshale.com/bsp-news/news/lynchburg-va-train-derailment-sparks-increased-scrutiny-of-bakken-crude-oil?rq=lynchburg-va-train-derailment-sparks-increased-scrutiny-of-bakken-crude-oil">series of troublesome events in 2014</a> escalated a growing national concern over the transportation methods of Bakken crude.</p>
+  <p>In an effort to improve the safety of crude production in the Bakken region, the North Dakota Industrial Commission issued an order on December 9th that will impose new regulations on oil producers.</p><p>The order (no. 25417) is the result of an investigation that began at an emotionally charged hearing in September. Over the past two months, commission members Gov. Jack Dalrymple, Attorney General Wayne Stenehjem and Agriculture Commissioner Doug Goehring considered oral and written comments from technical witnesses, manufacturers, land/royalty owners and the general public.</p><p>The new regulations will go into effect on April 1, 2015 and require that all new wells in the Bakken Petroleum System utilize equipment that controls vapor pressure in order to lessen the likelihood of explosions during transportation. This order comes as a <a href="/bsp-news/news/lynchburg-va-train-derailment-sparks-increased-scrutiny-of-bakken-crude-oil?rq=lynchburg-va-train-derailment-sparks-increased-scrutiny-of-bakken-crude-oil">series of troublesome events in 2014</a> escalated a growing national concern over the transportation methods of Bakken crude.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/9d11297c266b.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The commission issued a joint statement that “The North Dakota Industrial Commission reiterates the importance of making Bakken crude oil as safe as possible for transportation. This order will bring every barrel of Bakken crude within standards to improve the safety of oil for transport.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/9d11297c266b.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4411da5d4222fbbca51b/1467382487731/" data-record-type="1" data-full-url="/bsp-news/news/new-regulations-bakken-transportation" data-title="New Regulations for Oil Transportation in the Bakken  "><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4411da5d4222fbbca51b" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

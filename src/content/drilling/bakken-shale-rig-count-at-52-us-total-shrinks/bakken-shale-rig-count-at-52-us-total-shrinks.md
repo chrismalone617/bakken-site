@@ -82,7 +82,7 @@ description: "The  Bakken-Three Forks rig count &amp;nbsp;inched up this week, w
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -91,7 +91,7 @@ description: "The  Bakken-Three Forks rig count &amp;nbsp;inched up this week, w
                 
                 
                 
-                <img data-stretch="false" data-src="/images/7998c4a59657.jpg" data-image="/images/7998c4a59657.jpg" data-image-dimensions="300x180" data-image-focal-point="0.5,0.5" alt="Bakken Shale Rig Count" data-load="false" elementtiming="system-image-block" src="/images/7998c4a59657.jpg" width="300" height="180" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/7998c4a59657.jpg 100w, /images/7998c4a59657.jpg 300w, /images/7998c4a59657.jpg 500w, /images/7998c4a59657.jpg 750w, /images/7998c4a59657.jpg 1000w, /images/7998c4a59657.jpg 1500w, /images/7998c4a59657.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Shale Rig Count" src="/images/7998c4a59657.jpg" width="300" height="180" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/7998c4a59657.jpg 100w, /images/7998c4a59657.jpg 300w, /images/7998c4a59657.jpg 500w, /images/7998c4a59657.jpg 750w, /images/7998c4a59657.jpg 1000w, /images/7998c4a59657.jpg 1500w, /images/7998c4a59657.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -114,7 +114,7 @@ description: "The  Bakken-Three Forks rig count &amp;nbsp;inched up this week, w
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The <a href="http://bakkenshale.com/drilling">Bakken-Three Forks rig count</a>&nbsp;inched up this week, with Baker Hughes reporting 52 rigs running through our coverage area by Friday midday.</p><p><em>A total of <strong>940</strong>&nbsp;oil and gas rigs were running across the United States this week, six less than last week.&nbsp;<strong>180</strong>&nbsp;rigs targeted natural gas (two less than the previous week) and <strong>759</strong>&nbsp;were targeting oil in the U.S. (four less than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><em>&nbsp;<strong>52 </strong>of the rigs active in the U.S. were running in North Dakota.</em></p><h2>Bakken Oil &amp; Gas Rigs</h2><p>52 rigs targetted oil in the Bakken this week with Bloomberg reporting WTI oil prices at $47.87 on Friday afternoon.&nbsp;The Bakken has zero natural active gas rig in the area this week with futures trading at $2.89/mmbtu by midday.</p><p>McKenzie County leads activity in the region with 23 rigs running this week. View the full list below under the <em>Bakken Drilling by County</em>&nbsp;section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>51 rigs are drilling horizontal wells</li><li>1 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><h2>Rig Count by County</h2>
+  <p>The <a href="/drilling">Bakken-Three Forks rig count</a>&nbsp;inched up this week, with Baker Hughes reporting 52 rigs running through our coverage area by Friday midday.</p><p><em>A total of <strong>940</strong>&nbsp;oil and gas rigs were running across the United States this week, six less than last week.&nbsp;<strong>180</strong>&nbsp;rigs targeted natural gas (two less than the previous week) and <strong>759</strong>&nbsp;were targeting oil in the U.S. (four less than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><em>&nbsp;<strong>52 </strong>of the rigs active in the U.S. were running in North Dakota.</em></p><h2>Bakken Oil &amp; Gas Rigs</h2><p>52 rigs targetted oil in the Bakken this week with Bloomberg reporting WTI oil prices at $47.87 on Friday afternoon.&nbsp;The Bakken has zero natural active gas rig in the area this week with futures trading at $2.89/mmbtu by midday.</p><p>McKenzie County leads activity in the region with 23 rigs running this week. View the full list below under the <em>Bakken Drilling by County</em>&nbsp;section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>51 rigs are drilling horizontal wells</li><li>1 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><h2>Rig Count by County</h2>
 </div>
 
 
@@ -198,7 +198,7 @@ description: "The  Bakken-Three Forks rig count &amp;nbsp;inched up this week, w
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -207,7 +207,7 @@ description: "The  Bakken-Three Forks rig count &amp;nbsp;inched up this week, w
                 
                 
                 
-                <img data-stretch="false" data-src="/images/214655d9c240.jpg" data-image="/images/214655d9c240.jpg" data-image-dimensions="814x291" data-image-focal-point="0.5,0.5" alt="Bakken Shale Rig Count by County" data-load="false" elementtiming="system-image-block" src="/images/214655d9c240.jpg" width="814" height="291" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/214655d9c240.jpg 100w, /images/214655d9c240.jpg 300w, /images/214655d9c240.jpg 500w, /images/214655d9c240.jpg 750w, /images/214655d9c240.jpg 1000w, /images/214655d9c240.jpg 1500w, /images/214655d9c240.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Shale Rig Count by County" src="/images/214655d9c240.jpg" width="814" height="291" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/214655d9c240.jpg 100w, /images/214655d9c240.jpg 300w, /images/214655d9c240.jpg 500w, /images/214655d9c240.jpg 750w, /images/214655d9c240.jpg 1000w, /images/214655d9c240.jpg 1500w, /images/214655d9c240.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -276,9 +276,9 @@ description: "The  Bakken-Three Forks rig count &amp;nbsp;inched up this week, w
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f41e26dc6951d90c43bbf/59a5cafde4fcb5e4fc23c10e/1504037946916/" data-record-type="1" data-full-url="/drilling/bakken-shale-rig-count-at-52-us-total-shrinks" data-title="Bakken Shale Rig Count at 52; U.S. Total Shrinks"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="59a5cafde4fcb5e4fc23c10e" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

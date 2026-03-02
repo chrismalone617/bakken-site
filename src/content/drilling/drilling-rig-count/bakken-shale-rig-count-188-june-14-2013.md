@@ -83,7 +83,7 @@ heroImage: "/images/f6f11f11758a.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/f6f11f11758a.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f6f11f11758a.jpeg" data-image="/images/f6f11f11758a.jpeg" data-image-dimensions="300x207" data-image-focal-point="0.5,0.5" alt="QEP Resources Bakken Three Forks Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/f6f11f11758a.jpeg" width="300" height="207" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f6f11f11758a.jpeg 100w, /images/f6f11f11758a.jpeg 300w, /images/f6f11f11758a.jpeg 500w, /images/f6f11f11758a.jpeg 750w, /images/f6f11f11758a.jpeg 1000w, /images/f6f11f11758a.jpeg 1500w, /images/f6f11f11758a.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="QEP Resources Bakken Three Forks Acreage Map" src="/images/f6f11f11758a.jpeg" width="300" height="207" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f6f11f11758a.jpeg 100w, /images/f6f11f11758a.jpeg 300w, /images/f6f11f11758a.jpeg 500w, /images/f6f11f11758a.jpeg 750w, /images/f6f11f11758a.jpeg 1000w, /images/f6f11f11758a.jpeg 1500w, /images/f6f11f11758a.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/f6f11f11758a.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The <a href="http://bakkenshale.com/drilling/">Bakken Shale drilling</a> rig count held flat at 188 rigs running over the past week. That's right in line with the average number of rigs that have been working throughout 2013.</p><p>The U.S. rig count is up six to 1,771 rigs running, of which a little more than 10% are running in the Williston Basin. A total of 353 rigs are targeting natural gas and 1,413 are targeting oil. The remainder are drilling service wells (e.g. disposal wells, injection wells, etc.).</p><p>The biggest news of the week was an operational update from QEP Resources. The company had a four wells each well produce almost 4,000 boe/d from a single pad. You can read more in the article <a href="http://bakkenshale.com/bsp-news/news/qep-resources-bakken-well-pad-surpasses-15000-barrels-per-day">QEP Resources Well Pad Eclipses 15,000 boe/d</a></p><h2>Bakken Oil &amp; Gas Rigs</h2><p>The natural gas rig count in the region held flat at 1 rig running. It's not a Bakken well and it's not a normal occurence in the region, so don't expect much more than zero in the future. Natural gas prices dropped further on the week and Henry Hub futures were trading near $3.75/mmbtu on Friday afternoon.</p><p>The number of oil rigs running held flat at 187 in the region. WTI futures increased again this week and were trading near $98/bbl on Friday. Williston Basin sweet crude traded at $84.44/bbl on June 13th.</p><blockquote><p>McKenzie County led development with 67 rigs running. Dunn, Mountrail, and Williams counties are the only other counties with more than 25 rigs running. View the full list below.</p></blockquote><h2>Bakken Oil &amp; Gas News:</h2><ul><li><a href="http://bakkenshale.com/bspblog/blog/bp-statistical-review-of-world-energy-trends-highlights">BP's Statistical Review of World Energy Trends</a></li><li><a href="http://bakkenshale.com/bsp-news/news/bakken-wells-completed-in-june-statoil-reporting-the-best-wells">Bakken Wells Completed In June - To Date</a></li><li><a href="http://bakkenshale.com/bsp-news/news/qep-resources-bakken-well-pad-surpasses-15000-barrels-per-day">QEP Resources Bakken Well Pad Production Surpasses 15,000 boe/d</a></li><li><a href="http://bakkenshale.com/bsp-news/news/bakken-oil-terminal-started-mothballed-ethanol-plant-oregon">Bakken Oil Terminal Started From Mothballed Ethanol Plant</a></li></ul><p>Be sure to visit our <a href="http://jobs.bakkenshale.com/">Bakken Job Listings</a> to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</p><h2>Bakken Drilling by County</h2>
+  <p>The <a href="/drilling/">Bakken Shale drilling</a> rig count held flat at 188 rigs running over the past week. That's right in line with the average number of rigs that have been working throughout 2013.</p><p>The U.S. rig count is up six to 1,771 rigs running, of which a little more than 10% are running in the Williston Basin. A total of 353 rigs are targeting natural gas and 1,413 are targeting oil. The remainder are drilling service wells (e.g. disposal wells, injection wells, etc.).</p><p>The biggest news of the week was an operational update from QEP Resources. The company had a four wells each well produce almost 4,000 boe/d from a single pad. You can read more in the article <a href="/bsp-news/news/qep-resources-bakken-well-pad-surpasses-15000-barrels-per-day">QEP Resources Well Pad Eclipses 15,000 boe/d</a></p><h2>Bakken Oil &amp; Gas Rigs</h2><p>The natural gas rig count in the region held flat at 1 rig running. It's not a Bakken well and it's not a normal occurence in the region, so don't expect much more than zero in the future. Natural gas prices dropped further on the week and Henry Hub futures were trading near $3.75/mmbtu on Friday afternoon.</p><p>The number of oil rigs running held flat at 187 in the region. WTI futures increased again this week and were trading near $98/bbl on Friday. Williston Basin sweet crude traded at $84.44/bbl on June 13th.</p><blockquote><p>McKenzie County led development with 67 rigs running. Dunn, Mountrail, and Williams counties are the only other counties with more than 25 rigs running. View the full list below.</p></blockquote><h2>Bakken Oil &amp; Gas News:</h2><ul><li><a href="/bspblog/blog/bp-statistical-review-of-world-energy-trends-highlights">BP's Statistical Review of World Energy Trends</a></li><li><a href="/bsp-news/news/bakken-wells-completed-in-june-statoil-reporting-the-best-wells">Bakken Wells Completed In June - To Date</a></li><li><a href="/bsp-news/news/qep-resources-bakken-well-pad-surpasses-15000-barrels-per-day">QEP Resources Bakken Well Pad Production Surpasses 15,000 boe/d</a></li><li><a href="/bsp-news/news/bakken-oil-terminal-started-mothballed-ethanol-plant-oregon">Bakken Oil Terminal Started From Mothballed Ethanol Plant</a></li></ul><p>Be sure to visit our <a href="http://jobs.bakkenshale.com/">Bakken Job Listings</a> to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</p><h2>Bakken Drilling by County</h2>
 </div>
 
 
@@ -201,7 +201,7 @@ heroImage: "/images/f6f11f11758a.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -210,7 +210,7 @@ heroImage: "/images/f6f11f11758a.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/bce03b060e08.png" data-image="/images/bce03b060e08.png" data-image-dimensions="741x372" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/bce03b060e08.png" width="741" height="372" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/bce03b060e08.png 100w, /images/bce03b060e08.png 300w, /images/bce03b060e08.png 500w, /images/bce03b060e08.png 750w, /images/bce03b060e08.png 1000w, /images/bce03b060e08.png 1500w, /images/bce03b060e08.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/bce03b060e08.png" width="741" height="372" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/bce03b060e08.png 100w, /images/bce03b060e08.png 300w, /images/bce03b060e08.png 500w, /images/bce03b060e08.png 750w, /images/bce03b060e08.png 1000w, /images/bce03b060e08.png 1500w, /images/bce03b060e08.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -272,9 +272,9 @@ heroImage: "/images/f6f11f11758a.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f41e26dc6951d90c43bbf/573f41e46dc6951d90c43bdb/1467848479566/" data-record-type="1" data-full-url="/drilling/drilling-rig-count/bakken-shale-rig-count-188-june-14-2013" data-title="Bakken Shale Rig Count 188 - June 14, 2013"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f41e46dc6951d90c43bdb" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

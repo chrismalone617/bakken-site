@@ -83,7 +83,7 @@ heroImage: "/images/04ccb10b5e3e.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/04ccb10b5e3e.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/04ccb10b5e3e.jpg" data-image="/images/04ccb10b5e3e.jpg" data-image-dimensions="300x250" data-image-focal-point="0.5,0.5" alt="Oil Export Bans" data-load="false" elementtiming="system-image-block" src="/images/04ccb10b5e3e.jpg" width="300" height="250" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/04ccb10b5e3e.jpg 100w, /images/04ccb10b5e3e.jpg 300w, /images/04ccb10b5e3e.jpg 500w, /images/04ccb10b5e3e.jpg 750w, /images/04ccb10b5e3e.jpg 1000w, /images/04ccb10b5e3e.jpg 1500w, /images/04ccb10b5e3e.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Oil Export Bans" src="/images/04ccb10b5e3e.jpg" width="300" height="250" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/04ccb10b5e3e.jpg 100w, /images/04ccb10b5e3e.jpg 300w, /images/04ccb10b5e3e.jpg 500w, /images/04ccb10b5e3e.jpg 750w, /images/04ccb10b5e3e.jpg 1000w, /images/04ccb10b5e3e.jpg 1500w, /images/04ccb10b5e3e.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/04ccb10b5e3e.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>U.S. crude production reached record levels in 2014 and the growing surplus has many questioning why a 40 year-old oil export ban is still on the books.</p><p>The export ban on all petroleum products was imposed during the 1970s as a way for the government to control prices during a time of scarcity.&nbsp;But times have changed and since 2008, U.S. crude oil output has increase by 81%. This record production is beginning to overtake the industry's ability to economically process these growing volumes and producers and analysts are raising their voices to advocate for a repeal on the anachronistic law.</p><p>Related:<a href="http://bakkenshale.com/bsp-news/news/oil-exporting-begins?rq=Continental%20Resources%20CEO%20Pushing%20for%20Lift%20of%20Export%20Ban">Continental Resources CEO Pushing for Lift of Export Ban</a></p>
+  <p>U.S. crude production reached record levels in 2014 and the growing surplus has many questioning why a 40 year-old oil export ban is still on the books.</p><p>The export ban on all petroleum products was imposed during the 1970s as a way for the government to control prices during a time of scarcity.&nbsp;But times have changed and since 2008, U.S. crude oil output has increase by 81%. This record production is beginning to overtake the industry's ability to economically process these growing volumes and producers and analysts are raising their voices to advocate for a repeal on the anachronistic law.</p><p>Related:<a href="/bsp-news/news/oil-exporting-begins?rq=Continental%20Resources%20CEO%20Pushing%20for%20Lift%20of%20Export%20Ban">Continental Resources CEO Pushing for Lift of Export Ban</a></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/04ccb10b5e3e.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Reporting to the Senate Committee on Energy and Natural Resources, IHS Vice President, Ambassador Carlos Pascual testified “The conditions that justified the crude oil export ban in 1973 no longer apply. More importantly, continuation of this ban hurts American consumers, causes an unnecessary drag on American productivity, and does not let the United States exploit fully the national security benefits from our energy resurgence.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/04ccb10b5e3e.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f441ada5d4222fbbca59a/1467221145387/" data-record-type="1" data-full-url="/bsp-news/news/oil-export-ban-may-hurt-economy" data-title="Oil Export Ban May Hurt Economy"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f441ada5d4222fbbca59a" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

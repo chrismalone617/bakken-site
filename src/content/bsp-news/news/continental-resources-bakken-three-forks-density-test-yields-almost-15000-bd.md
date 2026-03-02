@@ -83,7 +83,7 @@ heroImage: "/images/70b0d8a0f4ca.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/70b0d8a0f4ca.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/70b0d8a0f4ca.jpeg" data-image="/images/70b0d8a0f4ca.jpeg" data-image-dimensions="236x300" data-image-focal-point="0.5,0.5" alt="Continental Resources Hawkinson Bakken Three Forks Density Test" data-load="false" elementtiming="system-image-block" src="/images/70b0d8a0f4ca.jpeg" width="236" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/70b0d8a0f4ca.jpeg 100w, /images/70b0d8a0f4ca.jpeg 300w, /images/70b0d8a0f4ca.jpeg 500w, /images/70b0d8a0f4ca.jpeg 750w, /images/70b0d8a0f4ca.jpeg 1000w, /images/70b0d8a0f4ca.jpeg 1500w, /images/70b0d8a0f4ca.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Continental Resources Hawkinson Bakken Three Forks Density Test" src="/images/70b0d8a0f4ca.jpeg" width="236" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/70b0d8a0f4ca.jpeg 100w, /images/70b0d8a0f4ca.jpeg 300w, /images/70b0d8a0f4ca.jpeg 500w, /images/70b0d8a0f4ca.jpeg 750w, /images/70b0d8a0f4ca.jpeg 1000w, /images/70b0d8a0f4ca.jpeg 1500w, /images/70b0d8a0f4ca.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/70b0d8a0f4ca.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>....In addition, we completed our first density test in the Hawkinson spacing unit, demonstrating very strong initial production in the Middle Bakken and the first three benches of the Three Forks. Once again, Continental is pioneering the expansion and improved recoveries in the world-class Bakken oil play, demonstrating the productive potential of four to five stacked zones with multiple wells in each.<span>”</span>
   </blockquote>
   <figcaption>— Harold G. Hamm, Continental's CEO</figcaption>
@@ -254,9 +254,9 @@ heroImage: "/images/70b0d8a0f4ca.jpeg"
         
 
         
-          <a href="http://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f442dda5d4222fbbca889/1463764013846/?format=original">
+          <a href="/">
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -265,7 +265,7 @@ heroImage: "/images/70b0d8a0f4ca.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/401791e7a799.jpeg" data-image="/images/401791e7a799.jpeg" data-image-dimensions="183x300" data-image-focal-point="0.5,0.5" alt="Continental Resources Bakken - Antelope Area Map" data-load="false" elementtiming="system-image-block" src="/images/401791e7a799.jpeg" width="183" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/401791e7a799.jpeg 100w, /images/401791e7a799.jpeg 300w, /images/401791e7a799.jpeg 500w, /images/401791e7a799.jpeg 750w, /images/401791e7a799.jpeg 1000w, /images/401791e7a799.jpeg 1500w, /images/401791e7a799.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Continental Resources Bakken - Antelope Area Map" src="/images/401791e7a799.jpeg" width="183" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/401791e7a799.jpeg 100w, /images/401791e7a799.jpeg 300w, /images/401791e7a799.jpeg 500w, /images/401791e7a799.jpeg 750w, /images/401791e7a799.jpeg 1000w, /images/401791e7a799.jpeg 1500w, /images/401791e7a799.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -332,9 +332,9 @@ heroImage: "/images/70b0d8a0f4ca.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f0da5d4222fbbca35c/1467383865820/" data-record-type="1" data-full-url="/bsp-news/news/continental-resources-bakken-three-forks-density-test-yields-almost-15000-bd" data-title="Continental's Bakken &amp; Three Forks Density Test Yields Almost 15,000 boe/d"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f0da5d4222fbbca35c" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

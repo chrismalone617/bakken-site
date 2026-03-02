@@ -83,7 +83,7 @@ heroImage: "/images/0bb1bcd173a6.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/0bb1bcd173a6.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/0bb1bcd173a6.gif" data-image="/images/0bb1bcd173a6.gif" data-image-dimensions="300x170" data-image-focal-point="0.5,0.5" alt="South Dakota Frack Sand Mines" data-load="false" elementtiming="system-image-block" src="/images/0bb1bcd173a6.gif" width="300" height="170" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/0bb1bcd173a6.gif 100w, /images/0bb1bcd173a6.gif 300w, /images/0bb1bcd173a6.gif 500w, /images/0bb1bcd173a6.gif 750w, /images/0bb1bcd173a6.gif 1000w, /images/0bb1bcd173a6.gif 1500w, /images/0bb1bcd173a6.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="South Dakota Frack Sand Mines" src="/images/0bb1bcd173a6.gif" width="300" height="170" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/0bb1bcd173a6.gif 100w, /images/0bb1bcd173a6.gif 300w, /images/0bb1bcd173a6.gif 500w, /images/0bb1bcd173a6.gif 750w, /images/0bb1bcd173a6.gif 1000w, /images/0bb1bcd173a6.gif 1500w, /images/0bb1bcd173a6.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Cambrian Enterprises has registered mining claims near Deadwood, Rapid City, and
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d1da5d4222fbbca176/1467385111000/" data-record-type="1" data-full-url="/bsp-news/news/south-dakota-fracksand-coming-to-the-bakken" data-title="South Dakota Frack Sand Coming To The Bakken?"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d1da5d4222fbbca176" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

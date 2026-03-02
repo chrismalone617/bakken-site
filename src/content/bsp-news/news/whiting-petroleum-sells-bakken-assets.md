@@ -84,7 +84,7 @@ heroImage: "/images/4b5f05ca1df0.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -93,7 +93,7 @@ heroImage: "/images/4b5f05ca1df0.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/4b5f05ca1df0.png" data-image="/images/4b5f05ca1df0.png" data-image-dimensions="300x230" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/4b5f05ca1df0.png" width="300" height="230" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/4b5f05ca1df0.png 100w, /images/4b5f05ca1df0.png 300w, /images/4b5f05ca1df0.png 500w, /images/4b5f05ca1df0.png 750w, /images/4b5f05ca1df0.png 1000w, /images/4b5f05ca1df0.png 1500w, /images/4b5f05ca1df0.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/4b5f05ca1df0.png" width="300" height="230" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/4b5f05ca1df0.png 100w, /images/4b5f05ca1df0.png 300w, /images/4b5f05ca1df0.png 500w, /images/4b5f05ca1df0.png 750w, /images/4b5f05ca1df0.png 1000w, /images/4b5f05ca1df0.png 1500w, /images/4b5f05ca1df0.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -116,7 +116,7 @@ heroImage: "/images/4b5f05ca1df0.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Whiting Petroleum has announced its intention to sell its Bakken midstream assets to a subsidiary of Tesoro Logistics.</p><p><a href="https://bakkenshale.com/bsp-news/news/whiting-whiting-drops-bakken-rigs?rq=whiting">Related: Whiting Plans to Drop Bakken Rigs</a></p><p>The $375 million deal includes Whiting's 50% stake in the Robinson Lake natural gas–processing plant along with the associated natural gas–gathering system located in Mountrail County, North Dakota.</p>
+  <p>Whiting Petroleum has announced its intention to sell its Bakken midstream assets to a subsidiary of Tesoro Logistics.</p><p><a href="/bsp-news/news/whiting-whiting-drops-bakken-rigs?rq=whiting">Related: Whiting Plans to Drop Bakken Rigs</a></p><p>The $375 million deal includes Whiting's 50% stake in the Robinson Lake natural gas–processing plant along with the associated natural gas–gathering system located in Mountrail County, North Dakota.</p>
 </div>
 
 
@@ -163,7 +163,7 @@ heroImage: "/images/4b5f05ca1df0.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We expect this sale to further strengthen our balance sheet and provide us with additional financial flexibility to invest for growth in Whiting’s top tier producing assets in the Williston and DJ Basins. This sale aligns with our ongoing strategy to divest non-core midstream assets and focus capital in the company’s highly productive upstream business.<span>”</span>
   </blockquote>
   <figcaption>— James J. Volker: Chairman, President and CEO</figcaption>
@@ -212,9 +212,9 @@ heroImage: "/images/4b5f05ca1df0.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/583df3e3b8a79bc809bf96da/1480456255718/" data-record-type="1" data-full-url="/bsp-news/news/whiting-petroleum-sells-bakken-assets" data-title="Whiting Petroleum Sells Bakken Assets"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="583df3e3b8a79bc809bf96da" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

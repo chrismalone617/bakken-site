@@ -83,7 +83,7 @@ heroImage: "/images/be8f5f78234b.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/be8f5f78234b.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/be8f5f78234b.png" data-image="/images/be8f5f78234b.png" data-image-dimensions="300x230" data-image-focal-point="0.5,0.5" alt="EOG Releases 2015 Q1 Report" data-load="false" elementtiming="system-image-block" src="/images/be8f5f78234b.png" width="300" height="230" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/be8f5f78234b.png 100w, /images/be8f5f78234b.png 300w, /images/be8f5f78234b.png 500w, /images/be8f5f78234b.png 750w, /images/be8f5f78234b.png 1000w, /images/be8f5f78234b.png 1500w, /images/be8f5f78234b.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="EOG Releases 2015 Q1 Report" src="/images/be8f5f78234b.png" width="300" height="230" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/be8f5f78234b.png 100w, /images/be8f5f78234b.png 300w, /images/be8f5f78234b.png 500w, /images/be8f5f78234b.png 750w, /images/be8f5f78234b.png 1000w, /images/be8f5f78234b.png 1500w, /images/be8f5f78234b.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/be8f5f78234b.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Chairman and Chief Executive Officer Ryan Lance said that overall production by the company in 2016 will grow by one to three percent and added, “We’re setting an operating plan for 2016 that recognizes the current environment, which remains challenging. We are significantly reducing capital and operating costs, while maintaining our commitment to safety and asset integrity.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/be8f5f78234b.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4425da5d4222fbbca688/1467129370656/" data-record-type="1" data-full-url="/bsp-news/news/conocophillips-to-hold-steady-in-bakken" data-title="ConocoPhillips To Hold Steady in Bakken"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4425da5d4222fbbca688" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

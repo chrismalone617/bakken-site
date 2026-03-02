@@ -83,7 +83,7 @@ heroImage: "/images/484e8326e9ad.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/484e8326e9ad.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/484e8326e9ad.jpg" data-image="/images/484e8326e9ad.jpg" data-image-dimensions="300x200" data-image-focal-point="0.5,0.5" alt="Senator Heidi Heitkamp" data-load="false" elementtiming="system-image-block" src="/images/484e8326e9ad.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/484e8326e9ad.jpg 100w, /images/484e8326e9ad.jpg 300w, /images/484e8326e9ad.jpg 500w, /images/484e8326e9ad.jpg 750w, /images/484e8326e9ad.jpg 1000w, /images/484e8326e9ad.jpg 1500w, /images/484e8326e9ad.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Senator Heidi Heitkamp" src="/images/484e8326e9ad.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/484e8326e9ad.jpg 100w, /images/484e8326e9ad.jpg 300w, /images/484e8326e9ad.jpg 500w, /images/484e8326e9ad.jpg 750w, /images/484e8326e9ad.jpg 1000w, /images/484e8326e9ad.jpg 1500w, /images/484e8326e9ad.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/484e8326e9ad.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Heidi Heitkamp, U.S. Senator from North Dakota is urging lawmakers to repeal a 1970’s era ban on oil exports.</p><p>Related:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/oil-export-ban-may-hurt-economy?rq=Oil%20Export%20Ban%20May%20Hurt%20Economy">Oil Export Ban May Hurt Economy</a></p><p>Taking the Senate floor last month, Heitkamp said that the existing restrictions on U.S. oil producers are harming America’s competitiveness. Heitkamp hopes to level the playing field by doing away with restrictions that hinder America’s economic growth and that threaten our long-term goal of becoming energy independent.</p>
+  <p>Heidi Heitkamp, U.S. Senator from North Dakota is urging lawmakers to repeal a 1970’s era ban on oil exports.</p><p>Related:&nbsp;<a href="/bsp-news/news/oil-export-ban-may-hurt-economy?rq=Oil%20Export%20Ban%20May%20Hurt%20Economy">Oil Export Ban May Hurt Economy</a></p><p>Taking the Senate floor last month, Heitkamp said that the existing restrictions on U.S. oil producers are harming America’s competitiveness. Heitkamp hopes to level the playing field by doing away with restrictions that hinder America’s economic growth and that threaten our long-term goal of becoming energy independent.</p>
 </div>
 
 
@@ -192,7 +192,7 @@ heroImage: "/images/484e8326e9ad.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Athan Manual, the director of the Lands Protection Program at the Sierra Club, said his biggest concern is how increased oil consumption around the world will impact climate change. “We don’t think we should be exporting global warming, basically, to other countries,” he said. “We think all the countries in the world should do what the U.S. is doing and dramatically reduce their use of fossil fuels, especially oil, to fight climate change.<span>”</span>
   </blockquote>
   
@@ -241,9 +241,9 @@ heroImage: "/images/484e8326e9ad.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d2da5d4222fbbca184/1467381196911/" data-record-type="1" data-full-url="/bsp-news/news/heitkamp-urges-repeal-of-oil-export-ban" data-title="Heitkamp Urges Repeal of Oil Export Ban"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d2da5d4222fbbca184" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

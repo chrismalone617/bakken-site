@@ -83,7 +83,7 @@ heroImage: "/images/63190577d6c1.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/63190577d6c1.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/63190577d6c1.jpeg" data-image="/images/63190577d6c1.jpeg" data-image-dimensions="300x228" data-image-focal-point="0.5,0.5" alt="Hess Bakken Drilling By County" data-load="false" elementtiming="system-image-block" src="/images/63190577d6c1.jpeg" width="300" height="228" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/63190577d6c1.jpeg 100w, /images/63190577d6c1.jpeg 300w, /images/63190577d6c1.jpeg 500w, /images/63190577d6c1.jpeg 750w, /images/63190577d6c1.jpeg 1000w, /images/63190577d6c1.jpeg 1500w, /images/63190577d6c1.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Hess Bakken Drilling By County" src="/images/63190577d6c1.jpeg" width="300" height="228" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/63190577d6c1.jpeg 100w, /images/63190577d6c1.jpeg 300w, /images/63190577d6c1.jpeg 500w, /images/63190577d6c1.jpeg 750w, /images/63190577d6c1.jpeg 1000w, /images/63190577d6c1.jpeg 1500w, /images/63190577d6c1.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -200,9 +200,9 @@ Hess is spending less in 2013, but it might simply be spending it smarter. The c
         
 
         
-          <a href="http://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4427da5d4222fbbca739/1463764007822/?format=original">
+          <a href="/">
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -211,7 +211,7 @@ Hess is spending less in 2013, but it might simply be spending it smarter. The c
                 
                 
                 
-                <img data-stretch="false" data-src="/images/2161e47f592d.jpeg" data-image="/images/2161e47f592d.jpeg" data-image-dimensions="218x300" data-image-focal-point="0.5,0.5" alt="Hess Bakken Map" data-load="false" elementtiming="system-image-block" src="/images/2161e47f592d.jpeg" width="218" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/2161e47f592d.jpeg 100w, /images/2161e47f592d.jpeg 300w, /images/2161e47f592d.jpeg 500w, /images/2161e47f592d.jpeg 750w, /images/2161e47f592d.jpeg 1000w, /images/2161e47f592d.jpeg 1500w, /images/2161e47f592d.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Hess Bakken Map" src="/images/2161e47f592d.jpeg" width="218" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/2161e47f592d.jpeg 100w, /images/2161e47f592d.jpeg 300w, /images/2161e47f592d.jpeg 500w, /images/2161e47f592d.jpeg 750w, /images/2161e47f592d.jpeg 1000w, /images/2161e47f592d.jpeg 1500w, /images/2161e47f592d.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -278,9 +278,9 @@ Hess is spending less in 2013, but it might simply be spending it smarter. The c
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d8da5d4222fbbca1f0/1467384597883/" data-record-type="1" data-full-url="/bsp-news/news/hesss-bakken-drilling-days-well-costs-down" data-title="Hess's Bakken Drilling Days &amp; Well Costs Down"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d8da5d4222fbbca1f0" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

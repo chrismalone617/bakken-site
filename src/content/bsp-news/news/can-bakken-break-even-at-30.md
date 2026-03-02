@@ -83,7 +83,7 @@ heroImage: "/images/52dac3e9fbd8.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/52dac3e9fbd8.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/52dac3e9fbd8.jpg" data-image="/images/52dac3e9fbd8.jpg" data-image-dimensions="300x200" data-image-focal-point="0.5,0.5" alt="Crude Plunges to Six Year Low" data-load="false" elementtiming="system-image-block" src="/images/52dac3e9fbd8.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/52dac3e9fbd8.jpg 100w, /images/52dac3e9fbd8.jpg 300w, /images/52dac3e9fbd8.jpg 500w, /images/52dac3e9fbd8.jpg 750w, /images/52dac3e9fbd8.jpg 1000w, /images/52dac3e9fbd8.jpg 1500w, /images/52dac3e9fbd8.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Crude Plunges to Six Year Low" src="/images/52dac3e9fbd8.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/52dac3e9fbd8.jpg 100w, /images/52dac3e9fbd8.jpg 300w, /images/52dac3e9fbd8.jpg 500w, /images/52dac3e9fbd8.jpg 750w, /images/52dac3e9fbd8.jpg 1000w, /images/52dac3e9fbd8.jpg 1500w, /images/52dac3e9fbd8.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/52dac3e9fbd8.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Bloomberg Analyst, William Foile said, “A single break-even price doesn’t actually exist. Rather, what the model indicates is that at a realized oil price of $29.42, half of wells will generate returns exceeding 10%. This price is considerably lower than the $70 breakeven estimated by industry watchers at the start of the oil price slump.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/52dac3e9fbd8.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e2da5d4222fbbca286/1467381007121/" data-record-type="1" data-full-url="/bsp-news/news/can-bakken-break-even-at-30" data-title="Can Bakken Break Even at $30?"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e2da5d4222fbbca286" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

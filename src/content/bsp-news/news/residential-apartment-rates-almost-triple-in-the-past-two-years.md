@@ -83,7 +83,7 @@ heroImage: "/images/78cc13da747d.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/78cc13da747d.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/78cc13da747d.jpg" data-image="/images/78cc13da747d.jpg" data-image-dimensions="300x228" data-image-focal-point="0.5,0.5" alt="Apartments In Williston, ND" data-load="false" elementtiming="system-image-block" src="/images/78cc13da747d.jpg" width="300" height="228" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/78cc13da747d.jpg 100w, /images/78cc13da747d.jpg 300w, /images/78cc13da747d.jpg 500w, /images/78cc13da747d.jpg 750w, /images/78cc13da747d.jpg 1000w, /images/78cc13da747d.jpg 1500w, /images/78cc13da747d.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Apartments In Williston, ND" src="/images/78cc13da747d.jpg" width="300" height="228" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/78cc13da747d.jpg 100w, /images/78cc13da747d.jpg 300w, /images/78cc13da747d.jpg 500w, /images/78cc13da747d.jpg 750w, /images/78cc13da747d.jpg 1000w, /images/78cc13da747d.jpg 1500w, /images/78cc13da747d.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -159,9 +159,9 @@ heroImage: "/images/78cc13da747d.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43dbda5d4222fbbca220/1467384782420/" data-record-type="1" data-full-url="/bsp-news/news/residential-apartment-rates-almost-triple-in-the-past-two-years" data-title="Residential Apartment Rates Almost Triple In The Past Two Years"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43dbda5d4222fbbca220" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

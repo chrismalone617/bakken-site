@@ -82,7 +82,7 @@ description: "Energy Transfer Partners, L.P. has announced that the Dakota Acces
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -91,7 +91,7 @@ description: "Energy Transfer Partners, L.P. has announced that the Dakota Acces
                 
                 
                 
-                <img data-stretch="false" data-src="/images/50299967807f.jpg" data-image="/images/50299967807f.jpg" data-image-dimensions="800x744" data-image-focal-point="0.5,0.5" alt="Dakota Access Map" data-load="false" elementtiming="system-image-block" src="/images/50299967807f.jpg" width="800" height="744" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/50299967807f.jpg 100w, /images/50299967807f.jpg 300w, /images/50299967807f.jpg 500w, /images/50299967807f.jpg 750w, /images/50299967807f.jpg 1000w, /images/50299967807f.jpg 1500w, /images/50299967807f.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Dakota Access Map" src="/images/50299967807f.jpg" width="800" height="744" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/50299967807f.jpg 100w, /images/50299967807f.jpg 300w, /images/50299967807f.jpg 500w, /images/50299967807f.jpg 750w, /images/50299967807f.jpg 1000w, /images/50299967807f.jpg 1500w, /images/50299967807f.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -114,7 +114,7 @@ description: "Energy Transfer Partners, L.P. has announced that the Dakota Acces
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Energy Transfer Partners, L.P. has announced that the Dakota Access Pipeline is now pumping Bakken crude oil.</p><p>Related:&nbsp;<a href="https://bakkenshale.com/bsp-news/news/violence-erupts-at-pipeline-protest?rq=dakota%20access">Related: Violence Erupts at Pipeline Site</a></p><p>In a recent press release, the Dallas-based company said that the 1,200-mile line carrying Bakken oil to distribution points in Illinois began service on June 1st.</p><p>The highly controversial, 1,172 mile pipeline project cost an estimated $3.8 billion and will serve the North Dakota counties of Mountrail,&nbsp;Williams and McKenzie.</p><p>The Dakota Access Pipeline and the Energy Transfer Crude Oil Pipeline from Illinois to the Gulf Coast together make up the $4.8 billion Bakken Pipeline system.</p><h2>Dakota Access Quick Facts</h2><ul><li>Construction of the pipeline has created roughly 12,000 jobs</li><li>Spurred hundreds of millions of dollars investment in heavy equipment and thousands of construction jobs to the state.</li><li>Over $3.54 billion spent on construction</li><li>Will continue to invest hundreds of millions a month into the U.S. economy</li><li>Once in operation, it will transport 470 000 bpd&nbsp;</li><li>Has generated an estimated $156 million in sales and income taxes during construction, and $55 million in property taxes annually</li></ul>
+  <p>Energy Transfer Partners, L.P. has announced that the Dakota Access Pipeline is now pumping Bakken crude oil.</p><p>Related:&nbsp;<a href="/bsp-news/news/violence-erupts-at-pipeline-protest?rq=dakota%20access">Related: Violence Erupts at Pipeline Site</a></p><p>In a recent press release, the Dallas-based company said that the 1,200-mile line carrying Bakken oil to distribution points in Illinois began service on June 1st.</p><p>The highly controversial, 1,172 mile pipeline project cost an estimated $3.8 billion and will serve the North Dakota counties of Mountrail,&nbsp;Williams and McKenzie.</p><p>The Dakota Access Pipeline and the Energy Transfer Crude Oil Pipeline from Illinois to the Gulf Coast together make up the $4.8 billion Bakken Pipeline system.</p><h2>Dakota Access Quick Facts</h2><ul><li>Construction of the pipeline has created roughly 12,000 jobs</li><li>Spurred hundreds of millions of dollars investment in heavy equipment and thousands of construction jobs to the state.</li><li>Over $3.54 billion spent on construction</li><li>Will continue to invest hundreds of millions a month into the U.S. economy</li><li>Once in operation, it will transport 470 000 bpd&nbsp;</li><li>Has generated an estimated $156 million in sales and income taxes during construction, and $55 million in property taxes annually</li></ul>
 </div>
 
 
@@ -161,7 +161,7 @@ description: "Energy Transfer Partners, L.P. has announced that the Dakota Acces
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Transporting crude from North Dakota to multiple major U.S. markets in a more direct, cost-effective, safer and more environmentally responsible manner than either rail or truck.<span>”</span>
   </blockquote>
   <figcaption>— Energy Transfer Partners</figcaption>
@@ -215,9 +215,9 @@ description: "Energy Transfer Partners, L.P. has announced that the Dakota Acces
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/593973e117bffca5cc3ebb6c/1496938930787/" data-record-type="1" data-full-url="/bsp-news/bakken-oil-flowing-dakota-access-pipeline" data-title="Bakken Oil Now Flowing through Dakota Access Pipeline"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="593973e117bffca5cc3ebb6c" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

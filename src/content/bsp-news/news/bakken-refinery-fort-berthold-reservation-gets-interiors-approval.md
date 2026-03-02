@@ -83,7 +83,7 @@ heroImage: "/images/ba02b3c25278.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/ba02b3c25278.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ba02b3c25278.gif" data-image="/images/ba02b3c25278.gif" data-image-dimensions="300x202" data-image-focal-point="0.5,0.5" alt="Fort Berthold Indian Reservation Map" data-load="false" elementtiming="system-image-block" src="/images/ba02b3c25278.gif" width="300" height="202" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ba02b3c25278.gif 100w, /images/ba02b3c25278.gif 300w, /images/ba02b3c25278.gif 500w, /images/ba02b3c25278.gif 750w, /images/ba02b3c25278.gif 1000w, /images/ba02b3c25278.gif 1500w, /images/ba02b3c25278.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Fort Berthold Indian Reservation Map" src="/images/ba02b3c25278.gif" width="300" height="202" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ba02b3c25278.gif 100w, /images/ba02b3c25278.gif 300w, /images/ba02b3c25278.gif 500w, /images/ba02b3c25278.gif 750w, /images/ba02b3c25278.gif 1000w, /images/ba02b3c25278.gif 1500w, /images/ba02b3c25278.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ A proposed Bakken refinery on the Fort Berthold Indian Reservation has been appr
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c7da5d4222fbbca0f2/1467385658658/" data-record-type="1" data-full-url="/bsp-news/news/bakken-refinery-fort-berthold-reservation-gets-interiors-approval" data-title="Bakken Refinery on Fort Berthold Reservation Gets Interior's Approval"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c7da5d4222fbbca0f2" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/9d20f4b5507a.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/9d20f4b5507a.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/9d20f4b5507a.jpeg" data-image="/images/9d20f4b5507a.jpeg" data-image-dimensions="300x220" data-image-focal-point="0.5,0.5" alt="Newfield Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/9d20f4b5507a.jpeg" width="300" height="220" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/9d20f4b5507a.jpeg 100w, /images/9d20f4b5507a.jpeg 300w, /images/9d20f4b5507a.jpeg 500w, /images/9d20f4b5507a.jpeg 750w, /images/9d20f4b5507a.jpeg 1000w, /images/9d20f4b5507a.jpeg 1500w, /images/9d20f4b5507a.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Newfield Bakken Acreage Map" src="/images/9d20f4b5507a.jpeg" width="300" height="220" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/9d20f4b5507a.jpeg 100w, /images/9d20f4b5507a.jpeg 300w, /images/9d20f4b5507a.jpeg 500w, /images/9d20f4b5507a.jpeg 750w, /images/9d20f4b5507a.jpeg 1000w, /images/9d20f4b5507a.jpeg 1500w, /images/9d20f4b5507a.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/9d20f4b5507a.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Our production in the first quarter of 2013 exceeded our beginning of the year expectations and we are ‘on target’ to deliver on our expected 39% growth in domestic liquids volumes for the year (adjusted for asset sales in 2012),” said Lee K. Boothby, Newfield CEO. “We kicked off the year with better than expected first quarter volumes in our Cana Woodford, Williston and Uinta Basin operating regions and posted quarter-over-quarter production growth in our domestic operating regions.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/9d20f4b5507a.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d8da5d4222fbbca1f6/1467384920068/" data-record-type="1" data-full-url="/bsp-news/news/newfield-completes-record-bakken-wells" data-title="Newfield Completes Record Bakken Wells"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d8da5d4222fbbca1f6" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/d797dcba8af1.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d797dcba8af1.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d797dcba8af1.jpg" data-image="/images/d797dcba8af1.jpg" data-image-dimensions="300x200" data-image-focal-point="0.5,0.5" alt="Bakken Rig Count Remains Steady" data-load="false" elementtiming="system-image-block" src="/images/d797dcba8af1.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d797dcba8af1.jpg 100w, /images/d797dcba8af1.jpg 300w, /images/d797dcba8af1.jpg 500w, /images/d797dcba8af1.jpg 750w, /images/d797dcba8af1.jpg 1000w, /images/d797dcba8af1.jpg 1500w, /images/d797dcba8af1.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Rig Count Remains Steady" src="/images/d797dcba8af1.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d797dcba8af1.jpg 100w, /images/d797dcba8af1.jpg 300w, /images/d797dcba8af1.jpg 500w, /images/d797dcba8af1.jpg 750w, /images/d797dcba8af1.jpg 1000w, /images/d797dcba8af1.jpg 1500w, /images/d797dcba8af1.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/d797dcba8af1.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The <a href="http://bakkenshale.com/drilling/">Bakken-Three Forks rig count</a> declined by one to end the week at <strong>76</strong> rigs running across our coverage area.</p><p>In recent Bakken news, well completions in the area rose sharply last month, according to the North Dakota Department of Mineral Resources (DMR). The DMR reports a preliminary completion count for March was 189, up 350% from 42 the previous month.</p><p>Read more: <a href="http://bakkenshale.com/bsp-news/news/bakken-well-completions-spike?rq=Bakken%20Well%20Completions%20Spike">Bakken Well Completions Spike</a></p><p><em>The U.S. rig count fell by 10, ending with </em><strong><em>875</em></strong><em> rigs running by midday Friday. &nbsp;A total of 225 rigs were targeting natural gas (an increase of three from the previous week) and 646 were targeting oil in the U.S. (13than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><strong>77 </strong>rigs are running in the Williston Basin across MT, ND, and SD. <strong>77 </strong>are in ND alone.</p><h2><strong>Bakken Oil &amp; Gas Rigs</strong></h2><p>The Bakken oil rigs stayed at 76 rigs this week with Bloomberg reporting WTI oil prices trading at $60.21/bbl on Friday afternoon, a $.49 increase from the previous week. WTI-Brent increased $.02 landing at $65.39. The Bakken has zero natural active gas rig in the area this week with futures trading dipping to $2.65/mmbtu by midday.</p><p>McKenzie County continues to lead development this week at 33 running rigs. Williams (19) and Mountrail (13) counties are the next closest producers. View the full list below under the <em>Bakken Drilling by County</em> section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>76 rigs are drilling horizontal wells</li><li>0 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><p><a href="http://jobs.bakkenshale.com/">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</a></p><h2><strong>Bakken Drilling by County</strong></h2>
+  <p>The <a href="/drilling/">Bakken-Three Forks rig count</a> declined by one to end the week at <strong>76</strong> rigs running across our coverage area.</p><p>In recent Bakken news, well completions in the area rose sharply last month, according to the North Dakota Department of Mineral Resources (DMR). The DMR reports a preliminary completion count for March was 189, up 350% from 42 the previous month.</p><p>Read more: <a href="/bsp-news/news/bakken-well-completions-spike?rq=Bakken%20Well%20Completions%20Spike">Bakken Well Completions Spike</a></p><p><em>The U.S. rig count fell by 10, ending with </em><strong><em>875</em></strong><em> rigs running by midday Friday. &nbsp;A total of 225 rigs were targeting natural gas (an increase of three from the previous week) and 646 were targeting oil in the U.S. (13than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><strong>77 </strong>rigs are running in the Williston Basin across MT, ND, and SD. <strong>77 </strong>are in ND alone.</p><h2><strong>Bakken Oil &amp; Gas Rigs</strong></h2><p>The Bakken oil rigs stayed at 76 rigs this week with Bloomberg reporting WTI oil prices trading at $60.21/bbl on Friday afternoon, a $.49 increase from the previous week. WTI-Brent increased $.02 landing at $65.39. The Bakken has zero natural active gas rig in the area this week with futures trading dipping to $2.65/mmbtu by midday.</p><p>McKenzie County continues to lead development this week at 33 running rigs. Williams (19) and Mountrail (13) counties are the next closest producers. View the full list below under the <em>Bakken Drilling by County</em> section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>76 rigs are drilling horizontal wells</li><li>0 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><p><a href="http://jobs.bakkenshale.com/">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</a></p><h2><strong>Bakken Drilling by County</strong></h2>
 </div>
 
 
@@ -201,7 +201,7 @@ heroImage: "/images/d797dcba8af1.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -210,7 +210,7 @@ heroImage: "/images/d797dcba8af1.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/4024dbcb2c95.png" data-image="/images/4024dbcb2c95.png" data-image-dimensions="734x451" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/4024dbcb2c95.png" width="734" height="451" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/4024dbcb2c95.png 100w, /images/4024dbcb2c95.png 300w, /images/4024dbcb2c95.png 500w, /images/4024dbcb2c95.png 750w, /images/4024dbcb2c95.png 1000w, /images/4024dbcb2c95.png 1500w, /images/4024dbcb2c95.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/4024dbcb2c95.png" width="734" height="451" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/4024dbcb2c95.png 100w, /images/4024dbcb2c95.png 300w, /images/4024dbcb2c95.png 500w, /images/4024dbcb2c95.png 750w, /images/4024dbcb2c95.png 1000w, /images/4024dbcb2c95.png 1500w, /images/4024dbcb2c95.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -231,7 +231,7 @@ heroImage: "/images/d797dcba8af1.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>&nbsp;</p><h2><strong>Bakken Oil &amp; Gas News</strong></h2><p><a href="http://bakkenshale.com/bsp-news/news/whiting-announces-strong-first-quarter?rq=Whiting%20Announces%20Strong%20First%20Quarter">Whiting Announces Strong First Quarter</a></p><p><a href="http://bakkenshale.com/bsp-news/news/continental-resources-aggressively-cuts-costs?rq=Continental%20Resources%20Aggressively%20Cuts%20Costs">Continental Resources Aggressively Cuts Costs</a></p><h2><strong>What is the Rig Count?</strong></h2><p>The Bakken Shale Rig Count is an index of the total number of oil &amp; gas drilling rigs running across Montana and North Dakota. The rigs referred to in this article are for ALL drilling reported by Baker Hughes and not solely wells targeting the Bakken formation. All land rigs and onshore rig data shown here are based upon industry estimates provided by the Baker Hughes Rig Count.</p><p>Read more at <a target="_blank" href="http://phx.corporate-ir.net/phoenix.zhtml?c=79687&amp;p=irol-reportsother%20">bakerhughes.com</a></p>
+  <p>&nbsp;</p><h2><strong>Bakken Oil &amp; Gas News</strong></h2><p><a href="/bsp-news/news/whiting-announces-strong-first-quarter?rq=Whiting%20Announces%20Strong%20First%20Quarter">Whiting Announces Strong First Quarter</a></p><p><a href="/bsp-news/news/continental-resources-aggressively-cuts-costs?rq=Continental%20Resources%20Aggressively%20Cuts%20Costs">Continental Resources Aggressively Cuts Costs</a></p><h2><strong>What is the Rig Count?</strong></h2><p>The Bakken Shale Rig Count is an index of the total number of oil &amp; gas drilling rigs running across Montana and North Dakota. The rigs referred to in this article are for ALL drilling reported by Baker Hughes and not solely wells targeting the Bakken formation. All land rigs and onshore rig data shown here are based upon industry estimates provided by the Baker Hughes Rig Count.</p><p>Read more at <a target="_blank" href="http://phx.corporate-ir.net/phoenix.zhtml?c=79687&amp;p=irol-reportsother%20">bakerhughes.com</a></p>
 </div>
 
 
@@ -272,9 +272,9 @@ heroImage: "/images/d797dcba8af1.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f41e26dc6951d90c43bbf/573f41fd6dc6951d90c43d32/1467819896355/" data-record-type="1" data-full-url="/drilling/drilling-rig-count/bakken-rig-count-down-to-76" data-title="Bakken Rig Count Down to 76"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f41fd6dc6951d90c43d32" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

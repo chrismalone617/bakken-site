@@ -83,7 +83,7 @@ heroImage: "/images/b103619e398f.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/b103619e398f.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/b103619e398f.jpg" data-image="/images/b103619e398f.jpg" data-image-dimensions="300x199" data-image-focal-point="0.5,0.5" alt="North Dakota Oil Tax Reductions" data-load="false" elementtiming="system-image-block" src="/images/b103619e398f.jpg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b103619e398f.jpg 100w, /images/b103619e398f.jpg 300w, /images/b103619e398f.jpg 500w, /images/b103619e398f.jpg 750w, /images/b103619e398f.jpg 1000w, /images/b103619e398f.jpg 1500w, /images/b103619e398f.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="North Dakota Oil Tax Reductions" src="/images/b103619e398f.jpg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b103619e398f.jpg 100w, /images/b103619e398f.jpg 300w, /images/b103619e398f.jpg 500w, /images/b103619e398f.jpg 750w, /images/b103619e398f.jpg 1000w, /images/b103619e398f.jpg 1500w, /images/b103619e398f.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/b103619e398f.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The recent increase in crude prices is good news for North Dakota’s coffers, but bad news for Bakken oil and gas producers.</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/north-dakota-tax-trigger-getting-closer"><em>State Set to Lose Millions if Tax Incentives Take Effect</em></a></p><p>North Dakota's oil tax trigger was introduced by lawmakers to provide tax incentives to strained producers to ease the sting of prolonged lower crude prices. The trigger went into effect in February as WTI crude dipped below the $52.58 price point. The formula requires that crude stay below that price for five consecutive months, for the state to waive its 6.5% oil extraction tax.</p><p>The oil trigger was expected to take place June 1st, but rising crude prices mean it wont be implemented and producers will miss out on an estimated $480 million over the next six months. Since the nosedive last fall, crude prices inched up after the first of the year and make a sharp rebound in May, increasing almost 25% since April 1.</p>
+  <p>The recent increase in crude prices is good news for North Dakota’s coffers, but bad news for Bakken oil and gas producers.</p><p>Related: <a href="/bsp-news/news/north-dakota-tax-trigger-getting-closer"><em>State Set to Lose Millions if Tax Incentives Take Effect</em></a></p><p>North Dakota's oil tax trigger was introduced by lawmakers to provide tax incentives to strained producers to ease the sting of prolonged lower crude prices. The trigger went into effect in February as WTI crude dipped below the $52.58 price point. The formula requires that crude stay below that price for five consecutive months, for the state to waive its 6.5% oil extraction tax.</p><p>The oil trigger was expected to take place June 1st, but rising crude prices mean it wont be implemented and producers will miss out on an estimated $480 million over the next six months. Since the nosedive last fall, crude prices inched up after the first of the year and make a sharp rebound in May, increasing almost 25% since April 1.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/b103619e398f.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>State Tax Commissioner Ryan Rauschenberger confirmed this by saying “Given that oil has been trading mostly in the upper 50s, well above $55.09, we will not be triggering.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/b103619e398f.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4422da5d4222fbbca65e/1467381232222/" data-record-type="1" data-full-url="/bsp-news/news/rising-crude-derails-bakken-tax-trigger" data-title="Rising Crude Derails Bakken Tax Trigger"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4422da5d4222fbbca65e" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

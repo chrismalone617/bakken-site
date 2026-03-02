@@ -83,7 +83,7 @@ heroImage: "/images/96525aa68847.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/96525aa68847.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/96525aa68847.jpeg" data-image="/images/96525aa68847.jpeg" data-image-dimensions="300x199" data-image-focal-point="0.5,0.5" alt="Crude by Rail" data-load="false" elementtiming="system-image-block" src="/images/96525aa68847.jpeg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/96525aa68847.jpeg 100w, /images/96525aa68847.jpeg 300w, /images/96525aa68847.jpeg 500w, /images/96525aa68847.jpeg 750w, /images/96525aa68847.jpeg 1000w, /images/96525aa68847.jpeg 1500w, /images/96525aa68847.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Crude by Rail" src="/images/96525aa68847.jpeg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/96525aa68847.jpeg 100w, /images/96525aa68847.jpeg 300w, /images/96525aa68847.jpeg 500w, /images/96525aa68847.jpeg 750w, /images/96525aa68847.jpeg 1000w, /images/96525aa68847.jpeg 1500w, /images/96525aa68847.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/96525aa68847.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The DOT's Federal Railroad Administration issued an emergency order on Friday that establishes a maximum speed of 40 miles an hour for certain trains going through high threat urban areas.</p><p>Related:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/bakken-crude-by-rail-under-attack?rq=Bakken%20Crude%20by%20Rail%20Under%20Attack">Bakken Crude by <strong>Rail</strong> Under Attack</a></p><p>Citing “gaps in the existing regulatory scheme”, the agency beefed up the 2014 voluntary agreement by making this speed limit a requirement for trains hauling crude oil and other flammable liquids. The emergency order defines affected trains as:</p><ol><li>20 or more loaded tank cars in a continuous block or 35 loaded tank cars of class 3 flammable liquid</li><li>AND at least one DOT-111 tank car loaded with class 3 flammable liquid</li></ol>
+  <p>The DOT's Federal Railroad Administration issued an emergency order on Friday that establishes a maximum speed of 40 miles an hour for certain trains going through high threat urban areas.</p><p>Related:&nbsp;<a href="/bsp-news/news/bakken-crude-by-rail-under-attack?rq=Bakken%20Crude%20by%20Rail%20Under%20Attack">Bakken Crude by <strong>Rail</strong> Under Attack</a></p><p>Citing “gaps in the existing regulatory scheme”, the agency beefed up the 2014 voluntary agreement by making this speed limit a requirement for trains hauling crude oil and other flammable liquids. The emergency order defines affected trains as:</p><ol><li>20 or more loaded tank cars in a continuous block or 35 loaded tank cars of class 3 flammable liquid</li><li>AND at least one DOT-111 tank car loaded with class 3 flammable liquid</li></ol>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/96525aa68847.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The emergency order states that “Speed is a factor that may contribute to the severity of a derailment or the derailment itself. Speed can affect the probability of an accident. A lower speed may allow for a brake application to stop a train before a collision, or allow a locomotive engineer to identify a safety problem and stop the train before an accident or derailment occurs.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/96525aa68847.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f441dda5d4222fbbca5c3/1467381786812/" data-record-type="1" data-full-url="/bsp-news/news/dot-tells-oil-tankers-to-slow-down" data-title="DOT Tells Oil Tankers to Slow Down"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f441dda5d4222fbbca5c3" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

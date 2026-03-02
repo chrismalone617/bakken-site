@@ -82,7 +82,7 @@ description: "After three years, dozens of town hall meetings, thousands of publ
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -91,7 +91,7 @@ description: "After three years, dozens of town hall meetings, thousands of publ
                 
                 
                 
-                <img data-stretch="false" data-src="/images/6cbc6e8cb70c.jpg" data-image="/images/6cbc6e8cb70c.jpg" data-image-dimensions="640x426" data-image-focal-point="0.5,0.5" alt="Pipeline COntroversy" data-load="false" elementtiming="system-image-block" src="/images/6cbc6e8cb70c.jpg" width="640" height="426" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/6cbc6e8cb70c.jpg 100w, /images/6cbc6e8cb70c.jpg 300w, /images/6cbc6e8cb70c.jpg 500w, /images/6cbc6e8cb70c.jpg 750w, /images/6cbc6e8cb70c.jpg 1000w, /images/6cbc6e8cb70c.jpg 1500w, /images/6cbc6e8cb70c.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Pipeline COntroversy" src="/images/6cbc6e8cb70c.jpg" width="640" height="426" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/6cbc6e8cb70c.jpg 100w, /images/6cbc6e8cb70c.jpg 300w, /images/6cbc6e8cb70c.jpg 500w, /images/6cbc6e8cb70c.jpg 750w, /images/6cbc6e8cb70c.jpg 1000w, /images/6cbc6e8cb70c.jpg 1500w, /images/6cbc6e8cb70c.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -114,7 +114,7 @@ description: "After three years, dozens of town hall meetings, thousands of publ
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>After three years, dozens of town hall meetings, thousands of public comments and numerous violent protests, the Dakota Access Pipeline (DAPL) is scheduled to begin operations on June 1st.</p><p>Energy Transfer Partners <a href="http://two%20new%20bakken%20crude%20oil%20pipelines%20online%20by%202016/">announced plans</a>&nbsp;to build the pipeline project back in 2014. Originally expected to be completed by the end of 2016, completion was delayed when major protests and legal wranglings disrupted the construction schedule. &nbsp;</p><p><a href="https://bakkenshale.com/bsp-news/news/violence-erupts-at-pipeline-protest?rq=dakota%20access">Related: Violence Erupts at Pipeline Site</a></p><p>The $3.8 billion project includes a 1,172-mile underground pipeline that extends from the Bakken/Three Forks production area in North Dakota to Patoka, Illinois.&nbsp;The DAPL will transport 470 000 bpdof light crude oil from North Dakota across the region.</p><p>With production in the region expected to rise, some analysts predict that the DALP will reach 75 percent of capacity by year-end 2017. ESAI Energy is one source predicting that Bakken will continue to experience production growth through next year.&nbsp;</p>
+  <p>After three years, dozens of town hall meetings, thousands of public comments and numerous violent protests, the Dakota Access Pipeline (DAPL) is scheduled to begin operations on June 1st.</p><p>Energy Transfer Partners <a href="http://two%20new%20bakken%20crude%20oil%20pipelines%20online%20by%202016/">announced plans</a>&nbsp;to build the pipeline project back in 2014. Originally expected to be completed by the end of 2016, completion was delayed when major protests and legal wranglings disrupted the construction schedule. &nbsp;</p><p><a href="/bsp-news/news/violence-erupts-at-pipeline-protest?rq=dakota%20access">Related: Violence Erupts at Pipeline Site</a></p><p>The $3.8 billion project includes a 1,172-mile underground pipeline that extends from the Bakken/Three Forks production area in North Dakota to Patoka, Illinois.&nbsp;The DAPL will transport 470 000 bpdof light crude oil from North Dakota across the region.</p><p>With production in the region expected to rise, some analysts predict that the DALP will reach 75 percent of capacity by year-end 2017. ESAI Energy is one source predicting that Bakken will continue to experience production growth through next year.&nbsp;</p>
 </div>
 
 
@@ -161,7 +161,7 @@ description: "After three years, dozens of town hall meetings, thousands of publ
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Until oil prices get closer to $60 producers will continue to target the Bakken core where well performance is very high. We also expect a further drawdown in the DUC inventory for the remainder of 2017 since most DUCs provide adequate rates of return at prices around $50 per barrel.<span>”</span>
   </blockquote>
   <figcaption>—  Elisabeth Murphy, analyst at ESAI Energy</figcaption>
@@ -215,9 +215,9 @@ description: "After three years, dozens of town hall meetings, thousands of publ
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/5928c759e58c62d37df1958a/1495846204829/" data-record-type="1" data-full-url="/bsp-news/dakota-access-pipeline-begins-operations" data-title="Dakota Access Pipeline to Begin Operations"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="5928c759e58c62d37df1958a" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/f6395eb25668.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/f6395eb25668.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f6395eb25668.png" data-image="/images/f6395eb25668.png" data-image-dimensions="300x259" data-image-focal-point="0.5,0.5" alt="More Oilfield Layoffs" data-load="false" elementtiming="system-image-block" src="/images/f6395eb25668.png" width="300" height="259" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f6395eb25668.png 100w, /images/f6395eb25668.png 300w, /images/f6395eb25668.png 500w, /images/f6395eb25668.png 750w, /images/f6395eb25668.png 1000w, /images/f6395eb25668.png 1500w, /images/f6395eb25668.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="More Oilfield Layoffs" src="/images/f6395eb25668.png" width="300" height="259" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f6395eb25668.png 100w, /images/f6395eb25668.png 300w, /images/f6395eb25668.png 500w, /images/f6395eb25668.png 750w, /images/f6395eb25668.png 1000w, /images/f6395eb25668.png 1500w, /images/f6395eb25668.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/f6395eb25668.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Eric Brooks, OSHA’s area director in Bismarck told the Wall Street Journal, “These are the kinds of incidents that we haven’t seen in a while. With the drop in oil prices, companies may be looking to protect the profit margin by hiring contractors that are not experienced.<span>”</span>
   </blockquote>
   
@@ -220,7 +220,7 @@ heroImage: "/images/f6395eb25668.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>These industries are inherently dangerous, and workers are exposed to multiple hazards every day. Their safety must not be compromised because demand for production keeps increasing,” said Eric Brooks. “Workers are coming to these growing industries to find jobs, not catastrophic injury and preventable death. These employers have a legal responsibility to protect every employee that works for them.<span>”</span>
   </blockquote>
   
@@ -242,9 +242,9 @@ heroImage: "/images/f6395eb25668.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4419da5d4222fbbca591/1467381957779/" data-record-type="1" data-full-url="/bsp-news/news/bakken-oil-field-deaths-on-the-rise" data-title="Bakken Oil Field Deaths on the Rise"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4419da5d4222fbbca591" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

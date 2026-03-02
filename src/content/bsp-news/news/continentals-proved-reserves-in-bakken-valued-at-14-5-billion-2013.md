@@ -83,7 +83,7 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/abc8fbcc0e81.jpeg" data-image="/images/abc8fbcc0e81.jpeg" data-image-dimensions="300x253" data-image-focal-point="0.5,0.5" alt="Continental 2014 Production" data-load="false" elementtiming="system-image-block" src="/images/abc8fbcc0e81.jpeg" width="300" height="253" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/abc8fbcc0e81.jpeg 100w, /images/abc8fbcc0e81.jpeg 300w, /images/abc8fbcc0e81.jpeg 500w, /images/abc8fbcc0e81.jpeg 750w, /images/abc8fbcc0e81.jpeg 1000w, /images/abc8fbcc0e81.jpeg 1500w, /images/abc8fbcc0e81.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Continental 2014 Production" src="/images/abc8fbcc0e81.jpeg" width="300" height="253" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/abc8fbcc0e81.jpeg 100w, /images/abc8fbcc0e81.jpeg 300w, /images/abc8fbcc0e81.jpeg 500w, /images/abc8fbcc0e81.jpeg 750w, /images/abc8fbcc0e81.jpeg 1000w, /images/abc8fbcc0e81.jpeg 1500w, /images/abc8fbcc0e81.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Continental's proved reserves stretched to more than 1 Billion boe in 2013, with an estimated value of more than $20 billion. The Bakken accounted for 72% of the volume and it's estimated value.</p><p>Continental's Bakken and Three Forks position contributed 741 million boe to the company's proved reserves at an estimated value of $14.5 billion.</p><p>Within the proved reserve estimates, Continental had 2,330 gross &nbsp;(1,302 net) PUD (proved undeveloped) drilling locations at the end of 2013. According to the company, the Bakken accounted for about 84% or almost 1,100 PUD locations.</p><p><strong>Read more</strong>:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/continental-resources-bakken-three-forks-density-test-yields-almost-15000-bd">Continental's Bakken &amp; Three Forks Density Test Yields Almost 15,000 boe/d</a></p><h2>Continental Resources Company-Wide Production</h2><p>Continental Resources had total production of 49.6 million boe or~136,000 boe/d in 2013. That's up 39% from a little less than 100,000 boe/d 2012. 71% of the 2014 total came from crude oil at 35 mmbbls and 29% came from natural gas at 87.7 bcf.</p><p>Average production during the fourth-quarter of 2013 was 144,250 boe/d. That's up ~2% from the third-quarter of 2013.</p>
+  <p>Continental's proved reserves stretched to more than 1 Billion boe in 2013, with an estimated value of more than $20 billion. The Bakken accounted for 72% of the volume and it's estimated value.</p><p>Continental's Bakken and Three Forks position contributed 741 million boe to the company's proved reserves at an estimated value of $14.5 billion.</p><p>Within the proved reserve estimates, Continental had 2,330 gross &nbsp;(1,302 net) PUD (proved undeveloped) drilling locations at the end of 2013. According to the company, the Bakken accounted for about 84% or almost 1,100 PUD locations.</p><p><strong>Read more</strong>:&nbsp;<a href="/bsp-news/news/continental-resources-bakken-three-forks-density-test-yields-almost-15000-bd">Continental's Bakken &amp; Three Forks Density Test Yields Almost 15,000 boe/d</a></p><h2>Continental Resources Company-Wide Production</h2><p>Continental Resources had total production of 49.6 million boe or~136,000 boe/d in 2013. That's up 39% from a little less than 100,000 boe/d 2012. 71% of the 2014 total came from crude oil at 35 mmbbls and 29% came from natural gas at 87.7 bcf.</p><p>Average production during the fourth-quarter of 2013 was 144,250 boe/d. That's up ~2% from the third-quarter of 2013.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Harold Hamm, CEO, said, “We accomplished our key 2013 goals across the board – to generate top-tier organic oil production growth; to improve efficiency while reducing drilling and completion costs; and to delineate the lower benches of the Bakken and southern portions of the South Central Oklahoma Oil Province, or SCOOP.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43fdda5d4222fbbca405/1467383416635/" data-record-type="1" data-full-url="/bsp-news/news/continentals-proved-reserves-in-bakken-valued-at-14-5-billion-2013" data-title="Continental's Proved Reserves in Bakken Valued at $14.5 Billion - 2013"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43fdda5d4222fbbca405" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

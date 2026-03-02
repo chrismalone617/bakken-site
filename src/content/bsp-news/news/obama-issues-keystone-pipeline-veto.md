@@ -83,7 +83,7 @@ heroImage: "/images/c042799d3d82.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/c042799d3d82.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/c042799d3d82.jpg" data-image="/images/c042799d3d82.jpg" data-image-dimensions="320x314" data-image-focal-point="0.5,0.5" alt="Keystone Pipeline Veto" data-load="false" elementtiming="system-image-block" src="/images/c042799d3d82.jpg" width="320" height="314" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c042799d3d82.jpg 100w, /images/c042799d3d82.jpg 300w, /images/c042799d3d82.jpg 500w, /images/c042799d3d82.jpg 750w, /images/c042799d3d82.jpg 1000w, /images/c042799d3d82.jpg 1500w, /images/c042799d3d82.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Keystone Pipeline Veto" src="/images/c042799d3d82.jpg" width="320" height="314" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c042799d3d82.jpg 100w, /images/c042799d3d82.jpg 300w, /images/c042799d3d82.jpg 500w, /images/c042799d3d82.jpg 750w, /images/c042799d3d82.jpg 1000w, /images/c042799d3d82.jpg 1500w, /images/c042799d3d82.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/c042799d3d82.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The White House issued a press release this week to announce that President Obama has carried out his promise to veto the Keystone XL Pipeline Approval Act. This action allows a final decision to be put on hold until further environmental reviews are complete.</p><p><strong>The Keystone pipeline veto</strong> is the latest round in a highly political debate that has been raging since 2008, when the TransCanada Corporation first applied for a permit to construct the pipeline. At issue is a proposed 1,179-mile section of the pipeline that would run through the heart of the Bakken Formation in order to deliver 800,000 barrels of petroleum to the refineries on the Gulf Coast.</p><p><em>Related: </em><a href="http://bakkenshale.com/bsp-news/news/keystone-showdown-likely-new-year?rq=keystone-showdown-likely-new-year"><em>Keystone</em><em> Showdown Likely for New Year | Bakken</em></a></p><p><em>Related: </em><a href="http://bakkenshale.com/bsp-news/news/no-need-for-keystone-xl-continentals-ceo-harold-hamm?rq=No%20Need%20For%20Keystone%20XL%20-%20Continental's%20CEO%20Harold%20Hamm"><em>No Need For </em><em>Keystone</em><em> XL - Continental's CEO Harold Hamm</em></a></p><p>Since the first of the year, President Obama has hinted at his intentions to veto anything the Republican majority might try to push through. Instead he has urged lawmakers to “pass a bipartisan infrastructure plan that could create more than 30 times as many jobs per year, and make this country stronger for decades to come.” <em><a target="_blank" href="https://www.whitehouse.gov/the-press-office/2015/01/20/remarks-president-state-union-address-january-20-2015">Read more here.</a></em></p>
+  <p>The White House issued a press release this week to announce that President Obama has carried out his promise to veto the Keystone XL Pipeline Approval Act. This action allows a final decision to be put on hold until further environmental reviews are complete.</p><p><strong>The Keystone pipeline veto</strong> is the latest round in a highly political debate that has been raging since 2008, when the TransCanada Corporation first applied for a permit to construct the pipeline. At issue is a proposed 1,179-mile section of the pipeline that would run through the heart of the Bakken Formation in order to deliver 800,000 barrels of petroleum to the refineries on the Gulf Coast.</p><p><em>Related: </em><a href="/bsp-news/news/keystone-showdown-likely-new-year?rq=keystone-showdown-likely-new-year"><em>Keystone</em><em> Showdown Likely for New Year | Bakken</em></a></p><p><em>Related: </em><a href="/bsp-news/news/no-need-for-keystone-xl-continentals-ceo-harold-hamm?rq=No%20Need%20For%20Keystone%20XL%20-%20Continental's%20CEO%20Harold%20Hamm"><em>No Need For </em><em>Keystone</em><em> XL - Continental's CEO Harold Hamm</em></a></p><p>Since the first of the year, President Obama has hinted at his intentions to veto anything the Republican majority might try to push through. Instead he has urged lawmakers to “pass a bipartisan infrastructure plan that could create more than 30 times as many jobs per year, and make this country stronger for decades to come.” <em><a target="_blank" href="https://www.whitehouse.gov/the-press-office/2015/01/20/remarks-president-state-union-address-january-20-2015">Read more here.</a></em></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/c042799d3d82.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>In the official news release, President Obama stated “The Presidential power to veto legislation is one I take seriously. But I also take seriously my responsibility to the American people. And because this act of Congress conflicts with established executive branch procedures and cuts short thorough consideration of issues that could bear on our national interest — including our security, safety, and environment — it has earned my veto.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/c042799d3d82.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4416da5d4222fbbca567/1467382185670/" data-record-type="1" data-full-url="/bsp-news/news/obama-issues-keystone-pipeline-veto" data-title="Obama Issues Keystone Pipeline Veto"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4416da5d4222fbbca567" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

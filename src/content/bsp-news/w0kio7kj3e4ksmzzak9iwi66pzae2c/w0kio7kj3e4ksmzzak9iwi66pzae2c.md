@@ -25,7 +25,7 @@ description: "Optimism was the order of the day at the Williston Basin Petroleum
     <div><div data-layout-label="Post Body" data-type="item" data-updated-on="1464310345090"><div><div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Optimism was the order of the day at the Williston Basin Petroleum Conference and Expo held Wednesday in Bismark.</p><p>Related:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/bakken-production-down-4-6-over-2014">Bakken Production Down 4.6% Over 2014</a></p><p>The downturn caused by depressed oil prices has had a huge effect on North Dakota. But despite rig counts in the twenties and crude prices still fluctuating,&nbsp;officials continue to believe that good things are ahead for the region. Even though the state has seen a revenue shortfall, Governor Jack Dalrymple says the state's economy remains strong thanks to the work and investment of the energy industry.&nbsp;</p>
+  <p>Optimism was the order of the day at the Williston Basin Petroleum Conference and Expo held Wednesday in Bismark.</p><p>Related:&nbsp;<a href="/bsp-news/news/bakken-production-down-4-6-over-2014">Bakken Production Down 4.6% Over 2014</a></p><p>The downturn caused by depressed oil prices has had a huge effect on North Dakota. But despite rig counts in the twenties and crude prices still fluctuating,&nbsp;officials continue to believe that good things are ahead for the region. Even though the state has seen a revenue shortfall, Governor Jack Dalrymple says the state's economy remains strong thanks to the work and investment of the energy industry.&nbsp;</p>
 </div>
 
 
@@ -72,7 +72,7 @@ description: "Optimism was the order of the day at the Williston Basin Petroleum
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>From our perspective, we think that this industry in North Dakota is as solid as solid can be,” Governor Dalrymple said. “We couldn’t be more optimistic of what is ahead of us (...) and we see recovery on the horizon.<span>”</span>
   </blockquote>
   
@@ -121,9 +121,9 @@ description: "Optimism was the order of the day at the Williston Basin Petroleum
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/574798cbe707eb5ceafc6498/1466557431308/" data-record-type="1" data-full-url="/bsp-news/w0kio7kj3e4ksmzzak9iwi66pzae2c" data-title="North Dakota Officials Optimistic"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="574798cbe707eb5ceafc6498" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

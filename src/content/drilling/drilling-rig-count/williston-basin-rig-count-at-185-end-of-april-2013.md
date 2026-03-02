@@ -83,7 +83,7 @@ heroImage: "/images/92cd60ab4b45.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/92cd60ab4b45.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/92cd60ab4b45.jpeg" data-image="/images/92cd60ab4b45.jpeg" data-image-dimensions="247x300" data-image-focal-point="0.5,0.5" alt="Williston Basin Rig Map" data-load="false" elementtiming="system-image-block" src="/images/92cd60ab4b45.jpeg" width="247" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/92cd60ab4b45.jpeg 100w, /images/92cd60ab4b45.jpeg 300w, /images/92cd60ab4b45.jpeg 500w, /images/92cd60ab4b45.jpeg 750w, /images/92cd60ab4b45.jpeg 1000w, /images/92cd60ab4b45.jpeg 1500w, /images/92cd60ab4b45.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Williston Basin Rig Map" src="/images/92cd60ab4b45.jpeg" width="247" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/92cd60ab4b45.jpeg 100w, /images/92cd60ab4b45.jpeg 300w, /images/92cd60ab4b45.jpeg 500w, /images/92cd60ab4b45.jpeg 750w, /images/92cd60ab4b45.jpeg 1000w, /images/92cd60ab4b45.jpeg 1500w, /images/92cd60ab4b45.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ The Williston Basin rig count settled at 185 rigs running to end April. That's a
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f41e26dc6951d90c43bbf/573f41e36dc6951d90c43bd5/1467848688414/" data-record-type="1" data-full-url="/drilling/drilling-rig-count/williston-basin-rig-count-at-185-end-of-april-2013" data-title="Williston Basin Rig Count at 185 - End of April 2013"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f41e36dc6951d90c43bd5" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

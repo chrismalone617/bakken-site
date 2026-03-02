@@ -83,7 +83,7 @@ heroImage: "/images/8acf2788451b.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/8acf2788451b.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/8acf2788451b.jpeg" data-image="/images/8acf2788451b.jpeg" data-image-dimensions="285x300" data-image-focal-point="0.5,0.5" alt="Whiting Petroleum Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/8acf2788451b.jpeg" width="285" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8acf2788451b.jpeg 100w, /images/8acf2788451b.jpeg 300w, /images/8acf2788451b.jpeg 500w, /images/8acf2788451b.jpeg 750w, /images/8acf2788451b.jpeg 1000w, /images/8acf2788451b.jpeg 1500w, /images/8acf2788451b.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Whiting Petroleum Bakken Acreage Map" src="/images/8acf2788451b.jpeg" width="285" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8acf2788451b.jpeg 100w, /images/8acf2788451b.jpeg 300w, /images/8acf2788451b.jpeg 500w, /images/8acf2788451b.jpeg 750w, /images/8acf2788451b.jpeg 1000w, /images/8acf2788451b.jpeg 1500w, /images/8acf2788451b.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/8acf2788451b.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Whiting’s CEO James Volker said, ““Our North Dakota, Colorado and Texas teams overcame one of the most severe winters on record so that we met all of our guidance numbers in the first quarter. We [] achieved our best well result to date at our Cassandra field with the completion of the Kaldahl 11-3H flowing 1,930 BOE/d on April 1, 2014 using a cemented liner.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/8acf2788451b.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4403da5d4222fbbca453/1467383127581/" data-record-type="1" data-full-url="/bsp-news/news/whiting-petroleum-has-record-bakken-production-in-first-quarter" data-title="Whiting Petroleum Has Record Bakken Production in First Quarter"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4403da5d4222fbbca453" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

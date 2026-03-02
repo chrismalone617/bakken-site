@@ -83,7 +83,7 @@ heroImage: "/images/d555b537a73c.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d555b537a73c.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d555b537a73c.gif" data-image="/images/d555b537a73c.gif" data-image-dimensions="284x300" data-image-focal-point="0.5,0.5" alt="Williston ND to Sioux Falls SD map" data-load="false" elementtiming="system-image-block" src="/images/d555b537a73c.gif" width="284" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d555b537a73c.gif 100w, /images/d555b537a73c.gif 300w, /images/d555b537a73c.gif 500w, /images/d555b537a73c.gif 750w, /images/d555b537a73c.gif 1000w, /images/d555b537a73c.gif 1500w, /images/d555b537a73c.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Williston ND to Sioux Falls SD map" src="/images/d555b537a73c.gif" width="284" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d555b537a73c.gif 100w, /images/d555b537a73c.gif 300w, /images/d555b537a73c.gif 500w, /images/d555b537a73c.gif 750w, /images/d555b537a73c.gif 1000w, /images/d555b537a73c.gif 1500w, /images/d555b537a73c.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -159,9 +159,9 @@ heroImage: "/images/d555b537a73c.gif"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c6da5d4222fbbca0e6/1467385702797/" data-record-type="1" data-full-url="/bsp-news/news/bakken-opportunities-abound-sioux-falls-seminar" data-title="Bakken Opportunities Abound - Sioux Falls Seminar"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c6da5d4222fbbca0e6" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

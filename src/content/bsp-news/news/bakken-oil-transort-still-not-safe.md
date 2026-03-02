@@ -83,7 +83,7 @@ heroImage: "/images/5659a8eb5866.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/5659a8eb5866.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/5659a8eb5866.jpg" data-image="/images/5659a8eb5866.jpg" data-image-dimensions="300x225" data-image-focal-point="0.5,0.5" alt="Lac-Mégantic rail disaster" data-load="false" elementtiming="system-image-block" src="/images/5659a8eb5866.jpg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/5659a8eb5866.jpg 100w, /images/5659a8eb5866.jpg 300w, /images/5659a8eb5866.jpg 500w, /images/5659a8eb5866.jpg 750w, /images/5659a8eb5866.jpg 1000w, /images/5659a8eb5866.jpg 1500w, /images/5659a8eb5866.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Lac-Mégantic rail disaster" src="/images/5659a8eb5866.jpg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/5659a8eb5866.jpg 100w, /images/5659a8eb5866.jpg 300w, /images/5659a8eb5866.jpg 500w, /images/5659a8eb5866.jpg 750w, /images/5659a8eb5866.jpg 1000w, /images/5659a8eb5866.jpg 1500w, /images/5659a8eb5866.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/5659a8eb5866.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>When the <a href="http://bakkenshale.com/bsp-news/news/new-regulations-bakken-transportation?rq=new-regulations-bakken-transportation">North Dakota Industrial Commission issued its landmark ruling last week</a> concerning the conditioning of oil, it appeared that they were making a serious move towards improving the safety of transporting crude out of the Bakken. But according to an article in the StarTribune, the new regulations, which go into effect April 2, 2015, won’t bring the industry any closer to a solution for a serious problem that is drawing fire from legislators, concerned citizens and environmental groups.</p><p>Alan Stankevitz, an expert on the DOT 111 tanker car, explains in the StarTribune that the standards set by the commission, which includes Gov. Jack Dalrymple, are not enough to adequately address the problem. The order establishes new regulations that demand facilities to maintain an operating pressure at less than 13.7 psi. This is a much larger number than the volatility point for Bakken crude, which is between 11.5 and 11.8 psi.</p>
+  <p>When the <a href="/bsp-news/news/new-regulations-bakken-transportation?rq=new-regulations-bakken-transportation">North Dakota Industrial Commission issued its landmark ruling last week</a> concerning the conditioning of oil, it appeared that they were making a serious move towards improving the safety of transporting crude out of the Bakken. But according to an article in the StarTribune, the new regulations, which go into effect April 2, 2015, won’t bring the industry any closer to a solution for a serious problem that is drawing fire from legislators, concerned citizens and environmental groups.</p><p>Alan Stankevitz, an expert on the DOT 111 tanker car, explains in the StarTribune that the standards set by the commission, which includes Gov. Jack Dalrymple, are not enough to adequately address the problem. The order establishes new regulations that demand facilities to maintain an operating pressure at less than 13.7 psi. This is a much larger number than the volatility point for Bakken crude, which is between 11.5 and 11.8 psi.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/5659a8eb5866.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Stankevitz writes, “The bottom line is that the limit has been set so high by North Dakota that the mandate is toothless. The same volatile oil that caused the massive explosions in Casselton, N.D., and Lac-Mégantic would still have been allowed to ride the rails, according to this new mandate.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/5659a8eb5866.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4411da5d4222fbbca51e/1467382479496/" data-record-type="1" data-full-url="/bsp-news/news/bakken-oil-transort-still-not-safe" data-title="Bakken Oil Transport Still Not Safe"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4411da5d4222fbbca51e" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

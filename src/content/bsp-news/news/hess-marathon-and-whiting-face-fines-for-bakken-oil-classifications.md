@@ -83,7 +83,7 @@ heroImage: "/images/e12dac3990e9.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/e12dac3990e9.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/e12dac3990e9.gif" data-image="/images/e12dac3990e9.gif" data-image-dimensions="300x225" data-image-focal-point="0.5,0.5" alt="Oil Rail Car Image" data-load="false" elementtiming="system-image-block" src="/images/e12dac3990e9.gif" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e12dac3990e9.gif 100w, /images/e12dac3990e9.gif 300w, /images/e12dac3990e9.gif 500w, /images/e12dac3990e9.gif 750w, /images/e12dac3990e9.gif 1000w, /images/e12dac3990e9.gif 1500w, /images/e12dac3990e9.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Oil Rail Car Image" src="/images/e12dac3990e9.gif" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e12dac3990e9.gif 100w, /images/e12dac3990e9.gif 300w, /images/e12dac3990e9.gif 500w, /images/e12dac3990e9.gif 750w, /images/e12dac3990e9.gif 1000w, /images/e12dac3990e9.gif 1500w, /images/e12dac3990e9.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/e12dac3990e9.gif"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Hess, Marthon Oil, and Whiting Petroleum all face potential fines from the Pipeline and Hazardous Materials Safety Administration (PHMSA). The fines are being pursued as a result of PHMSA's investigation into the transportation of Bakken oil.</p><p>Oil taken from cargo tanks en route to rail facilities in the region was not properly classified. PHMSA took 18 samples from cargo tanks, storage tanks, and pipelines. In all, 11 of the 18 samples were not classified properly.</p><p>Hess faces fines of more than $50,000, Marathon Oil faces ~$30,000 in fines, and Whiting faces $12,000 in fines.</p><p><strong>Also read:</strong><a target="_blank" href="http://bakkenshale.com/bsp-news/news/department-of-transportations-phmsa-issues-bakken-shale-oil-shipping-safety-alert">DOT's Arm Issues Bakken Sahle Oil Shipping Safety Alert</a></p>
+  <p>Hess, Marthon Oil, and Whiting Petroleum all face potential fines from the Pipeline and Hazardous Materials Safety Administration (PHMSA). The fines are being pursued as a result of PHMSA's investigation into the transportation of Bakken oil.</p><p>Oil taken from cargo tanks en route to rail facilities in the region was not properly classified. PHMSA took 18 samples from cargo tanks, storage tanks, and pipelines. In all, 11 of the 18 samples were not classified properly.</p><p>Hess faces fines of more than $50,000, Marathon Oil faces ~$30,000 in fines, and Whiting faces $12,000 in fines.</p><p><strong>Also read:</strong><a target="_blank" href="/bsp-news/news/department-of-transportations-phmsa-issues-bakken-shale-oil-shipping-safety-alert">DOT's Arm Issues Bakken Sahle Oil Shipping Safety Alert</a></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/e12dac3990e9.gif"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Transportation has an important role to play in helping meet our country’s energy needs, thanks to the increased production of crude oil, but our top priority is ensuring that it is transported safely,” said Transportation Secretary Anthony Foxx. “The fines we are proposing today should send a message to everyone involved in the shipment of crude oil: You must test and classify this material properly if you want to use our transportation system to ship it.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/e12dac3990e9.gif"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43fcda5d4222fbbca3f6/1467383448545/" data-record-type="1" data-full-url="/bsp-news/news/hess-marathon-and-whiting-face-fines-for-bakken-oil-classifications" data-title="Hess, Marathon, and Whiting Face Fines for Bakken Oil Classifications"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43fcda5d4222fbbca3f6" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

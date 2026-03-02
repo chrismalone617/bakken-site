@@ -83,7 +83,7 @@ heroImage: "/images/e9a0c5e4a321.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/e9a0c5e4a321.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/e9a0c5e4a321.jpeg" data-image="/images/e9a0c5e4a321.jpeg" data-image-dimensions="300x223" data-image-focal-point="0.5,0.5" alt="Bakken Crude Rail Costs" data-load="false" elementtiming="system-image-block" src="/images/e9a0c5e4a321.jpeg" width="300" height="223" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e9a0c5e4a321.jpeg 100w, /images/e9a0c5e4a321.jpeg 300w, /images/e9a0c5e4a321.jpeg 500w, /images/e9a0c5e4a321.jpeg 750w, /images/e9a0c5e4a321.jpeg 1000w, /images/e9a0c5e4a321.jpeg 1500w, /images/e9a0c5e4a321.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Crude Rail Costs" src="/images/e9a0c5e4a321.jpeg" width="300" height="223" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e9a0c5e4a321.jpeg 100w, /images/e9a0c5e4a321.jpeg 300w, /images/e9a0c5e4a321.jpeg 500w, /images/e9a0c5e4a321.jpeg 750w, /images/e9a0c5e4a321.jpeg 1000w, /images/e9a0c5e4a321.jpeg 1500w, /images/e9a0c5e4a321.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/e9a0c5e4a321.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Over time oil will begin moving back onto pipes, but its going to be a fight. Pipelines will always be the most efficient way to move crude, but they’ll have to be competitive on pricing and be able to deliver crude into competitive markets. <span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/e9a0c5e4a321.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c1dfa21e80eeb5508f/1467907341450/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/rail-is-here-to-stay-in-the-bakken" data-title="Rail Is Here To Stay In The Bakken - Bentek"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c1dfa21e80eeb5508f" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

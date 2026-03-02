@@ -83,7 +83,7 @@ heroImage: "/images/3027fb16d1e1.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/3027fb16d1e1.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/3027fb16d1e1.jpeg" data-image="/images/3027fb16d1e1.jpeg" data-image-dimensions="272x300" data-image-focal-point="0.5,0.5" alt="North Dakota Bakken Three Forks Map" data-load="false" elementtiming="system-image-block" src="/images/3027fb16d1e1.jpeg" width="272" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3027fb16d1e1.jpeg 100w, /images/3027fb16d1e1.jpeg 300w, /images/3027fb16d1e1.jpeg 500w, /images/3027fb16d1e1.jpeg 750w, /images/3027fb16d1e1.jpeg 1000w, /images/3027fb16d1e1.jpeg 1500w, /images/3027fb16d1e1.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="North Dakota Bakken Three Forks Map" src="/images/3027fb16d1e1.jpeg" width="272" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/3027fb16d1e1.jpeg 100w, /images/3027fb16d1e1.jpeg 300w, /images/3027fb16d1e1.jpeg 500w, /images/3027fb16d1e1.jpeg 750w, /images/3027fb16d1e1.jpeg 1000w, /images/3027fb16d1e1.jpeg 1500w, /images/3027fb16d1e1.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/3027fb16d1e1.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The <a href="http://bakkenshale.com/drilling/">Bakken Shale drilling</a> rig count has been unchanged at 188 rigs running over the past three weeks. North Dakota accounts for 178 rigs and Montana accounts for 10. That's right in line with the number of rigs Baker Hughes has reported working in the Bakken region for the first six months of the year.</p><p>The U.S. rig count fell twelve rigs to 1,759 rigs running, of which 190 are running in the Williston Basin. A total of 349 rigs are targeting natural gas and 1,405 are targeting oil in the U.S.. The remainder are drilling service wells (e.g. disposal wells, injection wells, etc.).</p><p>The biggest news of the week was updated April production numbers from the NDIC. North Dakota is on pace to hit 850,000 b/d of oil production by year-end. If oil prices and weather stay friendly, the <strong>Williston Basin might surpass 1 million b/d sometime in the second half of 2014</strong>.</p><blockquote><p>Note: The NDIC reports 187 rigs are active in North Dakota. That is nine more than Baker Hughes reports. The difference is likely accounted for in the number of rigs actually working. On any given week, a certain number of rigs are in route to the next well location or idle waiting to drill the next well. Those rigs are not counted in the Baker Hughes census.</p></blockquote><h2>Bakken Oil &amp; Gas Rigs</h2><p>The natural gas rig count in the region held flat at 1 rig running. It's not a Bakken well and it's not a normal occurrence in the region, so don't expect much more than zero in the future. Natural gas rallied up $0.10-0.20 on the week, but ended the week back down near $3.79/mmbtu on Friday afternoon.</p><p>The number of oil rigs running held flat at 187 in the region. WTI futures fell with the broader markets during the week and ended near $94/bbl on Friday. Williston Basin sweet crude traded at $81.44/bbl on June 21st.</p><blockquote><p>McKenzie County led development with 67 rigs running. Dunn, Mountrail, and Williams counties are the only other counties with more than 25 rigs running. View the full list below.</p></blockquote><h2>Bakken Oil &amp; Gas News:</h2><ul><li><a href="http://bakkenshale.com/bsp-news/news/bakken-fuels-new-fertilizer-plant">Bakken Natural Gas Could Fuel New ND Fertilizer Plant</a></li></ul><p>Be sure to visit our <a href="http://jobs.bakkenshale.com/">Bakken Job Listings</a> to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</p><h2>Bakken Drilling by County</h2>
+  <p>The <a href="/drilling/">Bakken Shale drilling</a> rig count has been unchanged at 188 rigs running over the past three weeks. North Dakota accounts for 178 rigs and Montana accounts for 10. That's right in line with the number of rigs Baker Hughes has reported working in the Bakken region for the first six months of the year.</p><p>The U.S. rig count fell twelve rigs to 1,759 rigs running, of which 190 are running in the Williston Basin. A total of 349 rigs are targeting natural gas and 1,405 are targeting oil in the U.S.. The remainder are drilling service wells (e.g. disposal wells, injection wells, etc.).</p><p>The biggest news of the week was updated April production numbers from the NDIC. North Dakota is on pace to hit 850,000 b/d of oil production by year-end. If oil prices and weather stay friendly, the <strong>Williston Basin might surpass 1 million b/d sometime in the second half of 2014</strong>.</p><blockquote><p>Note: The NDIC reports 187 rigs are active in North Dakota. That is nine more than Baker Hughes reports. The difference is likely accounted for in the number of rigs actually working. On any given week, a certain number of rigs are in route to the next well location or idle waiting to drill the next well. Those rigs are not counted in the Baker Hughes census.</p></blockquote><h2>Bakken Oil &amp; Gas Rigs</h2><p>The natural gas rig count in the region held flat at 1 rig running. It's not a Bakken well and it's not a normal occurrence in the region, so don't expect much more than zero in the future. Natural gas rallied up $0.10-0.20 on the week, but ended the week back down near $3.79/mmbtu on Friday afternoon.</p><p>The number of oil rigs running held flat at 187 in the region. WTI futures fell with the broader markets during the week and ended near $94/bbl on Friday. Williston Basin sweet crude traded at $81.44/bbl on June 21st.</p><blockquote><p>McKenzie County led development with 67 rigs running. Dunn, Mountrail, and Williams counties are the only other counties with more than 25 rigs running. View the full list below.</p></blockquote><h2>Bakken Oil &amp; Gas News:</h2><ul><li><a href="/bsp-news/news/bakken-fuels-new-fertilizer-plant">Bakken Natural Gas Could Fuel New ND Fertilizer Plant</a></li></ul><p>Be sure to visit our <a href="http://jobs.bakkenshale.com/">Bakken Job Listings</a> to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</p><h2>Bakken Drilling by County</h2>
 </div>
 
 
@@ -201,7 +201,7 @@ heroImage: "/images/3027fb16d1e1.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -210,7 +210,7 @@ heroImage: "/images/3027fb16d1e1.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/52fe6ada8428.png" data-image="/images/52fe6ada8428.png" data-image-dimensions="724x400" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/52fe6ada8428.png" width="724" height="400" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/52fe6ada8428.png 100w, /images/52fe6ada8428.png 300w, /images/52fe6ada8428.png 500w, /images/52fe6ada8428.png 750w, /images/52fe6ada8428.png 1000w, /images/52fe6ada8428.png 1500w, /images/52fe6ada8428.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/52fe6ada8428.png" width="724" height="400" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/52fe6ada8428.png 100w, /images/52fe6ada8428.png 300w, /images/52fe6ada8428.png 500w, /images/52fe6ada8428.png 750w, /images/52fe6ada8428.png 1000w, /images/52fe6ada8428.png 1500w, /images/52fe6ada8428.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -272,9 +272,9 @@ heroImage: "/images/3027fb16d1e1.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f41e26dc6951d90c43bbf/573f41e56dc6951d90c43bea/1467848211088/" data-record-type="1" data-full-url="/drilling/drilling-rig-count/bakken-shale-rig-count-188-june-21-2013" data-title="Bakken Shale Rig Count Holds At 188 Rigs - June 21, 2013"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f41e56dc6951d90c43bea" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

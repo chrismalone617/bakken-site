@@ -83,7 +83,7 @@ heroImage: "/images/b1c3b04a7e04.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/b1c3b04a7e04.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/b1c3b04a7e04.jpeg" data-image="/images/b1c3b04a7e04.jpeg" data-image-dimensions="300x298" data-image-focal-point="0.5,0.5" alt="Northern Oil &amp; Gas Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/b1c3b04a7e04.jpeg" width="300" height="298" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b1c3b04a7e04.jpeg 100w, /images/b1c3b04a7e04.jpeg 300w, /images/b1c3b04a7e04.jpeg 500w, /images/b1c3b04a7e04.jpeg 750w, /images/b1c3b04a7e04.jpeg 1000w, /images/b1c3b04a7e04.jpeg 1500w, /images/b1c3b04a7e04.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Northern Oil &amp; Gas Bakken Acreage Map" src="/images/b1c3b04a7e04.jpeg" width="300" height="298" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b1c3b04a7e04.jpeg 100w, /images/b1c3b04a7e04.jpeg 300w, /images/b1c3b04a7e04.jpeg 500w, /images/b1c3b04a7e04.jpeg 750w, /images/b1c3b04a7e04.jpeg 1000w, /images/b1c3b04a7e04.jpeg 1500w, /images/b1c3b04a7e04.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/b1c3b04a7e04.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Northern Oil &amp; Gas bought back more than two million shares of its common stock in the third quarter and grew production 20% over the second quarter to 13,049 boe/d.</p><p>The company participated in bringing 147 gross (12.1 net) wells to production in the third quarter and has participated in 358 gross (27.3 net) wells year-to-date. Approximately 260 gross (18.8 net) wells are in some stage of drilling or completion.</p><p><strong>Read more</strong> from earlier in the year: <a href="http://bakkenshale.com/bsp-news/news/northern-oil-gas-bakken-production-growth-slowed-weather">Northern's Bakken Production Growth Slowed by Bad Weather</a></p><p>At the end of September, the company spent an average (AFE) of $9 million on each well.</p>
+  <p>Northern Oil &amp; Gas bought back more than two million shares of its common stock in the third quarter and grew production 20% over the second quarter to 13,049 boe/d.</p><p>The company participated in bringing 147 gross (12.1 net) wells to production in the third quarter and has participated in 358 gross (27.3 net) wells year-to-date. Approximately 260 gross (18.8 net) wells are in some stage of drilling or completion.</p><p><strong>Read more</strong> from earlier in the year: <a href="/bsp-news/news/northern-oil-gas-bakken-production-growth-slowed-weather">Northern's Bakken Production Growth Slowed by Bad Weather</a></p><p>At the end of September, the company spent an average (AFE) of $9 million on each well.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/b1c3b04a7e04.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>October activity was also very encouraging and we are in a great position to continue to execute our business plan into 2014 and beyond.<span>”</span>
   </blockquote>
   <figcaption>— Michael Reger, CEO</figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/b1c3b04a7e04.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43ecda5d4222fbbca326/1467383802065/" data-record-type="1" data-full-url="/bsp-news/news/northern-oil-gas-repuchases-stock-grows-bakken-production-20" data-title="Northern Oil &amp; Gas Repuchases Stock - Grows Bakken Production 20%"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43ecda5d4222fbbca326" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -129,7 +129,7 @@ heroImage: "/images/f13b73cf10c6.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -138,7 +138,7 @@ heroImage: "/images/f13b73cf10c6.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f13b73cf10c6.jpeg" data-image="/images/f13b73cf10c6.jpeg" data-image-dimensions="1476x702" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/f13b73cf10c6.jpeg" width="1476" height="702" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f13b73cf10c6.jpeg 100w, /images/f13b73cf10c6.jpeg 300w, /images/f13b73cf10c6.jpeg 500w, /images/f13b73cf10c6.jpeg 750w, /images/f13b73cf10c6.jpeg 1000w, /images/f13b73cf10c6.jpeg 1500w, /images/f13b73cf10c6.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/f13b73cf10c6.jpeg" width="1476" height="702" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f13b73cf10c6.jpeg 100w, /images/f13b73cf10c6.jpeg 300w, /images/f13b73cf10c6.jpeg 500w, /images/f13b73cf10c6.jpeg 750w, /images/f13b73cf10c6.jpeg 1000w, /images/f13b73cf10c6.jpeg 1500w, /images/f13b73cf10c6.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -193,11 +193,11 @@ heroImage: "/images/f13b73cf10c6.jpeg"
         
 
         <div>
-  <span data-item-id="573a5bb52fe131b2351df54a" data-like-count="0">
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>
-<span data-system-data-id="1463442715396-9PY87GF3SE4P7PWTX0UC" data-asset-url="/images/b6f701ef2bb3.jpg" data-record-type="12" data-full-url="/events-list/news/williston-basin-petroleum-conference" data-title="Williston Basin Petroleum Conference"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span></div>
+</div>
       </div>
       
 

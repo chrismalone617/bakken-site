@@ -82,7 +82,7 @@ description: "Continental Resources reports its Bakken team doubled their rate o
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -91,7 +91,7 @@ description: "Continental Resources reports its Bakken team doubled their rate o
                 
                 
                 
-                <img data-stretch="false" data-src="/images/fcf7bbdf36e3.jpg" data-image="/images/fcf7bbdf36e3.jpg" data-image-dimensions="387x297" data-image-focal-point="0.5,0.5" alt="Continental Q2 2017" data-load="false" elementtiming="system-image-block" src="/images/fcf7bbdf36e3.jpg" width="387" height="297" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/fcf7bbdf36e3.jpg 100w, /images/fcf7bbdf36e3.jpg 300w, /images/fcf7bbdf36e3.jpg 500w, /images/fcf7bbdf36e3.jpg 750w, /images/fcf7bbdf36e3.jpg 1000w, /images/fcf7bbdf36e3.jpg 1500w, /images/fcf7bbdf36e3.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Continental Q2 2017" src="/images/fcf7bbdf36e3.jpg" width="387" height="297" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/fcf7bbdf36e3.jpg 100w, /images/fcf7bbdf36e3.jpg 300w, /images/fcf7bbdf36e3.jpg 500w, /images/fcf7bbdf36e3.jpg 750w, /images/fcf7bbdf36e3.jpg 1000w, /images/fcf7bbdf36e3.jpg 1500w, /images/fcf7bbdf36e3.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -114,7 +114,7 @@ description: "Continental Resources reports its Bakken team doubled their rate o
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Continental Resources reports its Bakken team doubled their rate of return during the second quarter while achieving impressive efficiency gains.</p><p><a href="https://bakkenshale.com/bsp-news/news/north-dakota-owed-millions-in-royalties">North Dakota Owed Millions in Royalties</a></p><p>During an earnings call this week, Continental executives claim their leadership among U.S. energy companies due to their quality assets and low-cost operations.</p><p>Continental reported a net loss of $63.6 million for the second quarter of 2017 at the same time that production increased 6%. The company will increase its capital expenditures for 2017 to between $1.75 billion and $1.95 billion.</p><h2>Bakken Shale Highlights for Q2</h2><p>During the second quarter, Continental reported that the rates of return for typical Bakken wells doubled to 82%. The company's Bakken assets set several milestones during the quarter as a result of the 'dedication and ingenuity' of their employees.&nbsp;Bakken Q2 highlights include:</p><ul><li>Generated over $2 million of added revenue during the first six months</li><li>Net production averaged 119,861 Boe per day</li><li>100 gross (38 net) operated and non-operated Bakken wells</li><li>205 gross operated DUCs</li><li>19 completions with avg. 24-hour IP rate of 1,606 Boepd</li><li>Drilling costs in the Bakken are 26% lower than 2016 average</li></ul>
+  <p>Continental Resources reports its Bakken team doubled their rate of return during the second quarter while achieving impressive efficiency gains.</p><p><a href="/bsp-news/news/north-dakota-owed-millions-in-royalties">North Dakota Owed Millions in Royalties</a></p><p>During an earnings call this week, Continental executives claim their leadership among U.S. energy companies due to their quality assets and low-cost operations.</p><p>Continental reported a net loss of $63.6 million for the second quarter of 2017 at the same time that production increased 6%. The company will increase its capital expenditures for 2017 to between $1.75 billion and $1.95 billion.</p><h2>Bakken Shale Highlights for Q2</h2><p>During the second quarter, Continental reported that the rates of return for typical Bakken wells doubled to 82%. The company's Bakken assets set several milestones during the quarter as a result of the 'dedication and ingenuity' of their employees.&nbsp;Bakken Q2 highlights include:</p><ul><li>Generated over $2 million of added revenue during the first six months</li><li>Net production averaged 119,861 Boe per day</li><li>100 gross (38 net) operated and non-operated Bakken wells</li><li>205 gross operated DUCs</li><li>19 completions with avg. 24-hour IP rate of 1,606 Boepd</li><li>Drilling costs in the Bakken are 26% lower than 2016 average</li></ul>
 </div>
 
 
@@ -161,7 +161,7 @@ description: "Continental Resources reports its Bakken team doubled their rate o
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>In 2017 our Bakken team has doubled our rate of return and reduced the payout period by 50%, based on our new type curve. This is a step-change improvement in Bakken economics.<span>”</span>
   </blockquote>
   <figcaption>— Gary Gould, Senior VP of Production and&nbsp;Resource Development</figcaption>
@@ -215,9 +215,9 @@ description: "Continental Resources reports its Bakken team doubled their rate o
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/598d11dee4fcb5f90633c319/1502577003885/" data-record-type="1" data-full-url="/bsp-news/continental-touts-bakken-innovation" data-title="Continental Touts Bakken Innovation"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="598d11dee4fcb5f90633c319" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

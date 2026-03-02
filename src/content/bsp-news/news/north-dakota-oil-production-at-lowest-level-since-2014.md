@@ -83,7 +83,7 @@ heroImage: "/images/a1311524fb4e.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/a1311524fb4e.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/a1311524fb4e.gif" data-image="/images/a1311524fb4e.gif" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/a1311524fb4e.gif" width="200" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a1311524fb4e.gif 100w, /images/a1311524fb4e.gif 300w, /images/a1311524fb4e.gif 500w, /images/a1311524fb4e.gif 750w, /images/a1311524fb4e.gif 1000w, /images/a1311524fb4e.gif 1500w, /images/a1311524fb4e.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/a1311524fb4e.gif" width="200" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a1311524fb4e.gif 100w, /images/a1311524fb4e.gif 300w, /images/a1311524fb4e.gif 500w, /images/a1311524fb4e.gif 750w, /images/a1311524fb4e.gif 1000w, /images/a1311524fb4e.gif 1500w, /images/a1311524fb4e.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -113,7 +113,7 @@ heroImage: "/images/a1311524fb4e.gif"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Crude prices continue to take a toll on shale producers across the country, with North Dakota currently experiencing their lowest production levels in over two years.&nbsp;</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/has-the-bakken-peaked">Has the Bakken Peaked? &nbsp; </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>North Dakota's Department of Mineral Resources released the latest data showing that state oil production dropped 2% in June, falling to its lowest level since 2014.</p><p>The state agency reported last week that total production fell to 30.8 million barrels of oil in June, down from 32.5 million barrels in May.&nbsp;</p>
+  <p>Crude prices continue to take a toll on shale producers across the country, with North Dakota currently experiencing their lowest production levels in over two years.&nbsp;</p><p>Related: <a href="/bsp-news/news/has-the-bakken-peaked">Has the Bakken Peaked? &nbsp; </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>North Dakota's Department of Mineral Resources released the latest data showing that state oil production dropped 2% in June, falling to its lowest level since 2014.</p><p>The state agency reported last week that total production fell to 30.8 million barrels of oil in June, down from 32.5 million barrels in May.&nbsp;</p>
 </div>
 
 
@@ -160,7 +160,7 @@ heroImage: "/images/a1311524fb4e.gif"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We’re still looking at a $50 price point for increased hydraulic fracturing activity in North Dakota. We really do expect to drop below one million barrels a day pretty soon. It’s going to take a significant amount of time and effort to move it back up again.<span>”</span>
   </blockquote>
   <figcaption>— Lynn Helms, Director of ND Department of Mineral Resources</figcaption>
@@ -168,7 +168,7 @@ heroImage: "/images/a1311524fb4e.gif"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>In 2014, North Dakota joined Texas to become the first states to produce over 1 MMbpd of crude. Since peaking at 1.23 MMbpd in December of 2014, production has dropped slightly but not as fast as drilling declines, which dropped 35% last year. &nbsp;</p><p>Last week, the <a href="http://bakkenshale.com/drilling">Bakken-Three Forks rig count</a>&nbsp;increased by one with Baker Hughes reporting 29 rigs running across our coverage area by midday Friday.</p>
+  <p>In 2014, North Dakota joined Texas to become the first states to produce over 1 MMbpd of crude. Since peaking at 1.23 MMbpd in December of 2014, production has dropped slightly but not as fast as drilling declines, which dropped 35% last year. &nbsp;</p><p>Last week, the <a href="/drilling">Bakken-Three Forks rig count</a>&nbsp;increased by one with Baker Hughes reporting 29 rigs running across our coverage area by midday Friday.</p>
 </div>
 
 
@@ -209,9 +209,9 @@ heroImage: "/images/a1311524fb4e.gif"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/57b49e25725e250c5491fde2/1471456799177/" data-record-type="1" data-full-url="/bsp-news/news/north-dakota-oil-production-at-lowest-level-since-2014" data-title="North Dakota Oil Production at Lowest Level Since 2014"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="57b49e25725e250c5491fde2" data-like-count="1">
+          
+  <span>
     <span></span>
     <span>1 Likes</span>
   </span>

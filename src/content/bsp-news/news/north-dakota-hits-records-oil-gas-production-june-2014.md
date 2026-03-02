@@ -83,7 +83,7 @@ heroImage: "/images/d704ae9d3215.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d704ae9d3215.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d704ae9d3215.jpeg" data-image="/images/d704ae9d3215.jpeg" data-image-dimensions="300x225" data-image-focal-point="0.5,0.5" alt="Bakken Oil Well" data-load="false" elementtiming="system-image-block" src="/images/d704ae9d3215.jpeg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d704ae9d3215.jpeg 100w, /images/d704ae9d3215.jpeg 300w, /images/d704ae9d3215.jpeg 500w, /images/d704ae9d3215.jpeg 750w, /images/d704ae9d3215.jpeg 1000w, /images/d704ae9d3215.jpeg 1500w, /images/d704ae9d3215.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Oil Well" src="/images/d704ae9d3215.jpeg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d704ae9d3215.jpeg 100w, /images/d704ae9d3215.jpeg 300w, /images/d704ae9d3215.jpeg 500w, /images/d704ae9d3215.jpeg 750w, /images/d704ae9d3215.jpeg 1000w, /images/d704ae9d3215.jpeg 1500w, /images/d704ae9d3215.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/d704ae9d3215.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The State of North Dakota hit nearly 1.1-million b/d oil in June 2014, setting a new record, according to the Department of Mineral Resources' (DMR) August <em>Director's Cut</em>.&nbsp;During the same month, North Dakota also had record monthly gas production (1,253,154 mcf/d), and the highest recorded number of producing wells (11,079).</p><p>In April, North Dakota crossed the milestone 1-million b/d oil mark.&nbsp;The Bakken region, which includes portions of western Montana, exceeded the 1-million b/d mark at end of last year according to the Energy Information Administration (EIA). It is the fourth region, along with the Gulf of Mexico, Eagle Ford, and Permian basins, producing more than 1 million b/d in the nation.</p><p><strong>Read more</strong>:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/north-dakota-hits-the-1-million-bd-mark?rq=North%20Dakota%20Hits%20the%201-Million%20b%2Fd%20Mark">North Dakota Hits the 1-Million b/d Mark</a></p><p>About 28% of gas produced in May and June was flared, despite the completion of Hess' Tioga Gas Plant expansion in May 2014. DMR officials noted the plant has been operating below full capacity due to the delayed expansion of gas gathering from South of Lake Sakakawea.</p><p>The expansion project, which is part of a $1.5 billion investment Hess has made in the area for infrastructure improvements, began processing about 120-million standard cubic feet of gas per day (mmscf/d) in May, according to Hess. The company expects the plant will process at least 250 mmscf/d with the potential to increase beyond 300 mmscf/d.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/hess-production-to-soar-in-bakken-by-the-end-of-2014?rq=Hess%20Production%20to%20Soar%20in%20Bakken%20by%20the%20End%20of%202014">Hess Production to Soar in Bakken by the End of 2014</a></p><h2>Highlights from August 2014 <em>Director’s Cut</em></h2><ul><li>May Oil – 1,040,469 b/d</li><li>June Oil – 1,092,617 b/d</li><li>May Gas – 1,192,860 mcf/d</li><li>June Gas – 1,253,154 mcf/d</li><li>May Producing Wells – 10,902</li><li>June Producing Wells – 11,079</li><li>28% of produced gas in May and June flared</li></ul><p>Read more at <a target="_blank" href="https://www.dmr.nd.gov/oilgas/directorscut/directorscut-2014-08-15.pdf">dmr.nd.gov</a></p>
+  <p>The State of North Dakota hit nearly 1.1-million b/d oil in June 2014, setting a new record, according to the Department of Mineral Resources' (DMR) August <em>Director's Cut</em>.&nbsp;During the same month, North Dakota also had record monthly gas production (1,253,154 mcf/d), and the highest recorded number of producing wells (11,079).</p><p>In April, North Dakota crossed the milestone 1-million b/d oil mark.&nbsp;The Bakken region, which includes portions of western Montana, exceeded the 1-million b/d mark at end of last year according to the Energy Information Administration (EIA). It is the fourth region, along with the Gulf of Mexico, Eagle Ford, and Permian basins, producing more than 1 million b/d in the nation.</p><p><strong>Read more</strong>:&nbsp;<a href="/bsp-news/news/north-dakota-hits-the-1-million-bd-mark?rq=North%20Dakota%20Hits%20the%201-Million%20b%2Fd%20Mark">North Dakota Hits the 1-Million b/d Mark</a></p><p>About 28% of gas produced in May and June was flared, despite the completion of Hess' Tioga Gas Plant expansion in May 2014. DMR officials noted the plant has been operating below full capacity due to the delayed expansion of gas gathering from South of Lake Sakakawea.</p><p>The expansion project, which is part of a $1.5 billion investment Hess has made in the area for infrastructure improvements, began processing about 120-million standard cubic feet of gas per day (mmscf/d) in May, according to Hess. The company expects the plant will process at least 250 mmscf/d with the potential to increase beyond 300 mmscf/d.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/hess-production-to-soar-in-bakken-by-the-end-of-2014?rq=Hess%20Production%20to%20Soar%20in%20Bakken%20by%20the%20End%20of%202014">Hess Production to Soar in Bakken by the End of 2014</a></p><h2>Highlights from August 2014 <em>Director’s Cut</em></h2><ul><li>May Oil – 1,040,469 b/d</li><li>June Oil – 1,092,617 b/d</li><li>May Gas – 1,192,860 mcf/d</li><li>June Gas – 1,253,154 mcf/d</li><li>May Producing Wells – 10,902</li><li>June Producing Wells – 11,079</li><li>28% of produced gas in May and June flared</li></ul><p>Read more at <a target="_blank" href="https://www.dmr.nd.gov/oilgas/directorscut/directorscut-2014-08-15.pdf">dmr.nd.gov</a></p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/d704ae9d3215.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f440ada5d4222fbbca4ba/1467382739270/" data-record-type="1" data-full-url="/bsp-news/news/north-dakota-hits-records-oil-gas-production-june-2014" data-title="North Dakota Hits Record Oil &amp; Gas Production - June 2014"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f440ada5d4222fbbca4ba" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

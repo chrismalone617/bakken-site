@@ -80,7 +80,7 @@ heroImage: "/images/091e2d501922.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -89,7 +89,7 @@ heroImage: "/images/091e2d501922.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/091e2d501922.jpeg" data-image="/images/091e2d501922.jpeg" data-image-dimensions="300x225" data-image-focal-point="0.5,0.5" alt="Memorial Day" data-load="false" elementtiming="system-image-block" src="/images/091e2d501922.jpeg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/091e2d501922.jpeg 100w, /images/091e2d501922.jpeg 300w, /images/091e2d501922.jpeg 500w, /images/091e2d501922.jpeg 750w, /images/091e2d501922.jpeg 1000w, /images/091e2d501922.jpeg 1500w, /images/091e2d501922.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Memorial Day" src="/images/091e2d501922.jpeg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/091e2d501922.jpeg 100w, /images/091e2d501922.jpeg 300w, /images/091e2d501922.jpeg 500w, /images/091e2d501922.jpeg 750w, /images/091e2d501922.jpeg 1000w, /images/091e2d501922.jpeg 1500w, /images/091e2d501922.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -162,9 +162,9 @@ We wish everyone a safe and happy Memorial Day!</p>
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43dcda5d4222fbbca230/1467384727955/" data-record-type="1" data-full-url="/bsp-news/news/happy-memorial-day" data-title="Happy Memorial Day!"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43dcda5d4222fbbca230" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/cfab2ab11990.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/cfab2ab11990.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/cfab2ab11990.jpeg" data-image="/images/cfab2ab11990.jpeg" data-image-dimensions="300x180" data-image-focal-point="0.5,0.5" alt="Bakken Oil Production Forecast" data-load="false" elementtiming="system-image-block" src="/images/cfab2ab11990.jpeg" width="300" height="180" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/cfab2ab11990.jpeg 100w, /images/cfab2ab11990.jpeg 300w, /images/cfab2ab11990.jpeg 500w, /images/cfab2ab11990.jpeg 750w, /images/cfab2ab11990.jpeg 1000w, /images/cfab2ab11990.jpeg 1500w, /images/cfab2ab11990.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Oil Production Forecast" src="/images/cfab2ab11990.jpeg" width="300" height="180" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/cfab2ab11990.jpeg 100w, /images/cfab2ab11990.jpeg 300w, /images/cfab2ab11990.jpeg 500w, /images/cfab2ab11990.jpeg 750w, /images/cfab2ab11990.jpeg 1000w, /images/cfab2ab11990.jpeg 1500w, /images/cfab2ab11990.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/cfab2ab11990.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Bakken oil production was near 800,000 b/d in March.</p><p>Add ~60,000-70,000 b/d from Montana to the ~719,000 b/d from North Dakota and the Bakken produced more than 790,000 b/d of crude oil in March.</p><p>Add oil from formations other than the Bakken and Three Forks and the Williston Basin easily produced more than 850,000 b/d. If production comes back strong from the winter season and the spring break up, this might be the year the basin, and possibly North Dakota, cross the 1 Million b/d production mark.</p><p>As of last week the <a href="http://bakkenshale.com/drilling/">Bakken rig count</a> sat at approximately 190 rigs. With a majority shifting to pad drilling, more wells might be drilled in 2013 with fewer rigs.</p>
+  <p>Bakken oil production was near 800,000 b/d in March.</p><p>Add ~60,000-70,000 b/d from Montana to the ~719,000 b/d from North Dakota and the Bakken produced more than 790,000 b/d of crude oil in March.</p><p>Add oil from formations other than the Bakken and Three Forks and the Williston Basin easily produced more than 850,000 b/d. If production comes back strong from the winter season and the spring break up, this might be the year the basin, and possibly North Dakota, cross the 1 Million b/d production mark.</p><p>As of last week the <a href="/drilling/">Bakken rig count</a> sat at approximately 190 rigs. With a majority shifting to pad drilling, more wells might be drilled in 2013 with fewer rigs.</p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/cfab2ab11990.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43dcda5d4222fbbca22d/1467384739934/" data-record-type="1" data-full-url="/bsp-news/news/bakken-oil-production-nears-800000-bd-in-march" data-title="Bakken Oil Production Nears 800,000 b/d in March"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43dcda5d4222fbbca22d" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

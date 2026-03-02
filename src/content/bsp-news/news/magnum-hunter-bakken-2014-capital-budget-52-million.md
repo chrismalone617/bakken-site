@@ -83,7 +83,7 @@ heroImage: "/images/f1c74166de63.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/f1c74166de63.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f1c74166de63.jpeg" data-image="/images/f1c74166de63.jpeg" data-image-dimensions="258x300" data-image-focal-point="0.5,0.5" alt="Magnum Hunter 2014 Cap Ex&nbsp;Budget" data-load="false" elementtiming="system-image-block" src="/images/f1c74166de63.jpeg" width="258" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f1c74166de63.jpeg 100w, /images/f1c74166de63.jpeg 300w, /images/f1c74166de63.jpeg 500w, /images/f1c74166de63.jpeg 750w, /images/f1c74166de63.jpeg 1000w, /images/f1c74166de63.jpeg 1500w, /images/f1c74166de63.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Magnum Hunter 2014 Cap Ex&nbsp;Budget" src="/images/f1c74166de63.jpeg" width="258" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f1c74166de63.jpeg 100w, /images/f1c74166de63.jpeg 300w, /images/f1c74166de63.jpeg 500w, /images/f1c74166de63.jpeg 750w, /images/f1c74166de63.jpeg 1000w, /images/f1c74166de63.jpeg 1500w, /images/f1c74166de63.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/f1c74166de63.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>In a company statement, Magnum Hunter CEO Gary Evans said, “we made the decision to sell our Eagle Ford assets [] for a contracted price of $401 million and redeploy those proceeds to our two remaining core areas, Appalachia and the Williston Basin. Revenues were still up over 72% and EBITDAX increased 48%. We drilled 21 gross wells (12.5 net) in the Marcellus and Utica resource plays and drilled 72 gross (24.6 net) in the Bakken and Three Forks Sanish plays of the Williston Basin.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/f1c74166de63.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4400da5d4222fbbca42e/1467383236394/" data-record-type="1" data-full-url="/bsp-news/news/magnum-hunter-bakken-2014-capital-budget-52-million" data-title="Magnum Hunter Bakken 2014 Capital Budget - $52 Million"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4400da5d4222fbbca42e" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

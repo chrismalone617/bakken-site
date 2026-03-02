@@ -72,7 +72,7 @@ description: "Natural Resource Partners (NRP) has agreed to acquire non-operated
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>This is NRP’s second acquisition of producing, non-operated working interests in the Bakken/Three Forks play, which will grow and further diversify NRP’s revenue going forward.<span>”</span>
   </blockquote>
   <figcaption>— Nick Carter, NRP's COO.</figcaption>
@@ -121,9 +121,9 @@ description: "Natural Resource Partners (NRP) has agreed to acquire non-operated
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43eeda5d4222fbbca343/1467317445703/" data-record-type="1" data-full-url="/bsp-news/news/nrp-sundance-reach-35-5-million-bakken-deal" data-title="NRP - Sundance Reach $35.5 Million Bakken Deal"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43eeda5d4222fbbca343" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

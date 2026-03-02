@@ -72,7 +72,7 @@ description: "A number of changes to the North Dakota Administrative Code could 
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>All newly constructed underground gathering pipelines must be devoid of leaks and constructed of materials resistant to external corrosion and to the effects of transported fluids. All such pipelines installed in a trench must be installed in a manner that minimizes interference with agriculture, road and utility construction, the introduction of secondary stresses, the possibility of damage to the pipe, and tracer wire shall be buried with any nonconductive pipe installed. When a trench for an oil and gas underground gathering pipeline is backfilled, it must be backfilled in a manner that provides firm support under the pipe and prevents damage to the pipe and pipe coating from equipment or from the backfill material.<span>”</span>
   </blockquote>
   
@@ -80,7 +80,7 @@ description: "A number of changes to the North Dakota Administrative Code could 
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The new regulations come at a time when increased scrutiny on pipeline development in the region is piquing. A Tesoro pipeline released approximately 20,000 bbls of crude near Tioga, ND, in October. The cause is believed to be related to corrosion.</p><p><strong>Read more:</strong> <a href="http://bakkenshale.com/bsp-news/news/north-dakota-oil-spill-recovery-efforts-underway">North Dakota Oil Spill Recover Efforts Underway</a></p><h2>NDIC's Authority to Define Stripper Wells Expanded</h2><p>Yet another area of production that could see an impact are in wells defined as stripper wells. The Director of the Department of Mineral Resources, Lynn Helms, already had the authority to determine stripper well property status. The change could impact the number of wells receiving tax exemptions through stripper well status. The new regulations extend Helms's ability to determine a stripper well. Furthermore, the revised regulations account for horizontal drilling, relative to stripper wells:</p><blockquote><p>"If a well that has previously qualified as a stripper well property is reentered and recompleted as a horizontal well, the stripper well property status on that well will terminate. "</p></blockquote><p>Other facets of production worth noting that will be affected are with the notification of fires, leaks, spills or blowouts and underground injection wells.</p><p>Read more at <a target="_blank" href="https://www.dmr.nd.gov/oilgas/or23159.pdf">dmr.nd.gov</a></p>
+  <p>The new regulations come at a time when increased scrutiny on pipeline development in the region is piquing. A Tesoro pipeline released approximately 20,000 bbls of crude near Tioga, ND, in October. The cause is believed to be related to corrosion.</p><p><strong>Read more:</strong> <a href="/bsp-news/news/north-dakota-oil-spill-recovery-efforts-underway">North Dakota Oil Spill Recover Efforts Underway</a></p><h2>NDIC's Authority to Define Stripper Wells Expanded</h2><p>Yet another area of production that could see an impact are in wells defined as stripper wells. The Director of the Department of Mineral Resources, Lynn Helms, already had the authority to determine stripper well property status. The change could impact the number of wells receiving tax exemptions through stripper well status. The new regulations extend Helms's ability to determine a stripper well. Furthermore, the revised regulations account for horizontal drilling, relative to stripper wells:</p><blockquote><p>"If a well that has previously qualified as a stripper well property is reentered and recompleted as a horizontal well, the stripper well property status on that well will terminate. "</p></blockquote><p>Other facets of production worth noting that will be affected are with the notification of fires, leaks, spills or blowouts and underground injection wells.</p><p>Read more at <a target="_blank" href="https://www.dmr.nd.gov/oilgas/or23159.pdf">dmr.nd.gov</a></p>
 </div>
 
 
@@ -121,9 +121,9 @@ description: "A number of changes to the North Dakota Administrative Code could 
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f6da5d4222fbbca3af/1467313120784/" data-record-type="1" data-full-url="/bsp-news/news/nd-defines-stricter-rules-for-pipeline-construction-stripper-well-exemptions" data-title="ND Defines Stricter Rules for Pipeline Construction &amp; Stripper Well Exemptions"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f6da5d4222fbbca3af" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

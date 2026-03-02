@@ -83,7 +83,7 @@ heroImage: "/images/d359cc917043.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d359cc917043.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d359cc917043.jpeg" data-image="/images/d359cc917043.jpeg" data-image-dimensions="300x233" data-image-focal-point="0.5,0.5" alt="Marathon Oil Bakken Map" data-load="false" elementtiming="system-image-block" src="/images/d359cc917043.jpeg" width="300" height="233" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d359cc917043.jpeg 100w, /images/d359cc917043.jpeg 300w, /images/d359cc917043.jpeg 500w, /images/d359cc917043.jpeg 750w, /images/d359cc917043.jpeg 1000w, /images/d359cc917043.jpeg 1500w, /images/d359cc917043.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Marathon Oil Bakken Map" src="/images/d359cc917043.jpeg" width="300" height="233" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d359cc917043.jpeg 100w, /images/d359cc917043.jpeg 300w, /images/d359cc917043.jpeg 500w, /images/d359cc917043.jpeg 750w, /images/d359cc917043.jpeg 1000w, /images/d359cc917043.jpeg 1500w, /images/d359cc917043.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/d359cc917043.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Marathon Oil’s Bakken production averages approximately 90 percent crude oil, 5 percent NGLs and 5 percent natural gas. <span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/d359cc917043.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e4da5d4222fbbca2aa/1467384346866/" data-record-type="1" data-full-url="/bsp-news/news/marathon-oil-bakken-drilling-speed-and-production" data-title="Marathon Oil's Bakken Drilling Speed Improves 10% In The Second Quarter"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e4da5d4222fbbca2aa" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

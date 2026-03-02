@@ -72,7 +72,7 @@ description: "We in full development mode in the Bakken, but don"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We have a tremendous amount of work in front of us,” Helms said. “I commend you for how responsibly you`re approaching this process as we develop this amazing, amazing resource.<span>”</span>
   </blockquote>
   
@@ -94,9 +94,9 @@ description: "We in full development mode in the Bakken, but don"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d2da5d4222fbbca181/1467318946734/" data-record-type="1" data-full-url="/bsp-news/news/expect-ups-downs-bakken-lynn-helms" data-title="Expect Ups and Downs in the Bakken - Lynn Helms"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d2da5d4222fbbca181" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

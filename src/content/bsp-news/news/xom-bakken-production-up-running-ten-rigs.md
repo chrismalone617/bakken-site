@@ -83,7 +83,7 @@ heroImage: "/images/e8aab4383b80.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/e8aab4383b80.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/e8aab4383b80.jpeg" data-image="/images/e8aab4383b80.jpeg" data-image-dimensions="300x232" data-image-focal-point="0.5,0.5" alt="Exxon North America Play Map" data-load="false" elementtiming="system-image-block" src="/images/e8aab4383b80.jpeg" width="300" height="232" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e8aab4383b80.jpeg 100w, /images/e8aab4383b80.jpeg 300w, /images/e8aab4383b80.jpeg 500w, /images/e8aab4383b80.jpeg 750w, /images/e8aab4383b80.jpeg 1000w, /images/e8aab4383b80.jpeg 1500w, /images/e8aab4383b80.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Exxon North America Play Map" src="/images/e8aab4383b80.jpeg" width="300" height="232" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e8aab4383b80.jpeg 100w, /images/e8aab4383b80.jpeg 300w, /images/e8aab4383b80.jpeg 500w, /images/e8aab4383b80.jpeg 750w, /images/e8aab4383b80.jpeg 1000w, /images/e8aab4383b80.jpeg 1500w, /images/e8aab4383b80.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/e8aab4383b80.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>ExxonMobil's Bakken production is up 75% from a year ago and the company is running ten rigs across the area.</p><p>Exxon's XTO subsidiary operates the more than 585,000 net acres prospective for the Bakken.</p><p>The company has also fully integrated the assets that were purchased from Denbury late last year. Read more about the deal in the article <a href="http://bakkenshale.com/bsp-news/news/denbury-exxon-deal-includes-bakken-acreage">Denbury - Exxon Deal Includes Bakken Acreage and CO2 Assets</a></p><p>&nbsp;</p>
+  <p>ExxonMobil's Bakken production is up 75% from a year ago and the company is running ten rigs across the area.</p><p>Exxon's XTO subsidiary operates the more than 585,000 net acres prospective for the Bakken.</p><p>The company has also fully integrated the assets that were purchased from Denbury late last year. Read more about the deal in the article <a href="/bsp-news/news/denbury-exxon-deal-includes-bakken-acreage">Denbury - Exxon Deal Includes Bakken Acreage and CO2 Assets</a></p><p>&nbsp;</p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/e8aab4383b80.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d7da5d4222fbbca1e9/1467384882623/" data-record-type="1" data-full-url="/bsp-news/news/xom-bakken-production-up-running-ten-rigs" data-title="Exxon's Bakken Production Up 75% - Running Ten Rigs"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d7da5d4222fbbca1e9" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -66,9 +66,9 @@ description: "Philadephia Energy Solutions has built a state-of-the-art crude by
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43ecda5d4222fbbca320/1467318111992/" data-record-type="1" data-full-url="/bsp-news/news/philadelphia-refinery-opens-rail-yard-to-support-bakken-crude-delivery" data-title="Philadelphia Refinery Opens Rail Yard to Support Bakken Crude Delivery - Video"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43ecda5d4222fbbca320" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

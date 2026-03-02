@@ -83,7 +83,7 @@ heroImage: "/images/78cc13da747d.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/78cc13da747d.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/78cc13da747d.jpg" data-image="/images/78cc13da747d.jpg" data-image-dimensions="300x228" data-image-focal-point="0.5,0.5" alt="Apartments In Williston, ND" data-load="false" elementtiming="system-image-block" src="/images/78cc13da747d.jpg" width="300" height="228" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/78cc13da747d.jpg 100w, /images/78cc13da747d.jpg 300w, /images/78cc13da747d.jpg 500w, /images/78cc13da747d.jpg 750w, /images/78cc13da747d.jpg 1000w, /images/78cc13da747d.jpg 1500w, /images/78cc13da747d.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Apartments In Williston, ND" src="/images/78cc13da747d.jpg" width="300" height="228" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/78cc13da747d.jpg 100w, /images/78cc13da747d.jpg 300w, /images/78cc13da747d.jpg 500w, /images/78cc13da747d.jpg 750w, /images/78cc13da747d.jpg 1000w, /images/78cc13da747d.jpg 1500w, /images/78cc13da747d.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/78cc13da747d.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>A study done by <em>Apartment Guide</em> in February 2014 puts Williston, North Dakota in the top spot for highest average entry-level rent.</p><p>According to the publication,&nbsp;a 700-square-foot, one-bedroom, one-bath apartment in Williston, North Dakota can cost more than $2000 per month. For readers on this site, the explanation for this growth is crystal clear: the Bakken Shale!</p><p>Williston, ND is located in the heart of the shale play, and is generally considered to be the epicenter of the Bakken.&nbsp;</p><p><strong>Read more:</strong><a href="http://bakkenshale.com/housing/">Bakken Lodging</a></p><p>A quick online search also indicates monthly rent is steep in Watford City, ND. That's not surprising considering Watford City is about an hour southeast of Williston.</p><h2>Williston, ND Growing Pains</h2><p>Since the oil boom began in North Dakota, the small town of Williston has seen many changes. From increased crime rates to housing shortages, the city has experienced significant growing pains over the past several years.</p><p><strong>Read more</strong>:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/bakken-crime-causes-feud-between-senators?rq=Bakken%20Crime%20Causes%20Feud%20Between%20Senators">Bakken Crime Causes Feud Between Senators</a></p><p>When apartments have been unavailable, oilfield workers have resorted to living in motorhomes. RV park sites, some fully sheltered to keep out cold North Dakota winters, can go as high as $1500 per month during peak season.</p><h2>Impact on North Dakota Residents</h2><p>North Dakota saw a 200% jump in homelessness in 2012. There are now 2,069 homeless people in the state of 699,628, according to the U.S. Department of Housing and Urban Development (HUD).</p><p>In July 2013, North Dakota received four awards from HUD for $7.5 million. North Dakota Senators John Hoeven, Heidi Heitkamp and Congressman Kevin Cramer commented jointly about the funding:</p>
+  <p>A study done by <em>Apartment Guide</em> in February 2014 puts Williston, North Dakota in the top spot for highest average entry-level rent.</p><p>According to the publication,&nbsp;a 700-square-foot, one-bedroom, one-bath apartment in Williston, North Dakota can cost more than $2000 per month. For readers on this site, the explanation for this growth is crystal clear: the Bakken Shale!</p><p>Williston, ND is located in the heart of the shale play, and is generally considered to be the epicenter of the Bakken.&nbsp;</p><p><strong>Read more:</strong><a href="/housing/">Bakken Lodging</a></p><p>A quick online search also indicates monthly rent is steep in Watford City, ND. That's not surprising considering Watford City is about an hour southeast of Williston.</p><h2>Williston, ND Growing Pains</h2><p>Since the oil boom began in North Dakota, the small town of Williston has seen many changes. From increased crime rates to housing shortages, the city has experienced significant growing pains over the past several years.</p><p><strong>Read more</strong>:&nbsp;<a href="/bsp-news/news/bakken-crime-causes-feud-between-senators?rq=Bakken%20Crime%20Causes%20Feud%20Between%20Senators">Bakken Crime Causes Feud Between Senators</a></p><p>When apartments have been unavailable, oilfield workers have resorted to living in motorhomes. RV park sites, some fully sheltered to keep out cold North Dakota winters, can go as high as $1500 per month during peak season.</p><h2>Impact on North Dakota Residents</h2><p>North Dakota saw a 200% jump in homelessness in 2012. There are now 2,069 homeless people in the state of 699,628, according to the U.S. Department of Housing and Urban Development (HUD).</p><p>In July 2013, North Dakota received four awards from HUD for $7.5 million. North Dakota Senators John Hoeven, Heidi Heitkamp and Congressman Kevin Cramer commented jointly about the funding:</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/78cc13da747d.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The development of safe, affordable housing is absolutely necessary to relieve the strain and high-costs our residents face due to North Dakota’s severe flooding and housing shortages. These funds will help build stronger communities, provide shelter and housing for least fortunate among us and support North Dakota’s continued economic growth.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/78cc13da747d.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43feda5d4222fbbca410/1467383376312/" data-record-type="1" data-full-url="/bsp-news/news/williston-nd-rent-soars-past-highest-rent-areas-of-u-s-to-top-spot" data-title="Williston, ND Rent Soars Past Highest Rent Areas of U.S. to Top Spot"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43feda5d4222fbbca410" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

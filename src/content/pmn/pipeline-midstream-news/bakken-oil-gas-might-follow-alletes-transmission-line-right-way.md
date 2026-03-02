@@ -83,7 +83,7 @@ heroImage: "/images/cb22f6f43cd7.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/cb22f6f43cd7.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/cb22f6f43cd7.jpeg" data-image="/images/cb22f6f43cd7.jpeg" data-image-dimensions="300x176" data-image-focal-point="0.5,0.5" alt="Allete Bakken Right of Way" data-load="false" elementtiming="system-image-block" src="/images/cb22f6f43cd7.jpeg" width="300" height="176" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/cb22f6f43cd7.jpeg 100w, /images/cb22f6f43cd7.jpeg 300w, /images/cb22f6f43cd7.jpeg 500w, /images/cb22f6f43cd7.jpeg 750w, /images/cb22f6f43cd7.jpeg 1000w, /images/cb22f6f43cd7.jpeg 1500w, /images/cb22f6f43cd7.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Allete Bakken Right of Way" src="/images/cb22f6f43cd7.jpeg" width="300" height="176" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/cb22f6f43cd7.jpeg 100w, /images/cb22f6f43cd7.jpeg 300w, /images/cb22f6f43cd7.jpeg 500w, /images/cb22f6f43cd7.jpeg 750w, /images/cb22f6f43cd7.jpeg 1000w, /images/cb22f6f43cd7.jpeg 1500w, /images/cb22f6f43cd7.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -204,7 +204,7 @@ Allete announced plans to turn a 465-mile DC transmission line right-of-way into
             <button data-description="Allete DC Transmission Line Map" data-lightbox-theme="light">
               <span>View fullsize</span>
               
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -213,7 +213,7 @@ Allete announced plans to turn a 465-mile DC transmission line right-of-way into
                 
                 
                 
-                <img data-stretch="false" data-src="/images/7b000579efe5.jpeg" data-image="/images/7b000579efe5.jpeg" data-image-dimensions="300x202" data-image-focal-point="0.5,0.5" alt="Allete DC Transmission Line Map" data-load="false" elementtiming="system-image-block" src="/images/7b000579efe5.jpeg" width="300" height="202" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/7b000579efe5.jpeg 100w, /images/7b000579efe5.jpeg 300w, /images/7b000579efe5.jpeg 500w, /images/7b000579efe5.jpeg 750w, /images/7b000579efe5.jpeg 1000w, /images/7b000579efe5.jpeg 1500w, /images/7b000579efe5.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Allete DC Transmission Line Map" src="/images/7b000579efe5.jpeg" width="300" height="202" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/7b000579efe5.jpeg 100w, /images/7b000579efe5.jpeg 300w, /images/7b000579efe5.jpeg 500w, /images/7b000579efe5.jpeg 750w, /images/7b000579efe5.jpeg 1000w, /images/7b000579efe5.jpeg 1500w, /images/7b000579efe5.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -287,7 +287,7 @@ Allete announced plans to turn a 465-mile DC transmission line right-of-way into
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We see the ALLETE Energy Corridor as a comprehensive infrastructure solution in North Dakota that could serve many products and producers across the region,” said ALLETE CEO Alan R. Hodnik. “We value Gov. Dalrymple’s support of our vision and appreciate him bringing it forward to other members of the state’s energy sector.<span>”</span>
   </blockquote>
   
@@ -336,9 +336,9 @@ Allete announced plans to turn a 465-mile DC transmission line right-of-way into
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c5dfa21e80eeb550cf/1467906412685/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/bakken-oil-gas-might-follow-alletes-transmission-line-right-way" data-title="Bakken Oil &amp; Gas Might Follow Allete's Transmission Line Right-of-Way"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c5dfa21e80eeb550cf" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

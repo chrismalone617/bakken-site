@@ -72,7 +72,7 @@ description: "Abraxas Petroleum will run one rig in and spend $53.8 million in t
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Abraxas enters 2014 with a pristine balance sheet and far more profitable and focused asset base. We continue to identify additional opportunities in the Bakken and Eagle Ford and will announce the results of these efforts when it is prudent. We look forward to what promises to be an active 2014 Bakken and Eagle Ford drilling program.<span>”</span>
   </blockquote>
   <figcaption>— Bob Watson, CEO</figcaption>
@@ -121,9 +121,9 @@ description: "Abraxas Petroleum will run one rig in and spend $53.8 million in t
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f5da5d4222fbbca3a2/1467313736054/" data-record-type="1" data-full-url="/bsp-news/news/abraxas-will-run-one-bakken-rig-and-spend-54-million-in-2014" data-title="Abraxas Will Run One Bakken Rig and Spend $54 Million in 2014"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f5da5d4222fbbca3a2" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

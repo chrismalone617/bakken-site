@@ -83,7 +83,7 @@ heroImage: "/images/fb29b6793275.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/fb29b6793275.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/fb29b6793275.jpg" data-image="/images/fb29b6793275.jpg" data-image-dimensions="300x199" data-image-focal-point="0.5,0.5" alt="Pipeline Photo" data-load="false" elementtiming="system-image-block" src="/images/fb29b6793275.jpg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/fb29b6793275.jpg 100w, /images/fb29b6793275.jpg 300w, /images/fb29b6793275.jpg 500w, /images/fb29b6793275.jpg 750w, /images/fb29b6793275.jpg 1000w, /images/fb29b6793275.jpg 1500w, /images/fb29b6793275.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Pipeline Photo" src="/images/fb29b6793275.jpg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/fb29b6793275.jpg 100w, /images/fb29b6793275.jpg 300w, /images/fb29b6793275.jpg 500w, /images/fb29b6793275.jpg 750w, /images/fb29b6793275.jpg 1000w, /images/fb29b6793275.jpg 1500w, /images/fb29b6793275.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/fb29b6793275.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The Senate will vote today on a bill to approve the Keystone XL Pipeline, after the House voted to approve it last Friday. The controversial pipeline would carry heavy oil sands crude from Canada and lighter Bakken crude to the Gulf Coast refining market.</p><p>In 2013, the Congressional Research Service released a <a target="_blank" href="http://fas.org/sgp/crs/misc/R41668.pdf">report</a> that stated 12% of the Keystone XL Pipeline's 830,000 b/d ultimate capacity has been set aside for the transport of Bakken Crude. The report further said the Keystone XL pipeline project would include a lateral pipeline, called the Bakken Marketlink, to carry oil from Baker, MT, to the hub in Cushing, OK.</p><p>Although the Keystone XL Pipeline would play a role in the Bakken, its significance in the region has diminished slightly over time. Despite a still lacking midstream infrastructure in the Bakken,&nbsp;several pipeline projects have advanced as the political thunderstorm has ensued surrounding the Keystone XL Pipeline.</p><p>In September of 2013, Harold Hamm, CEO of Continental Resources, the Bakken's second largest producer, said the Keystone XL pipeline was no longer critical in an interview with Amy Harder from the <a target="_blank" href="http://www.nationaljournal.com/daily/is-keystone-still-needed-to-transport-u-s-oil-20130826">National Journal</a>. For full disclosure, at the time of the interview, Hamm's Hiland Partners was pushing its Double H Pipeline, a 460-mile pipeline project from Dore, ND, to Guernsey, WY., which is slated to be online by January of 2015.</p><p><strong>Read more:</strong><a href="http://bakkenshale.com/bsp-news/news/no-need-for-keystone-xl-continentals-ceo-harold-hamm?rq=No%20Need%20for%20Keystone%20XL%20-%20Continental's%20CEO%20Harold%20Hamm">No Need for Keystone XL - Continental's CEO Harold Hamm</a></p><h2>Political Sway for the Keystone XL Pipeline</h2><p>Senator John Hoeven (R-ND) is the Senate bill's chief sponsor. Hoeven has pushed for the pipeline for several years, and touts its benefits (i.e. an increase in jobs, energy security and a decrease in crude by rail transport).</p>
+  <p>The Senate will vote today on a bill to approve the Keystone XL Pipeline, after the House voted to approve it last Friday. The controversial pipeline would carry heavy oil sands crude from Canada and lighter Bakken crude to the Gulf Coast refining market.</p><p>In 2013, the Congressional Research Service released a <a target="_blank" href="http://fas.org/sgp/crs/misc/R41668.pdf">report</a> that stated 12% of the Keystone XL Pipeline's 830,000 b/d ultimate capacity has been set aside for the transport of Bakken Crude. The report further said the Keystone XL pipeline project would include a lateral pipeline, called the Bakken Marketlink, to carry oil from Baker, MT, to the hub in Cushing, OK.</p><p>Although the Keystone XL Pipeline would play a role in the Bakken, its significance in the region has diminished slightly over time. Despite a still lacking midstream infrastructure in the Bakken,&nbsp;several pipeline projects have advanced as the political thunderstorm has ensued surrounding the Keystone XL Pipeline.</p><p>In September of 2013, Harold Hamm, CEO of Continental Resources, the Bakken's second largest producer, said the Keystone XL pipeline was no longer critical in an interview with Amy Harder from the <a target="_blank" href="http://www.nationaljournal.com/daily/is-keystone-still-needed-to-transport-u-s-oil-20130826">National Journal</a>. For full disclosure, at the time of the interview, Hamm's Hiland Partners was pushing its Double H Pipeline, a 460-mile pipeline project from Dore, ND, to Guernsey, WY., which is slated to be online by January of 2015.</p><p><strong>Read more:</strong><a href="/bsp-news/news/no-need-for-keystone-xl-continentals-ceo-harold-hamm?rq=No%20Need%20for%20Keystone%20XL%20-%20Continental's%20CEO%20Harold%20Hamm">No Need for Keystone XL - Continental's CEO Harold Hamm</a></p><h2>Political Sway for the Keystone XL Pipeline</h2><p>Senator John Hoeven (R-ND) is the Senate bill's chief sponsor. Hoeven has pushed for the pipeline for several years, and touts its benefits (i.e. an increase in jobs, energy security and a decrease in crude by rail transport).</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/fb29b6793275.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The Keystone XL pipeline is about energy, jobs, helping to grow our economy and increasing national security by increasing energy security,” Hoeven said in a prepared statement.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/fb29b6793275.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f440fda5d4222fbbca4fb/1467382560191/" data-record-type="1" data-full-url="/bsp-news/news/how-the-keystone-xl-pipeline-would-impact-the-bakken" data-title="How the Keystone XL Pipeline Would Impact the Bakken"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f440fda5d4222fbbca4fb" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

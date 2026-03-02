@@ -83,7 +83,7 @@ heroImage: "/images/d70acb870f1a.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d70acb870f1a.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d70acb870f1a.jpeg" data-image="/images/d70acb870f1a.jpeg" data-image-dimensions="300x231" data-image-focal-point="0.5,0.5" alt="Bakken Rail Export Volumes" data-load="false" elementtiming="system-image-block" src="/images/d70acb870f1a.jpeg" width="300" height="231" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d70acb870f1a.jpeg 100w, /images/d70acb870f1a.jpeg 300w, /images/d70acb870f1a.jpeg 500w, /images/d70acb870f1a.jpeg 750w, /images/d70acb870f1a.jpeg 1000w, /images/d70acb870f1a.jpeg 1500w, /images/d70acb870f1a.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Rail Export Volumes" src="/images/d70acb870f1a.jpeg" width="300" height="231" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d70acb870f1a.jpeg 100w, /images/d70acb870f1a.jpeg 300w, /images/d70acb870f1a.jpeg 500w, /images/d70acb870f1a.jpeg 750w, /images/d70acb870f1a.jpeg 1000w, /images/d70acb870f1a.jpeg 1500w, /images/d70acb870f1a.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Railroads are moving almost 70% of the oil produced in North Dakota. That repres
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e2da5d4222fbbca289/1467384425581/" data-record-type="1" data-full-url="/bsp-news/news/railroads-are-moving-70-of-bakken-oil-production" data-title="Railroads Are Moving 70% Of Bakken Oil Production"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e2da5d4222fbbca289" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

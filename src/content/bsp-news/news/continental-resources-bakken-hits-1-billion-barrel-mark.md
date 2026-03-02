@@ -83,7 +83,7 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/abc8fbcc0e81.jpeg" data-image="/images/abc8fbcc0e81.jpeg" data-image-dimensions="300x253" data-image-focal-point="0.5,0.5" alt="Continental 2014 Production" data-load="false" elementtiming="system-image-block" src="/images/abc8fbcc0e81.jpeg" width="300" height="253" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/abc8fbcc0e81.jpeg 100w, /images/abc8fbcc0e81.jpeg 300w, /images/abc8fbcc0e81.jpeg 500w, /images/abc8fbcc0e81.jpeg 750w, /images/abc8fbcc0e81.jpeg 1000w, /images/abc8fbcc0e81.jpeg 1500w, /images/abc8fbcc0e81.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Continental 2014 Production" src="/images/abc8fbcc0e81.jpeg" width="300" height="253" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/abc8fbcc0e81.jpeg 100w, /images/abc8fbcc0e81.jpeg 300w, /images/abc8fbcc0e81.jpeg 500w, /images/abc8fbcc0e81.jpeg 750w, /images/abc8fbcc0e81.jpeg 1000w, /images/abc8fbcc0e81.jpeg 1500w, /images/abc8fbcc0e81.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>This milestone validates the immense potential of the Bakken field and development is just beginning,” said Jack Stark, Senior Vice President of Exploration for Continental. “Two-thirds of this oil was produced in the last three years. This is something our country can celebrate as the oil and natural gas industry continues to create jobs, grow our economy and secure America’s energy future.<span>”</span>
   </blockquote>
   
@@ -173,7 +173,7 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Continental is the largest producer, driller and leaseholder in the Bakken field. In 2013,&nbsp;the company's proved reserves stretched to more than 1 Billion boe, with an estimated value of more than $20 billion.&nbsp;</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/continentals-proved-reserves-in-bakken-valued-at-14-5-billion-2013">Continentals Proved Reserves in Bakken Valued at $14.5 Billion - 2013</a></p><p>The Bakken is anticipated to continue achieving milestones. In 2014, oil production is expected to reach the 1 million b/d mark, and grow markedly beyond that figure over the next 5 – 6 years.</p><p>According to the oil and gas research and consulting firm Wood Mackenzie,&nbsp;the Bakken and Three Forks plays hold close to $118 billion in value. Despite infrastructure concerns, estimates indicate operators will recover more than 20 billion bbls of oil reserves throughout the life of the play.</p><p>Read more at <a target="_blank" href="http://investors.clr.com/phoenix.zhtml?c=197380&amp;p=irol-newsArticle&amp;ID=1923189&amp;highlight=">clr.com</a></p>
+  <p>Continental is the largest producer, driller and leaseholder in the Bakken field. In 2013,&nbsp;the company's proved reserves stretched to more than 1 Billion boe, with an estimated value of more than $20 billion.&nbsp;</p><p><strong>Read more</strong>: <a href="/bsp-news/news/continentals-proved-reserves-in-bakken-valued-at-14-5-billion-2013">Continentals Proved Reserves in Bakken Valued at $14.5 Billion - 2013</a></p><p>The Bakken is anticipated to continue achieving milestones. In 2014, oil production is expected to reach the 1 million b/d mark, and grow markedly beyond that figure over the next 5 – 6 years.</p><p>According to the oil and gas research and consulting firm Wood Mackenzie,&nbsp;the Bakken and Three Forks plays hold close to $118 billion in value. Despite infrastructure concerns, estimates indicate operators will recover more than 20 billion bbls of oil reserves throughout the life of the play.</p><p>Read more at <a target="_blank" href="http://investors.clr.com/phoenix.zhtml?c=197380&amp;p=irol-newsArticle&amp;ID=1923189&amp;highlight=">clr.com</a></p>
 </div>
 
 
@@ -214,9 +214,9 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4402da5d4222fbbca450/1467383138677/" data-record-type="1" data-full-url="/bsp-news/news/continental-resources-bakken-hits-1-billion-barrel-mark" data-title="Continental Resources: Bakken Hits 1-Billion Barrel Mark"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4402da5d4222fbbca450" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

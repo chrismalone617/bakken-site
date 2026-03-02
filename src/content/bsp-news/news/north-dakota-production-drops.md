@@ -84,7 +84,7 @@ heroImage: "/images/740f00180c7a.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -93,7 +93,7 @@ heroImage: "/images/740f00180c7a.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/740f00180c7a.gif" data-image="/images/740f00180c7a.gif" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/740f00180c7a.gif" width="200" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/740f00180c7a.gif 100w, /images/740f00180c7a.gif 300w, /images/740f00180c7a.gif 500w, /images/740f00180c7a.gif 750w, /images/740f00180c7a.gif 1000w, /images/740f00180c7a.gif 1500w, /images/740f00180c7a.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/740f00180c7a.gif" width="200" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/740f00180c7a.gif 100w, /images/740f00180c7a.gif 300w, /images/740f00180c7a.gif 500w, /images/740f00180c7a.gif 750w, /images/740f00180c7a.gif 1000w, /images/740f00180c7a.gif 1500w, /images/740f00180c7a.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -116,7 +116,7 @@ heroImage: "/images/740f00180c7a.gif"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>North Dakota's Department of Mineral Resources announced that the state's crude-oil production dropped in September to the lowest level in more than two years.</p><p><a href="https://bakkenshale.com/bsp-news/news/p9k43al0d3bp5kf9l7lmmdtq6jw1j6">Related: Bakken Production Dips Below 1 Million Barrels a Day</a></p><p>Low crude prices are still wreaking havoc on the oil and &nbsp;gas industry with North Dakota experiencing another drop in production, with volumes staying below the one-million-barrel-per-day mark for the second month in a row.</p><p>Crude production fell 1.1% on the month to 971,658 barrels a day in September, the lowest level since February 2014, when output was 952,055 barrels a day, and follows a 4.7% drop in August.</p><p>In a recent address to the North Dakota Association of Oil and Gas and Coal Producing Counties (NDAOGCPC), Director of Mineral Resources, Lynn Helms provided his forecast for future growth in western North Dakota.&nbsp;Helms estimates under that it is likely the price of West Texas Intermediate (WTI) will stay below $60 a barrel and rigs will continue to focus drilling in the four core counties of Dunn, McKenzie, Mountrail and Williams for the next ten years. Under his "lower for longer" scenario, well count reach a maximum of fifty-five thousand wells by 2050.&nbsp;</p>
+  <p>North Dakota's Department of Mineral Resources announced that the state's crude-oil production dropped in September to the lowest level in more than two years.</p><p><a href="/bsp-news/news/p9k43al0d3bp5kf9l7lmmdtq6jw1j6">Related: Bakken Production Dips Below 1 Million Barrels a Day</a></p><p>Low crude prices are still wreaking havoc on the oil and &nbsp;gas industry with North Dakota experiencing another drop in production, with volumes staying below the one-million-barrel-per-day mark for the second month in a row.</p><p>Crude production fell 1.1% on the month to 971,658 barrels a day in September, the lowest level since February 2014, when output was 952,055 barrels a day, and follows a 4.7% drop in August.</p><p>In a recent address to the North Dakota Association of Oil and Gas and Coal Producing Counties (NDAOGCPC), Director of Mineral Resources, Lynn Helms provided his forecast for future growth in western North Dakota.&nbsp;Helms estimates under that it is likely the price of West Texas Intermediate (WTI) will stay below $60 a barrel and rigs will continue to focus drilling in the four core counties of Dunn, McKenzie, Mountrail and Williams for the next ten years. Under his "lower for longer" scenario, well count reach a maximum of fifty-five thousand wells by 2050.&nbsp;</p>
 </div>
 
 
@@ -163,7 +163,7 @@ heroImage: "/images/740f00180c7a.gif"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Each year I look forward to providing this outlook to county leaders. Now that lower oil prices have held on for an extended period of time, I’ve included a “lower for longer” and a “price shock” forecast to give leaders an idea of how to plan for growth under suppressed drilling conditions as well as rapidly increased drilling activity.” <span>”</span>
   </blockquote>
   <figcaption>— Lynn Helms, Director of DMR</figcaption>
@@ -212,9 +212,9 @@ heroImage: "/images/740f00180c7a.gif"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/58344cfeb8a79b8a2016a212/1479834195304/" data-record-type="1" data-full-url="/bsp-news/news/north-dakota-production-drops" data-title="Helms Predicts Oil Will Stay 'Lower for Longer'"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="58344cfeb8a79b8a2016a212" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

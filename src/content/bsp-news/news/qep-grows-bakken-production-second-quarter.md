@@ -83,7 +83,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ff9ff140787e.jpeg" data-image="/images/ff9ff140787e.jpeg" data-image-dimensions="300x207" data-image-focal-point="0.5,0.5" alt="QEP Resources Bakken Three Forks Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/ff9ff140787e.jpeg" width="300" height="207" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ff9ff140787e.jpeg 100w, /images/ff9ff140787e.jpeg 300w, /images/ff9ff140787e.jpeg 500w, /images/ff9ff140787e.jpeg 750w, /images/ff9ff140787e.jpeg 1000w, /images/ff9ff140787e.jpeg 1500w, /images/ff9ff140787e.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="QEP Resources Bakken Three Forks Acreage Map" src="/images/ff9ff140787e.jpeg" width="300" height="207" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ff9ff140787e.jpeg 100w, /images/ff9ff140787e.jpeg 300w, /images/ff9ff140787e.jpeg 500w, /images/ff9ff140787e.jpeg 750w, /images/ff9ff140787e.jpeg 1000w, /images/ff9ff140787e.jpeg 1500w, /images/ff9ff140787e.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>QEP Resources has grown oil production 82% over the past year and that is largely attributable to assets in the Williston Basin. Bakken and Three Forks production grew to average 20,400 boe/d in the second quarter. That's up from 17,000 boe/d in the first quarter.</p><p>QEP drilled and completed 15 wells in the quarter. Nine wells were completed in the Fort Berthold area and six were completed in the South Antelope area.</p><p><strong>The company's first well pad in the South Antelope area saw <a href="http://bakkenshale.com/bsp-news/news/qep-resources-bakken-well-pad-surpasses-15000-barrels-per-day">four wells come online at a total of more than 15,000 boe/d</a>.</strong></p>
+  <p>QEP Resources has grown oil production 82% over the past year and that is largely attributable to assets in the Williston Basin. Bakken and Three Forks production grew to average 20,400 boe/d in the second quarter. That's up from 17,000 boe/d in the first quarter.</p><p>QEP drilled and completed 15 wells in the quarter. Nine wells were completed in the Fort Berthold area and six were completed in the South Antelope area.</p><p><strong>The company's first well pad in the South Antelope area saw <a href="/bsp-news/news/qep-resources-bakken-well-pad-surpasses-15000-barrels-per-day">four wells come online at a total of more than 15,000 boe/d</a>.</strong></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/ff9ff140787e.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The second quarter was one of steady progress at QEP,” commented Chuck Stanley, CEO. “We continued to increase activity in the Williston Basin and brought on 15 new operated wells in the quarter. Individual well performance has been in line with or ahead of expectations, and we continue to make progress on lowering well costs.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/ff9ff140787e.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e4da5d4222fbbca2a4/1467384362188/" data-record-type="1" data-full-url="/bsp-news/news/qep-grows-bakken-production-second-quarter" data-title="QEP Grows Bakken Production 20% In The Second Quarter"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e4da5d4222fbbca2a4" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

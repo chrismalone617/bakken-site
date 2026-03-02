@@ -83,7 +83,7 @@ heroImage: "/images/83953f123119.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/83953f123119.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/83953f123119.jpeg" data-image="/images/83953f123119.jpeg" data-image-dimensions="268x300" data-image-focal-point="0.5,0.5" alt="Oasis Petroleum Bakken Map" data-load="false" elementtiming="system-image-block" src="/images/83953f123119.jpeg" width="268" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/83953f123119.jpeg 100w, /images/83953f123119.jpeg 300w, /images/83953f123119.jpeg 500w, /images/83953f123119.jpeg 750w, /images/83953f123119.jpeg 1000w, /images/83953f123119.jpeg 1500w, /images/83953f123119.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Oasis Petroleum Bakken Map" src="/images/83953f123119.jpeg" width="268" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/83953f123119.jpeg 100w, /images/83953f123119.jpeg 300w, /images/83953f123119.jpeg 500w, /images/83953f123119.jpeg 750w, /images/83953f123119.jpeg 1000w, /images/83953f123119.jpeg 1500w, /images/83953f123119.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/83953f123119.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p><a href="http://bakkenshale.com/companies/">Oasis Petroleum</a> grew production from 10,724 boe/d in 2011 to 22,469 boe/d in 2012. That marks the second year in a row production has doubled for the company. The company actually exited the year with more than 27,000 boe/d of production, so reaching a range of 30,000-34,000 boe/d in 2013 shouldn't be a worry.</p><blockquote><p>"We more than doubled production for the second straight year, growing 2012 production to 22,469 barrels of oil equivalent per day," said Thomas B. Nusz, Oasis' Chairman and Chief Executive Officer. "The team made significant strides during 2012, laying a firm foundation for continued growth into 2013.......As we transition into full pad development during 2013, we believe we have the right team in place to plan and execute successfully, especially given the complexities associated with this type of activity."</p></blockquote><p>Oasis completed 117 gross (93.3 net) wells during the year, while increasing proved reserves to 143.3 million boe. Approximately 90% of reserves are classified as oil and 49% are developed. Almost 80% of the company's Williston Basin acreage is now held by production and the company expects to conduct 60-70% of its 2013 drilling from pads.</p><p>In 2013, Oasis expects to increase production to 32,000 boe/d, while investing just over $1 billion. The company plans to complete 128 gross (92.5 net operated and 10.9 net non-operated) wells, while further testing the potential of the Three Forks-Sanish formation.</p><p>Watch for results from the first six well test drilled into a single formation from a single spacing unit.</p><p>Oasis also reported:</p><ul><li>Inventory of over 2,000 gross operated drilling locations</li><li>Over 3,000 gross operated and non-operated drilling locations</li><li>14 year drilling inventory at current drilling levels</li><li>Infrastructure expansion are largely complete</li><li>80% of oil moves by rail to fetch better prices.</li><li>1-year expected payback for the $24 million investment in Oasis Well Services</li></ul>
+  <p><a href="/companies/">Oasis Petroleum</a> grew production from 10,724 boe/d in 2011 to 22,469 boe/d in 2012. That marks the second year in a row production has doubled for the company. The company actually exited the year with more than 27,000 boe/d of production, so reaching a range of 30,000-34,000 boe/d in 2013 shouldn't be a worry.</p><blockquote><p>"We more than doubled production for the second straight year, growing 2012 production to 22,469 barrels of oil equivalent per day," said Thomas B. Nusz, Oasis' Chairman and Chief Executive Officer. "The team made significant strides during 2012, laying a firm foundation for continued growth into 2013.......As we transition into full pad development during 2013, we believe we have the right team in place to plan and execute successfully, especially given the complexities associated with this type of activity."</p></blockquote><p>Oasis completed 117 gross (93.3 net) wells during the year, while increasing proved reserves to 143.3 million boe. Approximately 90% of reserves are classified as oil and 49% are developed. Almost 80% of the company's Williston Basin acreage is now held by production and the company expects to conduct 60-70% of its 2013 drilling from pads.</p><p>In 2013, Oasis expects to increase production to 32,000 boe/d, while investing just over $1 billion. The company plans to complete 128 gross (92.5 net operated and 10.9 net non-operated) wells, while further testing the potential of the Three Forks-Sanish formation.</p><p>Watch for results from the first six well test drilled into a single formation from a single spacing unit.</p><p>Oasis also reported:</p><ul><li>Inventory of over 2,000 gross operated drilling locations</li><li>Over 3,000 gross operated and non-operated drilling locations</li><li>14 year drilling inventory at current drilling levels</li><li>Infrastructure expansion are largely complete</li><li>80% of oil moves by rail to fetch better prices.</li><li>1-year expected payback for the $24 million investment in Oasis Well Services</li></ul>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/83953f123119.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43ccda5d4222fbbca136/1467385287608/" data-record-type="1" data-full-url="/bsp-news/news/oasis-petroleums-bakken-production-doubles-in-2012" data-title="Oasis Petroleum's Bakken Production Doubles in 2012"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43ccda5d4222fbbca136" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

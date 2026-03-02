@@ -83,7 +83,7 @@ heroImage: "/images/90d476f1fe73.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/90d476f1fe73.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/90d476f1fe73.jpeg" data-image="/images/90d476f1fe73.jpeg" data-image-dimensions="300x300" data-image-focal-point="0.5,0.5" alt="Whiting Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/90d476f1fe73.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/90d476f1fe73.jpeg 100w, /images/90d476f1fe73.jpeg 300w, /images/90d476f1fe73.jpeg 500w, /images/90d476f1fe73.jpeg 750w, /images/90d476f1fe73.jpeg 1000w, /images/90d476f1fe73.jpeg 1500w, /images/90d476f1fe73.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Whiting Bakken Acreage Map" src="/images/90d476f1fe73.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/90d476f1fe73.jpeg 100w, /images/90d476f1fe73.jpeg 300w, /images/90d476f1fe73.jpeg 500w, /images/90d476f1fe73.jpeg 750w, /images/90d476f1fe73.jpeg 1000w, /images/90d476f1fe73.jpeg 1500w, /images/90d476f1fe73.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/90d476f1fe73.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>In its fourth quarter earning report, Whiting Petroleum announced a record 2014 and revealed a 2015 spending plan that includes reducing Bakken rig count.</p><p>In spite of low crude prices, Whiting ended the year with a Q4 profit of $58 million with cash flows totalling $419 million. Oil production was at record numbers for both the quarter (up 13%) and the entire year, which averaged 41.8 MMBOE and was up 22% over 2013.</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/whiting-bakken-production-hits-record-levels-second-quarter?rq=Whiting%20Bakken%20Production%20Hits%20Record%20Levels%20in%20Second%20Quarter">Whiting Bakken Production Hits Record Levels in Second Quarter</a></p><p>In July of 2014, Whiting Petroleum announced plans to acquire Kodiak Oil &amp; Gas for $3.8 billion. The deal made the combined company the largest Bakken/Three Forks producer, unseating Harold Hamm’s Continental Resources from the top spot.</p><p>Read more: <a href="http://bakkenshale.com/bsp-news/news/whiting-petroleum-acquires-kodiak-oil-gas-3-8-billion">Whiting Petroleum Acquires Kodiak Oil &amp; Gas – $3.8 Billion</a></p>
+  <p>In its fourth quarter earning report, Whiting Petroleum announced a record 2014 and revealed a 2015 spending plan that includes reducing Bakken rig count.</p><p>In spite of low crude prices, Whiting ended the year with a Q4 profit of $58 million with cash flows totalling $419 million. Oil production was at record numbers for both the quarter (up 13%) and the entire year, which averaged 41.8 MMBOE and was up 22% over 2013.</p><p>Related: <a href="/bsp-news/news/whiting-bakken-production-hits-record-levels-second-quarter?rq=Whiting%20Bakken%20Production%20Hits%20Record%20Levels%20in%20Second%20Quarter">Whiting Bakken Production Hits Record Levels in Second Quarter</a></p><p>In July of 2014, Whiting Petroleum announced plans to acquire Kodiak Oil &amp; Gas for $3.8 billion. The deal made the combined company the largest Bakken/Three Forks producer, unseating Harold Hamm’s Continental Resources from the top spot.</p><p>Read more: <a href="/bsp-news/news/whiting-petroleum-acquires-kodiak-oil-gas-3-8-billion">Whiting Petroleum Acquires Kodiak Oil &amp; Gas – $3.8 Billion</a></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/90d476f1fe73.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>James J. Volker, Whiting’s Chairman, President and CEO, commented, “2014 was a strong year for Whiting. We set records in production, proved reserves and discretionary cash flow. In the wake of our acquisition of Kodiak Oil &amp; Gas, we became the largest Bakken/Three Forks producer in the Williston Basin.Our 2015 capital budget of $2.0 billion reflects a disciplined approach to maintaining our financial strength while preserving our long-term growth plans.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/90d476f1fe73.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4417da5d4222fbbca56d/1467382166310/" data-record-type="1" data-full-url="/bsp-news/news/whiting-reduce-bakken-rig-count" data-title="Whiting to Reduce Bakken Rig Count"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4417da5d4222fbbca56d" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

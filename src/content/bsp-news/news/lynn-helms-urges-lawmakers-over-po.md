@@ -27,7 +27,7 @@ heroImage: "/images/822887aad33a.png"
     <div><div data-layout-label="Post Body" data-type="item" data-updated-on="1468415946755"><div><div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Top North Dakota official urged lawmakers to reign in proposed clean air regulations.</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/methane-emissions-drop?rq=epa">Methane Emissions Drop</a></p>
+  <p>Top North Dakota official urged lawmakers to reign in proposed clean air regulations.</p><p>Related: <a href="/bsp-news/news/methane-emissions-drop?rq=epa">Methane Emissions Drop</a></p>
 </div>
 
 
@@ -110,7 +110,7 @@ heroImage: "/images/822887aad33a.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -119,7 +119,7 @@ heroImage: "/images/822887aad33a.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/822887aad33a.png" data-image="/images/822887aad33a.png" data-image-dimensions="953x693" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/822887aad33a.png" width="953" height="693" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/822887aad33a.png 100w, /images/822887aad33a.png 300w, /images/822887aad33a.png 500w, /images/822887aad33a.png 750w, /images/822887aad33a.png 1000w, /images/822887aad33a.png 1500w, /images/822887aad33a.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/822887aad33a.png" width="953" height="693" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/822887aad33a.png 100w, /images/822887aad33a.png 300w, /images/822887aad33a.png 500w, /images/822887aad33a.png 750w, /images/822887aad33a.png 1000w, /images/822887aad33a.png 1500w, /images/822887aad33a.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -187,7 +187,7 @@ heroImage: "/images/822887aad33a.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>(The EPA’s plan) will nullify the proven state regulatory program and thereby harm the State’s sovereign interest in planning and developing the use of oil and gas resources within its jurisdiction. The record keeping requirements of the proposed rule are far too voluminous for any kind of reasonable inspection and enforcement to be conducted. <span>”</span>
   </blockquote>
   <figcaption>— Lynn Helms</figcaption>
@@ -236,9 +236,9 @@ heroImage: "/images/822887aad33a.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/57863973414fb5a47a586cc3/1468520213585/" data-record-type="1" data-full-url="/bsp-news/news/lynn-helms-urges-lawmakers-over-po" data-title="Lynn Helms Urges Lawmakers Over Proposed Regulations"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="57863973414fb5a47a586cc3" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

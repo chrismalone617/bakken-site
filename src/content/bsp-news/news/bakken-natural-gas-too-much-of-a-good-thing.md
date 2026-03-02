@@ -83,7 +83,7 @@ heroImage: "/images/d704ae9d3215.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d704ae9d3215.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d704ae9d3215.jpeg" data-image="/images/d704ae9d3215.jpeg" data-image-dimensions="300x225" data-image-focal-point="0.5,0.5" alt="Bakken Oil Well" data-load="false" elementtiming="system-image-block" src="/images/d704ae9d3215.jpeg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d704ae9d3215.jpeg 100w, /images/d704ae9d3215.jpeg 300w, /images/d704ae9d3215.jpeg 500w, /images/d704ae9d3215.jpeg 750w, /images/d704ae9d3215.jpeg 1000w, /images/d704ae9d3215.jpeg 1500w, /images/d704ae9d3215.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Oil Well" src="/images/d704ae9d3215.jpeg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d704ae9d3215.jpeg 100w, /images/d704ae9d3215.jpeg 300w, /images/d704ae9d3215.jpeg 500w, /images/d704ae9d3215.jpeg 750w, /images/d704ae9d3215.jpeg 1000w, /images/d704ae9d3215.jpeg 1500w, /images/d704ae9d3215.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/d704ae9d3215.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The oil &amp; gas renaissance in the U.S. has nearly catapulted the country to the top spot for oil production in the world, and most experts believe the U.S. will hit this target by next year. But is it possible that the country and the Bakken has too much of a good thing? When it comes to natural gas that may be the case.</p><p>According to the BP 2014 statistical world energy review, the U.S. is currently the top natural gas producing country in the world at 328 Bcf/d. Over the past five years, natural gas production has grown over 20% in the U.S., thanks in large part to the shale revolution. But the price of natural gas has struggled to break $4/mmbtu, and oil companies in North Dakota's and Montana's Bakken Shale and the Eagle Ford Shale in South Texas have flared much of their produced natural gas in favor of capturing oil, which is a much higher valued commodity. Currently, the WTI price of crude oil is hovering around $95/bbl.</p><p>In North Dakota, where production from the Bakken Shale is highest, the state flares just under 30% of its produced natural gas. Recently, the first of several new rules has been enacted in the state to combat flaring. The North Dakota Industrial Commission (NDIC), the state's regulatory body for the oil and gas industry, hopes to capture 90% of Bakken natural gas by 2020; however, serious infrastructure improvements, including gas gathering systems and natural gas pipelines will need to be implemented in the Williston Basin for this goal to be achieved. The alternative could mean operators will need to shut-in wells to meet flaring guidelines - that's bad news for them, the state and mineral owners.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/ndic-implements-new-bakken-flaring-rule-june-1-2014?rq=NDIC%20Implements%20New%20Bakken%20Flaring%20Rule">NDIC Implements New Bakken Flaring Rule - June 1, 2014</a></p><p>What this boils down to is the U.S. has an abundance of natural gas, which is a good thing. The bad thing is the country lacks the infrastructure to capture all of it.</p><p>With world usage of natural gas accounting for 24% of all primary energy consumed, there is decidedly a market for natural gas. But the only effective way to transport natural gas to foreign markets is to liquify it, which is costly. Ultimately, natural gas production is subject to the free market. As long as the price stays low, there's less economic benefit for operators to produce it, and companies to transport it and market it.</p>
+  <p>The oil &amp; gas renaissance in the U.S. has nearly catapulted the country to the top spot for oil production in the world, and most experts believe the U.S. will hit this target by next year. But is it possible that the country and the Bakken has too much of a good thing? When it comes to natural gas that may be the case.</p><p>According to the BP 2014 statistical world energy review, the U.S. is currently the top natural gas producing country in the world at 328 Bcf/d. Over the past five years, natural gas production has grown over 20% in the U.S., thanks in large part to the shale revolution. But the price of natural gas has struggled to break $4/mmbtu, and oil companies in North Dakota's and Montana's Bakken Shale and the Eagle Ford Shale in South Texas have flared much of their produced natural gas in favor of capturing oil, which is a much higher valued commodity. Currently, the WTI price of crude oil is hovering around $95/bbl.</p><p>In North Dakota, where production from the Bakken Shale is highest, the state flares just under 30% of its produced natural gas. Recently, the first of several new rules has been enacted in the state to combat flaring. The North Dakota Industrial Commission (NDIC), the state's regulatory body for the oil and gas industry, hopes to capture 90% of Bakken natural gas by 2020; however, serious infrastructure improvements, including gas gathering systems and natural gas pipelines will need to be implemented in the Williston Basin for this goal to be achieved. The alternative could mean operators will need to shut-in wells to meet flaring guidelines - that's bad news for them, the state and mineral owners.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/ndic-implements-new-bakken-flaring-rule-june-1-2014?rq=NDIC%20Implements%20New%20Bakken%20Flaring%20Rule">NDIC Implements New Bakken Flaring Rule - June 1, 2014</a></p><p>What this boils down to is the U.S. has an abundance of natural gas, which is a good thing. The bad thing is the country lacks the infrastructure to capture all of it.</p><p>With world usage of natural gas accounting for 24% of all primary energy consumed, there is decidedly a market for natural gas. But the only effective way to transport natural gas to foreign markets is to liquify it, which is costly. Ultimately, natural gas production is subject to the free market. As long as the price stays low, there's less economic benefit for operators to produce it, and companies to transport it and market it.</p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/d704ae9d3215.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f440bda5d4222fbbca4c6/1467382703171/" data-record-type="1" data-full-url="/bsp-news/news/bakken-natural-gas-too-much-of-a-good-thing" data-title="Bakken Natural Gas - Too Much of a Good Thing?"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f440bda5d4222fbbca4c6" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

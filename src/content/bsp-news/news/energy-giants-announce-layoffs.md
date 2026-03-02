@@ -83,7 +83,7 @@ heroImage: "/images/2364f5a9bc7b.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/2364f5a9bc7b.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/2364f5a9bc7b.jpg" data-image="/images/2364f5a9bc7b.jpg" data-image-dimensions="150x200" data-image-focal-point="0.5,0.5" alt="oil prices and layoffs" data-load="false" elementtiming="system-image-block" src="/images/2364f5a9bc7b.jpg" width="150" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/2364f5a9bc7b.jpg 100w, /images/2364f5a9bc7b.jpg 300w, /images/2364f5a9bc7b.jpg 500w, /images/2364f5a9bc7b.jpg 750w, /images/2364f5a9bc7b.jpg 1000w, /images/2364f5a9bc7b.jpg 1500w, /images/2364f5a9bc7b.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="oil prices and layoffs" src="/images/2364f5a9bc7b.jpg" width="150" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/2364f5a9bc7b.jpg 100w, /images/2364f5a9bc7b.jpg 300w, /images/2364f5a9bc7b.jpg 500w, /images/2364f5a9bc7b.jpg 750w, /images/2364f5a9bc7b.jpg 1000w, /images/2364f5a9bc7b.jpg 1500w, /images/2364f5a9bc7b.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/2364f5a9bc7b.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Lower crude prices are a double edged sword. The average consumer may enjoy the benefits as cheap fuel reduces the costs of goods and services, but for those whose livelihood relies on the energy industry, the extra cash will be of little solice if they no longer have a job. It has taken some time for the reality of the low oil prices to finally trickle down, but after months of plummeting crude, the boom will become bust for the many who will soon face a pink slip.</p><p><a href="http://bakkenshale.com/bsp-news/news/low-oil-prices-offer-uneven-economic-effect?rq=Low%20Oil%20Prices%20Offer%20Uneven%20Effect">Related: Low Oil Prices Offer Uneven Effect</a></p><p>Since November, one company after another announced massive reductions in their 2015 budgets as they have scrambled to cope with the dramatic 50% drop in crude prices since the summer. The next predictable step began last week as companies announced layoffs and prepare to scale back drilling operations.</p><p>Amidst the happy refrains from people who are enjoying lower gasoline prices, there is the occasional cynical comment that suggests the only ones who are hurt by low crude prices are the nameless, faceless, deep pockets of the energy companies. This represents a short-sighted and narrow view of the current reality facing workers, families and local economies.</p><p>Not only do layoffs affect workers directly, but a report authored by Dr. Robert W. “Bill” Gilmer for U.H.’s Bauer School of Business estimates that with each new energy job created/eliminated, there are three - four other jobs that are also create/eliminated.</p>
+  <p>Lower crude prices are a double edged sword. The average consumer may enjoy the benefits as cheap fuel reduces the costs of goods and services, but for those whose livelihood relies on the energy industry, the extra cash will be of little solice if they no longer have a job. It has taken some time for the reality of the low oil prices to finally trickle down, but after months of plummeting crude, the boom will become bust for the many who will soon face a pink slip.</p><p><a href="/bsp-news/news/low-oil-prices-offer-uneven-economic-effect?rq=Low%20Oil%20Prices%20Offer%20Uneven%20Effect">Related: Low Oil Prices Offer Uneven Effect</a></p><p>Since November, one company after another announced massive reductions in their 2015 budgets as they have scrambled to cope with the dramatic 50% drop in crude prices since the summer. The next predictable step began last week as companies announced layoffs and prepare to scale back drilling operations.</p><p>Amidst the happy refrains from people who are enjoying lower gasoline prices, there is the occasional cynical comment that suggests the only ones who are hurt by low crude prices are the nameless, faceless, deep pockets of the energy companies. This represents a short-sighted and narrow view of the current reality facing workers, families and local economies.</p><p>Not only do layoffs affect workers directly, but a report authored by Dr. Robert W. “Bill” Gilmer for U.H.’s Bauer School of Business estimates that with each new energy job created/eliminated, there are three - four other jobs that are also create/eliminated.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/2364f5a9bc7b.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Discussing the impact on Houston, Gilmer predicts that “These cuts will be felt from Houston’s machine shops and factories to its office towers. The question becomes how this strange mix of good news and bad balances out to affect Houston’s economic prospects in 2015 and beyond.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/2364f5a9bc7b.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4414da5d4222fbbca543/1467382300269/" data-record-type="1" data-full-url="/bsp-news/news/energy-giants-announce-layoffs" data-title="Energy Giants Announce Layoffs"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4414da5d4222fbbca543" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

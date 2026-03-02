@@ -73,9 +73,9 @@ description: "Bakken oil &amp;amp; gas production in North Dakota grew almost 2%
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e0da5d4222fbbca26d/1467325888463/" data-record-type="1" data-full-url="/bsp-news/news/bakken-oil-production-record-set-in-may-despite-the-weather" data-title="Bakken Oil Production Record Set In May - Despite Wet Weather"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e0da5d4222fbbca26d" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

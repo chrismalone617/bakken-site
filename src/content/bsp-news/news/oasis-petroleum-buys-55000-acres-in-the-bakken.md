@@ -83,7 +83,7 @@ heroImage: "/images/e7b833fd2640.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/e7b833fd2640.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/e7b833fd2640.jpeg" data-image="/images/e7b833fd2640.jpeg" data-image-dimensions="300x225" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/e7b833fd2640.jpeg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e7b833fd2640.jpeg 100w, /images/e7b833fd2640.jpeg 300w, /images/e7b833fd2640.jpeg 500w, /images/e7b833fd2640.jpeg 750w, /images/e7b833fd2640.jpeg 1000w, /images/e7b833fd2640.jpeg 1500w, /images/e7b833fd2640.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/e7b833fd2640.jpeg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e7b833fd2640.jpeg 100w, /images/e7b833fd2640.jpeg 300w, /images/e7b833fd2640.jpeg 500w, /images/e7b833fd2640.jpeg 750w, /images/e7b833fd2640.jpeg 1000w, /images/e7b833fd2640.jpeg 1500w, /images/e7b833fd2640.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -113,7 +113,7 @@ heroImage: "/images/e7b833fd2640.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Oasis Petroleum announces a huge acquisition of assets in the Bakken Shale Play.</p><p><a href="http://bakkenshale.com/bsp-news/news/sm-energy-to-sell-54500-bakken-acres">Related: SM Energy Sells 54,000 Bakken Acres</a></p><p>On October 17th,&nbsp;Oasis signed an agreement to purchase the drilling rights to approximately 55,000 net acres in the Williston Basin from SM Energy Company.</p><p>The $785 million deal includes an estimated estimated 226 gross operated drilling location with a production of 50.2 MMBoe of proved reserves, 63% of which are considered proved developed producing and 77% of which are oil. &nbsp;</p>
+  <p>Oasis Petroleum announces a huge acquisition of assets in the Bakken Shale Play.</p><p><a href="/bsp-news/news/sm-energy-to-sell-54500-bakken-acres">Related: SM Energy Sells 54,000 Bakken Acres</a></p><p>On October 17th,&nbsp;Oasis signed an agreement to purchase the drilling rights to approximately 55,000 net acres in the Williston Basin from SM Energy Company.</p><p>The $785 million deal includes an estimated estimated 226 gross operated drilling location with a production of 50.2 MMBoe of proved reserves, 63% of which are considered proved developed producing and 77% of which are oil. &nbsp;</p>
 </div>
 
 
@@ -160,7 +160,7 @@ heroImage: "/images/e7b833fd2640.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>This acquisition is a great opportunity to add acreage and inventory that is a natural fit with our existing core and extended core positions and will increase our gross operated drilling locations in our core acreage by approximately 25%.<span>”</span>
   </blockquote>
   <figcaption>— Thomas B. Nusz, Chairman and CEO</figcaption>
@@ -209,9 +209,9 @@ heroImage: "/images/e7b833fd2640.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/5819224415d5db7a3cd67904/1478043476275/" data-record-type="1" data-full-url="/bsp-news/news/oasis-petroleum-buys-55000-acres-in-the-bakken" data-title="Oasis Petroleum Buys 55,000 Acres in the Bakken"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="5819224415d5db7a3cd67904" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

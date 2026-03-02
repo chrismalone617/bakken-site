@@ -83,7 +83,7 @@ heroImage: "/images/33de9b2067b5.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/33de9b2067b5.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/33de9b2067b5.jpeg" data-image="/images/33de9b2067b5.jpeg" data-image-dimensions="300x228" data-image-focal-point="0.5,0.5" alt="Pipeline Construction" data-load="false" elementtiming="system-image-block" src="/images/33de9b2067b5.jpeg" width="300" height="228" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/33de9b2067b5.jpeg 100w, /images/33de9b2067b5.jpeg 300w, /images/33de9b2067b5.jpeg 500w, /images/33de9b2067b5.jpeg 750w, /images/33de9b2067b5.jpeg 1000w, /images/33de9b2067b5.jpeg 1500w, /images/33de9b2067b5.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Pipeline Construction" src="/images/33de9b2067b5.jpeg" width="300" height="228" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/33de9b2067b5.jpeg 100w, /images/33de9b2067b5.jpeg 300w, /images/33de9b2067b5.jpeg 500w, /images/33de9b2067b5.jpeg 750w, /images/33de9b2067b5.jpeg 1000w, /images/33de9b2067b5.jpeg 1500w, /images/33de9b2067b5.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ CenterPoint Energy has signed a long-term agreement to gather crude oil producti
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22bfdfa21e80eeb5507a/1467907760949/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/centerpoint-xto-sign-long-term-crude-oil-gathering-agreement" data-title="CenterPoint - XTO Sign Long-Term Crude Oil Gathering Agreement"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22bfdfa21e80eeb5507a" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

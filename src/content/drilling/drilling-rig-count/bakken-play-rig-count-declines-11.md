@@ -83,7 +83,7 @@ heroImage: "/images/92cd60ab4b45.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/92cd60ab4b45.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/92cd60ab4b45.jpeg" data-image="/images/92cd60ab4b45.jpeg" data-image-dimensions="247x300" data-image-focal-point="0.5,0.5" alt="Williston Basin Rig Map" data-load="false" elementtiming="system-image-block" src="/images/92cd60ab4b45.jpeg" width="247" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/92cd60ab4b45.jpeg 100w, /images/92cd60ab4b45.jpeg 300w, /images/92cd60ab4b45.jpeg 500w, /images/92cd60ab4b45.jpeg 750w, /images/92cd60ab4b45.jpeg 1000w, /images/92cd60ab4b45.jpeg 1500w, /images/92cd60ab4b45.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Williston Basin Rig Map" src="/images/92cd60ab4b45.jpeg" width="247" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/92cd60ab4b45.jpeg 100w, /images/92cd60ab4b45.jpeg 300w, /images/92cd60ab4b45.jpeg 500w, /images/92cd60ab4b45.jpeg 750w, /images/92cd60ab4b45.jpeg 1000w, /images/92cd60ab4b45.jpeg 1500w, /images/92cd60ab4b45.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/92cd60ab4b45.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>James Williams Williams, president of energy consulting company WTRG Economics commented to Bloomberg that,  “The Bakken was late to join the others leaving the party. It’s a high-cost producer with some of the lowest oil prices in the country.<span>”</span>
   </blockquote>
   
@@ -173,7 +173,7 @@ heroImage: "/images/92cd60ab4b45.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>&nbsp;</p><p>This news is a result of the continued free-fall in crude prices, which dipped again today to $45.14. As expected, major Bakken operators are responding by continuing to slash their budgets for 2015.</p><p>Read more: <a href="http://bakkenshale.com/bsp-news/news/halcon-resources-reduces-2015-budget">Halcón Resources Reduces 2015 Budget</a></p><p>Read more: <a href="http://bakkenshale.com/bsp-news/news/more-budget-cuts-continental-resources?rq=More%20Budget%20Cuts%20for%20Continental%20Resources">More Budget Cuts for Continental Resources</a></p><h3><strong>What is the Rig Count?</strong></h3><p>The Bakken Shale Rig Count is an index of the total number of oil &amp; gas drilling rigs running across Montana and North Dakota. The rigs referred to in this article are for ALL drilling reported by Baker Hughes and not solely wells targeting the Bakken formation. All land rigs and onshore rig data shown here are based upon industry estimates provided by the Baker Hughes Rig Count.</p><p>Read more at <a target="_blank" href="http://phx.corporate-ir.net/phoenix.zhtml?c=79687&amp;p=irol-reportsother">BakerHughes.com</a></p>
+  <p>&nbsp;</p><p>This news is a result of the continued free-fall in crude prices, which dipped again today to $45.14. As expected, major Bakken operators are responding by continuing to slash their budgets for 2015.</p><p>Read more: <a href="/bsp-news/news/halcon-resources-reduces-2015-budget">Halcón Resources Reduces 2015 Budget</a></p><p>Read more: <a href="/bsp-news/news/more-budget-cuts-continental-resources?rq=More%20Budget%20Cuts%20for%20Continental%20Resources">More Budget Cuts for Continental Resources</a></p><h3><strong>What is the Rig Count?</strong></h3><p>The Bakken Shale Rig Count is an index of the total number of oil &amp; gas drilling rigs running across Montana and North Dakota. The rigs referred to in this article are for ALL drilling reported by Baker Hughes and not solely wells targeting the Bakken formation. All land rigs and onshore rig data shown here are based upon industry estimates provided by the Baker Hughes Rig Count.</p><p>Read more at <a target="_blank" href="http://phx.corporate-ir.net/phoenix.zhtml?c=79687&amp;p=irol-reportsother">BakerHughes.com</a></p>
 </div>
 
 
@@ -214,9 +214,9 @@ heroImage: "/images/92cd60ab4b45.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f41e26dc6951d90c43bbf/573f41f96dc6951d90c43cfc/1467825809781/" data-record-type="1" data-full-url="/drilling/drilling-rig-count/bakken-play-rig-count-declines-11" data-title="Bakken Play Rig Count Declines by 11"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f41f96dc6951d90c43cfc" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

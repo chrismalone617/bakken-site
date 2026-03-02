@@ -83,7 +83,7 @@ heroImage: "/images/7c0b16451b04.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/7c0b16451b04.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/7c0b16451b04.jpeg" data-image="/images/7c0b16451b04.jpeg" data-image-dimensions="278x300" data-image-focal-point="0.5,0.5" alt="Whiting Bakken Map" data-load="false" elementtiming="system-image-block" src="/images/7c0b16451b04.jpeg" width="278" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/7c0b16451b04.jpeg 100w, /images/7c0b16451b04.jpeg 300w, /images/7c0b16451b04.jpeg 500w, /images/7c0b16451b04.jpeg 750w, /images/7c0b16451b04.jpeg 1000w, /images/7c0b16451b04.jpeg 1500w, /images/7c0b16451b04.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Whiting Bakken Map" src="/images/7c0b16451b04.jpeg" width="278" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/7c0b16451b04.jpeg 100w, /images/7c0b16451b04.jpeg 300w, /images/7c0b16451b04.jpeg 500w, /images/7c0b16451b04.jpeg 750w, /images/7c0b16451b04.jpeg 1000w, /images/7c0b16451b04.jpeg 1500w, /images/7c0b16451b04.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Whiting Petroleum's operated Bakken production of ~66,156 b/d was higher than an
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d4da5d4222fbbca1a2/1467385185879/" data-record-type="1" data-full-url="/bsp-news/news/whiting-petroleum-1-operated-bakken-producer-in-december" data-title="Whiting Petroleum #1 Operated Bakken Producer in December"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d4da5d4222fbbca1a2" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

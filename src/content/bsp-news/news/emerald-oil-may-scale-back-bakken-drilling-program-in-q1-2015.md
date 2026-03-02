@@ -83,7 +83,7 @@ heroImage: "/images/92bf14f69e5d.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/92bf14f69e5d.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/92bf14f69e5d.jpeg" data-image="/images/92bf14f69e5d.jpeg" data-image-dimensions="300x300" data-image-focal-point="0.5,0.5" alt="Emerald Oil Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/92bf14f69e5d.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/92bf14f69e5d.jpeg 100w, /images/92bf14f69e5d.jpeg 300w, /images/92bf14f69e5d.jpeg 500w, /images/92bf14f69e5d.jpeg 750w, /images/92bf14f69e5d.jpeg 1000w, /images/92bf14f69e5d.jpeg 1500w, /images/92bf14f69e5d.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Emerald Oil Bakken Acreage Map" src="/images/92bf14f69e5d.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/92bf14f69e5d.jpeg 100w, /images/92bf14f69e5d.jpeg 300w, /images/92bf14f69e5d.jpeg 500w, /images/92bf14f69e5d.jpeg 750w, /images/92bf14f69e5d.jpeg 1000w, /images/92bf14f69e5d.jpeg 1500w, /images/92bf14f69e5d.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/92bf14f69e5d.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>According to Rudisill, the company’s decision will be determined largely by what is happening with WTI crude oil price.”We have to respond to large changes in the price of crude oil, said Rudisill. We will make a decision in the middle of March 2015 on whether or not to lay down the third rig.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/92bf14f69e5d.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f440eda5d4222fbbca4f0/1467382589425/" data-record-type="1" data-full-url="/bsp-news/news/emerald-oil-may-scale-back-bakken-drilling-program-in-q1-2015" data-title="Emerald Oil May Scale Back Bakken Drilling Program in Q1 2015"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f440eda5d4222fbbca4f0" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

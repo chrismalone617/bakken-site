@@ -83,7 +83,7 @@ heroImage: "/images/de9b26f6c536.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/de9b26f6c536.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/de9b26f6c536.jpg" data-image="/images/de9b26f6c536.jpg" data-image-dimensions="150x200" data-image-focal-point="0.5,0.5" alt="Bob Fryland NAPE 2015" data-load="false" elementtiming="system-image-block" src="/images/de9b26f6c536.jpg" width="150" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/de9b26f6c536.jpg 100w, /images/de9b26f6c536.jpg 300w, /images/de9b26f6c536.jpg 500w, /images/de9b26f6c536.jpg 750w, /images/de9b26f6c536.jpg 1000w, /images/de9b26f6c536.jpg 1500w, /images/de9b26f6c536.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bob Fryland NAPE 2015" src="/images/de9b26f6c536.jpg" width="150" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/de9b26f6c536.jpg 100w, /images/de9b26f6c536.jpg 300w, /images/de9b26f6c536.jpg 500w, /images/de9b26f6c536.jpg 750w, /images/de9b26f6c536.jpg 1000w, /images/de9b26f6c536.jpg 1500w, /images/de9b26f6c536.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/de9b26f6c536.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Hundreds gathered in Houston today for the opening of the NAPE Summit Business Conference. This annual networking event is designed to bring prospects, producers and purchasers together to forge important business connections and mine opportunities.</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/winter-nape-expo-business-conference-highlights-2014?rq=Winter%20NAPE%20Expo%20Business%20Conference%20Highlights%20–%202014">Winter NAPE Expo Business Conference Highlights – 2014</a></p><p>In an industry riddled with recent uncertainty, the atmosphere at the conference was marked by optimism. Bob Fryklund, Chief Upstream Strategist for IHS, set the tone in his opening comments as he encouraged participants not to push the panic button too quickly. Though he acknowledged the conversation has changed in recent months, he reminded participants of the record production set by North American producers in the last five years.</p>
+  <p>Hundreds gathered in Houston today for the opening of the NAPE Summit Business Conference. This annual networking event is designed to bring prospects, producers and purchasers together to forge important business connections and mine opportunities.</p><p>Related: <a href="/bsp-news/news/winter-nape-expo-business-conference-highlights-2014?rq=Winter%20NAPE%20Expo%20Business%20Conference%20Highlights%20–%202014">Winter NAPE Expo Business Conference Highlights – 2014</a></p><p>In an industry riddled with recent uncertainty, the atmosphere at the conference was marked by optimism. Bob Fryklund, Chief Upstream Strategist for IHS, set the tone in his opening comments as he encouraged participants not to push the panic button too quickly. Though he acknowledged the conversation has changed in recent months, he reminded participants of the record production set by North American producers in the last five years.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/de9b26f6c536.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Fryklund commented, “OPEC and others discount the resilience of North America,” and  added that, “we will not be a diminished producer because of what we are going through.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/de9b26f6c536.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4415da5d4222fbbca552/1467382250175/" data-record-type="1" data-full-url="/bsp-news/news/nape-business-conference-2015" data-title="NAPE Business Conference 2015"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4415da5d4222fbbca552" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

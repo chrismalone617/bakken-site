@@ -83,7 +83,7 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/abc8fbcc0e81.jpeg" data-image="/images/abc8fbcc0e81.jpeg" data-image-dimensions="300x253" data-image-focal-point="0.5,0.5" alt="Continental 2014 Production" data-load="false" elementtiming="system-image-block" src="/images/abc8fbcc0e81.jpeg" width="300" height="253" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/abc8fbcc0e81.jpeg 100w, /images/abc8fbcc0e81.jpeg 300w, /images/abc8fbcc0e81.jpeg 500w, /images/abc8fbcc0e81.jpeg 750w, /images/abc8fbcc0e81.jpeg 1000w, /images/abc8fbcc0e81.jpeg 1500w, /images/abc8fbcc0e81.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Continental 2014 Production" src="/images/abc8fbcc0e81.jpeg" width="300" height="253" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/abc8fbcc0e81.jpeg 100w, /images/abc8fbcc0e81.jpeg 300w, /images/abc8fbcc0e81.jpeg 500w, /images/abc8fbcc0e81.jpeg 750w, /images/abc8fbcc0e81.jpeg 1000w, /images/abc8fbcc0e81.jpeg 1500w, /images/abc8fbcc0e81.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Continental's Bakken production totaled 108,573 boe/d (North Dakota: 94,702 boe/d, Montana: 13,871 boe/d) in the second quarter of 2014. That's an increase of 11% quarter-on-quarter and 23% year-over-year.</p><p>During the quarter, the company completed 224 gross (93 net) wells in the Bakken, and finished the reporting period with an inventory of approximately 84 gross operated (66 net) Bakken wells drilled, but not completed. The second quarter drilling inventory numbers are down from 100 gross operated wells drilled, but not completed at the end of the first quarter of 2014. &nbsp;Continental expects to complete approximately 870 gross (287 net) wells in the Bakken in full-year 2014, including both operated and non-operated wells.</p><p><strong>Read more</strong>:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/continentals-proved-reserves-in-bakken-valued-at-14-5-billion-2013?rq=Continental's%20Proved%20Reserves%20in%20Bakken%20Valued%20at%20%2414.5%20Billion%20-%202013">Continental's Proved Reserves in Bakken Valued at $14.5 Billion - 2013</a></p><h2>Continental Bakken New Completion Techniques Employed</h2><p>The company continues to modify completion techniques.&nbsp;During the quarter, Continental conducted three slick water completions in an unspecified geological area of the play, which company officials say resulted in an average early cumulative production increase of 35% higher than the production trend for the company's 603,000 BOE estimated ultimate recovery (EUR) model for North Dakota.&nbsp;Additionally, in the same geological area, early production was also stronger for three wells completed with increased proppant volumes, which averaged between 200,000 to 300,000 pounds of proppant per stage.</p>
+  <p>Continental's Bakken production totaled 108,573 boe/d (North Dakota: 94,702 boe/d, Montana: 13,871 boe/d) in the second quarter of 2014. That's an increase of 11% quarter-on-quarter and 23% year-over-year.</p><p>During the quarter, the company completed 224 gross (93 net) wells in the Bakken, and finished the reporting period with an inventory of approximately 84 gross operated (66 net) Bakken wells drilled, but not completed. The second quarter drilling inventory numbers are down from 100 gross operated wells drilled, but not completed at the end of the first quarter of 2014. &nbsp;Continental expects to complete approximately 870 gross (287 net) wells in the Bakken in full-year 2014, including both operated and non-operated wells.</p><p><strong>Read more</strong>:&nbsp;<a href="/bsp-news/news/continentals-proved-reserves-in-bakken-valued-at-14-5-billion-2013?rq=Continental's%20Proved%20Reserves%20in%20Bakken%20Valued%20at%20%2414.5%20Billion%20-%202013">Continental's Proved Reserves in Bakken Valued at $14.5 Billion - 2013</a></p><h2>Continental Bakken New Completion Techniques Employed</h2><p>The company continues to modify completion techniques.&nbsp;During the quarter, Continental conducted three slick water completions in an unspecified geological area of the play, which company officials say resulted in an average early cumulative production increase of 35% higher than the production trend for the company's 603,000 BOE estimated ultimate recovery (EUR) model for North Dakota.&nbsp;Additionally, in the same geological area, early production was also stronger for three wells completed with increased proppant volumes, which averaged between 200,000 to 300,000 pounds of proppant per stage.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>COO Rick Bott, said, “we’re pleased with several of the new completion methods we are testing and early results show significant improvements in well performance. We are studying the broader implications of applying enhanced completions across the play.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/abc8fbcc0e81.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f440ada5d4222fbbca4b7/1467382761055/" data-record-type="1" data-full-url="/bsp-news/news/continental-resources-bakken-production-second-quarter-2014" data-title="Continental Resources Bakken Production Up 11% in Q2 2014"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f440ada5d4222fbbca4b7" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

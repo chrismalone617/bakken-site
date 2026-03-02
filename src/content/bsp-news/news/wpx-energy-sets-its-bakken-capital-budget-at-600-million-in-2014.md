@@ -83,7 +83,7 @@ heroImage: "/images/92dcc1def552.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/92dcc1def552.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/92dcc1def552.jpeg" data-image="/images/92dcc1def552.jpeg" data-image-dimensions="300x287" data-image-focal-point="0.5,0.5" alt="WPX Energy Rockies Asset Map" data-load="false" elementtiming="system-image-block" src="/images/92dcc1def552.jpeg" width="300" height="287" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/92dcc1def552.jpeg 100w, /images/92dcc1def552.jpeg 300w, /images/92dcc1def552.jpeg 500w, /images/92dcc1def552.jpeg 750w, /images/92dcc1def552.jpeg 1000w, /images/92dcc1def552.jpeg 1500w, /images/92dcc1def552.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="WPX Energy Rockies Asset Map" src="/images/92dcc1def552.jpeg" width="300" height="287" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/92dcc1def552.jpeg 100w, /images/92dcc1def552.jpeg 300w, /images/92dcc1def552.jpeg 500w, /images/92dcc1def552.jpeg 750w, /images/92dcc1def552.jpeg 1000w, /images/92dcc1def552.jpeg 1500w, /images/92dcc1def552.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/92dcc1def552.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>WPX Energy will spend between $1.420-$1.523 billion in 2014, with $580-600 million directed to Bakken and Three Forks targets in the Williston Basin.</p><p>WPX is planning to add a rig to bring its operated total to five in 2014.</p><p>The company expects the added rig will allow the company to drill 62 gross operated wells, or 25% more than the ~50 wells the company drilled in 2013.</p><p><strong>Also read:</strong><a href="http://bakkenshale.com/bsp-news/news/halcon-holds-production-guidance-lowers-2014-capital-budget">Halcon Lowers Its 2014 Capital Budget &amp; Holds Production Guidance</a></p>
+  <p>WPX Energy will spend between $1.420-$1.523 billion in 2014, with $580-600 million directed to Bakken and Three Forks targets in the Williston Basin.</p><p>WPX is planning to add a rig to bring its operated total to five in 2014.</p><p>The company expects the added rig will allow the company to drill 62 gross operated wells, or 25% more than the ~50 wells the company drilled in 2013.</p><p><strong>Also read:</strong><a href="/bsp-news/news/halcon-holds-production-guidance-lowers-2014-capital-budget">Halcon Lowers Its 2014 Capital Budget &amp; Holds Production Guidance</a></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/92dcc1def552.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Increased oil volumes, efficient development of our resource base and enhanced balance sheet flexibility will help drive increased cash flows and better overall results,” said Jim Bender, CEO.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/92dcc1def552.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43fdda5d4222fbbca40a/1467383395280/" data-record-type="1" data-full-url="/bsp-news/news/wpx-energy-sets-its-bakken-capital-budget-at-600-million-in-2014" data-title="WPX Energy Sets Its Bakken Capital Budget at $580-600 Million in 2014"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43fdda5d4222fbbca40a" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

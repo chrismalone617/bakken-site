@@ -83,7 +83,7 @@ heroImage: "/images/e1a9e4699add.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/e1a9e4699add.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/e1a9e4699add.png" data-image="/images/e1a9e4699add.png" data-image-dimensions="300x300" data-image-focal-point="0.5,0.5" alt="State Seal of North Dakota" data-load="false" elementtiming="system-image-block" src="/images/e1a9e4699add.png" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e1a9e4699add.png 100w, /images/e1a9e4699add.png 300w, /images/e1a9e4699add.png 500w, /images/e1a9e4699add.png 750w, /images/e1a9e4699add.png 1000w, /images/e1a9e4699add.png 1500w, /images/e1a9e4699add.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="State Seal of North Dakota" src="/images/e1a9e4699add.png" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e1a9e4699add.png 100w, /images/e1a9e4699add.png 300w, /images/e1a9e4699add.png 500w, /images/e1a9e4699add.png 750w, /images/e1a9e4699add.png 1000w, /images/e1a9e4699add.png 1500w, /images/e1a9e4699add.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/e1a9e4699add.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>When the North Dakota Legislative Assembly convened in January, lawmakers faced an uncertain climate caused by falling oil prices. By all accounts the session was a success, with one local news source saying it was a "solid performance by legislators".</p><p>Legislators basically had to start over by pulling apart Gov. Jack Dalrymple’s proposed budget. They were forced to make some difficult decisions regarding spending cuts, while finding the money to fund &nbsp;important projects.</p><p>The first order of business was the passage of the 'surge' bill that supplies $1.1 billion for state infrastructure projects. This money will go to improve highways, airport improvement projects, &nbsp;school districts, law enforcement agencies and emergency medical services.</p><p>Related:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/governor-dalrymple-commits-infrastructure?rq=Governor%20Dalrymple%20Commits%20to%20Infrastructure">Governor <strong>Dalrymple</strong> Commits to Infrastructure</a></p><p>Another huge item on the session's agenda was adjusting the state's oil tax formula. House Bill 1476 lowers the state’s 6.5 percent oil extraction tax to 5 percent effective Jan. 1, 2016, a decision that got mixed reviews from both sides of the aisle.</p>
+  <p>When the North Dakota Legislative Assembly convened in January, lawmakers faced an uncertain climate caused by falling oil prices. By all accounts the session was a success, with one local news source saying it was a "solid performance by legislators".</p><p>Legislators basically had to start over by pulling apart Gov. Jack Dalrymple’s proposed budget. They were forced to make some difficult decisions regarding spending cuts, while finding the money to fund &nbsp;important projects.</p><p>The first order of business was the passage of the 'surge' bill that supplies $1.1 billion for state infrastructure projects. This money will go to improve highways, airport improvement projects, &nbsp;school districts, law enforcement agencies and emergency medical services.</p><p>Related:&nbsp;<a href="/bsp-news/news/governor-dalrymple-commits-infrastructure?rq=Governor%20Dalrymple%20Commits%20to%20Infrastructure">Governor <strong>Dalrymple</strong> Commits to Infrastructure</a></p><p>Another huge item on the session's agenda was adjusting the state's oil tax formula. House Bill 1476 lowers the state’s 6.5 percent oil extraction tax to 5 percent effective Jan. 1, 2016, a decision that got mixed reviews from both sides of the aisle.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/e1a9e4699add.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>I guess if you had to boil it down it would be squandered opportunities and misplaced priorities. That really is what marked the session. Cutting the oil extraction tax by 23 percent,” says Sen. Mac Schneider. But Sen. Rich Wardner (R) disagreed, saying “I think it’s going to be big for North Dakota. I think we’re going to get the industry to put more investment into the state now that they know it’s stable and steady.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/e1a9e4699add.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f441fda5d4222fbbca639/1467381492546/" data-record-type="1" data-full-url="/bsp-news/news/n-d-legislative-session-ends" data-title="N.D. Legislative Session Ends"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f441fda5d4222fbbca639" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

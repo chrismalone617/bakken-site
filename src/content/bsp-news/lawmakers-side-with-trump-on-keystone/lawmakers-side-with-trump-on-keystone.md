@@ -82,7 +82,7 @@ description: "North Dakota lawmakers are on board with President Trump"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -91,7 +91,7 @@ description: "North Dakota lawmakers are on board with President Trump"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/064eb5d17bd1.jpeg" data-image="/images/064eb5d17bd1.jpeg" data-image-dimensions="640x426" data-image-focal-point="0.5,0.5" alt="Keystone XL Pipeline Moves Forwards" data-load="false" elementtiming="system-image-block" src="/images/064eb5d17bd1.jpeg" width="640" height="426" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/064eb5d17bd1.jpeg 100w, /images/064eb5d17bd1.jpeg 300w, /images/064eb5d17bd1.jpeg 500w, /images/064eb5d17bd1.jpeg 750w, /images/064eb5d17bd1.jpeg 1000w, /images/064eb5d17bd1.jpeg 1500w, /images/064eb5d17bd1.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Keystone XL Pipeline Moves Forwards" src="/images/064eb5d17bd1.jpeg" width="640" height="426" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/064eb5d17bd1.jpeg 100w, /images/064eb5d17bd1.jpeg 300w, /images/064eb5d17bd1.jpeg 500w, /images/064eb5d17bd1.jpeg 750w, /images/064eb5d17bd1.jpeg 1000w, /images/064eb5d17bd1.jpeg 1500w, /images/064eb5d17bd1.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -119,7 +119,7 @@ description: "North Dakota lawmakers are on board with President Trump"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>North Dakota lawmakers are on board with President Trump's support of the Keystone Pipeline.</p><p>Related:&nbsp;<a href="https://bakkenshale.com/bsp-news/news/obama-issues-keystone-pipeline-veto">Obama Issues Keystone Pipeline Veto</a></p><p>Last week, President Donald Trump formally resurrected the Keystone XL Pipeline by granting a permit for construction to continue and offering help to speed the process. This marks a reversal from the previous administration, when Barak Obama worked to block the controversial pipeline.</p><p>North Dakota's Sen. John Hoeven and Rep. Kevin Cramer and Democratic Sen. Heidi Heitkamp are lauding the president's decision to allow the project to move forward. The group supports the pipeline because it will boost job creation, economic growth and American independence.</p>
+  <p>North Dakota lawmakers are on board with President Trump's support of the Keystone Pipeline.</p><p>Related:&nbsp;<a href="/bsp-news/news/obama-issues-keystone-pipeline-veto">Obama Issues Keystone Pipeline Veto</a></p><p>Last week, President Donald Trump formally resurrected the Keystone XL Pipeline by granting a permit for construction to continue and offering help to speed the process. This marks a reversal from the previous administration, when Barak Obama worked to block the controversial pipeline.</p><p>North Dakota's Sen. John Hoeven and Rep. Kevin Cramer and Democratic Sen. Heidi Heitkamp are lauding the president's decision to allow the project to move forward. The group supports the pipeline because it will boost job creation, economic growth and American independence.</p>
 </div>
 
 
@@ -166,7 +166,7 @@ description: "North Dakota lawmakers are on board with President Trump"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>TransCanada will finally be allowed to complete this long-overdue project with efficiency and with speed. It’s going to be an incredible pipeline, the greatest technology known to man or woman. And frankly, we’re very proud of it.<span>”</span>
   </blockquote>
   <figcaption>— President, Donald Trump</figcaption>
@@ -215,9 +215,9 @@ description: "North Dakota lawmakers are on board with President Trump"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/58dc64f45016e1b665cdf047/1490978668281/" data-record-type="1" data-full-url="/bsp-news/lawmakers-side-with-trump-on-keystone" data-title="ND Lawmakers Side with Trump on Keystone"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="58dc64f45016e1b665cdf047" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

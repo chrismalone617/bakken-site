@@ -83,7 +83,7 @@ heroImage: "/images/a30dfa6695d9.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/a30dfa6695d9.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/a30dfa6695d9.png" data-image="/images/a30dfa6695d9.png" data-image-dimensions="300x250" data-image-focal-point="0.5,0.5" alt="Whiting  Petroleum Reportedly Up For Sale" data-load="false" elementtiming="system-image-block" src="/images/a30dfa6695d9.png" width="300" height="250" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a30dfa6695d9.png 100w, /images/a30dfa6695d9.png 300w, /images/a30dfa6695d9.png 500w, /images/a30dfa6695d9.png 750w, /images/a30dfa6695d9.png 1000w, /images/a30dfa6695d9.png 1500w, /images/a30dfa6695d9.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Whiting  Petroleum Reportedly Up For Sale" src="/images/a30dfa6695d9.png" width="300" height="250" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a30dfa6695d9.png 100w, /images/a30dfa6695d9.png 300w, /images/a30dfa6695d9.png 500w, /images/a30dfa6695d9.png 750w, /images/a30dfa6695d9.png 1000w, /images/a30dfa6695d9.png 1500w, /images/a30dfa6695d9.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/a30dfa6695d9.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Bloomberg quotes Phillip Jungwirth, an analyst with Bank of Montreal, who says that “Whiting is probably exploring a sale along with other strategic alternatives, including selling assets, raising debt and selling shares in order to address investor liquidity concerns.<span>”</span>
   </blockquote>
   
@@ -173,7 +173,7 @@ heroImage: "/images/a30dfa6695d9.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Some believe that a full sale is unlikely due to the Whiting's heavy debt and that it is more probably that the company will sell off large pieces instead.</p><p>In early March, Whiting released its <a href="http://bakkenshale.com/bsp-news/news/whiting-reduce-bakken-rig-count?rq=whiting-reduce-bakken-rig-count">2014 earning results </a>with CEO James J. Volker boasting a strong year with record production and a string 2015 growth plan. A week later, &nbsp;rumors started to surface the Whiting was looking around for other opportunities.</p><p>Whiting was founded in 1980 and became the largest Bakken/Three Forks producer in the Williston Basin after its acquisition of Kodiak Oil &amp; Gas in June of last year.</p>
+  <p>Some believe that a full sale is unlikely due to the Whiting's heavy debt and that it is more probably that the company will sell off large pieces instead.</p><p>In early March, Whiting released its <a href="/bsp-news/news/whiting-reduce-bakken-rig-count?rq=whiting-reduce-bakken-rig-count">2014 earning results </a>with CEO James J. Volker boasting a strong year with record production and a string 2015 growth plan. A week later, &nbsp;rumors started to surface the Whiting was looking around for other opportunities.</p><p>Whiting was founded in 1980 and became the largest Bakken/Three Forks producer in the Williston Basin after its acquisition of Kodiak Oil &amp; Gas in June of last year.</p>
 </div>
 
 
@@ -214,9 +214,9 @@ heroImage: "/images/a30dfa6695d9.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4418da5d4222fbbca585/1467382007842/" data-record-type="1" data-full-url="/bsp-news/news/whiting-petroleum-is-it-up-for-sale" data-title="Whiting Petroleum: Is It Up for Sale?"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4418da5d4222fbbca585" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

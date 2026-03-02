@@ -83,7 +83,7 @@ heroImage: "/images/68a3f74f5f68.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/68a3f74f5f68.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/68a3f74f5f68.jpeg" data-image="/images/68a3f74f5f68.jpeg" data-image-dimensions="296x300" data-image-focal-point="0.5,0.5" alt="Whiting Petroleum Bakken Acquisition Acreage Map - August 2013" data-load="false" elementtiming="system-image-block" src="/images/68a3f74f5f68.jpeg" width="296" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/68a3f74f5f68.jpeg 100w, /images/68a3f74f5f68.jpeg 300w, /images/68a3f74f5f68.jpeg 500w, /images/68a3f74f5f68.jpeg 750w, /images/68a3f74f5f68.jpeg 1000w, /images/68a3f74f5f68.jpeg 1500w, /images/68a3f74f5f68.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Whiting Petroleum Bakken Acquisition Acreage Map - August 2013" src="/images/68a3f74f5f68.jpeg" width="296" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/68a3f74f5f68.jpeg 100w, /images/68a3f74f5f68.jpeg 300w, /images/68a3f74f5f68.jpeg 500w, /images/68a3f74f5f68.jpeg 750w, /images/68a3f74f5f68.jpeg 1000w, /images/68a3f74f5f68.jpeg 1500w, /images/68a3f74f5f68.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/68a3f74f5f68.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Whiting Petroleum acquired additional <a href="http://bakkenshale.com/bsp-news/news/whiting-petroleum-acquires-bakken-acreage-mt-nd?rq=whiting-petroleum-acquires-bakken-acreage-mt-nd">Bakken acreage in North Dakota and Montana</a>, and tested new completion designs in the third quarter.</p><p>Whiting is using cemented liners and higher sand volumes in the Missouri Breaks area. One well completed in August using this method and a slick water frack came online at rates approximately 75% better than an offset well.</p><p>The method was used again in the Hidden Bench area and yielded results almost 1,000 boe/d better than an offset plug and perf completion.</p><p>Watch for Whiting to test cemented liners across much of its acreage. If initial results are any indication, future wells could perform as much as 50% better than previously thought.</p>
+  <p>Whiting Petroleum acquired additional <a href="/bsp-news/news/whiting-petroleum-acquires-bakken-acreage-mt-nd?rq=whiting-petroleum-acquires-bakken-acreage-mt-nd">Bakken acreage in North Dakota and Montana</a>, and tested new completion designs in the third quarter.</p><p>Whiting is using cemented liners and higher sand volumes in the Missouri Breaks area. One well completed in August using this method and a slick water frack came online at rates approximately 75% better than an offset well.</p><p>The method was used again in the Hidden Bench area and yielded results almost 1,000 boe/d better than an offset plug and perf completion.</p><p>Watch for Whiting to test cemented liners across much of its acreage. If initial results are any indication, future wells could perform as much as 50% better than previously thought.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/68a3f74f5f68.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>This is an exciting time for Whiting and our shareholders. During the third quarter, we added 17,282 net acres to our Hidden Bench and Missouri Breaks prospect areas and 32,419 net acres to our Redtail Niobrara prospect. Our new completion design using cemented liners and plug and perf technology is working throughout the Williston Basin. Initial results from our higher density drilling program at our Pronghorn prospect are very encouraging, and we expect results from our Sanish field and Hidden Bench prospect higher density drilling programs in the fourth quarter.<span>”</span>
   </blockquote>
   <figcaption>— James J. Volker, CEO</figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/68a3f74f5f68.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f2da5d4222fbbca371/1467383780622/" data-record-type="1" data-full-url="/bsp-news/news/whiting-expands-bakken-position-tests-new-completion-designs-in-the-third-quarter" data-title="Whiting Expands Bakken Position &amp; Tests New Completion Designs in the Third Quarter"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f2da5d4222fbbca371" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

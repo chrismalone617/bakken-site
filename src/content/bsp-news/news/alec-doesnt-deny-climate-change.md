@@ -83,7 +83,7 @@ heroImage: "/images/39562b7415a7.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/39562b7415a7.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/39562b7415a7.jpg" data-image="/images/39562b7415a7.jpg" data-image-dimensions="300x269" data-image-focal-point="0.5,0.5" alt="Global Warming Debate Rages" data-load="false" elementtiming="system-image-block" src="/images/39562b7415a7.jpg" width="300" height="269" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/39562b7415a7.jpg 100w, /images/39562b7415a7.jpg 300w, /images/39562b7415a7.jpg 500w, /images/39562b7415a7.jpg 750w, /images/39562b7415a7.jpg 1000w, /images/39562b7415a7.jpg 1500w, /images/39562b7415a7.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Global Warming Debate Rages" src="/images/39562b7415a7.jpg" width="300" height="269" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/39562b7415a7.jpg 100w, /images/39562b7415a7.jpg 300w, /images/39562b7415a7.jpg 500w, /images/39562b7415a7.jpg 750w, /images/39562b7415a7.jpg 1000w, /images/39562b7415a7.jpg 1500w, /images/39562b7415a7.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/39562b7415a7.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>As the highly charged debate over climate change rages, one conservative group is fighting back with claims they are being unfairly misrepresented in the media.</p><p>In early March, The American Legislative Exchange Council (ALEC) sent a cease and desist letter to the environmental group, Common Cause, demanding the group retract its assertion that ALEC denies climate change. The letter cites numerous examples where Common Cause made such statements in articles and blogs on its website.</p><p>Related:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/keystone-pipeline-set-for-vote-friday?rq=Keystone%20Pipeline%20Set%20for%20Vote">Keystone Pipeline Set for Vote</a></p><p>In the letter to Common Cause, attorneys go on to clarify: “ALEC’s position is clear. ALEC does not deny climate change.”</p><p>ALEC has been involved in hotly contested political issues for a long time, but there is speculation that this action is because the group recently lost many high-profile corporate sponsors, who are distancing themselves from companies who are at odds with mainstream science.</p><p>Common Cause <a href="http://www.commoncause.org/press/press-releases/alec-tries-to-silence-critics.html">responded</a> swiftly that it will not comply with any of ALEC’s requests.</p>
+  <p>As the highly charged debate over climate change rages, one conservative group is fighting back with claims they are being unfairly misrepresented in the media.</p><p>In early March, The American Legislative Exchange Council (ALEC) sent a cease and desist letter to the environmental group, Common Cause, demanding the group retract its assertion that ALEC denies climate change. The letter cites numerous examples where Common Cause made such statements in articles and blogs on its website.</p><p>Related:&nbsp;<a href="/bsp-news/news/keystone-pipeline-set-for-vote-friday?rq=Keystone%20Pipeline%20Set%20for%20Vote">Keystone Pipeline Set for Vote</a></p><p>In the letter to Common Cause, attorneys go on to clarify: “ALEC’s position is clear. ALEC does not deny climate change.”</p><p>ALEC has been involved in hotly contested political issues for a long time, but there is speculation that this action is because the group recently lost many high-profile corporate sponsors, who are distancing themselves from companies who are at odds with mainstream science.</p><p>Common Cause <a href="http://www.commoncause.org/press/press-releases/alec-tries-to-silence-critics.html">responded</a> swiftly that it will not comply with any of ALEC’s requests.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/39562b7415a7.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>ALEC’s demands and legal threats are an effort to shut down debate about its policies and matters of national importance. They seek to chill our right to advocate for the public interest,” said Miles Rapoport, President of Common Cause. “It won’t work.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/39562b7415a7.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f441bda5d4222fbbca5a9/1467381869261/" data-record-type="1" data-full-url="/bsp-news/news/alec-doesnt-deny-climate-change" data-title="ALEC Doesn't Deny Climate Change"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f441bda5d4222fbbca5a9" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

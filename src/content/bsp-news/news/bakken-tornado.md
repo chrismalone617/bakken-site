@@ -70,9 +70,9 @@ Nobody was killed; however,&nbsp;a 15-year old girl was transported to Trinity H
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4404da5d4222fbbca469/1467307093873/" data-record-type="1" data-full-url="/bsp-news/news/bakken-tornado" data-title="Bakken Tornado Injures Nine in Watford City, ND - Video"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4404da5d4222fbbca469" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

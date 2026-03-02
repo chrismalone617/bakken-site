@@ -83,7 +83,7 @@ heroImage: "/images/d13d6eb20fd9.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d13d6eb20fd9.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d13d6eb20fd9.png" data-image="/images/d13d6eb20fd9.png" data-image-dimensions="953x693" data-image-focal-point="0.5,0.5" alt="Federal Court:&amp;nbsp;Frack Rules Unlawful" data-load="false" elementtiming="system-image-block" src="/images/d13d6eb20fd9.png" width="953" height="693" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d13d6eb20fd9.png 100w, /images/d13d6eb20fd9.png 300w, /images/d13d6eb20fd9.png 500w, /images/d13d6eb20fd9.png 750w, /images/d13d6eb20fd9.png 1000w, /images/d13d6eb20fd9.png 1500w, /images/d13d6eb20fd9.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Federal Court:&amp;nbsp;Frack Rules Unlawful" src="/images/d13d6eb20fd9.png" width="953" height="693" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d13d6eb20fd9.png 100w, /images/d13d6eb20fd9.png 300w, /images/d13d6eb20fd9.png 500w, /images/d13d6eb20fd9.png 750w, /images/d13d6eb20fd9.png 1000w, /images/d13d6eb20fd9.png 1500w, /images/d13d6eb20fd9.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/d13d6eb20fd9.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Bakken Shale operators and industry officials applaud the recent federal court ruling that declared the fracking rules unlawful.</p><p>Related: &nbsp;<a href="http://bakkenshale.com/bsp-news/news/new-fracking-rules-for-public-land">New Fracking Rules for Public Lands </a></p><p>On Tuesday, U.S. District Judge Scott Skavdahl struck down the Obama administration’s attempt to regulate hydraulic fracturing on federal lands.</p>
+  <p>Bakken Shale operators and industry officials applaud the recent federal court ruling that declared the fracking rules unlawful.</p><p>Related: &nbsp;<a href="/bsp-news/news/new-fracking-rules-for-public-land">New Fracking Rules for Public Lands </a></p><p>On Tuesday, U.S. District Judge Scott Skavdahl struck down the Obama administration’s attempt to regulate hydraulic fracturing on federal lands.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/d13d6eb20fd9.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Skaydahl said, “Congress has not delegated to the Department of Interior the authority to regulate hydraulic fracturing. The BLM’s effort to do so through the Tracking Rule is in excess of its statutory authority and contrary to law.<span>”</span>
   </blockquote>
   
@@ -220,7 +220,7 @@ heroImage: "/images/d13d6eb20fd9.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>North Dakota has adopted sensible fracking regulations that work, because Congress intended the states to regulate fracking,” Attorney General Wayne Stenehjem said in a news release. <span>”</span>
   </blockquote>
   
@@ -269,9 +269,9 @@ heroImage: "/images/d13d6eb20fd9.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/577578d79f74566bea82141e/1467317590522/" data-record-type="1" data-full-url="/bsp-news/news/bakken-applaud-recent-ruling-on-frack-regulations" data-title="Bakken Applauds Recent Frack Decision"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="577578d79f74566bea82141e" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

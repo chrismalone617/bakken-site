@@ -84,7 +84,7 @@ heroImage: "/images/a1e0b290b493.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -93,7 +93,7 @@ heroImage: "/images/a1e0b290b493.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/a1e0b290b493.jpg" data-image="/images/a1e0b290b493.jpg" data-image-dimensions="300x250" data-image-focal-point="0.5,0.5" alt="Hess Budget Cuts" data-load="false" elementtiming="system-image-block" src="/images/a1e0b290b493.jpg" width="300" height="250" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a1e0b290b493.jpg 100w, /images/a1e0b290b493.jpg 300w, /images/a1e0b290b493.jpg 500w, /images/a1e0b290b493.jpg 750w, /images/a1e0b290b493.jpg 1000w, /images/a1e0b290b493.jpg 1500w, /images/a1e0b290b493.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Hess Budget Cuts" src="/images/a1e0b290b493.jpg" width="300" height="250" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/a1e0b290b493.jpg 100w, /images/a1e0b290b493.jpg 300w, /images/a1e0b290b493.jpg 500w, /images/a1e0b290b493.jpg 750w, /images/a1e0b290b493.jpg 1000w, /images/a1e0b290b493.jpg 1500w, /images/a1e0b290b493.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -116,7 +116,7 @@ heroImage: "/images/a1e0b290b493.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The Hess Corporation plans to cut $100 million from its 2017 budget, despite increased Bakken production.</p><p><a href="https://bakkenshale.com/bsp-news/news/halcon-resources-corporation-to-sell-bakken-assets">Halcón Resources Corporation to sell Bakken Assets</a></p><p>Hess announced its second quarter results last week that included and a net loss was $449 million. Total production dipped and exectutives&nbsp;</p>
+  <p>The Hess Corporation plans to cut $100 million from its 2017 budget, despite increased Bakken production.</p><p><a href="/bsp-news/news/halcon-resources-corporation-to-sell-bakken-assets">Halcón Resources Corporation to sell Bakken Assets</a></p><p>Hess announced its second quarter results last week that included and a net loss was $449 million. Total production dipped and exectutives&nbsp;</p>
 </div>
 
 
@@ -163,7 +163,7 @@ heroImage: "/images/a1e0b290b493.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>With regard to the Bakken, we have an industry-leading strategic position with more drilling locations in the core of the play than any other operator. We are currently operating four rigs at 60-stage fracs and increased proppant levels should deliver production growth of approximately 10% a year over the next several years. With our productivity and technology improvements, we now forecast virtually the same production growth with four rigs that would’ve taken six rigs a year ago. We will decide whether to add two additional rigs as originally planned based on an improvement in crude oil prices and the results of our enhanced completions.<span>”</span>
   </blockquote>
   <figcaption>— John Hess, CEO</figcaption>
@@ -212,9 +212,9 @@ heroImage: "/images/a1e0b290b493.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/597a2431d7bdce9762a0d556/1501676667071/" data-record-type="1" data-full-url="/bsp-news/news/hess-cuts-budget-for-remainder-of-2017" data-title="Hess Cuts Budget for Remainder of 2017"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="597a2431d7bdce9762a0d556" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

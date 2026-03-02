@@ -83,7 +83,7 @@ heroImage: "/images/edf5ced2667c.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/edf5ced2667c.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/edf5ced2667c.png" data-image="/images/edf5ced2667c.png" data-image-dimensions="258x255" data-image-focal-point="0.5,0.5" alt="Hamm sells Hiland" data-load="false" elementtiming="system-image-block" src="/images/edf5ced2667c.png" width="258" height="255" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/edf5ced2667c.png 100w, /images/edf5ced2667c.png 300w, /images/edf5ced2667c.png 500w, /images/edf5ced2667c.png 750w, /images/edf5ced2667c.png 1000w, /images/edf5ced2667c.png 1500w, /images/edf5ced2667c.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Hamm sells Hiland" src="/images/edf5ced2667c.png" width="258" height="255" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/edf5ced2667c.png 100w, /images/edf5ced2667c.png 300w, /images/edf5ced2667c.png 500w, /images/edf5ced2667c.png 750w, /images/edf5ced2667c.png 1000w, /images/edf5ced2667c.png 1500w, /images/edf5ced2667c.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/edf5ced2667c.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Harold Hamm tells Forbes that “It’s all part of our plan. If prices go down, we are going to cut back to save our wealth — which is oil in the ground.” Hamm goes on to say that, “I’ve seen this six or seven times. We have ample liquidity, our total revolver available, no near-term debt, a lean organization with just 1,100 people, production of 200,000 barrels per day, and a low-cost, high-margin operation. We’re going to navigate right through it.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/edf5ced2667c.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4412da5d4222fbbca52e/1467233888169/" data-record-type="1" data-full-url="/bsp-news/news/more-budget-cuts-continental-resources" data-title="More Budget Cuts for Continental Resources"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4412da5d4222fbbca52e" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -72,9 +72,9 @@ Hamm has been making the rounds on TV, also appearing on CNBC, talking about wha
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f440dda5d4222fbbca4ea/1467236534002/" data-record-type="1" data-full-url="/bsp-news/news/continental-resources-harold-hamm-on-falling-oil-prices-video" data-title="Continental Resource's Harold Hamm on Falling Oil Prices - Videos"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f440dda5d4222fbbca4ea" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

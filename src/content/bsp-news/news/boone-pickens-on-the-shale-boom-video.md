@@ -74,9 +74,9 @@ Highlights include:</p>
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e3da5d4222fbbca28f/1467325289620/" data-record-type="1" data-full-url="/bsp-news/news/boone-pickens-on-the-shale-boom-video" data-title="Boone Pickens On The Shale Boom - Video"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e3da5d4222fbbca28f" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -25,7 +25,7 @@ description: "Summit Midstream plans to spend $60 million to expand its Divide c
     <div><div data-layout-label="Post Body" data-type="item" data-updated-on="1467907149344"><div><div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Summit Midstream plans to spend $60 million to expand its Divide crude oil and water gathering system in Williams and Divide counties. The system includes 90 miles of crude oil gathering pipe already and an additional 145 miles of pipe is being added. The expansion will be able to handled 45,000 b/d of crude oil and 45,000 b/d of water.</p><p><a href="http://bakkenshale.com/pmn/pipeline-midstream-news/summit-midstream-buys-bison-midstream-natural-gas-gathering-operations">Summit purchased Bison Midstream and associated gas gathering for $250 million</a> earlier in June</p>
+  <p>Summit Midstream plans to spend $60 million to expand its Divide crude oil and water gathering system in Williams and Divide counties. The system includes 90 miles of crude oil gathering pipe already and an additional 145 miles of pipe is being added. The expansion will be able to handled 45,000 b/d of crude oil and 45,000 b/d of water.</p><p><a href="/pmn/pipeline-midstream-news/summit-midstream-buys-bison-midstream-natural-gas-gathering-operations">Summit purchased Bison Midstream and associated gas gathering for $250 million</a> earlier in June</p>
 </div>
 
 
@@ -72,7 +72,7 @@ description: "Summit Midstream plans to spend $60 million to expand its Divide c
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The execution of this new commercial agreement reflects the next step in our growth strategy to expand our presence in the Bakken Shale Play through organic development projects.<span>”</span>
   </blockquote>
   <figcaption>— Steve Newby, CEO</figcaption>
@@ -121,9 +121,9 @@ description: "Summit Midstream plans to spend $60 million to expand its Divide c
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c3dfa21e80eeb550b0/1467906917848/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/summit-midstream-expanding-bakken-system-in-williams-divide" data-title="Summit Midstream Expanding Bakken System In Williams &amp; Divide"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c3dfa21e80eeb550b0" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

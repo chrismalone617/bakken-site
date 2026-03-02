@@ -83,7 +83,7 @@ heroImage: "/images/8ca2f5950639.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/8ca2f5950639.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/8ca2f5950639.gif" data-image="/images/8ca2f5950639.gif" data-image-dimensions="300x178" data-image-focal-point="0.5,0.5" alt="Marathon Oil Bakken Shale Map" data-load="false" elementtiming="system-image-block" src="/images/8ca2f5950639.gif" width="300" height="178" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8ca2f5950639.gif 100w, /images/8ca2f5950639.gif 300w, /images/8ca2f5950639.gif 500w, /images/8ca2f5950639.gif 750w, /images/8ca2f5950639.gif 1000w, /images/8ca2f5950639.gif 1500w, /images/8ca2f5950639.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Marathon Oil Bakken Shale Map" src="/images/8ca2f5950639.gif" width="300" height="178" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8ca2f5950639.gif 100w, /images/8ca2f5950639.gif 300w, /images/8ca2f5950639.gif 500w, /images/8ca2f5950639.gif 750w, /images/8ca2f5950639.gif 1000w, /images/8ca2f5950639.gif 1500w, /images/8ca2f5950639.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ A Bakken reservoir study luncheon was held in Houston on September 27th as part 
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c7da5d4222fbbca0ec/1467385681176/" data-record-type="1" data-full-url="/bsp-news/news/bakken-reservoir-study-marathon-oi-spe-gulf-coast" data-title="Bakken Reservoir Study - Marathon Oil SPE Gulf Coast "><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c7da5d4222fbbca0ec" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

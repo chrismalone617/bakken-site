@@ -33,7 +33,7 @@ This new location will be open to support the future growth of Flexpipe Systems 
 180 - 25th Ave East
 Dickinson, ND 58601
 Phone: 701.690.1208</p>
-<p>The article above was published through BakkenShale.com`s press release distribution service. Learn more about <a href="http://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f18565f21e0f3cf529e16/573f18585f21e0f3cf529e3c/1463752792598/?format=original" title="Bakken Advertising" target="_blank">Bakken Advertising Here</a></p>
+<p>The article above was published through BakkenShale.com`s press release distribution service. Learn more about <a href="/advertising" title="Bakken Advertising" target="_blank">Bakken Advertising Here</a></p>
 </div>
 
 
@@ -74,9 +74,9 @@ Phone: 701.690.1208</p>
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f18565f21e0f3cf529e16/573f18575f21e0f3cf529e25/1463755075463/" data-record-type="1" data-full-url="/press/press-releases/flexpipe-systems-opens-bakken-field-office-dickinson" data-title="Flexpipe Systems Opens Bakken Field Office In Dickinson - Press Release"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f18575f21e0f3cf529e25" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

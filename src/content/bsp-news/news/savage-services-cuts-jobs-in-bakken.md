@@ -83,7 +83,7 @@ heroImage: "/images/f6395eb25668.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/f6395eb25668.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f6395eb25668.png" data-image="/images/f6395eb25668.png" data-image-dimensions="300x259" data-image-focal-point="0.5,0.5" alt="More Oilfield Layoffs" data-load="false" elementtiming="system-image-block" src="/images/f6395eb25668.png" width="300" height="259" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f6395eb25668.png 100w, /images/f6395eb25668.png 300w, /images/f6395eb25668.png 500w, /images/f6395eb25668.png 750w, /images/f6395eb25668.png 1000w, /images/f6395eb25668.png 1500w, /images/f6395eb25668.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="More Oilfield Layoffs" src="/images/f6395eb25668.png" width="300" height="259" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f6395eb25668.png 100w, /images/f6395eb25668.png 300w, /images/f6395eb25668.png 500w, /images/f6395eb25668.png 750w, /images/f6395eb25668.png 1000w, /images/f6395eb25668.png 1500w, /images/f6395eb25668.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/f6395eb25668.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Savage Services Corp, a North Dakota railcar and logistics facility, laid off 10% of its full time employees this week. Savage is one of the largest facilities of its kind in the region and employed 118 people before this layoff.</p><p>Company sources blame the layoffs on decreased demand for railcars to transport Bakken crude oil, saying that as pipeline construction has increased, the demand for railcars is the lowest it has been in three years. This is contrary to other data about the prevalence of transporting crude oil by rail. In May, the Energy Information Administration (EIA) released its latest &nbsp;data for crude by rail across the country that shows a 1700% increase over the last five years.</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/crude-by-rail-up-1700?rq=Crude%20by%20Rail%20Up%201700%25"><strong>Crude by Rail</strong> Up 1700% </a></p><p>It has been almost two years since Savage announced the expansion of the Bakken Petroleum Services Hub in Trenton, ND as a result of its acquisition of Ft. Worth Pipe. The new terminal added oil country tubular goods (OCTG) storage, transloading, trucking, threading, inspection and clean and drift services for oil and gas producers in the Williston Basin.</p><p>Since crude prices plunged last year, oil company executives are working to cut costs wherever they can, but tightening the belt doesn’t necessarily mean more layoffs. Over the next two years, the majority of the oil and gas executives (76%) expect to see their organizations’ ranks to &nbsp;increase or stay the same over the next two years. <a href="http://bakkenshale.com/bsp-news/news/energy-executives-forced-to-adapt?rq=energy%20executives%20forced%20to%20adapt"><em>Read more here.</em></a></p>
+  <p>Savage Services Corp, a North Dakota railcar and logistics facility, laid off 10% of its full time employees this week. Savage is one of the largest facilities of its kind in the region and employed 118 people before this layoff.</p><p>Company sources blame the layoffs on decreased demand for railcars to transport Bakken crude oil, saying that as pipeline construction has increased, the demand for railcars is the lowest it has been in three years. This is contrary to other data about the prevalence of transporting crude oil by rail. In May, the Energy Information Administration (EIA) released its latest &nbsp;data for crude by rail across the country that shows a 1700% increase over the last five years.</p><p>Related: <a href="/bsp-news/news/crude-by-rail-up-1700?rq=Crude%20by%20Rail%20Up%201700%25"><strong>Crude by Rail</strong> Up 1700% </a></p><p>It has been almost two years since Savage announced the expansion of the Bakken Petroleum Services Hub in Trenton, ND as a result of its acquisition of Ft. Worth Pipe. The new terminal added oil country tubular goods (OCTG) storage, transloading, trucking, threading, inspection and clean and drift services for oil and gas producers in the Williston Basin.</p><p>Since crude prices plunged last year, oil company executives are working to cut costs wherever they can, but tightening the belt doesn’t necessarily mean more layoffs. Over the next two years, the majority of the oil and gas executives (76%) expect to see their organizations’ ranks to &nbsp;increase or stay the same over the next two years. <a href="/bsp-news/news/energy-executives-forced-to-adapt?rq=energy%20executives%20forced%20to%20adapt"><em>Read more here.</em></a></p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/f6395eb25668.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f1da5d4222fbbca36b/1467381068766/" data-record-type="1" data-full-url="/bsp-news/news/savage-services-cuts-jobs-in-bakken" data-title="Savage Services Cuts Jobs in Bakken"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f1da5d4222fbbca36b" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

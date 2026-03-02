@@ -84,7 +84,7 @@ heroImage: "/images/b0345919fb46.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -93,7 +93,7 @@ heroImage: "/images/b0345919fb46.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/b0345919fb46.png" data-image="/images/b0345919fb46.png" data-image-dimensions="953x693" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/b0345919fb46.png" width="953" height="693" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b0345919fb46.png 100w, /images/b0345919fb46.png 300w, /images/b0345919fb46.png 500w, /images/b0345919fb46.png 750w, /images/b0345919fb46.png 1000w, /images/b0345919fb46.png 1500w, /images/b0345919fb46.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/b0345919fb46.png" width="953" height="693" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b0345919fb46.png 100w, /images/b0345919fb46.png 300w, /images/b0345919fb46.png 500w, /images/b0345919fb46.png 750w, /images/b0345919fb46.png 1000w, /images/b0345919fb46.png 1500w, /images/b0345919fb46.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -157,9 +157,9 @@ heroImage: "/images/b0345919fb46.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/596a4b55f14aa1a6e7fd4eed/1501002332923/" data-record-type="1" data-full-url="/bsp-news/news/north-dakota-owed-millions-in-royalties" data-title="North Dakota Owed Millions in Royalties"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="596a4b55f14aa1a6e7fd4eed" data-like-count="1">
+          
+  <span>
     <span></span>
     <span>1 Likes</span>
   </span>

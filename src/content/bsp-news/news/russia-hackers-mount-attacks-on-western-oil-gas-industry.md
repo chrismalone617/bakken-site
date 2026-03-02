@@ -66,9 +66,9 @@ description: "The newest threat to the oil &amp;amp; gas industry could be hidin
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4406da5d4222fbbca489/1467306221749/" data-record-type="1" data-full-url="/bsp-news/news/russia-hackers-mount-attacks-on-western-oil-gas-industry" data-title="Russian Hackers Mount Attacks on Western Oil &amp; Gas Industry"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4406da5d4222fbbca489" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

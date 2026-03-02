@@ -83,7 +83,7 @@ heroImage: "/images/ad1d69f5a107.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/ad1d69f5a107.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ad1d69f5a107.jpeg" data-image="/images/ad1d69f5a107.jpeg" data-image-dimensions="300x212" data-image-focal-point="0.5,0.5" alt="Oneok North Dakota Bakken Asset Map" data-load="false" elementtiming="system-image-block" src="/images/ad1d69f5a107.jpeg" width="300" height="212" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ad1d69f5a107.jpeg 100w, /images/ad1d69f5a107.jpeg 300w, /images/ad1d69f5a107.jpeg 500w, /images/ad1d69f5a107.jpeg 750w, /images/ad1d69f5a107.jpeg 1000w, /images/ad1d69f5a107.jpeg 1500w, /images/ad1d69f5a107.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Oneok North Dakota Bakken Asset Map" src="/images/ad1d69f5a107.jpeg" width="300" height="212" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ad1d69f5a107.jpeg 100w, /images/ad1d69f5a107.jpeg 300w, /images/ad1d69f5a107.jpeg 500w, /images/ad1d69f5a107.jpeg 750w, /images/ad1d69f5a107.jpeg 1000w, /images/ad1d69f5a107.jpeg 1500w, /images/ad1d69f5a107.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/ad1d69f5a107.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Production in the Williston Basin continues to increase with no signs of leveling off or slowing,” said Terry K. Spencer, president. “The new Lonesome Creek plant and related infrastructure will be well-positioned to capitalize on existing ONEOK Partners assets and provide producers in the area with essential natural gas processing capacity....<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/ad1d69f5a107.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c7dfa21e80eeb550e8/1467906153555/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/oneok-investing-more-in-bakken-midstream-infrastructure" data-title="Oneok Investing More In Bakken Midstream Infrastructure"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c7dfa21e80eeb550e8" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

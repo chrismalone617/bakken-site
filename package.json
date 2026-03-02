@@ -8,7 +8,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "download-images": "node scripts/download-images.js",
-    "convert-html": "SCRAPED_DIR=../scraped node scripts/convert-html-to-content.js"
+    "convert-html": "SCRAPED_DIR=../scraped node scripts/convert-html-to-content.js",
+    "cleanup-content": "node scripts/cleanup-content.js"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.0",

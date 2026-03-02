@@ -83,7 +83,7 @@ heroImage: "/images/b01125172e51.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/b01125172e51.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/b01125172e51.jpeg" data-image="/images/b01125172e51.jpeg" data-image-dimensions="300x225" data-image-focal-point="0.5,0.5" alt="Minot Airport" data-load="false" elementtiming="system-image-block" src="/images/b01125172e51.jpeg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b01125172e51.jpeg 100w, /images/b01125172e51.jpeg 300w, /images/b01125172e51.jpeg 500w, /images/b01125172e51.jpeg 750w, /images/b01125172e51.jpeg 1000w, /images/b01125172e51.jpeg 1500w, /images/b01125172e51.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Minot Airport" src="/images/b01125172e51.jpeg" width="300" height="225" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b01125172e51.jpeg 100w, /images/b01125172e51.jpeg 300w, /images/b01125172e51.jpeg 500w, /images/b01125172e51.jpeg 750w, /images/b01125172e51.jpeg 1000w, /images/b01125172e51.jpeg 1500w, /images/b01125172e51.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/b01125172e51.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Airports in western North Dakota are experiencing record increases in boardings and activity, requiring additional investment in new and expanded terminals, runways and other maintenance needs,” said Gov. Jack Dalrymple. “These state grants will help airports in our oil and gas counties address the impacts of rapid growth and enhance air travel opportunities for our citizens.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/b01125172e51.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e6da5d4222fbbca2c5/1467384214166/" data-record-type="1" data-full-url="/bsp-news/news/air-travel-bakken-gets-boost-nd-land-board" data-title="Air Travel In The Bakken Gets Boost From ND Land Board"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e6da5d4222fbbca2c5" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

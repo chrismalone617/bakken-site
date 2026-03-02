@@ -83,7 +83,7 @@ heroImage: "/images/601829b53e89.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/601829b53e89.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/601829b53e89.jpeg" data-image="/images/601829b53e89.jpeg" data-image-dimensions="300x300" data-image-focal-point="0.5,0.5" alt="Whiting Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/601829b53e89.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/601829b53e89.jpeg 100w, /images/601829b53e89.jpeg 300w, /images/601829b53e89.jpeg 500w, /images/601829b53e89.jpeg 750w, /images/601829b53e89.jpeg 1000w, /images/601829b53e89.jpeg 1500w, /images/601829b53e89.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Whiting Bakken Acreage Map" src="/images/601829b53e89.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/601829b53e89.jpeg 100w, /images/601829b53e89.jpeg 300w, /images/601829b53e89.jpeg 500w, /images/601829b53e89.jpeg 750w, /images/601829b53e89.jpeg 1000w, /images/601829b53e89.jpeg 1500w, /images/601829b53e89.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/601829b53e89.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The <a href="http://bakkenshale.com/drilling/">Bakken-Three Forks rig count</a> decreased by three t0 <strong>106</strong> rigs running across our coverage area by the end of last week.</p><p>In recent Bakken news, Whiting Petroleum announced a record 2014 and revealed a 2015 spending plan that includes reducing Bakken rig count.</p><p>Read more: <a href="http://bakkenshale.com/bsp-news/news/whiting-reduce-bakken-rig-count?rq=Whiting%20to%20Reduce%20Bakken%20Rig%20Count">Whiting to Reduce Bakken Rig Count</a></p><p><em>The U.S. rig count fell another 72 to 1192 rigs running as of today. A total of 268 rigs were targeting natural gas (down 12 from the previous week) and 922 were targeting oil in the U.S. (64 less than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><strong>108 </strong>rigs are running in the Williston Basin across MT, ND, and SD. <strong>105 </strong>are in ND alone.</p><h2><strong>Bakken Oil &amp; Gas Rigs</strong></h2><p>The number of oil rigs decreased by 3 t0 <strong>106</strong> rigs running by midday. WTI oil prices decreased by $1.32 from the previous week, trading at $49.18/bbl on Friday afternoon. The WTI-Brent saw a decrease of $0.97 by week’s end, landing at $59.42. Natural gas rigs decreased by four with futures trading at $2.82/mmbtu by midday.</p><p>McKenzie County continues to lead development and increased to 46 rigs running. Williams (19) and Mountrail (19) counties are the next closest producers. View the full list below under the <em>Bakken Drilling by County</em> section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>106 rigs are drilling horizontal wells</li><li>0 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><p><a href="http://jobs.bakkenshale.com/">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</a></p><h2><strong>Bakken Drilling by County</strong></h2>
+  <p>The <a href="/drilling/">Bakken-Three Forks rig count</a> decreased by three t0 <strong>106</strong> rigs running across our coverage area by the end of last week.</p><p>In recent Bakken news, Whiting Petroleum announced a record 2014 and revealed a 2015 spending plan that includes reducing Bakken rig count.</p><p>Read more: <a href="/bsp-news/news/whiting-reduce-bakken-rig-count?rq=Whiting%20to%20Reduce%20Bakken%20Rig%20Count">Whiting to Reduce Bakken Rig Count</a></p><p><em>The U.S. rig count fell another 72 to 1192 rigs running as of today. A total of 268 rigs were targeting natural gas (down 12 from the previous week) and 922 were targeting oil in the U.S. (64 less than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><strong>108 </strong>rigs are running in the Williston Basin across MT, ND, and SD. <strong>105 </strong>are in ND alone.</p><h2><strong>Bakken Oil &amp; Gas Rigs</strong></h2><p>The number of oil rigs decreased by 3 t0 <strong>106</strong> rigs running by midday. WTI oil prices decreased by $1.32 from the previous week, trading at $49.18/bbl on Friday afternoon. The WTI-Brent saw a decrease of $0.97 by week’s end, landing at $59.42. Natural gas rigs decreased by four with futures trading at $2.82/mmbtu by midday.</p><p>McKenzie County continues to lead development and increased to 46 rigs running. Williams (19) and Mountrail (19) counties are the next closest producers. View the full list below under the <em>Bakken Drilling by County</em> section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>106 rigs are drilling horizontal wells</li><li>0 rigs are drilling directional wells</li><li>0 rigs are drilling vertical wells</li></ul><p><a href="http://jobs.bakkenshale.com/">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</a></p><h2><strong>Bakken Drilling by County</strong></h2>
 </div>
 
 
@@ -201,7 +201,7 @@ heroImage: "/images/601829b53e89.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -210,7 +210,7 @@ heroImage: "/images/601829b53e89.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/e8a46dfe2680.png" data-image="/images/e8a46dfe2680.png" data-image-dimensions="737x453" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/e8a46dfe2680.png" width="737" height="453" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e8a46dfe2680.png 100w, /images/e8a46dfe2680.png 300w, /images/e8a46dfe2680.png 500w, /images/e8a46dfe2680.png 750w, /images/e8a46dfe2680.png 1000w, /images/e8a46dfe2680.png 1500w, /images/e8a46dfe2680.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/e8a46dfe2680.png" width="737" height="453" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/e8a46dfe2680.png 100w, /images/e8a46dfe2680.png 300w, /images/e8a46dfe2680.png 500w, /images/e8a46dfe2680.png 750w, /images/e8a46dfe2680.png 1000w, /images/e8a46dfe2680.png 1500w, /images/e8a46dfe2680.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -231,7 +231,7 @@ heroImage: "/images/601829b53e89.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>&nbsp;</p><h2>Bakken Oil &amp; Gas News</h2><p><a href="http://bakkenshale.com/bsp-news/news/oil-bust-brings-opportunities?rq=Oil%20Bust%20Brings%20Opportunities">Oil Bust Brings Opportunities</a>&nbsp;</p><p><a href="http://bakkenshale.com/bsp-news/news/whiting-reduce-bakken-rig-count?rq=Whiting%20to%20Reduce%20Bakken%20Rig%20Count">Whiting to Reduce Bakken Rig Count</a></p><p><a href="http://bakkenshale.com/bsp-news/news/oasis-petroleum-announces-35-growth?rq=Oasis%20Petroleum%20Announces%2035%25%20Growth">Oasis Petroleum Announces 35% Growth</a></p><h2><strong>What is the Rig Count?</strong></h2><p>The Bakken Shale Rig Count is an index of the total number of oil &amp; gas drilling rigs running across Montana and North Dakota. The rigs referred to in this article are for ALL drilling reported by Baker Hughes and not solely wells targeting the Bakken formation. All land rigs and onshore rig data shown here are based upon industry estimates provided by the Baker Hughes Rig Count.</p><p>Read more at <a target="_blank" href="http://phx.corporate-ir.net/phoenix.zhtml?c=79687&amp;p=irol-reportsother%20">bakerhughes.com</a></p>
+  <p>&nbsp;</p><h2>Bakken Oil &amp; Gas News</h2><p><a href="/bsp-news/news/oil-bust-brings-opportunities?rq=Oil%20Bust%20Brings%20Opportunities">Oil Bust Brings Opportunities</a>&nbsp;</p><p><a href="/bsp-news/news/whiting-reduce-bakken-rig-count?rq=Whiting%20to%20Reduce%20Bakken%20Rig%20Count">Whiting to Reduce Bakken Rig Count</a></p><p><a href="/bsp-news/news/oasis-petroleum-announces-35-growth?rq=Oasis%20Petroleum%20Announces%2035%25%20Growth">Oasis Petroleum Announces 35% Growth</a></p><h2><strong>What is the Rig Count?</strong></h2><p>The Bakken Shale Rig Count is an index of the total number of oil &amp; gas drilling rigs running across Montana and North Dakota. The rigs referred to in this article are for ALL drilling reported by Baker Hughes and not solely wells targeting the Bakken formation. All land rigs and onshore rig data shown here are based upon industry estimates provided by the Baker Hughes Rig Count.</p><p>Read more at <a target="_blank" href="http://phx.corporate-ir.net/phoenix.zhtml?c=79687&amp;p=irol-reportsother%20">bakerhughes.com</a></p>
 </div>
 
 
@@ -272,9 +272,9 @@ heroImage: "/images/601829b53e89.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f41e26dc6951d90c43bbf/573f41fa6dc6951d90c43d0e/1467824705400/" data-record-type="1" data-full-url="/drilling/drilling-rig-count/bakken-rigs-decrease-to-106" data-title="Bakken Rigs Decrease to 106"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f41fa6dc6951d90c43d0e" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

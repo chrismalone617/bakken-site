@@ -83,7 +83,7 @@ heroImage: "/images/48df2ed219d8.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/48df2ed219d8.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/48df2ed219d8.png" data-image="/images/48df2ed219d8.png" data-image-dimensions="300x165" data-image-focal-point="0.5,0.5" alt="Bakken Rig" data-load="false" elementtiming="system-image-block" src="/images/48df2ed219d8.png" width="300" height="165" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/48df2ed219d8.png 100w, /images/48df2ed219d8.png 300w, /images/48df2ed219d8.png 500w, /images/48df2ed219d8.png 750w, /images/48df2ed219d8.png 1000w, /images/48df2ed219d8.png 1500w, /images/48df2ed219d8.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Rig" src="/images/48df2ed219d8.png" width="300" height="165" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/48df2ed219d8.png 100w, /images/48df2ed219d8.png 300w, /images/48df2ed219d8.png 500w, /images/48df2ed219d8.png 750w, /images/48df2ed219d8.png 1000w, /images/48df2ed219d8.png 1500w, /images/48df2ed219d8.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/48df2ed219d8.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Given the rapid growth in the transportation of crude oil by rail, the industry was in need of Bakken Shale oil value at North Dakota terminals with the operational capacity to move crude by rail or by rail/pipeline, said Kaur.<span>”</span>
   </blockquote>
   
@@ -220,7 +220,7 @@ heroImage: "/images/48df2ed219d8.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Founder of BakkenShale.com and industry veteran Kenny DuBose, commented, “It is important to attempt to establish pricing points as close to the wellhead as possible, in order to separate and distinguish between the commodity value and any transportation expenses.<span>”</span>
   </blockquote>
   
@@ -269,9 +269,9 @@ heroImage: "/images/48df2ed219d8.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4405da5d4222fbbca477/1467383021041/" data-record-type="1" data-full-url="/bsp-news/news/how-bakken-crude-wellhead-valuation-influences-transport" data-title="How Bakken Crude Wellhead Valuation Influences Transport"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4405da5d4222fbbca477" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

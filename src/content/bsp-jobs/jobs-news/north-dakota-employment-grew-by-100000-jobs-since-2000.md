@@ -85,7 +85,7 @@ heroImage: "/images/8e59b67839db.jpeg"
             <button data-description="ND Unemployment Rate By County" data-lightbox-theme="dark">
               <span>View fullsize</span>
               
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -94,7 +94,7 @@ heroImage: "/images/8e59b67839db.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/8e59b67839db.jpeg" data-image="/images/8e59b67839db.jpeg" data-image-dimensions="300x234" data-image-focal-point="0.5,0.5" alt="ND Unemployment Rate By County" data-load="false" elementtiming="system-image-block" src="/images/8e59b67839db.jpeg" width="300" height="234" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8e59b67839db.jpeg 100w, /images/8e59b67839db.jpeg 300w, /images/8e59b67839db.jpeg 500w, /images/8e59b67839db.jpeg 750w, /images/8e59b67839db.jpeg 1000w, /images/8e59b67839db.jpeg 1500w, /images/8e59b67839db.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="ND Unemployment Rate By County" src="/images/8e59b67839db.jpeg" width="300" height="234" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8e59b67839db.jpeg 100w, /images/8e59b67839db.jpeg 300w, /images/8e59b67839db.jpeg 500w, /images/8e59b67839db.jpeg 750w, /images/8e59b67839db.jpeg 1000w, /images/8e59b67839db.jpeg 1500w, /images/8e59b67839db.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -168,7 +168,7 @@ heroImage: "/images/8e59b67839db.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Commerce Commissioner Al Anderson said. “We have added over 70,000 new jobs in the past five years and as we continue to focus on greater economic diversification, we will see even more jobs created. These figures are evidence that our plan for economic growth is working and providing more jobs and opportunities for North Dakota families.”<span>”</span>
   </blockquote>
   
@@ -217,9 +217,9 @@ heroImage: "/images/8e59b67839db.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f2a8a1e8488ddde011e67/573f2a8c1e8488ddde011e82/1467904287602/" data-record-type="1" data-full-url="/bsp-jobs/jobs-news/north-dakota-employment-grew-by-100000-jobs-since-2000" data-title="North Dakota Employment Grew By 100,000+ Since 2000"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f2a8c1e8488ddde011e82" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

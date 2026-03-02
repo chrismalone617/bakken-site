@@ -83,7 +83,7 @@ heroImage: "/images/d1bd604a89f0.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d1bd604a89f0.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d1bd604a89f0.jpeg" data-image="/images/d1bd604a89f0.jpeg" data-image-dimensions="219x300" data-image-focal-point="0.5,0.5" alt="SM Energy Spacing Strategy" data-load="false" elementtiming="system-image-block" src="/images/d1bd604a89f0.jpeg" width="219" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d1bd604a89f0.jpeg 100w, /images/d1bd604a89f0.jpeg 300w, /images/d1bd604a89f0.jpeg 500w, /images/d1bd604a89f0.jpeg 750w, /images/d1bd604a89f0.jpeg 1000w, /images/d1bd604a89f0.jpeg 1500w, /images/d1bd604a89f0.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="SM Energy Spacing Strategy" src="/images/d1bd604a89f0.jpeg" width="219" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d1bd604a89f0.jpeg 100w, /images/d1bd604a89f0.jpeg 300w, /images/d1bd604a89f0.jpeg 500w, /images/d1bd604a89f0.jpeg 750w, /images/d1bd604a89f0.jpeg 1000w, /images/d1bd604a89f0.jpeg 1500w, /images/d1bd604a89f0.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/d1bd604a89f0.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>SM Energy completed 42 gross flowing completions in its operated Bakken/Three Forks program in 2013. Eight wells were completed in the fourth-quarter of 2013.</p><p>At the end of 2013,&nbsp;SM Energy had 103 net wells producing and 79 proved undeveloped net locations in the Bakken.</p><p>The company had 54 mmboe of total proved reserves in the Bakken at end of the year.</p><p><strong>Read more</strong>:<a href="http://bakkenshale.com/bsp-news/news/sm-energy-will-run-three-bakken-rigs-2014?rq=SM%20Energy%20Will%20Run%20Three%20Bakken%20Rigs%20in%202014"> SM Energy Will Run Three Bakken Rigs in 2014</a></p><h2>SM Energy Focusing on Infill Development in the Bakken</h2>
+  <p>SM Energy completed 42 gross flowing completions in its operated Bakken/Three Forks program in 2013. Eight wells were completed in the fourth-quarter of 2013.</p><p>At the end of 2013,&nbsp;SM Energy had 103 net wells producing and 79 proved undeveloped net locations in the Bakken.</p><p>The company had 54 mmboe of total proved reserves in the Bakken at end of the year.</p><p><strong>Read more</strong>:<a href="/bsp-news/news/sm-energy-will-run-three-bakken-rigs-2014?rq=SM%20Energy%20Will%20Run%20Three%20Bakken%20Rigs%20in%202014"> SM Energy Will Run Three Bakken Rigs in 2014</a></p><h2>SM Energy Focusing on Infill Development in the Bakken</h2>
 </div>
 
 
@@ -201,7 +201,7 @@ heroImage: "/images/d1bd604a89f0.jpeg"
         
           <a href="/">
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -210,7 +210,7 @@ heroImage: "/images/d1bd604a89f0.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/c825157d2a84.jpeg" data-image="/images/c825157d2a84.jpeg" data-image-dimensions="205x300" data-image-focal-point="0.5,0.5" alt="SM Energy Bakken Map" data-load="false" elementtiming="system-image-block" src="/images/c825157d2a84.jpeg" width="205" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c825157d2a84.jpeg 100w, /images/c825157d2a84.jpeg 300w, /images/c825157d2a84.jpeg 500w, /images/c825157d2a84.jpeg 750w, /images/c825157d2a84.jpeg 1000w, /images/c825157d2a84.jpeg 1500w, /images/c825157d2a84.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="SM Energy Bakken Map" src="/images/c825157d2a84.jpeg" width="205" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/c825157d2a84.jpeg 100w, /images/c825157d2a84.jpeg 300w, /images/c825157d2a84.jpeg 500w, /images/c825157d2a84.jpeg 750w, /images/c825157d2a84.jpeg 1000w, /images/c825157d2a84.jpeg 1500w, /images/c825157d2a84.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -277,9 +277,9 @@ heroImage: "/images/d1bd604a89f0.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43feda5d4222fbbca40d/1467383385063/" data-record-type="1" data-full-url="/bsp-news/news/sm-energy-completed-42-gross-bakken-wells-in-2013" data-title="SM Energy Completed 42 Gross Bakken Wells in 2013"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43feda5d4222fbbca40d" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

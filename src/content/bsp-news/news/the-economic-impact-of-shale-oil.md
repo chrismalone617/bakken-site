@@ -83,7 +83,7 @@ heroImage: "/images/426ccf27967b.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/426ccf27967b.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/426ccf27967b.jpg" data-image="/images/426ccf27967b.jpg" data-image-dimensions="300x250" data-image-focal-point="0.5,0.5" alt="dollar-544956_6401-300x250.jpg" data-load="false" elementtiming="system-image-block" src="/images/426ccf27967b.jpg" width="300" height="250" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/426ccf27967b.jpg 100w, /images/426ccf27967b.jpg 300w, /images/426ccf27967b.jpg 500w, /images/426ccf27967b.jpg 750w, /images/426ccf27967b.jpg 1000w, /images/426ccf27967b.jpg 1500w, /images/426ccf27967b.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="dollar-544956_6401-300x250.jpg" src="/images/426ccf27967b.jpg" width="300" height="250" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/426ccf27967b.jpg 100w, /images/426ccf27967b.jpg 300w, /images/426ccf27967b.jpg 500w, /images/426ccf27967b.jpg 750w, /images/426ccf27967b.jpg 1000w, /images/426ccf27967b.jpg 1500w, /images/426ccf27967b.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,7 +160,7 @@ heroImage: "/images/426ccf27967b.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Researcher Dean Bangsund told Bakken Magazine  “This study helps confirm that the petroleum industry is one of the largest basic-sector industries in North Dakota. Although activity is concentrated in the western part of the state, the magnitude of the contributions to both the state and local governments and the sheer volume of secondary economic effects in nearly all sectors of the North Dakota economy would suggest that the economic effects of the industry are felt statewide.<span>”</span>
   </blockquote>
   
@@ -209,9 +209,9 @@ heroImage: "/images/426ccf27967b.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4419da5d4222fbbca58b/1467381982632/" data-record-type="1" data-full-url="/bsp-news/news/the-economic-impact-of-shale-oil" data-title="The Economic Impact of Shale Oil"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4419da5d4222fbbca58b" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

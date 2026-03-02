@@ -83,7 +83,7 @@ heroImage: "/images/28a4ce7dfde2.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/28a4ce7dfde2.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/28a4ce7dfde2.jpg" data-image="/images/28a4ce7dfde2.jpg" data-image-dimensions="300x212" data-image-focal-point="0.5,0.5" alt="Shale Oil" data-load="false" elementtiming="system-image-block" src="/images/28a4ce7dfde2.jpg" width="300" height="212" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/28a4ce7dfde2.jpg 100w, /images/28a4ce7dfde2.jpg 300w, /images/28a4ce7dfde2.jpg 500w, /images/28a4ce7dfde2.jpg 750w, /images/28a4ce7dfde2.jpg 1000w, /images/28a4ce7dfde2.jpg 1500w, /images/28a4ce7dfde2.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Shale Oil" src="/images/28a4ce7dfde2.jpg" width="300" height="212" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/28a4ce7dfde2.jpg 100w, /images/28a4ce7dfde2.jpg 300w, /images/28a4ce7dfde2.jpg 500w, /images/28a4ce7dfde2.jpg 750w, /images/28a4ce7dfde2.jpg 1000w, /images/28a4ce7dfde2.jpg 1500w, /images/28a4ce7dfde2.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/28a4ce7dfde2.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>As crude prices plunged throughout the fall of 2014, producers tightened their budgets and changed their strategies to wait out the crisis.</p><p>Not only are these tactics working for individual companies, but the efficiencies and innovations that are occurring may be setting the stage for another season of prosperity.</p><p><strong>Cutting Costs </strong>Producers have slashed costs associated with drilling through greater efficiencies and supplier reductions, including these first quarter results:</p><ul><li><a target="_blank" href="http://eaglefordshale.com/news/sanchez-reports-strong-q1/">Sanchez</a> reported Q1 costs at 30 to 40% below fourth quarter 2014</li><li><a target="_blank" href="http://eaglefordshale.com/news/matador-still-keen-on-the-eagle-ford/">Matador</a> reduced operating costs 30% to 40% for Q1</li><li><a href="http://bakkenshale.com/bsp-news/news/continental-resources-aggressively-cuts-costs?rq=continental-resources-aggressively-cuts-costs">Continental</a>’s drilling and completion costs fell by 15%</li><li><a href="http://bakkenshale.com/bsp-news/news/eog-waiting-out-oil-prices?rq=eog-waiting-out-oil-prices">EOG</a> announced it has benefitted greatly from the pull-back in activity and progress is being made to lowering cost in each phase of their operations</li></ul><p><strong>Innovation </strong>Looking for greater efficiency also means innovation. Cutting edge producers are pushing the science and technology to new levels as they work to get the most out of their resources. These include advancements in 3-D seismic research, telemetry, remote guidance and innovations in &nbsp;CO2 or nitrogen-style completions. <a target="_blank" href="http://eaglefordshale.com/news/chesapeake-energy-reveals-huge-q1-loss/">Chesapeake</a> recently reported that their drilling team broke several records including drilling their deepest well with a total measured depth of just under 21,000 feet, fastest spud-to-rig-release time of 7.8 days, and lowest drilling cost well at $1.1 million.</p>
+  <p>As crude prices plunged throughout the fall of 2014, producers tightened their budgets and changed their strategies to wait out the crisis.</p><p>Not only are these tactics working for individual companies, but the efficiencies and innovations that are occurring may be setting the stage for another season of prosperity.</p><p><strong>Cutting Costs </strong>Producers have slashed costs associated with drilling through greater efficiencies and supplier reductions, including these first quarter results:</p><ul><li><a target="_blank" href="http://eaglefordshale.com/news/sanchez-reports-strong-q1/">Sanchez</a> reported Q1 costs at 30 to 40% below fourth quarter 2014</li><li><a target="_blank" href="http://eaglefordshale.com/news/matador-still-keen-on-the-eagle-ford/">Matador</a> reduced operating costs 30% to 40% for Q1</li><li><a href="/bsp-news/news/continental-resources-aggressively-cuts-costs?rq=continental-resources-aggressively-cuts-costs">Continental</a>’s drilling and completion costs fell by 15%</li><li><a href="/bsp-news/news/eog-waiting-out-oil-prices?rq=eog-waiting-out-oil-prices">EOG</a> announced it has benefitted greatly from the pull-back in activity and progress is being made to lowering cost in each phase of their operations</li></ul><p><strong>Innovation </strong>Looking for greater efficiency also means innovation. Cutting edge producers are pushing the science and technology to new levels as they work to get the most out of their resources. These include advancements in 3-D seismic research, telemetry, remote guidance and innovations in &nbsp;CO2 or nitrogen-style completions. <a target="_blank" href="http://eaglefordshale.com/news/chesapeake-energy-reveals-huge-q1-loss/">Chesapeake</a> recently reported that their drilling team broke several records including drilling their deepest well with a total measured depth of just under 21,000 feet, fastest spud-to-rig-release time of 7.8 days, and lowest drilling cost well at $1.1 million.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/28a4ce7dfde2.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>A Wall Street Journal article recently said that this increased efficiency has fundamentally changed the industry. “Oil production is becoming a modern manufacturing process. The frackers are engaged in ‘just-in-time’ production, analogous to the methods pioneered by Japanese manufacturers in the 1970s and 1980s, which led directly to hyper-efficient global supply-chain management perfected by Wal-Mart in the 1990s.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/28a4ce7dfde2.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4422da5d4222fbbca661/1467381222025/" data-record-type="1" data-full-url="/bsp-news/news/shale-oil-the-skys-the-limit" data-title="Shale Oil: The Sky’s the Limit"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4422da5d4222fbbca661" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

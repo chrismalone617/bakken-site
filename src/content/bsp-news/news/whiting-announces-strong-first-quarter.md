@@ -83,7 +83,7 @@ heroImage: "/images/be8f5f78234b.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/be8f5f78234b.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/be8f5f78234b.png" data-image="/images/be8f5f78234b.png" data-image-dimensions="300x230" data-image-focal-point="0.5,0.5" alt="EOG Releases 2015 Q1 Report" data-load="false" elementtiming="system-image-block" src="/images/be8f5f78234b.png" width="300" height="230" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/be8f5f78234b.png 100w, /images/be8f5f78234b.png 300w, /images/be8f5f78234b.png 500w, /images/be8f5f78234b.png 750w, /images/be8f5f78234b.png 1000w, /images/be8f5f78234b.png 1500w, /images/be8f5f78234b.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="EOG Releases 2015 Q1 Report" src="/images/be8f5f78234b.png" width="300" height="230" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/be8f5f78234b.png 100w, /images/be8f5f78234b.png 300w, /images/be8f5f78234b.png 500w, /images/be8f5f78234b.png 750w, /images/be8f5f78234b.png 1000w, /images/be8f5f78234b.png 1500w, /images/be8f5f78234b.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/be8f5f78234b.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>James J. Volker, Whiting’s Chairman, President and CEO, commented, “While we are reducing rig count and well cost, production was strong in Q1 2015. We had solid results in the Bakken/Three Forks and Niobrara. Our total rig count will average 11 rigs in the second half of 2015. Nine of these rigs will operate in the Bakken/Three Forks.<span>”</span>
   </blockquote>
   
@@ -173,7 +173,7 @@ heroImage: "/images/be8f5f78234b.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Related: <a href="http://bakkenshale.com/bsp-news/news/whiting-reduce-bakken-rig-count?rq=Whiting%20to%20Reduce%20Bakken%20Rig%20Count">Whiting to Reduce Bakken Rig Count</a></p><p><strong>Bakken Highlights</strong></p><p>Whiting currently holds an astounding 1,270,092 gross acres in the Williston Basin of North Dakota and Montana. Here are Bakken In the first quarter 2015:</p><ul><li>Production from the Bakken/Three Forks averaged a record 133,500 BOE/d, an increase of 82% over the 73,325 BOE/d in the first quarter 2014</li><li>The Bakken/Three Forks represented 80% of Whiting’s total first quarter production.</li><li>As of December 31, 2014, Whiting had an estimated 7,541 future gross drilling locations in the Bakken/Three Forks formations, of which approximately 60% target the Bakken formation.</li><li>At Dunn field in Dunn County, North Dakota, initial production rates from four Whiting-operated wells completed in mid-January averaged 3,181 BOE/d per well while 30-day rates averaged 1,255 BOE/d per well.</li><li>At the Polar field in Williams County, North Dakota, initial production rates from four Whiting-operated wells completed in late February averaged 2,630 BOE/d per well while 30-day rates averaged 1,130 BOE/d per well.</li><li>At the Koala field, which is located near our Hidden Bench field in McKenzie County, North Dakota, we completed four pad wells in mid-March that flowed an average rate of 2,584 BOE/d per well while 30-day rates averaged 1,395 BOE/d per well.</li></ul><p>Read more at <a target="_blank" href="http://phx.corporate-ir.net/phoenix.zhtml?c=147759&amp;p=RssLanding&amp;cat=news&amp;id=2041727">whiting.com</a></p>
+  <p>Related: <a href="/bsp-news/news/whiting-reduce-bakken-rig-count?rq=Whiting%20to%20Reduce%20Bakken%20Rig%20Count">Whiting to Reduce Bakken Rig Count</a></p><p><strong>Bakken Highlights</strong></p><p>Whiting currently holds an astounding 1,270,092 gross acres in the Williston Basin of North Dakota and Montana. Here are Bakken In the first quarter 2015:</p><ul><li>Production from the Bakken/Three Forks averaged a record 133,500 BOE/d, an increase of 82% over the 73,325 BOE/d in the first quarter 2014</li><li>The Bakken/Three Forks represented 80% of Whiting’s total first quarter production.</li><li>As of December 31, 2014, Whiting had an estimated 7,541 future gross drilling locations in the Bakken/Three Forks formations, of which approximately 60% target the Bakken formation.</li><li>At Dunn field in Dunn County, North Dakota, initial production rates from four Whiting-operated wells completed in mid-January averaged 3,181 BOE/d per well while 30-day rates averaged 1,255 BOE/d per well.</li><li>At the Polar field in Williams County, North Dakota, initial production rates from four Whiting-operated wells completed in late February averaged 2,630 BOE/d per well while 30-day rates averaged 1,130 BOE/d per well.</li><li>At the Koala field, which is located near our Hidden Bench field in McKenzie County, North Dakota, we completed four pad wells in mid-March that flowed an average rate of 2,584 BOE/d per well while 30-day rates averaged 1,395 BOE/d per well.</li></ul><p>Read more at <a target="_blank" href="http://phx.corporate-ir.net/phoenix.zhtml?c=147759&amp;p=RssLanding&amp;cat=news&amp;id=2041727">whiting.com</a></p>
 </div>
 
 
@@ -214,9 +214,9 @@ heroImage: "/images/be8f5f78234b.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4421da5d4222fbbca658/1467381252842/" data-record-type="1" data-full-url="/bsp-news/news/whiting-announces-strong-first-quarter" data-title="Whiting Announces Strong First Quarter"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4421da5d4222fbbca658" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

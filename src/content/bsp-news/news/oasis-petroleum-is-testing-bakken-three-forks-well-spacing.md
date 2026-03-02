@@ -83,7 +83,7 @@ heroImage: "/images/eedd470b1d7a.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/eedd470b1d7a.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/eedd470b1d7a.jpeg" data-image="/images/eedd470b1d7a.jpeg" data-image-dimensions="225x300" data-image-focal-point="0.5,0.5" alt="Bakken &amp; Three Forks Well Spacing Tests" data-load="false" elementtiming="system-image-block" src="/images/eedd470b1d7a.jpeg" width="225" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/eedd470b1d7a.jpeg 100w, /images/eedd470b1d7a.jpeg 300w, /images/eedd470b1d7a.jpeg 500w, /images/eedd470b1d7a.jpeg 750w, /images/eedd470b1d7a.jpeg 1000w, /images/eedd470b1d7a.jpeg 1500w, /images/eedd470b1d7a.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken &amp; Three Forks Well Spacing Tests" src="/images/eedd470b1d7a.jpeg" width="225" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/eedd470b1d7a.jpeg 100w, /images/eedd470b1d7a.jpeg 300w, /images/eedd470b1d7a.jpeg 500w, /images/eedd470b1d7a.jpeg 750w, /images/eedd470b1d7a.jpeg 1000w, /images/eedd470b1d7a.jpeg 1500w, /images/eedd470b1d7a.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Oasis Petroleum believes the company can drill four Middle Bakken and four Three
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e9da5d4222fbbca2f5/1467384002495/" data-record-type="1" data-full-url="/bsp-news/news/oasis-petroleum-is-testing-bakken-three-forks-well-spacing" data-title="Oasis Petroleum Is Testing Bakken &amp; Three Forks Well Spacing"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e9da5d4222fbbca2f5" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

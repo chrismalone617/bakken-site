@@ -83,7 +83,7 @@ heroImage: "/images/18df6a03c8ac.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/18df6a03c8ac.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/18df6a03c8ac.jpeg" data-image="/images/18df6a03c8ac.jpeg" data-image-dimensions="228x300" data-image-focal-point="0.5,0.5" alt="Bag of Cash" data-load="false" elementtiming="system-image-block" src="/images/18df6a03c8ac.jpeg" width="228" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/18df6a03c8ac.jpeg 100w, /images/18df6a03c8ac.jpeg 300w, /images/18df6a03c8ac.jpeg 500w, /images/18df6a03c8ac.jpeg 750w, /images/18df6a03c8ac.jpeg 1000w, /images/18df6a03c8ac.jpeg 1500w, /images/18df6a03c8ac.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bag of Cash" src="/images/18df6a03c8ac.jpeg" width="228" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/18df6a03c8ac.jpeg 100w, /images/18df6a03c8ac.jpeg 300w, /images/18df6a03c8ac.jpeg 500w, /images/18df6a03c8ac.jpeg 750w, /images/18df6a03c8ac.jpeg 1000w, /images/18df6a03c8ac.jpeg 1500w, /images/18df6a03c8ac.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/18df6a03c8ac.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>It is growing very fast. It’s going to become much bigger.<span>”</span>
   </blockquote>
   <figcaption>— Republican Gov. Jack Dalrymple</figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/18df6a03c8ac.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e8da5d4222fbbca2e4/1467384242087/" data-record-type="1" data-full-url="/bsp-news/news/bakken-oil-revenue-push-north-dakotas-legacy-fund-3-billion" data-title="Bakken Oil Revenue Could Push North Dakota's Legacy Fund to $3 Billion"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e8da5d4222fbbca2e4" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

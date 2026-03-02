@@ -83,7 +83,7 @@ heroImage: "/images/b103619e398f.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/b103619e398f.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/b103619e398f.jpg" data-image="/images/b103619e398f.jpg" data-image-dimensions="300x199" data-image-focal-point="0.5,0.5" alt="North Dakota Oil Tax Reductions" data-load="false" elementtiming="system-image-block" src="/images/b103619e398f.jpg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b103619e398f.jpg 100w, /images/b103619e398f.jpg 300w, /images/b103619e398f.jpg 500w, /images/b103619e398f.jpg 750w, /images/b103619e398f.jpg 1000w, /images/b103619e398f.jpg 1500w, /images/b103619e398f.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="North Dakota Oil Tax Reductions" src="/images/b103619e398f.jpg" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/b103619e398f.jpg 100w, /images/b103619e398f.jpg 300w, /images/b103619e398f.jpg 500w, /images/b103619e398f.jpg 750w, /images/b103619e398f.jpg 1000w, /images/b103619e398f.jpg 1500w, /images/b103619e398f.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/b103619e398f.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We remain confident in our investment opportunities in the three U.S. resource plays,” Marathon Oil President and Chief Executive Officer Lee Tillman said in a statement. “Our 2015 capital program is not opportunity constrained but will reflect sound discipline in managing cash flows in the current price environment.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/b103619e398f.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4411da5d4222fbbca521/1467382425020/" data-record-type="1" data-full-url="/bsp-news/news/bakken-operators-slash-projected-budgets" data-title="Bakken Operators Slash Budgets for 2015"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4411da5d4222fbbca521" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

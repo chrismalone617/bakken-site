@@ -4,7 +4,7 @@ description: "Events"
 ---
 
 <div class="content-body">
-<a href="/events-list/news/ndpc-annual-meeting"><img data-src="/images/c41a41c73d9a.png" data-image="/images/c41a41c73d9a.png" data-image-dimensions="409x69" data-image-focal-point="0.5,0.5" data-load="false" data-parent-ratio="1.5" alt="NDPC Annual Meeting" data-image-resolution="2500w" src="/images/c41a41c73d9a.png"></a>
+<a href="/events-list/news/ndpc-annual-meeting"><img data-parent-ratio="1.5" alt="NDPC Annual Meeting" data-image-resolution="2500w" src="/images/c41a41c73d9a.png"></a>
 
         <a href="/events-list/news/ndpc-annual-meeting">
 
@@ -116,11 +116,11 @@ description: "Events"
           </a>
 
           <div>
-  <span data-item-id="573a5e381d07c0255dfd745c" data-like-count="0">
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>
-<span data-system-data-id="1466108965370-KSBOL1YM89MH6K654H1X" data-asset-url="/images/c41a41c73d9a.png" data-record-type="12" data-full-url="/events-list/news/ndpc-annual-meeting" data-title="NDPC Annual Meeting"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span></div>
+</div>
 
         </div>
 

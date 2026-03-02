@@ -83,7 +83,7 @@ heroImage: "/images/6abde88e6860.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/6abde88e6860.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/6abde88e6860.jpeg" data-image="/images/6abde88e6860.jpeg" data-image-dimensions="210x300" data-image-focal-point="0.5,0.5" alt="QEP Resources Fort Berthold Bakken Well Results" data-load="false" elementtiming="system-image-block" src="/images/6abde88e6860.jpeg" width="210" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/6abde88e6860.jpeg 100w, /images/6abde88e6860.jpeg 300w, /images/6abde88e6860.jpeg 500w, /images/6abde88e6860.jpeg 750w, /images/6abde88e6860.jpeg 1000w, /images/6abde88e6860.jpeg 1500w, /images/6abde88e6860.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="QEP Resources Fort Berthold Bakken Well Results" src="/images/6abde88e6860.jpeg" width="210" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/6abde88e6860.jpeg 100w, /images/6abde88e6860.jpeg 300w, /images/6abde88e6860.jpeg 500w, /images/6abde88e6860.jpeg 750w, /images/6abde88e6860.jpeg 1000w, /images/6abde88e6860.jpeg 1500w, /images/6abde88e6860.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/6abde88e6860.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>In the Williston Basin, we brought on 21 new QEP-operated wells in the third quarter compared to a total of 27 operated completions in the first half of the year. Production results from our South Antelope wells continue to confirm our pre-drill EUR expectations. Despite some delayed well completions — in part due to bottlenecks in third-party downstream crude oil systems — and shut-ins of existing wells for offset completions, we expect to grow oil production at an enviable rate of 60 percent over 2012.<span>”</span>
   </blockquote>
   <figcaption>— Chuck Stanley, CEO</figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/6abde88e6860.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43f1da5d4222fbbca36e/1467383856082/" data-record-type="1" data-full-url="/bsp-news/news/qep-resources-bakken-three-forks-production-surpasses-21000-boed" data-title="QEP Resources Bakken &amp; Three Forks Production Surpasses 21,000 boe/d"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43f1da5d4222fbbca36e" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/ba3152365be7.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/ba3152365be7.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ba3152365be7.jpeg" data-image="/images/ba3152365be7.jpeg" data-image-dimensions="300x258" data-image-focal-point="0.5,0.5" alt="Enable Midstream's Gathering and Processing Assets" data-load="false" elementtiming="system-image-block" src="/images/ba3152365be7.jpeg" width="300" height="258" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ba3152365be7.jpeg 100w, /images/ba3152365be7.jpeg 300w, /images/ba3152365be7.jpeg 500w, /images/ba3152365be7.jpeg 750w, /images/ba3152365be7.jpeg 1000w, /images/ba3152365be7.jpeg 1500w, /images/ba3152365be7.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Enable Midstream's Gathering and Processing Assets" src="/images/ba3152365be7.jpeg" width="300" height="258" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ba3152365be7.jpeg 100w, /images/ba3152365be7.jpeg 300w, /images/ba3152365be7.jpeg 500w, /images/ba3152365be7.jpeg 750w, /images/ba3152365be7.jpeg 1000w, /images/ba3152365be7.jpeg 1500w, /images/ba3152365be7.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -159,9 +159,9 @@ heroImage: "/images/ba3152365be7.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c8dfa21e80eeb550ee/1467905909627/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/enable-midstream-is-planning-an-ipo-bakken-gathering-assets-included" data-title="Enable Midstream Is Planning an IPO - Bakken Gathering Assets Included"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c8dfa21e80eeb550ee" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

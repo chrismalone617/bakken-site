@@ -83,7 +83,7 @@ heroImage: "/images/d797dcba8af1.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d797dcba8af1.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d797dcba8af1.jpg" data-image="/images/d797dcba8af1.jpg" data-image-dimensions="300x200" data-image-focal-point="0.5,0.5" alt="Bakken Rig Count Remains Steady" data-load="false" elementtiming="system-image-block" src="/images/d797dcba8af1.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d797dcba8af1.jpg 100w, /images/d797dcba8af1.jpg 300w, /images/d797dcba8af1.jpg 500w, /images/d797dcba8af1.jpg 750w, /images/d797dcba8af1.jpg 1000w, /images/d797dcba8af1.jpg 1500w, /images/d797dcba8af1.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Rig Count Remains Steady" src="/images/d797dcba8af1.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d797dcba8af1.jpg 100w, /images/d797dcba8af1.jpg 300w, /images/d797dcba8af1.jpg 500w, /images/d797dcba8af1.jpg 750w, /images/d797dcba8af1.jpg 1000w, /images/d797dcba8af1.jpg 1500w, /images/d797dcba8af1.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/d797dcba8af1.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The <a href="http://bakkenshale.com/drilling/">Bakken-Three Forks rig count</a> dropped to <strong>65</strong>&nbsp;rigs running across our coverage area by end of the week on Friday.</p><p>In recent Bakken news, low oil prices and fewer drilling rigs are being blamed for a drop in North Dakota’s general revenues that fell to $41.7 million during July and August. House Majority Leader Al Carlson framed it as a “real wake-up call.”</p><p>Read more:<a href="http://bakkenshale.com/bsp-news/news/north-dakota-revenues-drop-41-7-million">N.D. Revenues Drop $41.7 million</a></p><p><em>The U.S. rig count plunged by 29 this week, ending with </em><em>809</em><em>&nbsp;rigs running by midday Friday. &nbsp;A total of 195 rigs were targeting natural gas (one more than the previous week) and 614 were targeting oil in the U.S. (26 less than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><strong><em>&nbsp;65</em></strong>are in ND alone.</p><h2><strong>Bakken Oil &amp; Gas Rigs</strong></h2><p>The Bakken oil rigs were at 65 this week with Bloomberg reporting WTI oil prices trading at $45.66/bbl on Friday afternoon.&nbsp;WTI-Brent decreased $.35 landing to $48.25. The Bakken has zero natural active gas rig in the area this week with futures decreasing slightly to $2.47/mmbtu by midday.</p><p>McKenzie County continues to lead development with 25 rigs running this week, far outpacing other counties. View the full list below under the <em>Bakken Drilling by County</em> section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>62 rigs are drilling horizontal wells</li><li>1 rigs are drilling directional wells</li><li>2 rigs are drilling vertical wells</li></ul><p><a href="http://jobs.bakkenshale.com/">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</a></p><h2><strong>Bakken Drilling by County</strong></h2>
+  <p>The <a href="/drilling/">Bakken-Three Forks rig count</a> dropped to <strong>65</strong>&nbsp;rigs running across our coverage area by end of the week on Friday.</p><p>In recent Bakken news, low oil prices and fewer drilling rigs are being blamed for a drop in North Dakota’s general revenues that fell to $41.7 million during July and August. House Majority Leader Al Carlson framed it as a “real wake-up call.”</p><p>Read more:<a href="/bsp-news/news/north-dakota-revenues-drop-41-7-million">N.D. Revenues Drop $41.7 million</a></p><p><em>The U.S. rig count plunged by 29 this week, ending with </em><em>809</em><em>&nbsp;rigs running by midday Friday. &nbsp;A total of 195 rigs were targeting natural gas (one more than the previous week) and 614 were targeting oil in the U.S. (26 less than the previous week). The remainder were drilling service wells (e.g. disposal wells, injection wells, etc.)</em><strong><em>&nbsp;65</em></strong>are in ND alone.</p><h2><strong>Bakken Oil &amp; Gas Rigs</strong></h2><p>The Bakken oil rigs were at 65 this week with Bloomberg reporting WTI oil prices trading at $45.66/bbl on Friday afternoon.&nbsp;WTI-Brent decreased $.35 landing to $48.25. The Bakken has zero natural active gas rig in the area this week with futures decreasing slightly to $2.47/mmbtu by midday.</p><p>McKenzie County continues to lead development with 25 rigs running this week, far outpacing other counties. View the full list below under the <em>Bakken Drilling by County</em> section.</p><p>Activity continues to be dominated by horizontal drilling:</p><ul><li>62 rigs are drilling horizontal wells</li><li>1 rigs are drilling directional wells</li><li>2 rigs are drilling vertical wells</li></ul><p><a href="http://jobs.bakkenshale.com/">Be sure to visit our Bakken Job Listings to search openings and come back weekly for updates or sign up for alerts - Daily or Weekly Email Alerts</a></p><h2><strong>Bakken Drilling by County</strong></h2>
 </div>
 
 
@@ -201,7 +201,7 @@ heroImage: "/images/d797dcba8af1.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -210,7 +210,7 @@ heroImage: "/images/d797dcba8af1.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ec8013d55dec.png" data-image="/images/ec8013d55dec.png" data-image-dimensions="731x417" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/ec8013d55dec.png" width="731" height="417" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ec8013d55dec.png 100w, /images/ec8013d55dec.png 300w, /images/ec8013d55dec.png 500w, /images/ec8013d55dec.png 750w, /images/ec8013d55dec.png 1000w, /images/ec8013d55dec.png 1500w, /images/ec8013d55dec.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/ec8013d55dec.png" width="731" height="417" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ec8013d55dec.png 100w, /images/ec8013d55dec.png 300w, /images/ec8013d55dec.png 500w, /images/ec8013d55dec.png 750w, /images/ec8013d55dec.png 1000w, /images/ec8013d55dec.png 1500w, /images/ec8013d55dec.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -272,9 +272,9 @@ heroImage: "/images/d797dcba8af1.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f41e26dc6951d90c43bbf/573f41fe6dc6951d90c43d41/1467816425450/" data-record-type="1" data-full-url="/drilling/drilling-rig-count/u-s-rig-fall-by-29" data-title="U.S. Rig Fall by 29"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f41fe6dc6951d90c43d41" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

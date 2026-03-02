@@ -83,7 +83,7 @@ heroImage: "/images/549e2dbc863a.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/549e2dbc863a.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/549e2dbc863a.jpeg" data-image="/images/549e2dbc863a.jpeg" data-image-dimensions="300x194" data-image-focal-point="0.5,0.5" alt="Bakken Oilfield StorageTanks" data-load="false" elementtiming="system-image-block" src="/images/549e2dbc863a.jpeg" width="300" height="194" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/549e2dbc863a.jpeg 100w, /images/549e2dbc863a.jpeg 300w, /images/549e2dbc863a.jpeg 500w, /images/549e2dbc863a.jpeg 750w, /images/549e2dbc863a.jpeg 1000w, /images/549e2dbc863a.jpeg 1500w, /images/549e2dbc863a.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Oilfield StorageTanks" src="/images/549e2dbc863a.jpeg" width="300" height="194" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/549e2dbc863a.jpeg 100w, /images/549e2dbc863a.jpeg 300w, /images/549e2dbc863a.jpeg 500w, /images/549e2dbc863a.jpeg 750w, /images/549e2dbc863a.jpeg 1000w, /images/549e2dbc863a.jpeg 1500w, /images/549e2dbc863a.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/549e2dbc863a.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>This acquisition complements our strategy to grow the energy business by adding to our geographical reach, so we can serve customers in the east, central and now the important northwest region of the U.S.,” said Andrew Billman, President of the Worthington Industries cylinder business. “The Bakken is one of the most oil rich areas in the country with significant drilling taking place. We anticipate adding capacity to the operations and strengthening our energy platform with this acquisition.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/549e2dbc863a.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22ccdfa21e80eeb5511d/1467905402654/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/worthington-industries-acquires-tank-storage-division-of-steffes-corporation-in-north-dakota" data-title="Worthington Industries Acquires Tank Storage Division of Steffes Corporation in North Dakota"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22ccdfa21e80eeb5511d" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/209079b98eda.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/209079b98eda.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/209079b98eda.gif" data-image="/images/209079b98eda.gif" data-image-dimensions="175x300" data-image-focal-point="0.5,0.5" alt="Williston Basin Strat Column" data-load="false" elementtiming="system-image-block" src="/images/209079b98eda.gif" width="175" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/209079b98eda.gif 100w, /images/209079b98eda.gif 300w, /images/209079b98eda.gif 500w, /images/209079b98eda.gif 750w, /images/209079b98eda.gif 1000w, /images/209079b98eda.gif 1500w, /images/209079b98eda.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Williston Basin Strat Column" src="/images/209079b98eda.gif" width="175" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/209079b98eda.gif 100w, /images/209079b98eda.gif 300w, /images/209079b98eda.gif 500w, /images/209079b98eda.gif 750w, /images/209079b98eda.gif 1000w, /images/209079b98eda.gif 1500w, /images/209079b98eda.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Marathon Oil is drilling a horizontal well in the Tyler formation in Slope Count
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43ecda5d4222fbbca31d/1467384024126/" data-record-type="1" data-full-url="/bsp-news/news/marathon-spuds-exploration-well-targeting-tyler-formation" data-title="Marathon Spuds Exploration Well Targeting the Tyler Formation"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43ecda5d4222fbbca31d" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

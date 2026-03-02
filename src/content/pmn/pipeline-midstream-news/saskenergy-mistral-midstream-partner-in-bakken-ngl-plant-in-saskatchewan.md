@@ -83,7 +83,7 @@ heroImage: "/images/cb057f89b940.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/cb057f89b940.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/cb057f89b940.jpeg" data-image="/images/cb057f89b940.jpeg" data-image-dimensions="300x184" data-image-focal-point="0.5,0.5" alt="Vantage Ethane Pipeline Map" data-load="false" elementtiming="system-image-block" src="/images/cb057f89b940.jpeg" width="300" height="184" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/cb057f89b940.jpeg 100w, /images/cb057f89b940.jpeg 300w, /images/cb057f89b940.jpeg 500w, /images/cb057f89b940.jpeg 750w, /images/cb057f89b940.jpeg 1000w, /images/cb057f89b940.jpeg 1500w, /images/cb057f89b940.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Vantage Ethane Pipeline Map" src="/images/cb057f89b940.jpeg" width="300" height="184" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/cb057f89b940.jpeg 100w, /images/cb057f89b940.jpeg 300w, /images/cb057f89b940.jpeg 500w, /images/cb057f89b940.jpeg 750w, /images/cb057f89b940.jpeg 1000w, /images/cb057f89b940.jpeg 1500w, /images/cb057f89b940.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/cb057f89b940.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>SaskEnergy announced the company's subsidiary, Bayhurst Energy Services, has agreed to a joint venture with Mistral Midstream to build a NGL processing plant near Viewfield, Saskatchewan. The plant will separate NGLs from Bakken production.</p><p>The facility, or straddle plant, will be located alongside SaskEnergy's natural gas pipeline system. NGLs will be recovered and marketed to commercial and industrial customers, while the natural gas will will be re-injected into the transmission pipeline.</p><blockquote><p>"This project with SaskEnergy provides the opportunity for Mistral Midstream, already a major investor in energy infrastructure in Saskatchewan, to play a unique role in our economy with a facility that develops ethane and other natural gas liquids that are in high demand by the market in Western Canada," said Doug Kelln, CEO of SaskEnergy.</p></blockquote><p>Mistral Energy is also constructing the <a href="http://bakkenshale.com/bsp-news/news/bakken-ethane-pipeline-gets-state-department-approval?rq=bakken-ethane-pipeline-gets-state-department-approval">Vantage Pipeline</a> that will be operational in late 2013. The Vantage Pipeline will transport 40,000-50,000 b/d of ethane from Tioga, ND, to Alberta, Canada. The JV with SaskEnergy in just one more advance in providing midstream solutions in the Bakken.</p><blockquote><p>"As oil and gas producers develop the Bakken play, it is important that the infrastructure that supports this investment in Saskatchewan provides sustainable market access and value to all stakeholders," said Terry Killackey, CEO of Mistral Midstream.</p></blockquote><p>Construction on the plant will begin in 2014 and in-service is expected in early 2015</p><p>Read the full press release at <a target="_blank" href="http://www.saskenergy.com/about_saskenergy/news/news_releases/2013/Southeast%20Straddle%20Plant%20Sept%2003%2013%20FINAL.pdf">saskenergy.com</a></p>
+  <p>SaskEnergy announced the company's subsidiary, Bayhurst Energy Services, has agreed to a joint venture with Mistral Midstream to build a NGL processing plant near Viewfield, Saskatchewan. The plant will separate NGLs from Bakken production.</p><p>The facility, or straddle plant, will be located alongside SaskEnergy's natural gas pipeline system. NGLs will be recovered and marketed to commercial and industrial customers, while the natural gas will will be re-injected into the transmission pipeline.</p><blockquote><p>"This project with SaskEnergy provides the opportunity for Mistral Midstream, already a major investor in energy infrastructure in Saskatchewan, to play a unique role in our economy with a facility that develops ethane and other natural gas liquids that are in high demand by the market in Western Canada," said Doug Kelln, CEO of SaskEnergy.</p></blockquote><p>Mistral Energy is also constructing the <a href="/bsp-news/news/bakken-ethane-pipeline-gets-state-department-approval?rq=bakken-ethane-pipeline-gets-state-department-approval">Vantage Pipeline</a> that will be operational in late 2013. The Vantage Pipeline will transport 40,000-50,000 b/d of ethane from Tioga, ND, to Alberta, Canada. The JV with SaskEnergy in just one more advance in providing midstream solutions in the Bakken.</p><blockquote><p>"As oil and gas producers develop the Bakken play, it is important that the infrastructure that supports this investment in Saskatchewan provides sustainable market access and value to all stakeholders," said Terry Killackey, CEO of Mistral Midstream.</p></blockquote><p>Construction on the plant will begin in 2014 and in-service is expected in early 2015</p><p>Read the full press release at <a target="_blank" href="http://www.saskenergy.com/about_saskenergy/news/news_releases/2013/Southeast%20Straddle%20Plant%20Sept%2003%2013%20FINAL.pdf">saskenergy.com</a></p>
 </div>
 
 
@@ -159,9 +159,9 @@ heroImage: "/images/cb057f89b940.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c5dfa21e80eeb550c7/1467906578337/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/saskenergy-mistral-midstream-partner-in-bakken-ngl-plant-in-saskatchewan" data-title="SaskEnergy &amp; Mistral Midstream Partner To Build Bakken NGL Plant in Saskatchewan"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c5dfa21e80eeb550c7" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

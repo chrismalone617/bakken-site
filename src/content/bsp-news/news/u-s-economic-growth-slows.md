@@ -83,7 +83,7 @@ heroImage: "/images/1528841c565a.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/1528841c565a.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/1528841c565a.png" data-image="/images/1528841c565a.png" data-image-dimensions="300x199" data-image-focal-point="0.5,0.5" alt="Low prices impact state economies" data-load="false" elementtiming="system-image-block" src="/images/1528841c565a.png" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/1528841c565a.png 100w, /images/1528841c565a.png 300w, /images/1528841c565a.png 500w, /images/1528841c565a.png 750w, /images/1528841c565a.png 1000w, /images/1528841c565a.png 1500w, /images/1528841c565a.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Low prices impact state economies" src="/images/1528841c565a.png" width="300" height="199" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/1528841c565a.png 100w, /images/1528841c565a.png 300w, /images/1528841c565a.png 500w, /images/1528841c565a.png 750w, /images/1528841c565a.png 1000w, /images/1528841c565a.png 1500w, /images/1528841c565a.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/1528841c565a.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Scott Hoyt, director of consumer economics at Moody’s Analytics shared an optimistic with Marketwatch, saying that “Energy-related investment and jobs are falling rapidly. However, these cuts will soon begin to fade, and the benefit to consumers from the lower oil prices will grow,<span>”</span>
   </blockquote>
   
@@ -187,9 +187,9 @@ heroImage: "/images/1528841c565a.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f441eda5d4222fbbca62a/1467381711213/" data-record-type="1" data-full-url="/bsp-news/news/u-s-economic-growth-slows" data-title="U.S. Economic Growth Slows"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f441eda5d4222fbbca62a" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

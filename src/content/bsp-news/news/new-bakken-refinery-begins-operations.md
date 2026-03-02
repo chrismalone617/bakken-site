@@ -83,7 +83,7 @@ heroImage: "/images/937f19054aef.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/937f19054aef.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/937f19054aef.png" data-image="/images/937f19054aef.png" data-image-dimensions="300x244" data-image-focal-point="0.5,0.5" alt="Refinery Construction | Copyright ©2010 MDU Resources Group, Inc." data-load="false" elementtiming="system-image-block" src="/images/937f19054aef.png" width="300" height="244" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/937f19054aef.png 100w, /images/937f19054aef.png 300w, /images/937f19054aef.png 500w, /images/937f19054aef.png 750w, /images/937f19054aef.png 1000w, /images/937f19054aef.png 1500w, /images/937f19054aef.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Refinery Construction | Copyright ©2010 MDU Resources Group, Inc." src="/images/937f19054aef.png" width="300" height="244" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/937f19054aef.png 100w, /images/937f19054aef.png 300w, /images/937f19054aef.png 500w, /images/937f19054aef.png 750w, /images/937f19054aef.png 1000w, /images/937f19054aef.png 1500w, /images/937f19054aef.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/937f19054aef.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>We need to invest in our nation’s energy infrastructure,” Sen. John Hoeven, R-N.D., said in a statement. “The Dakota Prairie Diesel Refinery is a good example of the kind of infrastructure investments that will help ensure a bright energy future for North Dakota and our nation. We are pleased to see production underway at the refinery. This facility is creating jobs and helping to grow our domestic energy production, which in turn will help to make our nation more energy secure.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/937f19054aef.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f441fda5d4222fbbca630/1467381688970/" data-record-type="1" data-full-url="/bsp-news/news/new-bakken-refinery-begins-operations" data-title="New Bakken Refinery Begins Operations"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f441fda5d4222fbbca630" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

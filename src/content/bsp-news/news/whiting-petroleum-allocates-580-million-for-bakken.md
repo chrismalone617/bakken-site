@@ -86,7 +86,7 @@ heroImage: "/images/1425dd10cc02.png"
             <button data-description="" data-lightbox-theme="dark">
               <span>View fullsize</span>
               
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -95,7 +95,7 @@ heroImage: "/images/1425dd10cc02.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/1425dd10cc02.png" data-image="/images/1425dd10cc02.png" data-image-dimensions="765x504" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/1425dd10cc02.png" width="765" height="504" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/1425dd10cc02.png 100w, /images/1425dd10cc02.png 300w, /images/1425dd10cc02.png 500w, /images/1425dd10cc02.png 750w, /images/1425dd10cc02.png 1000w, /images/1425dd10cc02.png 1500w, /images/1425dd10cc02.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/1425dd10cc02.png" width="765" height="504" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/1425dd10cc02.png 100w, /images/1425dd10cc02.png 300w, /images/1425dd10cc02.png 500w, /images/1425dd10cc02.png 750w, /images/1425dd10cc02.png 1000w, /images/1425dd10cc02.png 1500w, /images/1425dd10cc02.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -119,7 +119,7 @@ heroImage: "/images/1425dd10cc02.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Whiting Petroleum plans to spend $580 million in the Bakken for 2017.</p><p>Related:&nbsp;<a href="https://bakkenshale.com/bsp-news/news/whiting-petroleum-sells-bakken-assets">Whiting Petroleum Sells Bakken Assets</a></p><p>Whiting Petroleum’s capital budget for 2017 is almost double that of last year, with the company expecting to spend $1.1 billion. $580 million is planned for activity in the Williston Basin, including running five rigs in the region.</p>
+  <p>Whiting Petroleum plans to spend $580 million in the Bakken for 2017.</p><p>Related:&nbsp;<a href="/bsp-news/news/whiting-petroleum-sells-bakken-assets">Whiting Petroleum Sells Bakken Assets</a></p><p>Whiting Petroleum’s capital budget for 2017 is almost double that of last year, with the company expecting to spend $1.1 billion. $580 million is planned for activity in the Williston Basin, including running five rigs in the region.</p>
 </div>
 
 
@@ -166,7 +166,7 @@ heroImage: "/images/1425dd10cc02.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>In 2016, we worked to position the company for strong growth through balance sheet improvement and a focus on operational improvements that resulted in a 42% increase in per well productivity over 2015. In 2017, we are focused on increasing production, reserves and net asset value through a capital efficient plan that further enhances our balance sheet metrics through growth. We project a total capital budget of $1.1 billion in 2017. Based on this capital plan, we forecast that production grows 23% from first quarter to fourth quarter 2017.<span>”</span>
   </blockquote>
   <figcaption>— James J. Volker, Chairman, President and CEO</figcaption>
@@ -220,9 +220,9 @@ heroImage: "/images/1425dd10cc02.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/58d277e51b10e3c76bc5e46f/1491490174675/" data-record-type="1" data-full-url="/bsp-news/news/whiting-petroleum-allocates-580-million-for-bakken" data-title="Whiting Petroleum Allocates $580 Million for Bakken"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="58d277e51b10e3c76bc5e46f" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

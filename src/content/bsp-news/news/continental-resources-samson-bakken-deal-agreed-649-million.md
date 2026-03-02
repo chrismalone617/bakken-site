@@ -83,7 +83,7 @@ heroImage: "/images/f0643ebbdf4a.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/f0643ebbdf4a.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f0643ebbdf4a.jpeg" data-image="/images/f0643ebbdf4a.jpeg" data-image-dimensions="300x285" data-image-focal-point="0.5,0.5" alt="Continental Resources Bakken Shale Map" data-load="false" elementtiming="system-image-block" src="/images/f0643ebbdf4a.jpeg" width="300" height="285" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f0643ebbdf4a.jpeg 100w, /images/f0643ebbdf4a.jpeg 300w, /images/f0643ebbdf4a.jpeg 500w, /images/f0643ebbdf4a.jpeg 750w, /images/f0643ebbdf4a.jpeg 1000w, /images/f0643ebbdf4a.jpeg 1500w, /images/f0643ebbdf4a.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Continental Resources Bakken Shale Map" src="/images/f0643ebbdf4a.jpeg" width="300" height="285" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f0643ebbdf4a.jpeg 100w, /images/f0643ebbdf4a.jpeg 300w, /images/f0643ebbdf4a.jpeg 500w, /images/f0643ebbdf4a.jpeg 750w, /images/f0643ebbdf4a.jpeg 1000w, /images/f0643ebbdf4a.jpeg 1500w, /images/f0643ebbdf4a.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/f0643ebbdf4a.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p><a href="http://bakkenshale.com/companies/continental-resources/">Continental Resources (CLR)</a> has reached an agreement to pay $649 million for almost 120,000 acres, primarily in Williams and Divide counties, from Samson Resources. The deal expands Continental's dominant Bakken position to more than 1.1 million acres!</p><p>The deal includes 6,500 boe/d of production (82% oil) and was announced in conjunction with the sale of assets in the company's Eastern Region. The sale included 1,100 boe/d of production and raised $125 million.</p>
+  <p><a href="/companies/continental-resources/">Continental Resources (CLR)</a> has reached an agreement to pay $649 million for almost 120,000 acres, primarily in Williams and Divide counties, from Samson Resources. The deal expands Continental's dominant Bakken position to more than 1.1 million acres!</p><p>The deal includes 6,500 boe/d of production (82% oil) and was announced in conjunction with the sale of assets in the company's Eastern Region. The sale included 1,100 boe/d of production and raised $125 million.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/f0643ebbdf4a.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Continental believes the entire acquisition area.....has potential for deeper Three Forks development, based on three strategically placed cores taken in 2011. <span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/f0643ebbdf4a.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43ceda5d4222fbbca151/1467385487450/" data-record-type="1" data-full-url="/bsp-news/news/continental-resources-samson-bakken-deal-agreed-649-million" data-title="Continental Resources - Samson Bakken Deal Agreed for $649 Million"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43ceda5d4222fbbca151" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

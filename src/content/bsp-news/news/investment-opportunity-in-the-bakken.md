@@ -83,7 +83,7 @@ heroImage: "/images/7a931047af34.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/7a931047af34.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/7a931047af34.jpg" data-image="/images/7a931047af34.jpg" data-image-dimensions="300x180" data-image-focal-point="0.5,0.5" alt="unnamed-1" data-load="false" elementtiming="system-image-block" src="/images/7a931047af34.jpg" width="300" height="180" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/7a931047af34.jpg 100w, /images/7a931047af34.jpg 300w, /images/7a931047af34.jpg 500w, /images/7a931047af34.jpg 750w, /images/7a931047af34.jpg 1000w, /images/7a931047af34.jpg 1500w, /images/7a931047af34.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="unnamed-1" src="/images/7a931047af34.jpg" width="300" height="180" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/7a931047af34.jpg 100w, /images/7a931047af34.jpg 300w, /images/7a931047af34.jpg 500w, /images/7a931047af34.jpg 750w, /images/7a931047af34.jpg 1000w, /images/7a931047af34.jpg 1500w, /images/7a931047af34.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -156,9 +156,9 @@ AJK Holdings, Inc.
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4424da5d4222fbbca67c/1467209929779/" data-record-type="1" data-full-url="/bsp-news/news/investment-opportunity-in-the-bakken" data-title="Investment Opportunity in the Bakken"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4424da5d4222fbbca67c" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

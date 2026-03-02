@@ -83,7 +83,7 @@ heroImage: "/images/650ac5d154bd.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/650ac5d154bd.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/650ac5d154bd.jpg" data-image="/images/650ac5d154bd.jpg" data-image-dimensions="300x200" data-image-focal-point="0.5,0.5" alt="John Hofmeister NAPE" data-load="false" elementtiming="system-image-block" src="/images/650ac5d154bd.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/650ac5d154bd.jpg 100w, /images/650ac5d154bd.jpg 300w, /images/650ac5d154bd.jpg 500w, /images/650ac5d154bd.jpg 750w, /images/650ac5d154bd.jpg 1000w, /images/650ac5d154bd.jpg 1500w, /images/650ac5d154bd.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="John Hofmeister NAPE" src="/images/650ac5d154bd.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/650ac5d154bd.jpg 100w, /images/650ac5d154bd.jpg 300w, /images/650ac5d154bd.jpg 500w, /images/650ac5d154bd.jpg 750w, /images/650ac5d154bd.jpg 1000w, /images/650ac5d154bd.jpg 1500w, /images/650ac5d154bd.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/650ac5d154bd.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Addressing the lunch crowd, John Hofmesiter said, “The devices that we love and that our children love even greater, are penetrating the population by the billions and they only work with electrons.<span>”</span>
   </blockquote>
   
@@ -173,7 +173,7 @@ heroImage: "/images/650ac5d154bd.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Hofmeister laid much of the blame squarely at the feet of the legislature, claiming that the regulatory burden is too high and insisting that someone must provide leadership and look out for the public interest.&nbsp;During much of the speech, he took on the fervor of a political candidate as he called on the <em>energy guardians</em> to “lift the game” to renovate, expand, build and change the current political climate that is hampering growth.</p><p>Related:&nbsp;<a href="http://bakkenshale.com/bsp-news/news/ndic-implements-new-bakken-flaring-rule-june-1-2014?rq=NDIC%20Implements%20New%20Bakken%20Flaring%20Rule">NDIC Implements New Bakken Flaring Rule</a></p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/keystone-hits-snag">Keystone Bill Hits Another Snag</a></p>
+  <p>Hofmeister laid much of the blame squarely at the feet of the legislature, claiming that the regulatory burden is too high and insisting that someone must provide leadership and look out for the public interest.&nbsp;During much of the speech, he took on the fervor of a political candidate as he called on the <em>energy guardians</em> to “lift the game” to renovate, expand, build and change the current political climate that is hampering growth.</p><p>Related:&nbsp;<a href="/bsp-news/news/ndic-implements-new-bakken-flaring-rule-june-1-2014?rq=NDIC%20Implements%20New%20Bakken%20Flaring%20Rule">NDIC Implements New Bakken Flaring Rule</a></p><p>Related: <a href="/bsp-news/news/keystone-hits-snag">Keystone Bill Hits Another Snag</a></p>
 </div>
 
 
@@ -220,7 +220,7 @@ heroImage: "/images/650ac5d154bd.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Hofmeister encouraged the crowd to take leadership, saying, “It (Energy) is our national security. It is our economic security. it is the wealth of the nation. It is the most highly value creating opportunity this nation has to achieve the kind of economic growth that pays down the deficit, that enables us to secure social security or medicare, that enables us to create jobs by the millions, that enables us to put savings in bank accounts, that enables us to provide education for our children, that enables us to build infrastructure for water and sewer and roads and highways and everything else we rely upon, that enables our basic freedoms to be recognized, to be honored and to be realized. This is our job.<span>”</span>
   </blockquote>
   
@@ -242,9 +242,9 @@ heroImage: "/images/650ac5d154bd.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4415da5d4222fbbca555/1467382240739/" data-record-type="1" data-full-url="/bsp-news/news/john-hofmeister-challenges-nape-attendees" data-title="John Hofmeister Challenges NAPE Attendees"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4415da5d4222fbbca555" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/ee7feed5db2e.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/ee7feed5db2e.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ee7feed5db2e.jpeg" data-image="/images/ee7feed5db2e.jpeg" data-image-dimensions="300x171" data-image-focal-point="0.5,0.5" alt="Kodiak Oil &amp; Gas Bakken Three Forks Well Placement" data-load="false" elementtiming="system-image-block" src="/images/ee7feed5db2e.jpeg" width="300" height="171" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ee7feed5db2e.jpeg 100w, /images/ee7feed5db2e.jpeg 300w, /images/ee7feed5db2e.jpeg 500w, /images/ee7feed5db2e.jpeg 750w, /images/ee7feed5db2e.jpeg 1000w, /images/ee7feed5db2e.jpeg 1500w, /images/ee7feed5db2e.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Kodiak Oil &amp; Gas Bakken Three Forks Well Placement" src="/images/ee7feed5db2e.jpeg" width="300" height="171" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ee7feed5db2e.jpeg 100w, /images/ee7feed5db2e.jpeg 300w, /images/ee7feed5db2e.jpeg 500w, /images/ee7feed5db2e.jpeg 750w, /images/ee7feed5db2e.jpeg 1000w, /images/ee7feed5db2e.jpeg 1500w, /images/ee7feed5db2e.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/ee7feed5db2e.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Kodiak had a solid first quarter and we are making progress towards the milestones that we set out for the year.<span>”</span>
   </blockquote>
   <figcaption>— James Catlin, EVP</figcaption>
@@ -214,9 +214,9 @@ heroImage: "/images/ee7feed5db2e.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43dcda5d4222fbbca227/1467384749692/" data-record-type="1" data-full-url="/bsp-news/news/kodiak-nearing-completion-of-two-12-well-pads" data-title="Kodiak Nearing Completion Of Two 12 Well Pads"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43dcda5d4222fbbca227" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

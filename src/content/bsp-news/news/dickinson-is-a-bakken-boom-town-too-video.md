@@ -66,9 +66,9 @@ description: "Bakken jobs  are booming in Dickinson too."
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43dfda5d4222fbbca25c/1467326069570/" data-record-type="1" data-full-url="/bsp-news/news/dickinson-is-a-bakken-boom-town-too-video" data-title="Dickinson Is A Bakken Boom Town Too - Video"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43dfda5d4222fbbca25c" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

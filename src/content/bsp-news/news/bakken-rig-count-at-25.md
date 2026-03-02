@@ -83,7 +83,7 @@ heroImage: "/images/ec82d009c0fd.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/ec82d009c0fd.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/ec82d009c0fd.jpg" data-image="/images/ec82d009c0fd.jpg" data-image-dimensions="300x200" data-image-focal-point="0.5,0.5" alt="Abraxas Buys Bakken Acreage" data-load="false" elementtiming="system-image-block" src="/images/ec82d009c0fd.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ec82d009c0fd.jpg 100w, /images/ec82d009c0fd.jpg 300w, /images/ec82d009c0fd.jpg 500w, /images/ec82d009c0fd.jpg 750w, /images/ec82d009c0fd.jpg 1000w, /images/ec82d009c0fd.jpg 1500w, /images/ec82d009c0fd.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Abraxas Buys Bakken Acreage" src="/images/ec82d009c0fd.jpg" width="300" height="200" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/ec82d009c0fd.jpg 100w, /images/ec82d009c0fd.jpg 300w, /images/ec82d009c0fd.jpg 500w, /images/ec82d009c0fd.jpg 750w, /images/ec82d009c0fd.jpg 1000w, /images/ec82d009c0fd.jpg 1500w, /images/ec82d009c0fd.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -201,7 +201,7 @@ heroImage: "/images/ec82d009c0fd.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -210,7 +210,7 @@ heroImage: "/images/ec82d009c0fd.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/81440112b792.png" data-image="/images/81440112b792.png" data-image-dimensions="1191x854" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/81440112b792.png" width="1191" height="854" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/81440112b792.png 100w, /images/81440112b792.png 300w, /images/81440112b792.png 500w, /images/81440112b792.png 750w, /images/81440112b792.png 1000w, /images/81440112b792.png 1500w, /images/81440112b792.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/81440112b792.png" width="1191" height="854" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/81440112b792.png 100w, /images/81440112b792.png 300w, /images/81440112b792.png 500w, /images/81440112b792.png 750w, /images/81440112b792.png 1000w, /images/81440112b792.png 1500w, /images/81440112b792.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -272,9 +272,9 @@ heroImage: "/images/ec82d009c0fd.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4425da5d4222fbbca691/1463970339648/" data-record-type="1" data-full-url="/bsp-news/news/bakken-rig-count-at-25" data-title="Bakken Rig Count at 25"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4425da5d4222fbbca691" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/8d15e1e90070.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/8d15e1e90070.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/8d15e1e90070.jpeg" data-image="/images/8d15e1e90070.jpeg" data-image-dimensions="300x251" data-image-focal-point="0.5,0.5" alt="Bakken Shale Operated Production Dec 2012" data-load="false" elementtiming="system-image-block" src="/images/8d15e1e90070.jpeg" width="300" height="251" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8d15e1e90070.jpeg 100w, /images/8d15e1e90070.jpeg 300w, /images/8d15e1e90070.jpeg 500w, /images/8d15e1e90070.jpeg 750w, /images/8d15e1e90070.jpeg 1000w, /images/8d15e1e90070.jpeg 1500w, /images/8d15e1e90070.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Bakken Shale Operated Production Dec 2012" src="/images/8d15e1e90070.jpeg" width="300" height="251" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/8d15e1e90070.jpeg 100w, /images/8d15e1e90070.jpeg 300w, /images/8d15e1e90070.jpeg 500w, /images/8d15e1e90070.jpeg 750w, /images/8d15e1e90070.jpeg 1000w, /images/8d15e1e90070.jpeg 1500w, /images/8d15e1e90070.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ The top ten Bakken operators ranked by gross operated production include the nor
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d5da5d4222fbbca1b2/1467385175299/" data-record-type="1" data-full-url="/bsp-news/news/top-10-bakken-operators-december-2012" data-title="Top 10 Bakken Operators - December 2012"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d5da5d4222fbbca1b2" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/82c381b53487.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/82c381b53487.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/82c381b53487.jpeg" data-image="/images/82c381b53487.jpeg" data-image-dimensions="277x300" data-image-focal-point="0.5,0.5" alt="Enerplus Bakken Map" data-load="false" elementtiming="system-image-block" src="/images/82c381b53487.jpeg" width="277" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/82c381b53487.jpeg 100w, /images/82c381b53487.jpeg 300w, /images/82c381b53487.jpeg 500w, /images/82c381b53487.jpeg 750w, /images/82c381b53487.jpeg 1000w, /images/82c381b53487.jpeg 1500w, /images/82c381b53487.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Enerplus Bakken Map" src="/images/82c381b53487.jpeg" width="277" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/82c381b53487.jpeg 100w, /images/82c381b53487.jpeg 300w, /images/82c381b53487.jpeg 500w, /images/82c381b53487.jpeg 750w, /images/82c381b53487.jpeg 1000w, /images/82c381b53487.jpeg 1500w, /images/82c381b53487.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Enerplus grew U.S. oil production to more than 20,000 boe/d in the second quarte
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e7da5d4222fbbca2d5/1467384285219/" data-record-type="1" data-full-url="/bsp-news/news/enerpluss-us-production-grows-with-fort-berthold-bakken-production" data-title="Enerplus's US Production Grows With Fort Berthold Bakken Production"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e7da5d4222fbbca2d5" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

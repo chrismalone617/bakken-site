@@ -83,7 +83,7 @@ heroImage: "/images/06f26c340aa4.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/06f26c340aa4.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/06f26c340aa4.jpg" data-image="/images/06f26c340aa4.jpg" data-image-dimensions="300x282" data-image-focal-point="0.5,0.5" alt="Continental Resources Bakken Development Map" data-load="false" elementtiming="system-image-block" src="/images/06f26c340aa4.jpg" width="300" height="282" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/06f26c340aa4.jpg 100w, /images/06f26c340aa4.jpg 300w, /images/06f26c340aa4.jpg 500w, /images/06f26c340aa4.jpg 750w, /images/06f26c340aa4.jpg 1000w, /images/06f26c340aa4.jpg 1500w, /images/06f26c340aa4.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Continental Resources Bakken Development Map" src="/images/06f26c340aa4.jpg" width="300" height="282" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/06f26c340aa4.jpg 100w, /images/06f26c340aa4.jpg 300w, /images/06f26c340aa4.jpg 500w, /images/06f26c340aa4.jpg 750w, /images/06f26c340aa4.jpg 1000w, /images/06f26c340aa4.jpg 1500w, /images/06f26c340aa4.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Continental Resources announced plans to triple production from 36 million boe i
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43c7da5d4222fbbca0ef/1467385668963/" data-record-type="1" data-full-url="/bsp-news/news/continental-resources-plans-to-triple-production-reserves-by-2017" data-title="Continental Resources Plans to Triple Production &amp; Reserves by 2017"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43c7da5d4222fbbca0ef" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

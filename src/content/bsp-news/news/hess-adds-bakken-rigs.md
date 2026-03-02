@@ -83,7 +83,7 @@ heroImage: "/images/86d3cf948adc.png"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/86d3cf948adc.png"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/86d3cf948adc.png" data-image="/images/86d3cf948adc.png" data-image-dimensions="300x230" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="/images/86d3cf948adc.png" width="300" height="230" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/86d3cf948adc.png 100w, /images/86d3cf948adc.png 300w, /images/86d3cf948adc.png 500w, /images/86d3cf948adc.png 750w, /images/86d3cf948adc.png 1000w, /images/86d3cf948adc.png 1500w, /images/86d3cf948adc.png 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="" src="/images/86d3cf948adc.png" width="300" height="230" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/86d3cf948adc.png 100w, /images/86d3cf948adc.png 300w, /images/86d3cf948adc.png 500w, /images/86d3cf948adc.png 750w, /images/86d3cf948adc.png 1000w, /images/86d3cf948adc.png 1500w, /images/86d3cf948adc.png 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -113,7 +113,7 @@ heroImage: "/images/86d3cf948adc.png"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The Hess Corporation announced its 2016 third quarter results, which included a drop in Bakken production.</p><p><a href="https://bakkenshale.com/companies/hess-corporation/?rq=hess">Related: Hess in the Bakken</a></p><p>CEO John Hess told investors last week that the company remains optimistic despite a net loss of $339 million and falling production.&nbsp;Bakken production fell to 107,000 barrels of oil equivalent per day (boepd), down from 113,000 boepd over 2015. Hess attributes the decline to reduced drilling program due to the low oil-price environment.</p>
+  <p>The Hess Corporation announced its 2016 third quarter results, which included a drop in Bakken production.</p><p><a href="/companies/hess-corporation/?rq=hess">Related: Hess in the Bakken</a></p><p>CEO John Hess told investors last week that the company remains optimistic despite a net loss of $339 million and falling production.&nbsp;Bakken production fell to 107,000 barrels of oil equivalent per day (boepd), down from 113,000 boepd over 2015. Hess attributes the decline to reduced drilling program due to the low oil-price environment.</p>
 </div>
 
 
@@ -160,7 +160,7 @@ heroImage: "/images/86d3cf948adc.png"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Our Bakken team continues to offer excellent operating results and returns in the core of the play that are competitive with the Permian and Eagle Ford,” he said. “Our high-quality Bakken acreage, industry-leading drilling and completion costs, and advantaged infrastructure position our Bakken assets to be a major contributor to the company’s future production and cash flow growth.<span>”</span>
   </blockquote>
   <figcaption>— John Hess, CEO</figcaption>
@@ -209,9 +209,9 @@ heroImage: "/images/86d3cf948adc.png"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/58208246414fb5367a5b953c/1478959301767/" data-record-type="1" data-full-url="/bsp-news/news/hess-adds-bakken-rigs" data-title="Hess Corp Adds Bakken Rigs"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="58208246414fb5367a5b953c" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

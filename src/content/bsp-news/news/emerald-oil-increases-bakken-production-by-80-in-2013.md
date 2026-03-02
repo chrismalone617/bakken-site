@@ -83,7 +83,7 @@ heroImage: "/images/5e592017440b.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/5e592017440b.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/5e592017440b.jpeg" data-image="/images/5e592017440b.jpeg" data-image-dimensions="300x234" data-image-focal-point="0.5,0.5" alt="Click to Enlarge" data-load="false" elementtiming="system-image-block" src="/images/5e592017440b.jpeg" width="300" height="234" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/5e592017440b.jpeg 100w, /images/5e592017440b.jpeg 300w, /images/5e592017440b.jpeg 500w, /images/5e592017440b.jpeg 750w, /images/5e592017440b.jpeg 1000w, /images/5e592017440b.jpeg 1500w, /images/5e592017440b.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Click to Enlarge" src="/images/5e592017440b.jpeg" width="300" height="234" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/5e592017440b.jpeg 100w, /images/5e592017440b.jpeg 300w, /images/5e592017440b.jpeg 500w, /images/5e592017440b.jpeg 750w, /images/5e592017440b.jpeg 1000w, /images/5e592017440b.jpeg 1500w, /images/5e592017440b.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/5e592017440b.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Emerald's total production increased by 80% in 2013 over 2012 from ~935 boe/d to ~1690 boe/d. The production increase was attributable to the addition of 10.58 net operated Bakken and Three Forks wells in 2013.</p><p>Since the beginning of 2013, the company has acquired ~67,700 net acres. The most recent Bakken acreage acquisition took place in January, and cost Emerald $74.6 million.</p><p><strong>Read more</strong>: <a href="http://bakkenshale.com/bsp-news/news/emerald-acquires-bakken-acreage-in-the-wiliston-basin-for-75-million">Emerald Acquires Acreage in the Williston Basin for $74.6 Million</a></p><h2>Emerald's Bakken Fourth-Quarter Production and 2013 Reserves</h2><p>Emerald had a strong fourth-quarter in the Bakken, with average daily production of 2,430 boe/d.</p>
+  <p>Emerald's total production increased by 80% in 2013 over 2012 from ~935 boe/d to ~1690 boe/d. The production increase was attributable to the addition of 10.58 net operated Bakken and Three Forks wells in 2013.</p><p>Since the beginning of 2013, the company has acquired ~67,700 net acres. The most recent Bakken acreage acquisition took place in January, and cost Emerald $74.6 million.</p><p><strong>Read more</strong>: <a href="/bsp-news/news/emerald-acquires-bakken-acreage-in-the-wiliston-basin-for-75-million">Emerald Acquires Acreage in the Williston Basin for $74.6 Million</a></p><h2>Emerald's Bakken Fourth-Quarter Production and 2013 Reserves</h2><p>Emerald had a strong fourth-quarter in the Bakken, with average daily production of 2,430 boe/d.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/5e592017440b.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>McAndrew Rudisill, Emerald’s CEO, stated, “2013 was a transformational year for Emerald. We successfully drilled and completed multiple Middle Bakken and Three Forks wells, tripled our operated acreage position and monetized the majority of our non-operated assets.<span>”</span>
   </blockquote>
   
@@ -220,7 +220,7 @@ heroImage: "/images/5e592017440b.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>In a company statement, Rudisill, said, “in 2014, our production will continue to grow as we add a third rig to our drilling program. The third rig is currently moving to location in our Easy Rider focus area and will soon begin drilling, earlier than originally anticipated. Due to the strong performance of our Low Rider Middle Bakken wells and positive indications from our Low Rider Three Forks wells, we are actively reviewing increased downspacing assumptions and raising our stated Low Rider type curve. We are very focused in 2014 on lowering operating expenses and driving greater drilling and completion cost efficiencies.<span>”</span>
   </blockquote>
   
@@ -269,9 +269,9 @@ heroImage: "/images/5e592017440b.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43ffda5d4222fbbca422/1467383306906/" data-record-type="1" data-full-url="/bsp-news/news/emerald-oil-increases-bakken-production-by-80-in-2013" data-title="Emerald Oil Increases Bakken Production by 80% in 2013"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43ffda5d4222fbbca422" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

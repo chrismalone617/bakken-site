@@ -83,7 +83,7 @@ heroImage: "/images/6ba56bdda799.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/6ba56bdda799.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/6ba56bdda799.jpeg" data-image="/images/6ba56bdda799.jpeg" data-image-dimensions="300x300" data-image-focal-point="0.5,0.5" alt="Conoco Phillips Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/6ba56bdda799.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/6ba56bdda799.jpeg 100w, /images/6ba56bdda799.jpeg 300w, /images/6ba56bdda799.jpeg 500w, /images/6ba56bdda799.jpeg 750w, /images/6ba56bdda799.jpeg 1000w, /images/6ba56bdda799.jpeg 1500w, /images/6ba56bdda799.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Conoco Phillips Bakken Acreage Map" src="/images/6ba56bdda799.jpeg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/6ba56bdda799.jpeg 100w, /images/6ba56bdda799.jpeg 300w, /images/6ba56bdda799.jpeg 500w, /images/6ba56bdda799.jpeg 750w, /images/6ba56bdda799.jpeg 1000w, /images/6ba56bdda799.jpeg 1500w, /images/6ba56bdda799.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/6ba56bdda799.jpeg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>Liquids production volumes from Conoco Phillips' (COP) Lower 48 assets increased by 22% year-over-year thanks largely to the Eagle Ford and the Bakken, company officials reported in their second quarter 2014 report at the end of July.</p><p>COP production grew by 38% year-over-year to 208,000 boe/d in the Eagle Ford Shale and Bakken Shale plays combined. That's ~39% of the company's total production for its Lower 48 asset portfolio.&nbsp;In the Bakken alone, production grew 19% quarter-on-quarter from 43,000 boe/d to 51,000 boe/d. However, company officials expect for the rate of growth to slow in both plays in the second half of the year due to multi-pad drilling effects and weather-related issues in the fourth quarter.</p><p><strong>Read more</strong>:&nbsp;<a href="http://bakkenshale.com/drilling/drilling-rig-count/bakken-rig-count-176-conocophillips-bakken-production-up-80-in-q4-2013-january-31-2014">Conoco Phillips' Bakken Ford Production Up 80% in Q4 2013 to 43,000 boe/d</a></p>
+  <p>Liquids production volumes from Conoco Phillips' (COP) Lower 48 assets increased by 22% year-over-year thanks largely to the Eagle Ford and the Bakken, company officials reported in their second quarter 2014 report at the end of July.</p><p>COP production grew by 38% year-over-year to 208,000 boe/d in the Eagle Ford Shale and Bakken Shale plays combined. That's ~39% of the company's total production for its Lower 48 asset portfolio.&nbsp;In the Bakken alone, production grew 19% quarter-on-quarter from 43,000 boe/d to 51,000 boe/d. However, company officials expect for the rate of growth to slow in both plays in the second half of the year due to multi-pad drilling effects and weather-related issues in the fourth quarter.</p><p><strong>Read more</strong>:&nbsp;<a href="/drilling/drilling-rig-count/bakken-rig-count-176-conocophillips-bakken-production-up-80-in-q4-2013-january-31-2014">Conoco Phillips' Bakken Ford Production Up 80% in Q4 2013 to 43,000 boe/d</a></p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/6ba56bdda799.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Conoco’s EVP, Exploration and Production Matt Fox, said, “we expect to have multi pad drilling effects and are anticipating winter weather impacts in the fourth quarter. So the rate of growth will slow in the second half of the year. The net effect of this is we are still on track to achieve our 2014 volume targets for both the Eagle Ford and Bakken but we do expect rates to flatten in third and fourth quarters and then begin to ramp up as we head in to 2015.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/6ba56bdda799.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f440ada5d4222fbbca4bd/1467382728486/" data-record-type="1" data-full-url="/bsp-news/news/conocos-bakken-production-up-19" data-title="Conoco's Bakken Production Up 19% - Q2 2014"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f440ada5d4222fbbca4bd" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

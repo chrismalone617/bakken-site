@@ -83,7 +83,7 @@ heroImage: "/images/d6fb581d2b61.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d6fb581d2b61.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d6fb581d2b61.jpeg" data-image="/images/d6fb581d2b61.jpeg" data-image-dimensions="300x265" data-image-focal-point="0.5,0.5" alt="Abraxas Petroleum Bakken Acreage Map" data-load="false" elementtiming="system-image-block" src="/images/d6fb581d2b61.jpeg" width="300" height="265" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d6fb581d2b61.jpeg 100w, /images/d6fb581d2b61.jpeg 300w, /images/d6fb581d2b61.jpeg 500w, /images/d6fb581d2b61.jpeg 750w, /images/d6fb581d2b61.jpeg 1000w, /images/d6fb581d2b61.jpeg 1500w, /images/d6fb581d2b61.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Abraxas Petroleum Bakken Acreage Map" src="/images/d6fb581d2b61.jpeg" width="300" height="265" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d6fb581d2b61.jpeg 100w, /images/d6fb581d2b61.jpeg 300w, /images/d6fb581d2b61.jpeg 500w, /images/d6fb581d2b61.jpeg 750w, /images/d6fb581d2b61.jpeg 1000w, /images/d6fb581d2b61.jpeg 1500w, /images/d6fb581d2b61.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/d6fb581d2b61.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>In numerous presentations over the last several months we spoke of an anticipated step change in production. As we head into the third quarter of 2013 we are poised to realize that production growth via our four new Bakken wells and upcoming Eagle Ford completions...... In the Bakken, our Lillibridge completions are running remarkably smoothly and our rig is working efficiently.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/d6fb581d2b61.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43e0da5d4222fbbca266/1467384485877/" data-record-type="1" data-full-url="/bsp-news/news/abraxas-nears-completion-on-bakken-pad-utilizing-a-zipper-frack" data-title="Abraxas Nears Completion On Bakken Pad Utilizing A Zipper Frack"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43e0da5d4222fbbca266" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

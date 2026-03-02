@@ -83,7 +83,7 @@ heroImage: "/images/7ebc87a37ac4.jpg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/7ebc87a37ac4.jpg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/7ebc87a37ac4.jpg" data-image="/images/7ebc87a37ac4.jpg" data-image-dimensions="300x300" data-image-focal-point="0.5,0.5" alt="Countdown to ND Tax Incentive" data-load="false" elementtiming="system-image-block" src="/images/7ebc87a37ac4.jpg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/7ebc87a37ac4.jpg 100w, /images/7ebc87a37ac4.jpg 300w, /images/7ebc87a37ac4.jpg 500w, /images/7ebc87a37ac4.jpg 750w, /images/7ebc87a37ac4.jpg 1000w, /images/7ebc87a37ac4.jpg 1500w, /images/7ebc87a37ac4.jpg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Countdown to ND Tax Incentive" src="/images/7ebc87a37ac4.jpg" width="300" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/7ebc87a37ac4.jpg 100w, /images/7ebc87a37ac4.jpg 300w, /images/7ebc87a37ac4.jpg 500w, /images/7ebc87a37ac4.jpg 750w, /images/7ebc87a37ac4.jpg 1000w, /images/7ebc87a37ac4.jpg 1500w, /images/7ebc87a37ac4.jpg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -118,7 +118,7 @@ heroImage: "/images/7ebc87a37ac4.jpg"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p>The countdown has begun on North Dakota's small oil tax trigger.</p><p>This measure, which kicked in at the beginning of the month, was introduced by lawmakers to provide tax incentives to strained producers in order to ease the sting of prolonged lower crude prices.</p><p>The formula for the tax trigger states that when West Texas Intermediate (WTI) stays below $52.58 (2015) for five consecutive months, then the state waives its 6.5% oil extraction tax.&nbsp;Since January crude prices averaged $47.98 per barrel, the trigger took affect February 1st. As long as the price stays below $52.59 for the next four months, the incentive will take effect. Once the prices inches up, the calculations start over.</p><p>Related: <a href="http://bakkenshale.com/bsp-news/news/no-income-tax-north-dakota?rq=No%20Income%20Tax%20for%20North%20Dakota%3F">No Income Tax for North Dakota?</a></p><p>North Dakota state legislators jumped this week to take measures to extend the trigger through June 30, 2019. House Bill 1437 extends a smaller trigger that would take place the month after an average price point of $57.50 is reached. Both triggers would not be able to occur at once and there is provision to allow time for the state to recover from the huge losses that are inevitable.</p>
+  <p>The countdown has begun on North Dakota's small oil tax trigger.</p><p>This measure, which kicked in at the beginning of the month, was introduced by lawmakers to provide tax incentives to strained producers in order to ease the sting of prolonged lower crude prices.</p><p>The formula for the tax trigger states that when West Texas Intermediate (WTI) stays below $52.58 (2015) for five consecutive months, then the state waives its 6.5% oil extraction tax.&nbsp;Since January crude prices averaged $47.98 per barrel, the trigger took affect February 1st. As long as the price stays below $52.59 for the next four months, the incentive will take effect. Once the prices inches up, the calculations start over.</p><p>Related: <a href="/bsp-news/news/no-income-tax-north-dakota?rq=No%20Income%20Tax%20for%20North%20Dakota%3F">No Income Tax for North Dakota?</a></p><p>North Dakota state legislators jumped this week to take measures to extend the trigger through June 30, 2019. House Bill 1437 extends a smaller trigger that would take place the month after an average price point of $57.50 is reached. Both triggers would not be able to occur at once and there is provision to allow time for the state to recover from the huge losses that are inevitable.</p>
 </div>
 
 
@@ -165,7 +165,7 @@ heroImage: "/images/7ebc87a37ac4.jpg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>The bill’s sponsor, Rep. Glen Froseth said that, “It’s probably the best time to be doing it. We want the industry to keep working.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/7ebc87a37ac4.jpg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4415da5d4222fbbca54f/1467382260681/" data-record-type="1" data-full-url="/bsp-news/news/north-dakota-tax-trigger-getting-closer" data-title="North Dakota Tax Trigger Getting Closer"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4415da5d4222fbbca54f" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

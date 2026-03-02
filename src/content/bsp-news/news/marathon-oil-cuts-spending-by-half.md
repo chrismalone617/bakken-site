@@ -83,7 +83,7 @@ heroImage: "/images/f8985e06350c.gif"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/f8985e06350c.gif"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f8985e06350c.gif" data-image="/images/f8985e06350c.gif" data-image-dimensions="300x189" data-image-focal-point="0.5,0.5" alt="Marathon Oil" data-load="false" elementtiming="system-image-block" src="/images/f8985e06350c.gif" width="300" height="189" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f8985e06350c.gif 100w, /images/f8985e06350c.gif 300w, /images/f8985e06350c.gif 500w, /images/f8985e06350c.gif 750w, /images/f8985e06350c.gif 1000w, /images/f8985e06350c.gif 1500w, /images/f8985e06350c.gif 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Marathon Oil" src="/images/f8985e06350c.gif" width="300" height="189" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f8985e06350c.gif 100w, /images/f8985e06350c.gif 300w, /images/f8985e06350c.gif 500w, /images/f8985e06350c.gif 750w, /images/f8985e06350c.gif 1000w, /images/f8985e06350c.gif 1500w, /images/f8985e06350c.gif 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/f8985e06350c.gif"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>President and CEO Lee Tillman noted that “Nearly 70 percent of our 2015 capital spending will be directed toward our three core U.S. resource plays, which continue to be among our highest-return investment opportunities. This budget reflects an emphasis on investment selectivity, balance sheet flexibility and positioning for price recovery.” He added, “Though our U.S. resource plays generate competitive returns at current pricing, we’re taking action to materially reduce our 2015 capital program relative to 2014 to protect our financial flexibility.<span>”</span>
   </blockquote>
   
@@ -173,7 +173,7 @@ heroImage: "/images/f8985e06350c.gif"
 </div></div><div data-block-type="2" data-sqsp-block="text"><div>
 
 <div data-sqsp-text-block-content="">
-  <p><strong>Marathon in the Bakken Formation</strong></p><p>The North Dakota Bakken Shale oil play is top investment priority for Marathon Oil, where they have approximately 370,000 acres across North Dakota and Montana.</p><p>Marathon News: <a href="http://bakkenshale.com/bsp-news/news/energy-giants-announce-layoffs?rq=Energy%20Giants%20Announce%20Layoffs">Energy Giants Announce Layoffs</a></p><p>Read more at <a target="_blank" href="http://www.marathonoil.com/News/Press_Releases/Press_Release/?id=897087">marathonoil.com</a></p>
+  <p><strong>Marathon in the Bakken Formation</strong></p><p>The North Dakota Bakken Shale oil play is top investment priority for Marathon Oil, where they have approximately 370,000 acres across North Dakota and Montana.</p><p>Marathon News: <a href="/bsp-news/news/energy-giants-announce-layoffs?rq=Energy%20Giants%20Announce%20Layoffs">Energy Giants Announce Layoffs</a></p><p>Read more at <a target="_blank" href="http://www.marathonoil.com/News/Press_Releases/Press_Release/?id=897087">marathonoil.com</a></p>
 </div>
 
 
@@ -214,9 +214,9 @@ heroImage: "/images/f8985e06350c.gif"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f4416da5d4222fbbca55e/1467382211956/" data-record-type="1" data-full-url="/bsp-news/news/marathon-oil-cuts-spending-by-half" data-title="Marathon Oil Reduces 2015 Spending by Half"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f4416da5d4222fbbca55e" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

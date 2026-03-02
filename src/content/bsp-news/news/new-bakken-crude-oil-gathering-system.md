@@ -83,7 +83,7 @@ heroImage: "/images/2671661d6092.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/2671661d6092.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/2671661d6092.jpeg" data-image="/images/2671661d6092.jpeg" data-image-dimensions="300x258" data-image-focal-point="0.5,0.5" alt="Enable Midstream's Gathering and Processing Assets" data-load="false" elementtiming="system-image-block" src="/images/2671661d6092.jpeg" width="300" height="258" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/2671661d6092.jpeg 100w, /images/2671661d6092.jpeg 300w, /images/2671661d6092.jpeg 500w, /images/2671661d6092.jpeg 750w, /images/2671661d6092.jpeg 1000w, /images/2671661d6092.jpeg 1500w, /images/2671661d6092.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Enable Midstream's Gathering and Processing Assets" src="/images/2671661d6092.jpeg" width="300" height="258" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/2671661d6092.jpeg 100w, /images/2671661d6092.jpeg 300w, /images/2671661d6092.jpeg 500w, /images/2671661d6092.jpeg 750w, /images/2671661d6092.jpeg 1000w, /images/2671661d6092.jpeg 1500w, /images/2671661d6092.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -165,7 +165,7 @@ heroImage: "/images/2671661d6092.jpeg"
 
 
 <figure>
-  <blockquote data-animation-role="quote" data-animation-override="">
+  <blockquote>
     <span>“</span>Lynn Bourdon, president and CEO of Enable Midstream said, “It’s a great demonstration of our ability to effectively and efficiently deploy expansion capital to meet our customers’ needs for delivering energy to key markets.<span>”</span>
   </blockquote>
   
@@ -214,9 +214,9 @@ heroImage: "/images/2671661d6092.jpeg"
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f441dda5d4222fbbca621/1467381747682/" data-record-type="1" data-full-url="/bsp-news/news/new-bakken-crude-oil-gathering-system" data-title="New Bakken Crude Oil Gathering System"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f441dda5d4222fbbca621" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

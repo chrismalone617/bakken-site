@@ -83,7 +83,7 @@ heroImage: "/images/d46ba26944ce.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/d46ba26944ce.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/d46ba26944ce.jpeg" data-image="/images/d46ba26944ce.jpeg" data-image-dimensions="300x214" data-image-focal-point="0.5,0.5" alt="Heath Shale Well Map" data-load="false" elementtiming="system-image-block" src="/images/d46ba26944ce.jpeg" width="300" height="214" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d46ba26944ce.jpeg 100w, /images/d46ba26944ce.jpeg 300w, /images/d46ba26944ce.jpeg 500w, /images/d46ba26944ce.jpeg 750w, /images/d46ba26944ce.jpeg 1000w, /images/d46ba26944ce.jpeg 1500w, /images/d46ba26944ce.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Heath Shale Well Map" src="/images/d46ba26944ce.jpeg" width="300" height="214" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/d46ba26944ce.jpeg 100w, /images/d46ba26944ce.jpeg 300w, /images/d46ba26944ce.jpeg 500w, /images/d46ba26944ce.jpeg 750w, /images/d46ba26944ce.jpeg 1000w, /images/d46ba26944ce.jpeg 1500w, /images/d46ba26944ce.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ After several years of leasing and exploration, the Heath Shale still hasn't bee
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43d6da5d4222fbbca1d8/1467385122510/" data-record-type="1" data-full-url="/bsp-news/news/heath-shale-looking-up-bakken" data-title="Heath Shale Still Looking Up at the Bakken"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43d6da5d4222fbbca1d8" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

@@ -83,7 +83,7 @@ heroImage: "/images/f1ec2a7caa11.jpeg"
         
           
             
-          <div data-animation-role="image" data-animation-override="">
+          <div>
             <div>
                 
                 
@@ -92,7 +92,7 @@ heroImage: "/images/f1ec2a7caa11.jpeg"
                 
                 
                 
-                <img data-stretch="false" data-src="/images/f1ec2a7caa11.jpeg" data-image="/images/f1ec2a7caa11.jpeg" data-image-dimensions="285x300" data-image-focal-point="0.5,0.5" alt="Resolute Energy Operating Areas" data-load="false" elementtiming="system-image-block" src="/images/f1ec2a7caa11.jpeg" width="285" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f1ec2a7caa11.jpeg 100w, /images/f1ec2a7caa11.jpeg 300w, /images/f1ec2a7caa11.jpeg 500w, /images/f1ec2a7caa11.jpeg 750w, /images/f1ec2a7caa11.jpeg 1000w, /images/f1ec2a7caa11.jpeg 1500w, /images/f1ec2a7caa11.jpeg 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                <img alt="Resolute Energy Operating Areas" src="/images/f1ec2a7caa11.jpeg" width="285" height="300" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="/images/f1ec2a7caa11.jpeg 100w, /images/f1ec2a7caa11.jpeg 300w, /images/f1ec2a7caa11.jpeg 500w, /images/f1ec2a7caa11.jpeg 750w, /images/f1ec2a7caa11.jpeg 1000w, /images/f1ec2a7caa11.jpeg 1500w, /images/f1ec2a7caa11.jpeg 2500w" loading="lazy" decoding="async">
 
             </div>
           </div>
@@ -160,9 +160,9 @@ Resolute Energy plans to sell its Bakken properties in 2013 to fund development 
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f43c3da5d4222fbbca0b5/573f43dbda5d4222fbbca223/1467384771058/" data-record-type="1" data-full-url="/bsp-news/news/resolute-energy-bakken-operations-update-planning-sale" data-title="Resolute Energy Bakken Operations Update - Planning Sale"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f43dbda5d4222fbbca223" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>

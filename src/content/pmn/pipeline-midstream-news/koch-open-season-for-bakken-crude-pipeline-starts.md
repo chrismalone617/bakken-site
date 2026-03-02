@@ -66,9 +66,9 @@ description: "Koch Pipeline is conducting phase I of an open season for Dakota E
         </div>
 
         <div>
-          <span data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/56ccbdb3a3360c75e6843e94/573f22b9dfa21e80eeb55024/573f22c3dfa21e80eeb550aa/1467906954198/" data-record-type="1" data-full-url="/pmn/pipeline-midstream-news/koch-open-season-for-bakken-crude-pipeline-starts" data-title="Koch Plans Open Season For Bakken Crude Pipeline To Illinois"><div><div><div><div><span></span>Share</div></div><div><div></div></div></div></div></span>
           
-  <span data-item-id="573f22c3dfa21e80eeb550aa" data-like-count="0">
+          
+  <span>
     <span></span>
     <span>0 Likes</span>
   </span>
