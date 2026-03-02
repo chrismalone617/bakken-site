@@ -1,0 +1,49 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import BspNewsGrid from '../../components/BspNewsGrid.astro';
+
+const PER_PAGE = 20;
+
+const pages = await getCollection('pages', ({ id }) => id.startsWith('press/press-releases/'));
+const sorted = pages.sort((a, b) => {
+  const aDate = a.data.pubDate?.getTime() ?? 0;
+  const bDate = b.data.pubDate?.getTime() ?? 0;
+  return bDate - aDate;
+});
+
+const totalPages = Math.ceil(sorted.length / PER_PAGE);
+const pageNews = sorted.slice(0, PER_PAGE);
+---
+
+<BaseLayout title="Press Releases" description="Official press releases and announcements from the Bakken Shale industry." canonicalPath="/press">
+  <article class="min-h-screen">
+    <header class="relative overflow-hidden bg-[var(--color-bakken-dark)] text-white">
+      <div class="relative mx-auto max-w-4xl px-6 py-16 md:py-24">
+        <nav class="mb-6 flex items-center gap-2 text-sm text-slate-400">
+          <a href="/" class="hover:text-white transition-colors">Home</a>
+          <span>/</span>
+          <span class="text-slate-300">Press Releases</span>
+        </nav>
+        <h1 class="font-serif text-4xl font-bold leading-tight md:text-5xl lg:text-6xl">
+          Press Releases
+        </h1>
+        <p class="mt-6 max-w-2xl text-lg text-slate-400">
+          Official press releases and announcements from the Bakken Shale industry.
+        </p>
+      </div>
+    </header>
+
+    <div class="mx-auto max-w-7xl px-6 py-16">
+      <BspNewsGrid
+        pageNews={pageNews}
+        currentPage={1}
+        totalPages={totalPages}
+        totalCount={sorted.length}
+        perPage={PER_PAGE}
+        baseUrl="/press"
+        categoryLabel="Press"
+      />
+    </div>
+  </article>
+</BaseLayout>

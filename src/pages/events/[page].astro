@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import BspNewsGrid from '../../components/BspNewsGrid.astro';
+
+export async function getStaticPaths() {
+  const perPage = 20;
+  const pages = await getCollection('pages', ({ id }) => id.startsWith('events-list/news/'));
+  const sorted = pages.sort((a, b) => {
+    const aDate = a.data.pubDate?.getTime() ?? 0;
+    const bDate = b.data.pubDate?.getTime() ?? 0;
+    return bDate - aDate;
+  });
+  const totalPages = Math.ceil(sorted.length / perPage);
+  if (totalPages <= 1) return [];
+  return Array.from({ length: totalPages - 1 }, (_, i) => {
+    const p = i + 2;
+    const start = (p - 1) * perPage;
+    const pageNews = sorted.slice(start, start + perPage);
+    return {
+      params: { page: String(p) },
+      props: { currentPage: p, totalPages, pageNews, totalCount: sorted.length },
+    };
+  });
+}
+
+const { currentPage, totalPages, pageNews, totalCount } = Astro.props;
+---
+
+<BaseLayout title="Events" description="Industry events, conferences, and exhibitions in the Bakken Shale region." canonicalPath={`/events/${Astro.params.page}`}>
+  <article class="min-h-screen">
+    <header class="relative overflow-hidden bg-[var(--color-bakken-dark)] text-white">
+      <div class="relative mx-auto max-w-4xl px-6 py-16 md:py-24">
+        <nav class="mb-6 flex items-center gap-2 text-sm text-slate-400">
+          <a href="/" class="hover:text-white transition-colors">Home</a>
+          <span>/</span>
+          <a href="/events" class="hover:text-white transition-colors">Events</a>
+          <span>/</span>
+          <span class="text-slate-300">Page {currentPage}</span>
+        </nav>
+        <h1 class="font-serif text-4xl font-bold leading-tight md:text-5xl lg:text-6xl">
+          Events
+        </h1>
+        <p class="mt-6 max-w-2xl text-lg text-slate-400">
+          Industry events, conferences, and exhibitions in the Bakken Shale region.
+        </p>
+      </div>
+    </header>
+
+    <div class="mx-auto max-w-7xl px-6 py-16">
+      <BspNewsGrid
+        pageNews={pageNews}
+        currentPage={currentPage}
+        totalPages={totalPages}
+        totalCount={totalCount}
+        perPage={20}
+        baseUrl="/events"
+        categoryLabel="Events"
+      />
+    </div>
+  </article>
+</BaseLayout>

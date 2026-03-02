@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": { "name": "Bakken Core" },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-104.2, 48.9],
+        [-103.0, 48.9],
+        [-101.2, 48.6],
+        [-101.0, 47.8],
+        [-101.5, 46.9],
+        [-102.8, 46.6],
+        [-103.8, 47.0],
+        [-104.2, 47.8],
+        [-104.2, 48.9]
+      ]]
+    }
+  }]
+}

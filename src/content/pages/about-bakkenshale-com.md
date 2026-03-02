@@ -1,0 +1,18 @@
+---
+title: "About"
+description: "About BakkenShale.com -- Information on this site is curated by industry professionals with over 30 years experience in oil and gas production, investing, and consulting. This site exists as an education and information source for all stakeholders having an interest in the Bakken Shale play."
+---
+
+<div class="content-body">
+  <p class="text-center"><em>Welcome - We're glad you're visiting. BakkenShale.com is operated and managed by KED Interests, LLC, Houston TX. Information on this site is curated by industry professionals with over 30 years experience in oil and gas production, investing, and consulting. This site exists as an education and information source for all stakeholders having an interest in the Bakken Shale play. Learn, enjoy, and tell your friends.</em></p>
+
+  <h2><strong>Principal — Kenneth DuBose</strong></h2>
+  <p><strong>Kenneth DuBose</strong> is the managing partner of KED Interests, LLC and past President of Cheyenne Minerals Inc., an independent oil and gas company operating in Texas, Oklahoma, and Mississippi. He began his energy industry career as a petroleum engineer with ARCO Oil &amp; Gas Company. As natural gas deregulation approached the industry in the late 80's, Mr. DuBose directed development of natural gas storage projects along the U.S. Gulf Coast with Tejas Power Corp. He was a founding member of U.S. Minerals, (acquired by Novistar, a unit of Torch Energy in 1999) a provider of internet based education for America's oil &amp; gas royalty owners.</p>
+  <p>Mr. DuBose holds a Bachelor of Science in Petroleum Engineering from Mississippi State University. He has served on multiple industry steering committees, non-profit boards, and is an active member of the Society of Petroleum Engineers, the National Association of Royalty Owners, the American Association of Professional Landmen, as well as being a Registered Investment Advisor. He writes on topics of oil and gas investing, wealth management and personal finance, having appeared in the Wall Street Journal, Kiplinger's, Kiplinger's Personal Finance, Houston Business Journal, The Legal News and Financial Advisor magazine.</p>
+
+  <h2><strong>Consultant — Kirk Eggleston</strong></h2>
+  <p><strong>Kirk Eggleston</strong> is a Consultant with KED Interests, LLC, and he provides industry analysis and perspective in daily posts on <a href="https://eaglefordshale.com/" target="_blank" rel="noopener">EagleFordShale.com</a> and BakkenShale.com. He also writes material for mineral and royalty owners on <a href="https://www.mineralwise.com/" target="_blank" rel="noopener">MineralWise.com</a>, providing topical information relative to oil and gas leases, surface agreements, division orders, and more.</p>
+  <p>A former broadcast journalist, Kirk covered local news and politics in the Texas and Louisiana TV markets during the on-set of the shale oil boom. He also has previous experience mentoring college graduates and providing career placement services to them, with a regional focus on Southeast Texas.</p>
+  <p>In pursuit of his continuing industry education, Kirk is an active member of the American Association of Professional Landmen (AAPL), and it's affiliate, The Houston Association of Professional Landmen (HAPL). He is certified in Professional Land Management from the University of Houston-Downtown, and holds a BA in Communication from The University of Texas at San Antonio.</p>
+  <p>When he isn't working, Kirk spends time with family and friends, enjoys running, camping and reading. He also volunteers with the Corral Club at The Houston Livestock Show and Rodeo (HLSR).</p>
+</div>

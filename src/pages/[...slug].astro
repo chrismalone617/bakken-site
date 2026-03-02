@@ -1,0 +1,376 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { getFeaturedImage } from '../lib/featured-image';
+import { marked } from 'marked';
+
+/** Maps category page id to the prefix for posts in that category */
+const CATEGORY_POST_PREFIXES: Record<string, string> = {
+  'bsp-news/category/News': 'bsp-news/news/',
+  'press/category/Press+Releases': 'press/press-releases/',
+  'press/category/News': 'press/press-releases/',
+  'press/category/Bakken+Jobs+News': 'bsp-jobs/jobs-news/',
+  'pmn/category/Bakken+Pipeline+%26amp%3B+Midstream+News': 'pmn/pipeline-midstream-news/',
+  'pmn/category/Bakken+Jobs+News': 'bsp-jobs/jobs-news/',
+  'pmn/category/Bakken+Shale+Drilling': 'drilling/drilling-rig-count/',
+  'pmn/category/Bakken+Shale+Blog': 'bsp-news/news/',
+  'pmn/category/News': 'pmn/pipeline-midstream-news/',
+  'bsp-jobs/category/bakkenjobsnews': 'bsp-jobs/jobs-news/',
+  'bsp-jobs/category/Bakken+Jobs+News': 'bsp-jobs/jobs-news/',
+  'bsp-jobs/category/bakkenshaledrilling': 'bsp-jobs/drilling-rig-count/',
+  'bsp-jobs/category/Bakken+Shale+Drilling': 'bsp-jobs/drilling-rig-count/',
+  'bsp-jobs/category/news': 'bsp-news/news/',
+  'bsp-jobs/category/pressreleases': 'press/press-releases/',
+  'bsp-jobs/category/bakkenpipeline26amp3bmidstreamnews': 'pmn/pipeline-midstream-news/',
+  'bsp-jobs/category/bakkenshaleblog': 'bsp-news/news/',
+  'drilling/category/Bakken+Shale+Drilling': 'drilling/drilling-rig-count/',
+};
+
+function getPostsPrefixForCategory(categoryId: string): string | null {
+  return CATEGORY_POST_PREFIXES[categoryId] ?? null;
+}
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+  return pages.map((entry) => ({
+    params: { slug: entry.id.startsWith('pages/') ? entry.id.slice(6) : entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const page = entry;
+if (!page) {
+  return Astro.redirect('/404');
+}
+
+const { title, description, pubDate, author, heroImage, ogImage, category } = page.data;
+const rawBody = 'body' in page ? (page as { body?: string }).body : '';
+// When body is pure HTML (e.g. courthouse-directory), use it directly. Markdown parsers treat
+// indented HTML (4+ spaces) as code blocks, which breaks pages that use HTML with indentation.
+const isHtmlBody = rawBody.trimStart().startsWith('<');
+const renderedHtml = isHtmlBody && rawBody
+  ? rawBody
+  : ((page as { rendered?: { html?: string } }).rendered?.html ?? (rawBody ? marked.parse(rawBody, { async: false }) as string : ''));
+const slug = page.id;
+
+const isCategoryPage = page.id.includes('/category/');
+const postsPrefix = isCategoryPage ? getPostsPrefixForCategory(page.id) : null;
+
+let categoryPosts: Awaited<ReturnType<typeof getCollection>>[number][] = [];
+if (isCategoryPage && postsPrefix) {
+  categoryPosts = await getCollection('pages', ({ id }) => id.startsWith(postsPrefix));
+  categoryPosts.sort((a, b) => {
+    const aDate = a.data.pubDate?.getTime() ?? 0;
+    const bDate = b.data.pubDate?.getTime() ?? 0;
+    return bDate - aDate;
+  });
+}
+
+const isNews = page.id.startsWith('bsp-news/news/');
+let prevEntry: Awaited<ReturnType<typeof getCollection>>[number] | null = null;
+let nextEntry: Awaited<ReturnType<typeof getCollection>>[number] | null = null;
+
+if (isNews) {
+  const newsPages = await getCollection('pages', ({ id }) => id.startsWith('bsp-news/news/'));
+  const sorted = newsPages.sort((a, b) => {
+    const aDate = a.data.pubDate?.getTime() ?? 0;
+    const bDate = b.data.pubDate?.getTime() ?? 0;
+    return bDate - aDate;
+  });
+  const idx = sorted.findIndex((e) => e.id === page.id);
+  if (idx > 0) nextEntry = sorted[idx - 1];
+  if (idx >= 0 && idx < sorted.length - 1) prevEntry = sorted[idx + 1];
+}
+
+function slugToUrl(id: string) {
+  return '/' + (id.startsWith('pages/') ? id.slice(6) : id);
+}
+
+const featuredImage = getFeaturedImage({ data: { heroImage, ogImage }, body: rawBody });
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalPath={slugToUrl(page.id)}
+  ogImage={featuredImage}
+  ogType={isNews ? 'article' : 'website'}
+  articleSchema={isNews && pubDate ? {
+    headline: title,
+    datePublished: pubDate.toISOString(),
+    dateModified: pubDate.toISOString(),
+    author: author ?? undefined,
+    image: featuredImage ? (featuredImage.startsWith('http') ? featuredImage : `https://bakkenshale.com${featuredImage.startsWith('/') ? featuredImage : '/' + featuredImage}`) : undefined,
+  } : undefined}
+>
+  <article class="min-h-screen">
+    <!-- Hero -->
+    <header class="relative overflow-hidden bg-[var(--color-bakken-dark)] text-white">
+      {featuredImage && (
+        <div class="absolute inset-0">
+          <img
+            src={featuredImage}
+            alt=""
+            class="h-full w-full object-cover opacity-30"
+          />
+          <div class="absolute inset-0 bg-gradient-to-b from-[var(--color-bakken-dark)]/80 via-[var(--color-bakken-dark)]/60 to-[var(--color-bakken-dark)]" />
+        </div>
+      )}
+      <div class="relative mx-auto max-w-4xl px-6 py-16 md:py-24">
+        {isNews && (
+          <nav class="mb-6 flex items-center gap-2 text-sm text-slate-400">
+            <a href="/" class="hover:text-white transition-colors">Home</a>
+            <span>/</span>
+            <a href="/bsp-news" class="hover:text-white transition-colors">News</a>
+            <span>/</span>
+            <span class="text-slate-300">{title}</span>
+          </nav>
+        )}
+        {isCategoryPage && (
+          <nav class="mb-6 flex items-center gap-2 text-sm text-slate-400">
+            <a href="/" class="hover:text-white transition-colors">Home</a>
+            <span>/</span>
+            <a href={"/" + page.id.split("/")[0]} class="hover:text-white transition-colors">{page.id.split("/")[0].replace(/-/g, " ")}</a>
+            <span>/</span>
+            <span class="text-slate-300">{title}</span>
+          </nav>
+        )}
+        {!isNews && !isCategoryPage && (
+          <nav class="mb-6 flex items-center gap-2 text-sm text-slate-400">
+            <a href="/" class="hover:text-white transition-colors">Home</a>
+            <span>/</span>
+            <span class="text-slate-300">{title}</span>
+          </nav>
+        )}
+        {category && !isCategoryPage && (
+          <span class="mb-4 inline-block rounded-full bg-[var(--color-bakken-accent)]/20 px-4 py-1.5 text-xs font-bold uppercase tracking-widest text-[var(--color-bakken-accent)]">
+            {category}
+          </span>
+        )}
+        <h1 class="font-serif text-4xl font-bold leading-tight md:text-5xl lg:text-6xl">
+          {title}
+        </h1>
+        {!isCategoryPage && (
+          <div class="mt-6 flex flex-wrap items-center gap-4 text-sm text-slate-400">
+            {pubDate && (
+              <time datetime={pubDate.toISOString()}>
+                {pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+              </time>
+            )}
+            {author && (
+              <>
+                <span class="text-slate-600">·</span>
+                <span>{author}</span>
+              </>
+            )}
+          </div>
+        )}
+      </div>
+    </header>
+
+    <!-- Body or Category Listing -->
+    <div class="mx-auto max-w-3xl px-6 py-12 md:py-16">
+      {isCategoryPage ? (
+        <div class="space-y-6">
+          {categoryPosts.length > 0 ? (
+            <ul class="space-y-6">
+              {categoryPosts.map((post) => (
+                <li>
+                  <a
+                    href={slugToUrl(post.id)}
+                    class="group block overflow-hidden rounded-2xl border border-slate-100 bg-white p-6 shadow-sm transition-all hover:shadow-lg"
+                  >
+                    <h3 class="mb-2 text-xl font-bold text-slate-900 transition-colors group-hover:text-[var(--color-bakken-accent)]">
+                      {post.data.title}
+                    </h3>
+                    <span class="block text-xs font-medium text-slate-400 mb-2">
+                      {post.data.pubDate ? new Date(post.data.pubDate).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) : '—'}
+                    </span>
+                    <p class="line-clamp-2 text-slate-600">
+                      {post.data.description?.slice(0, 200) || 'Read more...'}
+                    </p>
+                    <span class="mt-3 inline-flex items-center gap-1 text-sm font-bold text-[var(--color-bakken-accent)]">
+                      Read more
+                      <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                      </svg>
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          ) : (
+            <p class="text-slate-500">No posts in this category yet.</p>
+          )}
+        </div>
+      ) : (
+        <>
+          <div class="article-body prose prose-lg prose-slate max-w-none prose-headings:font-serif prose-headings:text-[var(--color-bakken-dark)] prose-a:text-[var(--color-bakken-accent)] prose-a:no-underline hover:prose-a:underline prose-img:rounded-2xl prose-figcaption:text-center prose-figcaption:text-sm prose-figcaption:text-slate-500" set:html={renderedHtml}></div>
+
+          <!-- Prev/Next -->
+          {(prevEntry || nextEntry) && (
+            <nav class="mt-16 flex flex-col gap-6 border-t border-slate-200 pt-12 sm:flex-row sm:justify-between">
+              {prevEntry ? (
+                <a
+                  href={slugToUrl(prevEntry.id)}
+                  class="group flex flex-col"
+                >
+                  <span class="text-xs font-bold uppercase tracking-widest text-slate-400">Previous</span>
+                  <span class="mt-1 font-semibold text-[var(--color-bakken-dark)] group-hover:text-[var(--color-bakken-accent)] transition-colors">
+                    {prevEntry.data.title}
+                  </span>
+                </a>
+              ) : (
+                <span />
+              )}
+              {nextEntry ? (
+                <a
+                  href={slugToUrl(nextEntry.id)}
+                  class="group flex flex-col text-right sm:text-right"
+                >
+                  <span class="text-xs font-bold uppercase tracking-widest text-slate-400">Next</span>
+                  <span class="mt-1 font-semibold text-[var(--color-bakken-dark)] group-hover:text-[var(--color-bakken-accent)] transition-colors">
+                    {nextEntry.data.title}
+                  </span>
+                </a>
+              ) : (
+                <span />
+              )}
+            </nav>
+          )}
+
+          {isNews && (
+            <div class="mt-12 text-center">
+              <a
+                href="/bsp-news"
+                class="inline-flex items-center gap-2 rounded-2xl border border-slate-200 bg-white px-6 py-3 font-bold text-[var(--color-bakken-dark)] transition-all hover:border-[var(--color-bakken-accent)] hover:text-[var(--color-bakken-accent)]"
+              >
+                <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+                </svg>
+                All Bakken News
+              </a>
+            </div>
+          )}
+        </>
+      )}
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .article-body :global(.content-body) :global(> header) {
+    display: none;
+  }
+  .article-body :global(.content-body) :global(> footer) {
+    display: none;
+  }
+  .article-body :global(figure) {
+    margin: 2rem 0;
+  }
+  .article-body :global(figure img) {
+    width: 100%;
+    height: auto;
+  }
+
+  /* Counties page: columns on desktop, stacked on mobile */
+  .article-body :global(.counties-page .counties-intro) {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+  }
+  .article-body :global(.counties-page .counties-grid) {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+  @media (min-width: 768px) {
+    .article-body :global(.counties-page .counties-grid) {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  .article-body :global(.counties-page .counties-column h2) {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+  }
+  .article-body :global(.counties-page .counties-column ul) {
+    list-style: disc;
+    padding-left: 1.5rem;
+    margin: 0;
+  }
+  .article-body :global(.counties-page .counties-column li) {
+    margin-bottom: 0.5rem;
+  }
+  .article-body :global(.counties-page .counties-coverage) {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid #e2e8f0;
+  }
+  .article-body :global(.counties-page .counties-coverage h2) {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+  }
+
+  /* Courthouse directory: 2 columns on desktop, stacked on mobile */
+  .article-body :global(.courthouse-page .courthouse-grid) {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    margin-top: 2rem;
+  }
+  @media (min-width: 768px) {
+    .article-body :global(.courthouse-page .courthouse-grid) {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  .article-body :global(.courthouse-page .courthouse-column h3) {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.125rem;
+  }
+  .article-body :global(.courthouse-page .courthouse-column h3:first-child) {
+    margin-top: 0;
+  }
+  .article-body :global(.courthouse-page .courthouse-column p) {
+    margin: 0 0 1rem;
+    font-size: 0.9375rem;
+    line-height: 1.5;
+  }
+
+  /* Healthcare page: 2 columns on desktop, stacked on mobile */
+  .article-body :global(.healthcare-page .healthcare-intro) {
+    margin-bottom: 1.5rem;
+  }
+  .article-body :global(.healthcare-page .healthcare-grid) {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    margin: 2rem 0;
+  }
+  @media (min-width: 768px) {
+    .article-body :global(.healthcare-page .healthcare-grid) {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  .article-body :global(.healthcare-page .healthcare-column h3) {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.125rem;
+  }
+  .article-body :global(.healthcare-page .healthcare-column h3:first-child) {
+    margin-top: 0;
+  }
+  .article-body :global(.healthcare-page .healthcare-column p) {
+    margin: 0 0 1rem;
+    font-size: 0.9375rem;
+    line-height: 1.5;
+  }
+  .article-body :global(.healthcare-page .healthcare-footer) {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid #e2e8f0;
+  }
+</style>

@@ -1,0 +1,141 @@
+---
+import { getFeaturedImage } from '../lib/featured-image';
+
+interface Props {
+  pageNews: { id: string; data: { title: string; description?: string; pubDate?: Date; heroImage?: string; ogImage?: string }; body?: string }[];
+  currentPage: number;
+  totalPages: number;
+  totalCount: number;
+  perPage: number;
+  baseUrl?: string;
+  categoryLabel?: string;
+}
+
+const { pageNews, currentPage, totalPages, totalCount, perPage, baseUrl = '/bsp-news', categoryLabel = 'News' } = Astro.props;
+
+function slugToUrl(id: string) {
+  return '/' + (id.startsWith('pages/') ? id.slice(6) : id);
+}
+
+function pageUrl(page: number) {
+  return page === 1 ? baseUrl : `${baseUrl}/${page}`;
+}
+---
+
+<div class="mb-12 flex items-center justify-between">
+  <h2 class="text-2xl font-bold text-slate-900">
+    All Articles
+    <span class="ml-3 text-lg font-normal text-slate-400">
+      ({(currentPage - 1) * perPage + 1}–{Math.min(currentPage * perPage, totalCount)} of {totalCount})
+    </span>
+  </h2>
+</div>
+
+<div class="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+  {pageNews.map((entry) => {
+    const featuredImg = getFeaturedImage(entry);
+    return (
+    <a
+      href={slugToUrl(entry.id)}
+      class="group overflow-hidden rounded-3xl border border-slate-100 bg-white shadow-sm transition-all hover:shadow-xl"
+    >
+      <div class="relative h-48 overflow-hidden bg-slate-200">
+        {featuredImg && (
+          <img
+            src={featuredImg}
+            alt=""
+            class="h-full w-full object-cover transition-transform group-hover:scale-105"
+          />
+        )}
+        <div class="absolute left-4 top-4">
+          <span class="rounded-full bg-[var(--color-bakken-dark)]/80 px-3 py-1 text-[10px] font-bold uppercase tracking-widest text-white backdrop-blur-md">
+            {categoryLabel}
+          </span>
+        </div>
+      </div>
+      <div class="p-6">
+        <span class="mb-2 block text-xs font-medium text-slate-400">
+          {entry.data.pubDate ? new Date(entry.data.pubDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '—'}
+        </span>
+        <h3 class="mb-3 text-xl font-bold leading-tight text-slate-900 transition-colors group-hover:text-[var(--color-bakken-accent)]">
+          {entry.data.title}
+        </h3>
+        <p class="mb-4 line-clamp-2 text-sm text-slate-500">
+          {entry.data.description?.slice(0, 120) || 'Read more...'}
+        </p>
+        <div class="flex items-center font-bold text-sm text-[var(--color-bakken-accent)]">
+          Read More
+          <svg class="ml-1 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </div>
+      </div>
+    </a>
+  );
+  })}
+</div>
+
+{totalPages > 1 && (
+  <nav class="mt-16 flex flex-wrap items-center justify-center gap-2" aria-label="Pagination">
+    {currentPage > 1 ? (
+      <a
+        href={pageUrl(currentPage - 1)}
+        class="inline-flex items-center gap-1 rounded-xl border border-slate-200 bg-white px-4 py-2 text-sm font-medium text-slate-700 transition-colors hover:border-[var(--color-bakken-accent)] hover:text-[var(--color-bakken-accent)]"
+      >
+        <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+        </svg>
+        Previous
+      </a>
+    ) : (
+      <span class="inline-flex items-center gap-1 rounded-xl border border-slate-100 bg-slate-50 px-4 py-2 text-sm font-medium text-slate-400" aria-disabled="true">
+        <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+        </svg>
+        Previous
+      </span>
+    )}
+
+    <div class="flex items-center gap-1">
+      {Array.from({ length: totalPages }, (_, i) => i + 1).map((p) => {
+        if (p === currentPage) {
+          return (
+            <span
+              class="flex h-10 w-10 items-center justify-center rounded-xl bg-[var(--color-bakken-dark)] text-sm font-bold text-white"
+              aria-current="page"
+            >
+              {p}
+            </span>
+          );
+        }
+        return (
+          <a
+            href={pageUrl(p)}
+            class="flex h-10 w-10 items-center justify-center rounded-xl border border-slate-200 bg-white text-sm font-medium text-slate-700 transition-colors hover:border-[var(--color-bakken-accent)] hover:text-[var(--color-bakken-accent)]"
+          >
+            {p}
+          </a>
+        );
+      })}
+    </div>
+
+    {currentPage < totalPages ? (
+      <a
+        href={pageUrl(currentPage + 1)}
+        class="inline-flex items-center gap-1 rounded-xl border border-slate-200 bg-white px-4 py-2 text-sm font-medium text-slate-700 transition-colors hover:border-[var(--color-bakken-accent)] hover:text-[var(--color-bakken-accent)]"
+      >
+        Next
+        <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </a>
+    ) : (
+      <span class="inline-flex items-center gap-1 rounded-xl border border-slate-100 bg-slate-50 px-4 py-2 text-sm font-medium text-slate-400" aria-disabled="true">
+        Next
+        <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </span>
+    )}
+  </nav>
+)}

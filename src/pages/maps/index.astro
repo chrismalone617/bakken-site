@@ -1,0 +1,186 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Interactive Basin Map" description="Explore the Williston Basin and Bakken Shale. Production hotspots, key cities, and formation extent." canonicalPath="/maps">
+  <article class="min-h-screen">
+    <header class="relative overflow-hidden bg-[var(--color-bakken-dark)] text-white">
+      <div class="relative mx-auto max-w-4xl px-6 py-16 md:py-24">
+        <nav class="mb-6 flex items-center gap-2 text-sm text-slate-400">
+          <a href="/" class="hover:text-white transition-colors">Home</a>
+          <span>/</span>
+          <span class="text-slate-300">Maps</span>
+        </nav>
+        <h1 class="font-serif text-4xl font-bold leading-tight md:text-5xl lg:text-6xl">
+          Williston Basin Map
+        </h1>
+        <p class="mt-6 max-w-2xl text-lg text-slate-400">
+          Interactive map of the Bakken Shale play. Toggle layers to explore the formation extent, key cities, and production centers.
+        </p>
+      </div>
+    </header>
+
+    <div class="relative">
+      <div id="map" class="h-[70vh] min-h-[500px] w-full"></div>
+      <div class="absolute bottom-6 left-6 right-6 z-[1000] flex flex-wrap items-center gap-3 rounded-2xl border border-white/20 bg-[var(--color-bakken-dark)]/95 p-4 backdrop-blur-md">
+        <div class="flex flex-wrap items-center gap-4">
+          <label class="flex items-center gap-2 text-sm text-white">
+            <input type="checkbox" id="layer-formation" checked class="h-4 w-4 rounded border-slate-500 bg-slate-700 text-[var(--color-bakken-accent)] focus:ring-[var(--color-bakken-accent)]" />
+            <span>Bakken extent</span>
+          </label>
+          <label class="flex items-center gap-2 text-sm text-white">
+            <input type="checkbox" id="layer-cities" checked class="h-4 w-4 rounded border-slate-500 bg-slate-700 text-[var(--color-bakken-accent)] focus:ring-[var(--color-bakken-accent)]" />
+            <span>Key cities</span>
+          </label>
+          <label class="flex items-center gap-2 text-sm text-white">
+            <input type="checkbox" id="layer-heat" checked class="h-4 w-4 rounded border-slate-500 bg-slate-700 text-[var(--color-bakken-accent)] focus:ring-[var(--color-bakken-accent)]" />
+            <span>Production heat</span>
+          </label>
+        </div>
+        <div class="ml-auto flex items-center gap-4 text-xs">
+          <span class="flex items-center gap-1.5 text-slate-600"><span class="h-2.5 w-2.5 rounded-full bg-emerald-200"></span>Low</span>
+          <span class="flex items-center gap-1.5 text-slate-600"><span class="h-2.5 w-2.5 rounded-full bg-emerald-500"></span>Mid</span>
+          <span class="flex items-center gap-1.5 text-slate-600"><span class="h-2.5 w-2.5 rounded-full bg-emerald-700"></span>High</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="mx-auto max-w-4xl px-6 py-16">
+      <div class="grid gap-8 md:grid-cols-2">
+        <div class="rounded-2xl border border-slate-100 bg-white p-6">
+          <h3 class="mb-3 font-bold text-slate-900">Key Cities</h3>
+          <ul class="space-y-2 text-sm text-slate-600">
+            <li><strong>Williston</strong> — Hub of the Bakken, major logistics center</li>
+            <li><strong>Watford City</strong> — McKenzie County seat, high activity</li>
+            <li><strong>Dickinson</strong> — Southwest gateway, Stark County</li>
+            <li><strong>Minot</strong> — Regional center, Ward County</li>
+          </ul>
+        </div>
+        <div class="rounded-2xl border border-slate-100 bg-white p-6">
+          <h3 class="mb-3 font-bold text-slate-900">Top Producing Counties</h3>
+          <ul class="space-y-2 text-sm text-slate-600">
+            <li><strong>McKenzie</strong> — Highest production in ND</li>
+            <li><strong>Williams</strong> — Williston Basin core</li>
+            <li><strong>Mountrail</strong> — Northwest activity</li>
+            <li><strong>Dunn</strong> — Central Bakken</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+<script is:inline src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script is:inline src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+<script>
+  function initMap() {
+    if (typeof L === 'undefined') return;
+
+    const map = L.map('map', {
+      center: [47.8, -102.5],
+      zoom: 7,
+      zoomControl: false,
+      scrollWheelZoom: false,
+    });
+    L.control.zoom({ position: 'topright' }).addTo(map);
+
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+      subdomains: 'abcd',
+      maxZoom: 19,
+    }).addTo(map);
+
+    const accent = '#10b981';
+    const colors = { high: '#059669', mid: '#10b981', low: '#34d399' };
+    const formationLayer = L.layerGroup();
+    const citiesLayer = L.layerGroup();
+    const heatLayer = L.layerGroup();
+
+    fetch('/geojson/bakken-extent.json')
+      .then((r) => r.json())
+      .then((geojson) => {
+        L.geoJSON(geojson, {
+          style: {
+            fillColor: colors.high,
+            fillOpacity: 0.25,
+            color: colors.high,
+            weight: 3,
+            opacity: 1,
+          },
+          onEachFeature: (feature, layer) => {
+            layer.bindPopup(`<strong>${feature.properties.name}</strong><br>Approximate Bakken productive extent`);
+          },
+        }).addTo(formationLayer);
+      });
+
+    const cities = [
+      { name: 'Williston', lat: 48.147, lng: -103.618, county: 'Williams', pop: '~29k', role: 'Logistics hub' },
+      { name: 'Watford City', lat: 47.802, lng: -103.283, county: 'McKenzie', pop: '~8k', role: 'Top-producing county seat' },
+      { name: 'Dickinson', lat: 46.879, lng: -102.790, county: 'Stark', pop: '~23k', role: 'Southwest gateway' },
+      { name: 'Minot', lat: 48.232, lng: -101.292, county: 'Ward', pop: '~49k', role: 'Regional center' },
+    ];
+    cities.forEach((c) => {
+      L.circleMarker([c.lat, c.lng], {
+        radius: 12,
+        fillColor: colors.high,
+        color: '#0f172a',
+        weight: 2,
+        fillOpacity: 0.95,
+      })
+        .bindPopup(`<div class="min-w-[180px]"><strong class="text-emerald-700">${c.name}</strong><br><span class="text-slate-600">${c.county} County</span><br>Pop: ${c.pop} · ${c.role}</div>`)
+        .addTo(citiesLayer);
+    });
+
+    const heatPoints = [
+      [47.7, -103.4, 0.95],
+      [48.3, -103.5, 0.9],
+      [48.2, -102.3, 0.8],
+      [47.4, -102.6, 0.75],
+      [48.8, -103.5, 0.55],
+      [48.8, -102.5, 0.6],
+      [47.9, -101.5, 0.45],
+      [46.9, -102.8, 0.65],
+    ];
+    const heatData = heatPoints.map(([lat, lng, intensity]) => [lat, lng, intensity]);
+    if (typeof L.heatLayer === 'function') {
+      L.heatLayer(heatData, {
+        radius: 45,
+        blur: 50,
+        maxZoom: 10,
+        max: 1,
+        gradient: { 0.0: 'rgba(5,150,105,0)', 0.3: colors.low, 0.6: colors.mid, 0.85: colors.high, 1: '#047857' },
+      }).addTo(heatLayer);
+    } else {
+      heatPoints.forEach(([lat, lng, intensity]) => {
+        L.circle([lat, lng], {
+          radius: 25000,
+          fillColor: accent,
+          fillOpacity: intensity * 0.3,
+          color: 'transparent',
+        }).addTo(heatLayer);
+      });
+    }
+
+    formationLayer.addTo(map);
+    citiesLayer.addTo(map);
+    heatLayer.addTo(map);
+
+    setTimeout(() => map.invalidateSize(), 100);
+
+    document.getElementById('layer-formation').addEventListener('change', (e) => {
+      e.target.checked ? formationLayer.addTo(map) : map.removeLayer(formationLayer);
+    });
+    document.getElementById('layer-cities').addEventListener('change', (e) => {
+      e.target.checked ? citiesLayer.addTo(map) : map.removeLayer(citiesLayer);
+    });
+    document.getElementById('layer-heat').addEventListener('change', (e) => {
+      e.target.checked ? heatLayer.addTo(map) : map.removeLayer(heatLayer);
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initMap);
+  } else {
+    initMap();
+  }
+</script>

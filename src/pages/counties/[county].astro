@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { COUNTIES } from '../../data/counties';
+
+export async function getStaticPaths() {
+  return COUNTIES.map((county) => ({
+    params: { county: county.slug },
+    props: { county },
+  }));
+}
+
+const { county } = Astro.props;
+const displayName = `${county.name}, ${county.state}`;
+const description = `${displayName} — Bakken Shale county information. ${county.courthouse ? 'Courthouse and real property records.' : 'Visit the Courthouse Directory for records.'}`;
+---
+
+<BaseLayout title={displayName} description={description} canonicalPath={`/counties/${county.slug}`}>
+  <article class="min-h-screen">
+    <header class="relative overflow-hidden bg-[var(--color-bakken-dark)] text-white">
+      <div class="relative mx-auto max-w-4xl px-6 py-16 md:py-24">
+        <nav class="mb-6 flex items-center gap-2 text-sm text-slate-400">
+          <a href="/" class="transition-colors hover:text-white">Home</a>
+          <span>/</span>
+          <a href="/counties" class="transition-colors hover:text-white">Counties</a>
+          <span>/</span>
+          <span class="text-white">{county.name}</span>
+        </nav>
+        <h1 class="text-4xl font-bold md:text-5xl">{displayName}</h1>
+        <p class="mt-4 text-lg text-slate-300">Bakken Shale County</p>
+      </div>
+    </header>
+
+    <div class="mx-auto max-w-4xl px-6 py-12">
+      <div class="prose prose-slate max-w-none">
+        <p class="text-lg text-slate-600">
+          {county.name} is part of the Bakken Shale play in {county.state === 'ND' ? 'North Dakota' : 'Montana'}. Well production and geological quality vary across the county.
+        </p>
+
+        {county.courthouse ? (
+          <div class="mt-8 rounded-xl border border-slate-200 bg-slate-50 p-6">
+            <h2 class="mt-0 text-xl font-bold text-[var(--color-bakken-dark)]">County Courthouse</h2>
+            <p class="mb-2">
+              <strong>Address:</strong> {county.courthouse.address}<br />
+              {county.courthouse.city}, {county.courthouse.state} {county.courthouse.zip}
+            </p>
+            <p class="mb-4">
+              <strong>Tel:</strong> {county.courthouse.tel}
+            </p>
+            <a
+              href={county.courthouse.mapUrl}
+              target="_blank"
+              rel="noopener"
+              class="inline-flex items-center gap-2 rounded-lg bg-[var(--color-bakken-accent)] px-4 py-2 font-medium text-[var(--color-bakken-dark)] transition-colors hover:opacity-90"
+            >
+              <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+              </svg>
+              Show map
+            </a>
+          </div>
+        ) : (
+          <p class="mt-6">
+            For courthouse and real property records, see our <a href="/courthouse-directory" class="text-[var(--color-bakken-accent)] font-medium hover:underline">Courthouse Directory</a>.
+          </p>
+        )}
+
+        <div class="mt-12 flex flex-wrap gap-4">
+          <a href="/counties" class="text-[var(--color-bakken-accent)] font-medium hover:underline">← All Bakken Counties</a>
+          <a href="/courthouse-directory" class="text-[var(--color-bakken-accent)] font-medium hover:underline">Courthouse Directory</a>
+        </div>
+      </div>
+    </div>
+  </article>
+</BaseLayout>

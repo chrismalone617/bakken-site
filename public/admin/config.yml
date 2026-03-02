@@ -1,0 +1,132 @@
+local_backend: true
+
+backend:
+  name: github
+  repo: YOUR_ORG/YOUR_REPO
+  branch: main
+  base_url: https://bakkenshale.com
+  auth_endpoint: api/auth
+
+media_folder: public/images
+public_folder: /images
+
+default_fields:
+  - { label: "Title", name: "title", widget: "string" }
+  - { label: "Description", name: "description", widget: "text" }
+  - { label: "Hero Title", name: "heroTitle", widget: "string", required: false }
+  - { label: "Hero Tagline", name: "heroTagline", widget: "string", required: false }
+  - { label: "Publish Date", name: "pubDate", widget: "datetime", required: false }
+  - { label: "Author", name: "author", widget: "string", required: false }
+  - { label: "Hero Image", name: "heroImage", widget: "image", required: false }
+  - { label: "Category", name: "category", widget: "string", required: false }
+  - { label: "Body", name: "body", widget: "markdown" }
+
+collections:
+  - name: "bsp-news-news"
+    label: "Bakken News - News"
+    folder: "src/content/bsp-news/news"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Hero Title", name: "heroTitle", widget: "string", required: false }
+      - { label: "Hero Tagline", name: "heroTagline", widget: "string", required: false }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", required: false }
+      - { label: "Author", name: "author", widget: "string", required: false }
+      - { label: "Hero Image", name: "heroImage", widget: "image", required: false }
+      - { label: "Category", name: "category", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "press-press-releases"
+    label: "Press - Press Releases"
+    folder: "src/content/press/press-releases"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Hero Title", name: "heroTitle", widget: "string", required: false }
+      - { label: "Hero Tagline", name: "heroTagline", widget: "string", required: false }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", required: false }
+      - { label: "Author", name: "author", widget: "string", required: false }
+      - { label: "Hero Image", name: "heroImage", widget: "image", required: false }
+      - { label: "Category", name: "category", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "pmn-pipeline-midstream"
+    label: "PMN - Pipeline & Midstream News"
+    folder: "src/content/pmn/pipeline-midstream-news"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Hero Title", name: "heroTitle", widget: "string", required: false }
+      - { label: "Hero Tagline", name: "heroTagline", widget: "string", required: false }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", required: false }
+      - { label: "Author", name: "author", widget: "string", required: false }
+      - { label: "Hero Image", name: "heroImage", widget: "image", required: false }
+      - { label: "Category", name: "category", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "bsp-jobs-jobs-news"
+    label: "Jobs - Jobs News"
+    folder: "src/content/bsp-jobs/jobs-news"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Hero Title", name: "heroTitle", widget: "string", required: false }
+      - { label: "Hero Tagline", name: "heroTagline", widget: "string", required: false }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", required: false }
+      - { label: "Author", name: "author", widget: "string", required: false }
+      - { label: "Hero Image", name: "heroImage", widget: "image", required: false }
+      - { label: "Category", name: "category", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "bsp-jobs-drilling-rig"
+    label: "Jobs - Drilling Rig Count"
+    folder: "src/content/bsp-jobs/drilling-rig-count"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Hero Title", name: "heroTitle", widget: "string", required: false }
+      - { label: "Hero Tagline", name: "heroTagline", widget: "string", required: false }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", required: false }
+      - { label: "Author", name: "author", widget: "string", required: false }
+      - { label: "Hero Image", name: "heroImage", widget: "image", required: false }
+      - { label: "Category", name: "category", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "drilling-rig-count"
+    label: "Drilling - Rig Count"
+    folder: "src/content/drilling/drilling-rig-count"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Hero Title", name: "heroTitle", widget: "string", required: false }
+      - { label: "Hero Tagline", name: "heroTagline", widget: "string", required: false }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", required: false }
+      - { label: "Author", name: "author", widget: "string", required: false }
+      - { label: "Hero Image", name: "heroImage", widget: "image", required: false }
+      - { label: "Category", name: "category", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "pages"
+    label: "Pages"
+    folder: "src/content/pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Hero Title", name: "heroTitle", widget: "string", required: false }
+      - { label: "Hero Tagline", name: "heroTagline", widget: "string", required: false }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
